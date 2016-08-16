@@ -8,7 +8,7 @@
     {% include sidebar.html %}
 
     <div class="content container">
-    {% if page.url == site.baseurl %}
+    {% if page.url == '/' %}
      {% assign pages_list = site.pages %}
      {% for node in pages_list %}
         {% if node.title == 'Announcements' %}

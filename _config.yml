@@ -9,8 +9,8 @@ permalink:        pretty
 title:            'Stat 140'
 tagline:          'Stat 140'
 description:      'Probability for Data Science <br /> Ani Adhikari <br /> Made by <a href="https://github.com/p4ds" target="_blank">P4DS</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              http://dibya.xyz/stat140
+baseurl:          /stat140/
 
 author:
   name:           'Dibya Ghosh'
