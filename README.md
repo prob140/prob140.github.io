@@ -1,9 +1,9 @@
 # Stat 140 Website
 
+See a live version [here](https://dibya.xyz/stat140/)
 Based on Hyde (a Jekyll Theme)
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
-See a live version [here](https://dibya.xyz/stat140/)
 
 ## Contents
 
