@@ -3,11 +3,28 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="theme-data">
 
     {% include sidebar.html %}
 
     <div class="content container">
+    {% if page.url == site.baseurl %}
+     {% assign pages_list = site.pages %}
+     {% for node in pages_list %}
+        {% if node.title == 'Announcements' %}
+          {% if node.layout == "page" %}
+            {{node.content}}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% for node in pages_list %}
+        {% if node.title == 'Syllabus' %}
+          {% if node.layout == "page" %}
+            {{node.content}}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
       {{ content }}
     </div>
 

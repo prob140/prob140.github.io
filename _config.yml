@@ -6,21 +6,21 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            'Stat 140'
+tagline:          'Stat 140'
+description:      'Probability for Data Science <br /> Ani Adhikari <br /> Made by <a href="https://github.com/p4ds" target="_blank">P4DS</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Dibya Ghosh'
+  url:            http://data8.org
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
-gems: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-gist]
 
 github:
   repo:           https://github.com/poole/hyde

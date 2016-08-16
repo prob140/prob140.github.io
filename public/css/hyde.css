@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  /**font-family: "Abril Fatface", serif;**/
   font-size: 3.25rem;
 }
 
@@ -136,6 +136,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .content {
+    max-width: 100%;
     margin-left: 22rem;
     margin-right: 4rem;
   }
@@ -247,4 +248,25 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/*Data 8 Colors*/
+
+.theme-data .sidebar {
+  background-color: #345563;
+}
+.theme-data .content a,
+.theme-data .related-posts li a:hover {
+  color: #345563;
+}
+
+.staffer {
+  width: 27%;
+  float:left;
+}
+
+.staffrow {
+  display: block;
+  width: 100%;
+  clear:both;
 }
