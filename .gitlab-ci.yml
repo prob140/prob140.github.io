@@ -3,9 +3,9 @@ image: ruby:2.3
 pages:
   script:
   - gem install jekyll jekyll-paginate jekyll-gist
-  - jekyll build
+  - jekyll build -d public
   artifacts:
     paths:
-    - _site
+    - public
   only:
   - master

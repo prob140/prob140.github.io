@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            'Stat 140'
 tagline:          'Stat 140'
-description:      'Probability for Data Science <br /> Ani Adhikari <br /> Made by <a href="https://github.com/p4ds" target="_blank">P4DS</a>.'
-url:              http://dibya.xyz/stat140
+description:      'Probability for Data Science <br /> Ani Adhikari <br /> Made by <a href="https://gitlab.com/probability" target="_blank">P4DS</a>.'
+url:              http://probability.gitlab.io
 baseurl:          /
 
 author:
