@@ -45,7 +45,17 @@ html {
   }
 }
 
+#announcements-header {
+  background-color:#345563;
+  color: #FFF !important;
+  width:100%;
+  padding: 30px;
+  margin-right:initial;
+}
 
+#announcements-header a{
+  color: #CCC !important;
+}
 /*
  * Sidebar
  *
@@ -142,6 +152,9 @@ a.sidebar-nav-item:focus {
     margin-left: 20rem;
     margin-right: 2rem;
   }
+  #announcements-header {
+      padding-left: 20rem;
+  }
 }
 
 @media (min-width: 64em) {
@@ -149,6 +162,9 @@ a.sidebar-nav-item:focus {
     max-width: 100%;
     margin-left: 20rem;
     margin-right: 0rem;
+  }
+  #announcements-header {
+      padding-left: 23rem;
   }
 }
 
@@ -281,15 +297,3 @@ a.sidebar-nav-item:focus {
   clear:both;
 }
 
-#announcements-header {
-  background-color:#345563;
-  color: #FFF !important;
-  width:100%;
-  padding: 30px;
-  margin-right:initial;
-  padding-left: 23rem;
-}
-
-#announcements-header a{
-  color: #CCC !important;
-}
