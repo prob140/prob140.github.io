@@ -133,6 +133,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+  background-color: #f6f6f6;
 }
 
 @media (min-width: 48em) {
@@ -146,8 +147,8 @@ a.sidebar-nav-item:focus {
 @media (min-width: 64em) {
   .content {
     max-width: 100%;
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: 20rem;
+    margin-right: 0rem;
   }
 }
 
@@ -283,8 +284,12 @@ a.sidebar-nav-item:focus {
 #announcements-header {
   background-color:#345563;
   color: #FFF !important;
-  position: absolute;
-  top:0;
   width:100%;
-  left:0;
+  padding: 30px;
+  margin-right:initial;
+  padding-left: 23rem;
+}
+
+#announcements-header a{
+  color: #CCC !important;
 }

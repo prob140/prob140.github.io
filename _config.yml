@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Stat 140'
-tagline:          'Stat 140'
-description:      'Probability for Data Science <br /> Ani Adhikari <br /> Made by <a href="https://gitlab.com/probability" target="_blank">P4DS</a>.'
+title:            'Prob 140'
+tagline:          'Prob 140'
+description:      'Probability for Data Science <br /> Ani Adhikari <br />'
 url:              http://probability.gitlab.io
 baseurl:          /
 
 author:
   name:           'Dibya Ghosh'
-  url:            http://data8.org
+  url:            http://dibya.xyz/beta/
 
 paginate:         5
 
