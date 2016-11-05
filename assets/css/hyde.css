@@ -31,6 +31,10 @@
  * Update the foundational and global aspects of the page.
  */
 
+ body {
+  background-color: #f6f6f6;
+ }
+
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
@@ -43,6 +47,17 @@ html {
   html {
     font-size: 20px;
   }
+}
+
+.classTitle {
+  font-family: Raleway;
+  font-weight: 300;
+  text-decoration: none;
+
+}
+
+th {
+  font-family: Raleway;
 }
 
 #announcements-header {
