@@ -312,3 +312,29 @@ a.sidebar-nav-item:focus {
   clear:both;
 }
 
+
+    .swiper-container {
+    width: 100%;
+    background-color: #f6f6f6;
+}     
+.two-col {
+-moz-column-count: 2;
+-webkit-column-count: 2;
+column-count: 2;
+}
+.wrap {padding: 3em;} 
+
+.lists li {
+      list-style:none; 
+}
+.highlighted-title {
+  font-family: Raleway;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  margin: .5em 0 .35em;
+  font-weight: 300;
+}
+
+.syllabusContainer {
+  padding-top: 5em;
+}
