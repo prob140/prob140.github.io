@@ -61,7 +61,7 @@ th {
 }
 
 #announcements-header {
-  background-color:#345563;
+  background-color:#3C429E;
   color: #FFF !important;
   width:100%;
   padding: 30px;
@@ -294,7 +294,7 @@ a.sidebar-nav-item:focus {
 /*Data 8 Colors*/
 
 .theme-data .sidebar {
-  background-color: #345563;
+  background-color: #3C429E;
 }
 .theme-data .content a,
 .theme-data .related-posts li a:hover {

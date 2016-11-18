@@ -29,8 +29,8 @@
           </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
         </div>
 
-      {% for org_hash in site.data.syllabus %}
-      {% assign week = org_hash[1] %}
+      {% for org_hash in site.data.syllabus2.weeks %}
+      {% assign week = org_hash%}
 
         <div class="swiper-slide">
           <div class="wrap">
@@ -41,7 +41,6 @@
           {% for link in week.links%}
             <li><a href="{{link.url}}">{{link.name}}</a></li>
           {% endfor %}
-
           </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
         </div>
     {% endfor %}
@@ -60,7 +59,7 @@
         prevButton: '.swiper-button-prev',
       direction: 'horizontal',
       loop: false,
-      initialSlide:3
+      initialSlide:1
     })        
   });
   </script>

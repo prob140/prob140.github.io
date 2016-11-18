@@ -1,11 +1,11 @@
 weekNum: 1
-weekName: Probability and Random Variables
+weekName: Fundamentals
 weekDuration: 1/16-1/20
 basic: 
 - date: Tue 1/17
-  lecture: Why Data Science?
-  slidesURL: /lec1
-  assignmentName: "HW 1:Python and Jupyter"
+  lecture: "Probability: axioms, rules, approximation"
+  slidesURL: /
+  assignmentName: "HW 1: Getting Started"
   assignmentURL: /
   reading: "Chapter 1: Why Data Science"
   readingURL: /
@@ -26,4 +26,4 @@ links:
   - name: "Lab 1: The Birthday Problem"
     url: /
   - name: "Homework 1"
-    url: /
+    url: /our c

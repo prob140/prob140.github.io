@@ -1,9 +1,9 @@
 <table id="calendar">
 <tbody>
 <tr><th>Week</th><th>Date</th><th>Lecture</th><th>Lab/Assignment</th><th>Reading</th></tr>
-{% for org_hash in site.data.syllabus %}
-  <tr> <td class="weeknum" rowspan="3">{{org_hash[1].weekNum}}</td>
-	{% for day in org_hash[1].basic %}
+{% for org_hash in site.data.syllabus2.weeks %}
+  <tr> <td class="weeknum" rowspan="3">{{org_hash.weekNum}}</td>
+	{% for day in org_hash.basic %}
 	<td> {{day.date}} </td>
 	<td> {{day.lecture}} <br /> <a href="{{day.slidesURL}}"> (Slides)</a></td>
 	<td>  <a href="{{day.assignmentURL}}">{{day.assignmentName}} </a> </td>
