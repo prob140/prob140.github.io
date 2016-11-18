@@ -12,7 +12,7 @@ weeks:
       readingURL: /
 
     - date: Th 1/19
-      lecture: Because it's Awesome
+      lecture: "Random variables: distributions, conditioning, equality"
       slidesURL: /lec1
       assignmentName: "Lab 1:Python and Jupyter"
       assignmentURL: /
@@ -34,7 +34,7 @@ weeks:
     weekDuration: 1/23-1/27
     basic: 
     - date: Tue 1/23
-      lecture: "Induction,counting, and bounds"
+      lecture: "Induction, counting, and bounds"
       slidesURL: /lec1
       assignmentName: "HW 2"
       assignmentURL: /

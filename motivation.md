@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Motivation
+title: About this Course
 ---
 
 ## What is Prob140?
