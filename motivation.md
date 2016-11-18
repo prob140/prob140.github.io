@@ -3,9 +3,35 @@ layout: page
 title: Motivation
 ---
 
-## Course Information and Policies
+## What is Prob140?
 
-Stat 140 introduces students to probability theory using both mathematics and computation, the two main tools of the subject. Though Berkeley has outstanding probability courses (e.g. Stat 134, EE 126), none of them uses computation for problem solving. Stat 140 is an attempt to teach probability in a manner better suited for students in the 21st century.
 
-The list of topics has considerable overlap with existing probability courses, though the selection emphasizes topics useful for data science. The main difference is the consistent use of Jupyter notebooks running Python, both by the instructor and the students, building on foundations laid in Data 8. The power of computing will allow students to solve problems that are intractable by calculator and are thus avoided in courses like Stat 134. Computation (numerical and symbolic), simulation, and graphics will give students a firmer grasp of the concepts than math alone, and will also develop an appreciation for the power of the math.
+Prob140 (formally Statistics 140)  is a probability course for Data 8 graduates who have also had a year of calculus and wish to go deeper into data science. 
+
+
+The emphasis on simulation and the bootstrap in Data 8 gives students a concrete sense of randomness and sampling variability. Prob140 will capitalize on this. Because of the students' backgrounds, Prob140 will move swiftly over basics, avoid approximations that are unnecessary when SciPy is at hand, and replace some of the routine calculus by symbolic math done in SymPy. This will create time to focus on the more demanding concepts that are part of the theoretical foundations of data science.
+
+
+Prob140 contents have been selected based on consultation with faculty who regularly teach Stat and CS courses in advanced statistical topics including machine learning.The mathematical level and results covered will be at least equal to those in Stat 134, the Stat department's standard undergraduate course in classical probability theory; both courses have the same calculus prerequisite. The additional computational power in Prob140 will allow students to solve problems intractable by calculator, and to develop a more firm grasp of the concepts than they might by using math alone.
+
+
+## What requirements does Prob140 satisfy?
+
+
+For the Statistics major and minor, and for Statistics courses numbered 135 and above, Prob140 satisfies the same requirements as Stat 134 does. If a Statistics course currently requires Stat 134, then Prob140 will fulfill that requirement too. A letter grade of B- or better in Prob140 will satisfy the corresponding Stat 134 grade requirement for entry into the Statistics major.
+
+
+Other departments have yet to formalize the requirements satisfied by Prob140, but conversations have begun and I expect the process to go smoothly. In Spring 2017, the pilot semester for Prob140, students might have to petition the departments individually if the formal processes aren't completed in time. 
+
+
+## Who can and can't take Prob140?
+
+
+Can: Those who have passed Data 8 (a P grade is fine) and have had a year of calculus but have not taken Stat 134. Students can get credit for at most one of Stat 134 and Prob140.
+
+
+Can't: Those who have taken Stat 134, also those who haven't taken Data 8 or haven't had year of calculus. In addition, while I realize that many students on campus have taken a plenty of programming and advanced prob/stat courses, they are not the intended audience for Prob140.
+
+
+
 
