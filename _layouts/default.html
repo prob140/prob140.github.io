@@ -17,7 +17,6 @@
     <div class="swiper-button-next2"></div>
     
     <!-- If we need scrollbar -->
-    <div class="swiper-scrollbar2"></div>
     <div class="swiper-wrapper">
       {% for announcement in site.data.announcements %}
         <div class="swiper-slide">
@@ -39,8 +38,6 @@
     //initialize swiper when document ready  
     var mySwiper = new Swiper ('.swiper-container2', {
       // Optional parameters
-        nextButton: '.swiper-button-next2',
-        prevButton: '.swiper-button-prev2',
       direction: 'horizontal',
       loop: true,
       autoplay: 5000,

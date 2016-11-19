@@ -84,6 +84,7 @@ th {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  z-index: 1000;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -351,4 +352,10 @@ column-count: 2;
 
 .swiper-slide {
   margin-right: 0.5em;
+  padding-right: 1em;
 }
+
+.backwards {
+    unicode-bidi:bidi-override;
+    direction: rtl;
+ } 
