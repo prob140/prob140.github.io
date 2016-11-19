@@ -66,6 +66,7 @@ th {
   width:100%;
   padding: 30px;
   margin-right:initial;
+  overflow: hidden;
 }
 
 #announcements-header a{
@@ -319,6 +320,9 @@ a.sidebar-nav-item:focus {
     width: 100%;
     background-color: #f6f6f6;
 }     
+  .swiper-container2 {
+  width: 100%;
+}     
 .two-col {
 -moz-column-count: 2;
 -webkit-column-count: 2;
@@ -339,4 +343,8 @@ column-count: 2;
 
 .syllabusContainer {
   padding-top: 5em;
+}
+
+#calendar td {
+  padding: 1em;
 }
