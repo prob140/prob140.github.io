@@ -14,7 +14,7 @@ The list of topics has considerable overlap with existing probability courses, t
 
 The course includes many events: lecture, lab, discussions,  office hours, and review sessions. Weekly labs, discussions, and lecture are typically the most valuable events to attend.
 
-Lecture: The course includes (two/three) (80/50)-minute lectures per week.
+Lecture: The course includes two 80-minute lectures per week.
 
 Discussion: The course includes one 50 minute discussion section this week. Run by GSIs (Graduate Student Instructors), these help teach the core concepts and theory in the class. Although attendance in discussion is not mandatory, there are bi-weekly quizzes to ensure that everyone keeps up with the materials.
 
@@ -38,19 +38,12 @@ The midterm exam will be held in class on (TBD). The final exam will be held on 
 
 ## Materials
 
-The primary text for this course is an online textbook, which consists of lecture note style presentations on topics. There are two *(completely optional)* textbooks which may help
+The primary text for this course is an online textbook, which consists of lecture note style presentations on topics. There are two *(optional)* textbooks which may help
 
 - **Probability** by Jim Pitman, Springer New York; the standard text for Stat 134
 - **Introduction to Probability** by Bertsekas and Tsitsiklis, Athena Scientific; a text for EE 126
 
 
-
-Homework will be distributed each week on paper (typically at lecture on Friday) and posted online. You need to complete them in the spaces given on the page where they appear, not electronically or on a separate piece of paper. (Having a single format helps us grade them and forces you to write concisely.) If you print your own copy, please print it double-sided.
-
-Homework assignments are due in your lab section the week after they are handed out. (For example, the homework handed out on Friday, 8/28 is due in lab on Wednesday 9/2 or, for those in the Thursday lab, Thursday 9/3.)
-
 ## Computing Resources
 
-All computing assignments in this course will be completed on ds8.berkeley.edu. You can complete all computing labs and projects using any computer (or device) that has a web browser.
-
-The lab room for the course is 105 Cory. If you would like to use a lab computer to work on an assignment, all students will have 24 hour access to this room whenever there is not another course using it. By enrolling in the course, you will have card-key access to this room using your Cal ID card.
+**To be Determined**

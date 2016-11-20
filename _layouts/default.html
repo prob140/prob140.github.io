@@ -7,7 +7,7 @@
     {% include sidebar.html %}
     <div>
           <div id="announcements-header" class="theme-data"> 
-          <b> Announcements! </b> 
+          <b> Announcements! </b> (<a onclick="showAnnouncements()"> See All </a>) 
           <div class="swiper-container2">
     <!-- Additional required wrapper -->
         <!-- If we need pagination -->
@@ -45,8 +45,22 @@
       loop: true,
       autoplay: 5000,
       speed: 1000,
-      initialSlide:0
+      initialSlide:0,
+      spaceBetween: 1000
     })        
   });
+
+    function showAnnouncements(){
+      basicModal.show({
+    body: "<h2> Announcements </h2> <ul>{% for announcement in site.data.announcements %}<li>{{announcement}}</li>{% endfor %}</ul>",
+    closable: true,
+    buttons: {
+        action: {
+            title: 'Dismiss',
+            fn: basicModal.close
+        }
+    }
+});
+    }
   </script>
 </html>

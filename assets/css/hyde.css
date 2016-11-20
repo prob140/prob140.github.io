@@ -322,7 +322,8 @@ a.sidebar-nav-item:focus {
 }     
   .swiper-container2 {
   width: 100%;
-}     
+}
+
 .two-col {
 -moz-column-count: 2;
 -webkit-column-count: 2;
@@ -347,4 +348,9 @@ column-count: 2;
 
 #calendar td {
   padding: 1em;
+}
+
+.backwards {
+  unicode-bidi:bidi-override; 
+  direction: rtl;
 }
