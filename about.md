@@ -27,10 +27,10 @@ Other departments have yet to formalize the requirements satisfied by Prob140, b
 ## Who can and can't take Prob140?
 
 
-Can: Those who have passed Data 8 (a P grade is fine) and have had a year of calculus but have not taken Stat 134. Students can get credit for at most one of Stat 134 and Prob140.
+**Can**: Those who have passed Data 8 (a P grade is fine) and have had a year of calculus but have not taken Stat 134. Students can get credit for at most one of Stat 134 and Prob140.
 
 
-Can't: Those who have taken Stat 134, also those who haven't taken Data 8 or haven't had year of calculus. In addition, while I realize that many students on campus have taken a plenty of programming and advanced prob/stat courses, they are not the intended audience for Prob140.
+**Can't**: Those who have taken Stat 134, also those who haven't taken Data 8 or haven't had year of calculus. In addition, while I realize that many students on campus have taken a plenty of programming and advanced prob/stat courses, they are not the intended audience for Prob140.
 
 
 
