@@ -33,5 +33,8 @@ Other departments have yet to formalize the requirements satisfied by Prob140, b
 **Can't**: Those who have taken Stat 134, also those who haven't taken Data 8 or haven't had year of calculus. In addition, while I realize that many students on campus have taken a plenty of programming and advanced prob/stat courses, they are not the intended audience for Prob140.
 
 
+## Will Prob140 be offered every semester?
+
+It won’t be offered again in 2017. The plan is to offer it in Spring 2018. I don’t know what the schedule will be after that.
 
 
