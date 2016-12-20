@@ -1,49 +1,33 @@
 ---
 layout: page
-title: Logistics
+title: Course Information for Spring 2017
 ---
-
-## Course Information and Policies
-
-Stat 140 introduces students to probability theory using both mathematics and computation, the two main tools of the subject. Though Berkeley has outstanding probability courses (e.g. Stat 134, EE 126), none of them uses computation for problem solving. Stat 140 is an attempt to teach probability in a manner better suited for students in the 21st century.
-
-The list of topics has considerable overlap with existing probability courses, though the selection emphasizes topics useful for data science. The main difference is the consistent use of Jupyter notebooks running Python, both by the instructor and the students, building on foundations laid in Data 8. The power of computing will allow students to solve problems that are intractable by calculator and are thus avoided in courses like Stat 134. Computation (numerical and symbolic), simulation, and graphics will give students a firmer grasp of the concepts than math alone, and will also develop an appreciation for the power of the math.
+This is just a sketch; more details will be available at the start of the Spring semester.
 
 
-## Course Format
-
-The course includes many events: lecture, lab, discussions,  office hours, and review sessions. Weekly labs, discussions, and lecture are typically the most valuable events to attend.
-
-Lecture: The course includes two 80-minute lectures per week.
-
-Discussion: The course includes one 50 minute discussion section this week. Run by GSIs (Graduate Student Instructors), these help teach the core concepts and theory in the class. Although attendance in discussion is not mandatory, there are bi-weekly quizzes to ensure that everyone keeps up with the materials.
-
-Lab: The course includes one laboratory section each week. These sections are run by an amazing group of Graduate Student Instructors. Getting to know your GSI is an excellent way to succeed in this course. Participation in lab is required.
-
-Office Hours: Attending office hours is another excellent way to succeed in this course. Office hours are held by GSIs and the instructor each week. A schedule appears on the staff page of the course website.
-
-In office hours, you can ask questions about the material, receive guidance on assignments, and work with peers and course staff in a small group setting.
-
-## Grading
-
-Grades for this course are assigned using the following sources.
-
-- 15% Homework
-- 10% Lab
-- 15% Quizzes
-- 20% Midterm
-- 40% Final
-
-The midterm exam will be held in class on (TBD). The final exam will be held on (TBD) from (TBD) to (TBD), location to be announced.
-
-## Materials
-
-The primary text for this course is an online textbook, which consists of lecture note style presentations on topics. There are two *(optional)* textbooks which may help
-
-- **Probability** by Jim Pitman, Springer New York; the standard text for Stat 134
-- **Introduction to Probability** by Bertsekas and Tsitsiklis, Athena Scientific; a text for EE 126
+## Prerequisites (no substitutes will be accepted in the pilot offering)
+- Data 8 (Stat/CS/Info C8)
+- A year of calculus, at the level of Math 1A-1B or higher. Math 53 is ideal; you can take it simultaneously with Prob140. As students in Stat 134 have noticed, what’s required is a kind of mathematical maturity rather than knowing lots of computational formulas. You will rarely have to work out complicated integrals or derivatives by hand, but you will constantly work with abstraction – functions, domains, ranges, inverses, limits, and so on – as well as bounds, approximations, orders of magnitude, etc.
+If you love logic, math, and Data 8, this course is for you.
 
 
-## Computing Resources
+## Texts
+### Required:
+- *Probability for Data Science* by Ani Adhikari and Jim Pitman. This will be available on the course website, like the Data 8 text.
+- *Probability* by Jim Pitman, published by Springer NY. Available for Berkeley students on SpringerLink at no cost or low cost (for a printed version).
+- *Theory Meets Data* by Ani Adhikari (Dibya Ghosh, Editor), with contributions from students in the pilot offering of the Data 8 connector Stat 88: Probability and Mathematical Statistics in Data Science. The PDF will be available on the course website.
 
-**To be Determined**
+### Excellent references
+- *Introduction to Probability* by Joe Blitzstein and Jessica Hwang
+- *Introduction to Probability* by Dimitri Bertsekas and John Tsitsiklis
+
+
+## The Required Components of Your Work
+1. Weekly homework, which you will do in Juypter notebooks and turn in on Gradescope. We hope to make this process less annoying than it was in Data 8 this past Fall. You will learn some basic LaTex so that you can “write” math in your notebooks. It’s easy and fun.
+2. One weekly lab, which will be designed so that you can complete it (or almost complete it) during lab.
+3. Quizzes, four times during the term, in discussion section. No computers involved.
+4. Midterm in class on Thursday March 2. No substitutes except as required by university rules. No computers involved.
+5. Final Exam Friday May 12, 7 pm to 10 pm, Exam Group 20. The very last slot in finals week – I don’t like it any more than you do but we have no choice. No substitutes except as required by university rules. No computers involved. The final is required for getting a passing grade. 
+
+Data science is not a solitary activity; please expect to attend lectures, discussion section, and lab. Lectures will not be webcast, but the online text will contain what is covered apart from discussions generated by questions asked in class.
+

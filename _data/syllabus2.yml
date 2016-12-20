@@ -6,28 +6,28 @@ weeks:
     - date: Tue 1/17
       lecture: "Probability: axioms, rules, approximation"
       slidesURL: /
-      assignmentName: "HW 1: Getting Started"
-      assignmentURL: /
-      reading: "Chapter 1: Why Data Science"
-      readingURL: /
+      assignmentName: "HW 1"
+      assignmentURL: /materials_placeholder
+      reading: "To be Assigned"
+      readingURL: /textbook_placeholder
 
     - date: Th 1/19
       lecture: "Random variables: distributions, conditioning, equality"
       slidesURL: /lec1
-      assignmentName: "Lab 1:Python and Jupyter"
-      assignmentURL: /
-      reading: "Chapter 1: Why Data Science"
-      readingURL: /
+      assignmentName: "Lab 1"
+      assignmentURL: /materials_placeholder
+      reading: "To be Assigned"
+      readingURL: /textbook_placeholder
 
     links:
       - name: "Lecture 1: Introduction to Probability"
-        url: /
+        url: /materials_placeholder
       - name: "Lecture 2: Random Variables"
-        url: /
+        url: /materials_placeholder
       - name: "Lab 1: The Birthday Problem"
-        url: /
+        url: /materials_placeholder
       - name: "Homework 1"
-        url: /our c
+        url: /materials_placeholder
 
   - weekNum: 2
     weekName: Random Counts
@@ -37,27 +37,27 @@ weeks:
       lecture: "Induction, counting, and bounds"
       slidesURL: /lec1
       assignmentName: "HW 2"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     - date: Th 1/27
       lecture: "Binomial and Multinomial Distributions; The Poisson Limit"
       slidesURL: /lec1
       assignmentName: "Lab 2"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     links:
       - name: "Lecture 3: Induction, Counting, and Bounds"
-        url: /
+        url: /materials_placeholder
       - name: "Lecture 4: Binomial and Multinomial Distributions; The Poisson Limit"
-        url: /
+        url: /materials_placeholder
       - name: "Homework 2"
-        url: /
+        url: /materials_placeholder
       - name: "Lab 2"
-        url: /
+        url: /materials_placeholder
 
   - weekNum: 3
     weekName: Conditioning and Bayes Methods
@@ -67,27 +67,27 @@ weeks:
       lecture: " Random sampling, prior and posterior distributions"
       slidesURL: /lec1
       assignmentName: "HW 3"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     - date: Th 2/2
       lecture: "Independence and Poissonization; dependence and symmetry"
       slidesURL: /lec1
       assignmentName: "Lab 3"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     links:
       - name: "Lecture 5: Random sampling, prior and posterior distributions"
-        url: /
+        url: /materials_placeholder
       - name: "Lecture 6: Independence and Poissonization;"
-        url: /
+        url: /materials_placeholder
       - name: "Homework 3"
-        url: /
+        url: /materials_placeholder
       - name: "Lab 3"
-        url: /
+        url: /materials_placeholder
 
   - weekNum: 4
     weekName: Introduction to Prediction
@@ -95,29 +95,29 @@ weeks:
     basic: 
     - date: Tue 2/7
       lecture: "Expectation: properties and tail bounds"
-      slidesURL: /
+      slidesURL: /materials_placeholder
       assignmentName: "HW 4"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     - date: Th 1/27
       lecture: "SD: properties, tail bounds, least squares"
       slidesURL: /lec1
       assignmentName: "Lab 4"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     links:
       - name: "Lecture 7: Expectation: properties and tail bounds"
-        url: /
+        url: /materials_placeholder
       - name: "Lecture 8: SD: properties, tail bounds, least squares"
-        url: /
+        url: /materials_placeholder
       - name: "Homework 4"
-        url: /
+        url: /materials_placeholder
       - name: "Lab 4"
-        url: /
+        url: /materials_placeholder
 
   - weekNum: 5
     weekName: Markov Chains
@@ -127,27 +127,27 @@ weeks:
       lecture: " Transition matrices and first-step analysis for probabilities"
       slidesURL: /lec1
       assignmentName: "HW 5"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     - date: Th 2/16
       lecture: " Limits, stationarity, occupation times"
       slidesURL: /lec1
       assignmentName: "Lab 5"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     links:
       - name: "Lecture 9: Transition matrices and first-step analysis for probabilities"
-        url: /
+        url: /materials_placeholder
       - name: "Lecture 10:  Limits, stationarity, occupation times"
-        url: /
+        url: /materials_placeholder
       - name: "Homework 2"
-        url: /
+        url: /materials_placeholder
       - name: "Lab 2"
-        url: /
+        url: /materials_placeholder
 
   - weekNum: 6
     weekName: Conditioning and Bayes Revisited
@@ -157,27 +157,27 @@ weeks:
       lecture: "Reversing Markov chains"
       slidesURL: /lec1
       assignmentName: "HW 6"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     - date: Th 2/23
       lecture: "Expectation by conditioning"
       slidesURL: /lec1
       assignmentName: "Lab 6"
-      assignmentURL: /
+      assignmentURL: /materials_placeholder
       reading: "To be Assigned"
-      readingURL: /
+      readingURL: /materials_placeholder
 
     links:
       - name: "Lecture 11: Reversing Markov chains"
-        url: /
+        url: /materials_placeholder
       - name: "Lecture 12:Expectation by conditioning"
-        url: /
+        url: /materials_placeholder
       - name: "Homework 2"
-        url: /
+        url: /materials_placeholder
       - name: "Lab 2"
-        url: /
+        url: /materials_placeholder
 
   - weekNum: 7
     weekName: Midterm
@@ -191,4 +191,4 @@ weeks:
 
     links:
       - name: "Review"
-        url: /
+        url: /materials_placeholder

@@ -6,8 +6,8 @@ links:
         - name: Staff
           url: /instructors
         - name: Logistics
-          url: /404
+          url: /logistics
         - name: Textbook
-          url: /404
+          url: /textbook_placeholder
         - name: Reference Materials
           url: /references
