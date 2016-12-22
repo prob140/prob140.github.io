@@ -1,5 +1,5 @@
 ---
 layout: page
-title: The Textbook is still under construction
+title: The Textbook is Under Construction
 ---
 

@@ -5,7 +5,7 @@ links:
           url: /about
         - name: Staff
           url: /instructors
-        - name: Logistics
+        - name: Course Information
           url: /logistics
         - name: Textbook
           url: /textbook_placeholder
