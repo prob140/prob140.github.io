@@ -6,8 +6,8 @@ This is just a sketch; more details will be available at the start of the Spring
 
 
 ## Prerequisites (no substitutes will be accepted in the pilot offering)
-- Data 8 (Stat/CS/Info C8)
-- A year of calculus, at the level of Math 1A-1B or higher. Math 53 is ideal; you can take it simultaneously with Prob140. As students in Stat 134 have noticed, what’s required is a kind of mathematical maturity rather than knowing lots of computational formulas. You will rarely have to work out complicated integrals or derivatives by hand, but you will constantly work with abstraction – functions, domains, ranges, inverses, limits, and so on – as well as bounds, approximations, orders of magnitude, etc.
+- Data 8 (Stat/CS/Info C8). The basics of probability are in Sections 8.3 through 9.3 as well as Chapters 12 and 17 of the [Data 8 textbook](https://www.inferentialthinking.com/index.html). All of the inference in Data 8 relies on probability; we’ll touch on all of it in Prob140 one way or another. And of course you should be familiar with Python and the datascience library.
+- A year of calculus, at the level of Math 1A-1B or higher. Math 53 is ideal; you can take it simultaneously with Prob140. [Here are some examples to work on]({{ site.url }}/assets/prereq.pdf). As students in Stat 134 have noticed, what’s required is a kind of mathematical maturity rather than knowing lots of computational formulas. You will rarely have to work out complicated integrals or derivatives by hand, but you will constantly work with abstraction – functions, domains, ranges, inverses, limits, and so on – as well as bounds, approximations, orders of magnitude, etc.
 If you love logic, math, and Data 8, this course is for you.
 
 
