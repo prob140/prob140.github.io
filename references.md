@@ -14,7 +14,8 @@ title: Reference Materials
 ## Probability
 - [Probability, by Pitman](http://springer.com/us/book/9780387979748)
 - [Stat 140 Textbook](/textbook_placeholder/)
+
 ## Python
 - [datascience Reference](http://data8.org/datascience/tables.html)
-- [prob140 Reference](/prob140/html/)
+- [prob140 Reference](https://probability.gitlab.io/prob140/html/)
 
