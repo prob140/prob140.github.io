@@ -13,13 +13,13 @@ If you love logic, math, and Data 8, this course is for you.
 
 ## Texts
 ### Required:
-- *Probability for Data Science* by Ani Adhikari and Jim Pitman. This will be available on the course website, like the Data 8 text.
-- *Probability* by Jim Pitman, published by Springer NY. Available for Berkeley students on SpringerLink at no cost or low cost (for a printed version).
-- *Theory Meets Data* by Ani Adhikari (Dibya Ghosh, Editor), with contributions from students in the pilot offering of the Data 8 connector Stat 88: Probability and Mathematical Statistics in Data Science. The PDF will be available on the course website.
+- [Probability for Data Science](/textbook_placeholder) by Ani Adhikari and Jim Pitman. This will be available on the course website, like the Data 8 text.
+- [Probability](http://springer.com/us/book/9780387979748) by Jim Pitman, published by Springer NY. Available for Berkeley students on SpringerLink at no cost or low cost (for a printed version).
+- [Theory Meets Data](/textbook_placeholder) by Ani Adhikari (Dibya Ghosh, Editor), with contributions from students in the pilot offering of the Data 8 connector Stat 88: Probability and Mathematical Statistics in Data Science. The PDF will be available on the course website.
 
 ### Excellent references
-- *Introduction to Probability* by Joe Blitzstein and Jessica Hwang
-- *Introduction to Probability* by Dimitri Bertsekas and John Tsitsiklis
+- [Introduction to Probability](http://a.co/8zK4XZG) Joe Blitzstein and Jessica Hwang
+- [Introduction to Probability](http://athenasc.com/probbook.html) Dimitri Bertsekas and John Tsitsiklis
 
 
 ## The Required Components of Your Work
