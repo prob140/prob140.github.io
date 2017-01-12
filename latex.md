@@ -3,13 +3,14 @@ layout: page
 title: LaTeX Introduction
 ---
 
+
 # An Introduction to $\LaTeX$ (LaTeX)
 
 Latex is a typesetting language used for formatting equations (and much more) in the scientific communities. LaTeX is used very commonly in higher mathematical and computer science classes and academia. In Stat 140, we'll be using LaTeX to "pretty print" equations and answers for homeworks and labs
 
 ## How To Follow This Introduction?
 
-If you're viewing through Jupyter, then you're all set! Otherwise, go ahead and download this notebook [here](/latex.ipynb). This way, you'll be able to follow and modify the examples that we give, as well as test your own. To see the latex behind the math expressions, go ahead and edit that particular cell
+If you're viewing through Jupyter, then you're all set! Otherwise, go ahead and download this notebook [here](#). This way, you'll be able to follow and modify the examples that we give, as well as test your own. To see the latex behind the math expressions, go ahead and edit that particular cell
 
 ## How Do We Use LaTeX?
 
@@ -158,35 +159,83 @@ $\sqrt{9} = 3$
 
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
-### The Align Environment
+### Bounds for summations, products, and integrals
 
-So far, we've seen how to write simple statements and expressions (either inline or a single equation in the center). The remaining step is to learn how to write sequences of equations (i.e. showing your work) in a clean and tidy fashion. With that in mind, enter the `align*` environment. How it works is as follows
+For summations, products, and integrals, we often want to define the bounds or limits. In LaTeX, the syntax for the bounds are the same symbols as subscript and superscript.
 
-    \begin{align*} (This starts our new environment)
-    We write our first line here \\ 
-    (the "\\" ends the current line)\\
-    We can "align" these lines by using the & character \\
-    When rendering, the "&" characters are put directly on top of each other
-\end{align*}
+    \sum_{lower}^{upper}
+    \prod_{lower}^{upper}
+    \int_{lower}^{upper}
 
-Let's see an example
+Note that the bounds will appear next to the symbol in inline math mode and around the symbol in centered math mode
+
+    \sum_{i=1}^\infty a_i
+Inline:
+$\sum_{i=1}^\infty a_i$
+
+Centered:
+$$\sum_{i=1}^\infty a_i$$
+
+    \prod_{i=a}^{b} f(i)
+$$\prod_{i=1}^{\infty} f(i)$$
+
+    \int_{-\infty}^{100}xdx
+$$\int_{-\infty}^{100}xdx$$
+
+    \int_{-\infty}^{\infty}\int_{-\infty}^{\infty}(x+y)dxdy
+$$\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}(x+y)dxdy$$
+
+    \lim_{x\to\infty} f(x)
+$$\lim_{x\to\infty} f(x)$$
 
 
+### Align
 
-	\begin{align*}
+When manipulating long equations, it is often useful to show the steps in between. The ``align*`` environment provides easy vertical alignment of equations.Let's see an example
+
+    \begin{align*}
         2x + 10 &= -4\\
         2x &= -14\\
         x &= -7
 \end{align*}
 
-
 $$
-	\begin{align*}
-2x + 10 &= -4\\
-2x &= -14\\
-x &= -7
+\begin{align*}
+        2x + 10 &= -4\\
+        2x &= -14\\
+        x &= -7
 \end{align*}
 $$
+
+    \begin{align*}
+    f(x) &= \int_0^1 g(x)dx = \int_0^1 x^2dx\\
+    &= \left[x^3\right]_0^1\\
+    &= 1^3 - 0^3\\
+    &= \boxed{1}
+    \end{align*}
+$$
+\begin{align*}
+f(x) &= \int_0^1 g(x)dx = \int_0^1 x^2dx\\
+&= \left[x^3\right]_0^1\\
+&= 1^3 - 0^3\\
+&= \boxed{1}
+\end{align*}
+$$
+
+Note that the block starts with `\begin{align*}` and ends with `\end{align*}`. Each line ends with `\\` for new line. The character that we want to align is denoted with `&`
+
+    \begin{align*}
+    x&=y           &  w &=z              &  a&=b+c\\
+    2x&=-y         &  3w&=\frac{1}{2}z   &  a&=b\\
+    -4 + 5x&=2+y   &  w+2&=-1+w          &  ab&=cb
+    \end{align*}
+
+$$\begin{align*}
+x&=y           &  w &=z              &  a&=b+c\\
+2x&=-y         &  3w&=\frac{1}{2}z   &  a&=b\\
+-4 + 5x&=2+y   &  w+2&=-1+w          &  ab&=cb
+\end{align*}$$
+
 ### Example (3c) 
 
 Let $\{c\}$ and $\{d\}$ be sequences of real numbers such that 
@@ -207,7 +256,6 @@ $$
 &= 520
 \end{align*}
 $$
-
 
     \begin{align*}
     \sum_{i=1}^{100} (4c_i - d_i + 5) &= \sum_{i=1}^{100} 4c_i + \sum_{i=1}^{100} - d_i + \sum_{i=1}^{100} 5\\
@@ -462,3 +510,4 @@ $$
 #### Solution
 
 *Your Answer Here*
+
