@@ -10,7 +10,7 @@ Latex is a typesetting language used for formatting equations (and much more) in
 
 ## How To Follow This Introduction?
 
-If you're viewing through Jupyter, then you're all set! Otherwise, go ahead and download this notebook [here](#). This way, you'll be able to follow and modify the examples that we give, as well as test your own. To see the latex behind the math expressions, go ahead and edit that particular cell
+If you're viewing through Jupyter, then you're all set! Otherwise, go ahead and download this notebook [here](/latex.ipynb). This way, you'll be able to follow and modify the examples that we give, as well as test your own. To see the latex behind the math expressions, go ahead and edit that particular cell
 
 ## How Do We Use LaTeX?
 
@@ -170,22 +170,28 @@ For summations, products, and integrals, we often want to define the bounds or l
 Note that the bounds will appear next to the symbol in inline math mode and around the symbol in centered math mode
 
     \sum_{i=1}^\infty a_i
+
 Inline:
 $\sum_{i=1}^\infty a_i$
 
 Centered:
+
 $$\sum_{i=1}^\infty a_i$$
 
-    \prod_{i=a}^{b} f(i)
+\prod_{i=a}^{b} f(i)
+
 $$\prod_{i=1}^{\infty} f(i)$$
 
-    \int_{-\infty}^{100}xdx
+\int_{-\infty}^{100}xdx
+
 $$\int_{-\infty}^{100}xdx$$
 
-    \int_{-\infty}^{\infty}\int_{-\infty}^{\infty}(x+y)dxdy
+\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}(x+y)dxdy
+
 $$\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}(x+y)dxdy$$
 
-    \lim_{x\to\infty} f(x)
+\lim_{x\to\infty} f(x)
+
 $$\lim_{x\to\infty} f(x)$$
 
 
