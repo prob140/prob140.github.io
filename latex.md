@@ -10,7 +10,7 @@ Latex is a typesetting language used for formatting equations (and much more) in
 
 ## How To Follow This Introduction?
 
-If you're viewing through Jupyter, then you're all set! Otherwise, go ahead and download this notebook [here](#). This way, you'll be able to follow and modify the examples that we give, as well as test your own. To see the latex behind the math expressions, go ahead and edit that particular cell
+If you're viewing through Jupyter, then you're all set! Otherwise, go ahead and download this notebook [here](/latex.ipynb). This way, you'll be able to follow and modify the examples that we give, as well as test your own. To see the latex behind the math expressions, go ahead and edit that particular cell
 
 ## How Do We Use LaTeX?
 
