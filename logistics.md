@@ -28,7 +28,7 @@ If you love logic, math, and Data 8, this course is for you.
 
 2. **One weekly lab**, which will be designed so that you can complete it (or almost complete it) during lab. **Each lab is due on the same Friday by 11:59 p.m.**
 
-3. Quizzes, four times during the term, in discussion section. No computers involved. Quiz Dates are 
+3. **Quizzes**, four times during the term, in discussion section. No computers involved. Quiz Dates are 
 	1. Wednesday 2/1 (3rd week)
 	2. Wednesday 2/15 (5th week)
 	3. Wednesday 3/22 (10th week)
