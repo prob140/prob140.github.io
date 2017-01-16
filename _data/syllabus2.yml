@@ -76,6 +76,15 @@ weeks:
       reading: "To be Assigned"
       readingURL: /materials_placeholder
 
+    - date: Wed 2/1
+      lecture: " Quiz 1"
+      slidesURL:
+      assignmentName:
+      assignmentURL:
+      problemURL:
+      reading:
+      readingURL:
+
     - date: Th 2/2
       lecture: "Independence and Poissonization; dependence and symmetry"
       slidesURL: /materials_placeholder

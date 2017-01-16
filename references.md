@@ -3,20 +3,20 @@ layout: page
 title: Reference Materials
 ---
 
-
-### Incomplete: Under Construction
-
 ## Prerequisites
 
-- [Data 8](http://data8.org)
+- [Data 8 Fall 2016](http://data8.org/fa16/)
 - [Data 8 Textbook](http://inferentialthinking.com/)
+- [Math Prereq](/assets/prereq.pdf)
 
 ## Probability
-- [Probability, by Pitman](http://springer.com/us/book/9780387979748)
-- [Stat 140 Textbook](/textbook_placeholder/)
-- [Theory meets Data](/theory-meets-data.pdf)
+
+- [Course notes](/textbook_placeholder/)
+- [*Probability* by Jim Pitman](http://springer.com/us/book/9780387979748)
+- [*Theory meets Data*](/theory-meets-data.pdf)
 
 ## Python
 - [datascience Reference](http://data8.org/datascience/tables.html)
 - [prob140 Reference](https://probability.gitlab.io/prob140/html/)
+- [Python Reference by N. Kheterpal and A. Ku](/assets/data8fa16_final_reference_sheet.pdf)
 
