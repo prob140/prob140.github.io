@@ -7,7 +7,7 @@
 	<td> {{day.date}} </td>
 	<td> {{day.lecture}}</td>
 	<td><a href="{{day.readingURL}}">{{day.reading}} </a> </td>
-	<td>  <a href="{{day.problemURL}}"> Problems</a> </td>
+	<td>  <a href="{{day.problemURL}}"> {% if day.problemURL %} Problems {% endif %}</a> </td>
 	<td>  <a href="{{day.assignmentURL}}">{{day.assignmentName}} </a> </td>
 	</tr>
 	<tr>
