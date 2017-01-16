@@ -149,6 +149,15 @@ weeks:
       reading: "To be Assigned"
       readingURL: /materials_placeholder
 
+    - date: Wed 2/15
+      lecture: " Quiz 2"
+      slidesURL:
+      assignmentName:
+      assignmentURL:
+      problemURL:
+      reading:
+      readingURL:
+
     - date: Th 2/16
       lecture: " Limits, stationarity, occupation times"
       slidesURL: /materials_placeholder
