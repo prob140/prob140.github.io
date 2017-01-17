@@ -8,6 +8,6 @@ links:
         - name: Course Information
           url: /logistics
         - name: Textbook
-          url: "https://probability.gitbooks.io/staging/content/"
+          url: "https://textbook.prob140.org/"
         - name: Reference Materials
           url: /references
