@@ -11,7 +11,7 @@ title: Reference Materials
 
 ## Probability
 
-- [Course notes](/textbook_placeholder/)
+- [Course notes](https://probability.gitbooks.io/staging/content/)
 - [*Probability* by Jim Pitman](http://springer.com/us/book/9780387979748)
 - [*Theory meets Data*](/theory-meets-data.pdf)
 
