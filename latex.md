@@ -3,6 +3,7 @@ layout: page
 title: LaTeX Introduction
 ---
 
+<a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=Latex.ipynb" class="button"> Click Here to Launch Interact </a>
 
 # An Introduction to $\LaTeX$ (LaTeX)
 
@@ -288,12 +289,12 @@ What is $\sum_{i=1}^{100} (4c_i - d_i + 5)$?
 
 
 
-\begin{align*}
-\sum_{i=1}^{100} (4c_i - d_i + 5) &= \sum_{i=1}^{100} 4c_i + \sum_{i=1}^{100} - d_i + \sum_{i=1}^{100} 5\\
-&= 4 \sum_{i=1}^{100} c_i - \sum_{i=1}^{100}  d_i + \sum_{i=1}^{100} 5\\
-&= 4 (10) - (20) + 5(100)\\
-&= 520
-\end{align*}
+    \begin{align*}
+    \sum_{i=1}^{100} (4c_i - d_i + 5) &= \sum_{i=1}^{100} 4c_i + \sum_{i=1}^{100} - d_i + \sum_{i=1}^{100} 5\\
+    &= 4 \sum_{i=1}^{100} c_i - \sum_{i=1}^{100}  d_i + \sum_{i=1}^{100} 5\\
+    &= 4 (10) - (20) + 5(100)\\
+    &= 520
+    \end{align*}
 
 $$
 \begin{align*}
