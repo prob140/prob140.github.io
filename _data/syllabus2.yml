@@ -9,23 +9,26 @@ weeks:
       assignmentName: "HW 1"
       assignmentURL:
       problemURL: /assets/Week1_practice.pdf
-      reading: "Week 1 Readings and Practice"
-      readingURL: /assets/Week1_practice.pdf
+      readings:
+        - name: "Ch 1: Fundamentals"
+          url: "https://textbook.prob140.org/ch1/Fundamentals.html"
+        - name: "Ch 2: Calculating Chances"
+          url: "https://textbook.prob140.org/ch2/Calculating_Chances.html"
 
     - date: Th 1/19
       lecture: "Random variables: distributions, conditioning, equality"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 1"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
+      problemURL: 
 
     links:
       - name: "Lecture 1: Introduction to Probability"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch1/Fundamentals.html"
       - name: "Lecture 2: Random Variables"
         url: /materials_placeholder
+      - name: "Week 1 Readings and Practice"
+        url: "/assets/Week1_practice.pdf"
       - name: "Lab 1: Matches in Random Sampling"
         url: /materials_placeholder
       - name: "Homework 1"
@@ -35,23 +38,19 @@ weeks:
     weekName: Random Counts
     weekDuration: 1/23-1/27
     basic: 
-    - date: Tue 1/23
+    - date: Tue 1/24
       lecture: "Induction, counting, and bounds"
       slidesURL: /materials_placeholder
       assignmentName: "HW 2"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
       reading: "Textbook"
       readingURL: https://probability.gitbooks.io/staging/content/
 
-    - date: Th 1/27
+    - date: Th 1/26
       lecture: "Binomial and Multinomial Distributions; The Poisson Limit"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 2"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
 
     links:
       - name: "Lecture 3: Induction, Counting, and Bounds"
@@ -72,16 +71,12 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 3"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
 
     - date: Wed 2/1
       lecture: " Quiz 1"
       slidesURL:
       assignmentName:
       assignmentURL:
-      problemURL:
       reading:
       readingURL:
 
@@ -90,9 +85,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "Lab 3"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
+      problemURL:
 
     links:
       - name: "Lecture 5: Random sampling, prior and posterior distributions"
@@ -113,18 +106,12 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 4"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
 
-    - date: Th 1/27
+    - date: Th 2/9
       lecture: "SD: properties, tail bounds, least squares"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 4"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
 
     links:
       - name: "Lecture 7: Expectation: properties and tail bounds"
@@ -145,9 +132,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 5"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
+      problemURL:
 
     - date: Wed 2/15
       lecture: " Quiz 2"
@@ -155,17 +140,13 @@ weeks:
       assignmentName:
       assignmentURL:
       problemURL:
-      reading:
-      readingURL:
+
 
     - date: Th 2/16
       lecture: " Limits, stationarity, occupation times"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 5"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
 
     links:
       - name: "Lecture 9: Transition matrices and first-step analysis for probabilities"
@@ -186,18 +167,13 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 6"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
-
+      problemURL: 
     - date: Th 2/23
       lecture: "Expectation by conditioning"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 6"
       assignmentURL: /materials_placeholder
-      problemURL: /materials_placeholder
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
+      problemURL:
 
     links:
       - name: "Lecture 11: Reversing Markov chains"
