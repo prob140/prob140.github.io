@@ -20,13 +20,18 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "Lab 1"
       assignmentURL: /materials_placeholder
+      readings:
+        - name: "Ch 3: Random Variables"
+          url: "https://textbook.prob140.org/ch3/RandomVariables.html"
+        - name: "Ch 4: Relations Between Variables"
+          url: "https://textbook.prob140.org/ch4/RelationsBetweenVariables.html"
       problemURL: 
 
     links:
       - name: "Lecture 1: Introduction to Probability"
         url: "https://textbook.prob140.org/ch1/Fundamentals.html"
       - name: "Lecture 2: Random Variables"
-        url: /materials_placeholder
+        url: https://textbook.prob140.org/ch3/RandomVariables.html
       - name: "Week 1 Readings and Practice"
         url: "/assets/Week1_practice.pdf"
       - name: "Lab 1: Matches in Random Sampling"
