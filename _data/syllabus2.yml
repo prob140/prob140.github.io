@@ -19,7 +19,7 @@ weeks:
       lecture: "Random variables: distributions, conditioning, equality"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 1"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
       problemURL: 
 
     links:
@@ -30,7 +30,7 @@ weeks:
       - name: "Week 1 Readings and Practice"
         url: "/assets/Week1_practice.pdf"
       - name: "Lab 1: Matches in Random Sampling"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
       - name: "Homework 1"
         url: /materials_placeholder
 
