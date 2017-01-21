@@ -8,7 +8,7 @@ weeks:
       slidesURL: /
       assignmentName: "HW 1"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01"
-      problemURL:
+      problemURL: "/assets/Week1_practice.pdf"
       readings:
         - name: "Ch 1: Fundamentals"
           url: "https://textbook.prob140.org/ch1/Fundamentals.html"
@@ -25,7 +25,7 @@ weeks:
           url: "https://textbook.prob140.org/ch3/RandomVariables.html"
         - name: "Ch 4: Relations Between Variables"
           url: "https://textbook.prob140.org/ch4/RelationsBetweenVariables.html"
-      problemURL: 
+      problemURL:
 
     links:
       - name: "Lecture 1: Introduction to Probability"
