@@ -7,8 +7,8 @@ weeks:
       lecture: "Probability: axioms, rules, approximation"
       slidesURL: /
       assignmentName: "HW 1"
-      assignmentURL:
-      problemURL: /assets/Week1_practice.pdf
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01"
+      problemURL:
       readings:
         - name: "Ch 1: Fundamentals"
           url: "https://textbook.prob140.org/ch1/Fundamentals.html"
