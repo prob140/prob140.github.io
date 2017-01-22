@@ -37,7 +37,7 @@ weeks:
       - name: "Lab 1: Matches in Random Sampling"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
       - name: "Homework 1"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01"
 
   - weekNum: 2
     weekName: Random Counts
