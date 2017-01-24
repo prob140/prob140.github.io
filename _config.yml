@@ -13,8 +13,8 @@ url:              http://probability.gitlab.io
 baseurl:          /
 
 author:
-  name:           'Dibya Ghosh'
-  url:            http://dibya.xyz/beta/
+  name:           'Dibya Ghosh, Jason Zhang'
+  url:            http://prob140.org
 
 paginate:         5
 

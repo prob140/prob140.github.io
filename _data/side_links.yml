@@ -11,3 +11,5 @@ links:
           url: "https://textbook.prob140.org/"
         - name: Reference Materials
           url: /references
+        - name: Weekly Schedule
+          url: /weekly
