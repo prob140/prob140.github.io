@@ -49,8 +49,9 @@ weeks:
       assignmentName: "HW 2"
       assignmentURL: /materials_placeholder
       problemURL: "/assets/Week2.pdf"
-      reading: "Textbook"
-      readingURL: https://probability.gitbooks.io/staging/content/
+      readings:
+        - name: "Ch 5: Collections of Events"
+          url: "https://textbook.prob140.org/ch5/CollectionsOfEvents.html"
 
     - date: Th 1/26
       lecture: "Binomial and Multinomial Distributions; The Poisson Limit"
@@ -60,7 +61,7 @@ weeks:
 
     links:
       - name: "Lecture 3: Induction, Counting, and Bounds"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch5/CollectionsOfEvents.html"
       - name: "Lecture 4: Binomial and Multinomial Distributions; The Poisson Limit"
         url: /materials_placeholder
       - name: "Week 2 Readings and Practice"
