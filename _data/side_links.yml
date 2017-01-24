@@ -7,7 +7,7 @@ links:
           url: /instructors
         - name: Course Information
           url: /logistics
-        - name: Textbook
+        - name: Course Notes
           url: "https://textbook.prob140.org/"
         - name: Reference Materials
           url: /references

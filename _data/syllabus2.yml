@@ -18,7 +18,7 @@ weeks:
     - date: Th 1/19
       lecture: "Random variables: distributions, conditioning, equality"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 1"
+      assignmentName: "Lab 1: Birthday Problem Variations"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
       readings:
         - name: "Ch 3: Random Variables"
@@ -67,7 +67,7 @@ weeks:
         url: "/assets/Week2.pdf"
       - name: "Homework 2"
         url: /materials_placeholder
-      - name: "Lab 2"
+      - name: "Lab 2: Poisson Approximations"
         url: /materials_placeholder
 
   - weekNum: 3
