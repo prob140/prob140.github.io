@@ -48,6 +48,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 2"
       assignmentURL: /materials_placeholder
+      problemURL: "/assets/Week2.pdf"
       reading: "Textbook"
       readingURL: https://probability.gitbooks.io/staging/content/
 
@@ -62,6 +63,8 @@ weeks:
         url: /materials_placeholder
       - name: "Lecture 4: Binomial and Multinomial Distributions; The Poisson Limit"
         url: /materials_placeholder
+      - name: "Week 2 Readings and Practice"
+        url: "/assets/Week2.pdf"
       - name: "Homework 2"
         url: /materials_placeholder
       - name: "Lab 2"
