@@ -47,7 +47,7 @@ weeks:
       lecture: "Induction, counting, and bounds"
       slidesURL: /materials_placeholder
       assignmentName: "HW 2"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02"
       problemURL: "/assets/Week2.pdf"
       readings:
         - name: "Ch 5: Collections of Events"
@@ -67,7 +67,7 @@ weeks:
       - name: "Week 2 Readings and Practice"
         url: "/assets/Week2.pdf"
       - name: "Homework 2"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02"
       - name: "Lab 2: Poisson Approximations"
         url: /materials_placeholder
 
