@@ -56,8 +56,8 @@ weeks:
     - date: Th 1/26
       lecture: "Binomial and Multinomial Distributions; The Poisson Limit"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 2"
-      assignmentURL: /materials_placeholder
+      assignmentName: "Lab 2: Poisson Approximations"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02"
       readings:
         - name: "Ch 6: Random Counts"
           url: "https://textbook.prob140.org/ch6/RandomCounts.html"
@@ -72,7 +72,7 @@ weeks:
       - name: "Homework 2"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02"
       - name: "Lab 2: Poisson Approximations"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02"
 
   - weekNum: 3
     weekName: Conditioning and Bayes Methods
