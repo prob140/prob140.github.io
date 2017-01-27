@@ -58,12 +58,15 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "Lab 2"
       assignmentURL: /materials_placeholder
+      readings:
+        - name: "Ch 6: Random Counts"
+          url: "https://textbook.prob140.org/ch6/RandomCounts.html"
 
     links:
       - name: "Lecture 3: Induction, Counting, and Bounds"
         url: "https://textbook.prob140.org/ch5/CollectionsOfEvents.html"
       - name: "Lecture 4: Binomial and Multinomial Distributions; The Poisson Limit"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch6/RandomCounts.html"
       - name: "Week 2 Readings and Practice"
         url: "/assets/Week2.pdf"
       - name: "Homework 2"
