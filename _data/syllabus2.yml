@@ -83,6 +83,9 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 3"
       assignmentURL: /materials_placeholder
+      readings:
+        - name: "Ch 7: Poissonization"
+          url: "https://textbook.prob140.org/ch7/Poissonization.html"
 
     - date: Wed 2/1
       lecture: " Quiz 1"
@@ -100,7 +103,7 @@ weeks:
       problemURL:
 
     links:
-      - name: "Lecture 5: Random sampling, prior and posterior distributions"
+      - name: "Lecture 5: Independence and Poissonization; dependence and symmetry"
         url: /materials_placeholder
       - name: "Lecture 6: Prior and posterior distributions; random sampling"
         url: /materials_placeholder
