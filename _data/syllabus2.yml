@@ -82,7 +82,7 @@ weeks:
       lecture: "Independence and Poissonization; dependence and symmetry"
       slidesURL: /materials_placeholder
       assignmentName: "HW 3"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
       readings:
         - name: "Ch 7: Poissonization"
           url: "https://textbook.prob140.org/ch7/Poissonization.html"
@@ -104,11 +104,11 @@ weeks:
 
     links:
       - name: "Lecture 5: Independence and Poissonization; dependence and symmetry"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch7/Poissonization.html"
       - name: "Lecture 6: Prior and posterior distributions; random sampling"
         url: /materials_placeholder
       - name: "Homework 3"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
       - name: "Lab 3"
         url: /materials_placeholder
 
