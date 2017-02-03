@@ -86,6 +86,8 @@ weeks:
       readings:
         - name: "Ch 7: Poissonization"
           url: "https://textbook.prob140.org/ch7/Poissonization.html"
+        - name: "Ch 8: Dependence"
+          url: "https://textbook.prob140.org/ch8/Dependence.html"
 
     - date: Wed 2/1
       lecture: " Quiz 1"
