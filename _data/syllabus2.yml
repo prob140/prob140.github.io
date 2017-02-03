@@ -100,8 +100,8 @@ weeks:
     - date: Th 2/2
       lecture: "Prior and posterior distributions; random sampling"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 3"
-      assignmentURL: /materials_placeholder
+      assignmentName: "Lab 3: Card Shuffling"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03"
       problemURL:
 
     links:
@@ -111,8 +111,8 @@ weeks:
         url: /materials_placeholder
       - name: "Homework 3"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
-      - name: "Lab 3"
-        url: /materials_placeholder
+      - name: "Lab 3: Card Shuffling"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03"
 
   - weekNum: 4
     weekName: Introduction to Prediction
