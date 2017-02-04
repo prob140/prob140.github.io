@@ -83,6 +83,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 3"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
+      problemURL: "/assets/Week3.pdf"
       readings:
         - name: "Ch 7: Poissonization"
           url: "https://textbook.prob140.org/ch7/Poissonization.html"
@@ -109,6 +110,8 @@ weeks:
         url: "https://textbook.prob140.org/ch7/Poissonization.html"
       - name: "Lecture 6: Prior and posterior distributions; random sampling"
         url: /materials_placeholder
+      - name: "Week 3 Readings and Practice"
+        url: "/assets/Week3.pdf"
       - name: "Homework 3"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
       - name: "Lab 3: Card Shuffling"
