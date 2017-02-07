@@ -109,7 +109,7 @@ weeks:
       - name: "Lecture 5: Independence and Poissonization; dependence and symmetry"
         url: "https://textbook.prob140.org/ch7/Poissonization.html"
       - name: "Lecture 6: Prior and posterior distributions; random sampling"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch8/Dependence.html"
       - name: "Week 3 Readings and Practice"
         url: "/assets/Week3.pdf"
       - name: "Homework 3"
@@ -126,6 +126,10 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 4"
       assignmentURL: /materials_placeholder
+      readings:
+        - name: "Ch 9: Expectation"
+          url: "https://textbook.prob140.org/ch9/Expectation.html"
+
 
     - date: Th 2/9
       lecture: "SD: properties, tail bounds, least squares"
@@ -135,7 +139,7 @@ weeks:
 
     links:
       - name: "Lecture 7: Expectation: properties and tail bounds"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch9/Expectation.html"
       - name: "Lecture 8: SD: properties, tail bounds, least squares"
         url: /materials_placeholder
       - name: "Homework 4"
