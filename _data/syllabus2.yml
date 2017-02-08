@@ -126,6 +126,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 4"
       assignmentURL: /materials_placeholder
+      problemURL: "/assets/Week4.pdf"
       readings:
         - name: "Ch 9: Expectation"
           url: "https://textbook.prob140.org/ch9/Expectation.html"
@@ -142,6 +143,8 @@ weeks:
         url: "https://textbook.prob140.org/ch9/Expectation.html"
       - name: "Lecture 8: SD: properties, tail bounds, least squares"
         url: /materials_placeholder
+      - name: "Week 4 Readings and Practice"
+      - url: /assets/Week4.pdf
       - name: "Homework 4"
         url: /materials_placeholder
       - name: "Lab 4"
