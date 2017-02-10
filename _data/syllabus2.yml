@@ -137,6 +137,9 @@ weeks:
       slidesURL: "https://textbook.prob140.org/ch10/Standard_Deviation.html"
       assignmentName: "Lab 4"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04"
+      readings:
+        - name: "Ch 10: Standard Deviation"
+          url: "https://textbook.prob140.org/ch10/Standard_Deviation.html"
 
     links:
       - name: "Lecture 7: Expectation: properties and tail bounds"
@@ -144,7 +147,7 @@ weeks:
       - name: "Lecture 8: SD: properties, tail bounds, least squares"
         url: "https://textbook.prob140.org/ch10/Standard_Deviation.html"
       - name: "Week 4 Readings and Practice"
-      - url: /assets/Week4.pdf
+      - url: "/assets/Week4.pdf"
       - name: "Homework 4"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw04"
       - name: "Lab 4"
