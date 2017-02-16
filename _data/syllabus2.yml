@@ -161,8 +161,11 @@ weeks:
       lecture: " Transition matrices and first-step analysis for probabilities"
       slidesURL: /materials_placeholder
       assignmentName: "HW 5"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
       problemURL:
+      readings:
+        - name: "Ch 11: Conditioning Revisited"
+          url: "https://textbook.prob140.org/ch11/ConditioningRevisited.html"
 
     - date: Wed 2/15
       lecture: " Quiz 2"
@@ -180,11 +183,11 @@ weeks:
 
     links:
       - name: "Lecture 9: Transition matrices and first-step analysis for probabilities"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch11/ConditioningRevisited.html"
       - name: "Lecture 10:  Limits, stationarity, occupation times"
         url: /materials_placeholder
       - name: "Homework 5"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
       - name: "Lab 5"
         url: /materials_placeholder
 
