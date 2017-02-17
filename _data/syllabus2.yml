@@ -179,7 +179,7 @@ weeks:
       lecture: " Limits, stationarity, occupation times"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 5"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05"
       readings:
         - name: "Ch 12: Markov Chains"
           url: "https://textbook.prob140.org/ch12/MarkovChains.html"
@@ -194,7 +194,7 @@ weeks:
       - name: "Homework 5"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
       - name: "Lab 5"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05"
 
   - weekNum: 6
     weekName: Conditioning and Bayes Revisited
