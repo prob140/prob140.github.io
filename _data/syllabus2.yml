@@ -180,6 +180,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "Lab 5"
       assignmentURL: /materials_placeholder
+      readings:
         - name: "Ch 12: Markov Chains"
           url: "https://textbook.prob140.org/ch12/MarkovChains.html"
 
