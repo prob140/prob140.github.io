@@ -162,7 +162,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 5"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
-      problemURL:
+      problemURL: "/assets/Week5.pdf"
       readings:
         - name: "Ch 11: Conditioning Revisited"
           url: "https://textbook.prob140.org/ch11/ConditioningRevisited.html"
@@ -189,6 +189,8 @@ weeks:
         url: "https://textbook.prob140.org/ch11/ConditioningRevisited.html"
       - name: "Lecture 10:  Limits, stationarity, occupation times"
         url: "https://textbook.prob140.org/ch12/MarkovChains.html"
+      - name: "Week 5 Practice"
+        url: "/assets/Week5.pdf"
       - name: "Homework 5"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
       - name: "Lab 5"
