@@ -18,7 +18,7 @@ weeks:
     - date: Th 1/19
       lecture: "Random variables: distributions, conditioning, equality"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 1: Birthday Problem Variations"
+      assignmentName: "Lab 1: Matches in Random Sampling"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
       readings:
         - name: "Ch 3: Random Variables"
@@ -56,7 +56,7 @@ weeks:
     - date: Th 1/26
       lecture: "Binomial and Multinomial Distributions; The Poisson Limit"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 2: Poisson Approximations"
+      assignmentName: "Lab 2: Poisson Approximations in Random Permutations"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02"
       readings:
         - name: "Ch 6: Random Counts"
@@ -71,7 +71,7 @@ weeks:
         url: "/assets/Week2.pdf"
       - name: "Homework 2"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02"
-      - name: "Lab 2: Poisson Approximations"
+      - name: "Lab 2: Poisson Approximations in Random Permutations"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02"
 
   - weekNum: 3
@@ -101,7 +101,7 @@ weeks:
     - date: Th 2/2
       lecture: "Prior and posterior distributions; random sampling"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 3: Card Shuffling"
+      assignmentName: "Lab 3: Riffle Shuffles and Randomness"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03"
       problemURL:
 
@@ -114,7 +114,7 @@ weeks:
         url: "/assets/Week3.pdf"
       - name: "Homework 3"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
-      - name: "Lab 3: Card Shuffling"
+      - name: "Lab 3: Riffle Shuffles and Randomness"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03"
 
   - weekNum: 4
@@ -135,7 +135,7 @@ weeks:
     - date: Th 2/9
       lecture: "SD: properties, tail bounds, least squares"
       slidesURL: "https://textbook.prob140.org/ch10/Standard_Deviation.html"
-      assignmentName: "Lab 4: Mean, Median, Minimum, Maximum"
+      assignmentName: "Lab 4: Minimum, Median, and Maximum"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04"
       readings:
         - name: "Ch 10: Standard Deviation"
@@ -150,7 +150,7 @@ weeks:
       - url: "/assets/Week4.pdf"
       - name: "Homework 4"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw04"
-      - name: "Lab 4: Mean, Median, Minimum, Maximum"
+      - name: "Lab 4: Minimum, Median, and Maximum"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04"
 
   - weekNum: 5
@@ -158,7 +158,7 @@ weeks:
     weekDuration: 2/13-2/17
     basic: 
     - date: Tue 2/14
-      lecture: " Transition matrices and first-step analysis for probabilities"
+      lecture: "Probabilities and expectation by conditioning"
       slidesURL: /materials_placeholder
       assignmentName: "HW 5"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
@@ -176,24 +176,24 @@ weeks:
 
 
     - date: Th 2/16
-      lecture: " Limits, stationarity, occupation times"
+      lecture: "Long run behavior of Markov Chains"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 5"
+      assignmentName: "Lab 5: Tsetlin Library and PageRank"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05"
       readings:
         - name: "Ch 12: Markov Chains"
           url: "https://textbook.prob140.org/ch12/MarkovChains.html"
 
     links:
-      - name: "Lecture 9: Transition matrices and first-step analysis for probabilities"
+      - name: "Lecture 9: Probabilities and expectation by conditioning"
         url: "https://textbook.prob140.org/ch11/ConditioningRevisited.html"
-      - name: "Lecture 10:  Limits, stationarity, occupation times"
+      - name: "Lecture 10: Long run behavior of Markov Chains"
         url: "https://textbook.prob140.org/ch12/MarkovChains.html"
-      - name: "Week 5 Practice"
+      - name: "Week 5 Readings and Practice"
         url: "/assets/Week5.pdf"
       - name: "Homework 5"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
-      - name: "Lab 5"
+      - name: "Lab 5: Tsetlin Library and PageRank"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05"
 
   - weekNum: 6
@@ -201,23 +201,23 @@ weeks:
     weekDuration: 2/20-2/24
     basic: 
     - date: Tue 2/21
-      lecture: "Reversing Markov chains"
+      lecture: "Hitting and occupation times"
       slidesURL: /materials_placeholder
       assignmentName: "HW 6"
       assignmentURL: /materials_placeholder
       problemURL:
 
     - date: Th 2/23
-      lecture: "Expectation by conditioning"
+      lecture: "Reversibility and MCMC"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 6"
       assignmentURL: /materials_placeholder
       problemURL:
 
     links:
-      - name: "Lecture 11: Reversing Markov chains"
+      - name: "Lecture 11: Hitting and occupation times"
         url: /materials_placeholder
-      - name: "Lecture 12:Expectation by conditioning"
+      - name: "Lecture 12: Reversibility and MCMC"
         url: /materials_placeholder
       - name: "Homework 6"
         url: /materials_placeholder
