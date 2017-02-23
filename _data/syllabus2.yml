@@ -206,6 +206,9 @@ weeks:
       assignmentName: "HW 6"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
       problemURL:
+      readings:
+        - name: "Ch 13: Hitting and Occupation Times"
+          url: "https://textbook.prob140.org/ch13/Hitting_and_Occupation_Times.html"
 
     - date: Th 2/23
       lecture: "Reversibility and MCMC"
@@ -213,12 +216,15 @@ weeks:
       assignmentName: "Lab 6"
       assignmentURL: /materials_placeholder
       problemURL:
+      readings:
+        - name: "Ch 14: Reversing Markov Chains"
+          url: "https://textbook.prob140.org/ch14/Detailed_Balance.html"
 
     links:
       - name: "Lecture 11: Hitting and occupation times"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch13/Hitting_and_Occupation_Times.html"
       - name: "Lecture 12: Reversibility and MCMC"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch14/Detailed_Balance.html"
       - name: "Homework 6"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
       - name: "Lab 6"
