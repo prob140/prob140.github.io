@@ -204,7 +204,7 @@ weeks:
       lecture: "Hitting and occupation times"
       slidesURL: /materials_placeholder
       assignmentName: "HW 6"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
       problemURL:
 
     - date: Th 2/23
@@ -220,7 +220,7 @@ weeks:
       - name: "Lecture 12: Reversibility and MCMC"
         url: /materials_placeholder
       - name: "Homework 6"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
       - name: "Lab 6"
         url: /materials_placeholder
 
