@@ -213,8 +213,8 @@ weeks:
     - date: Th 2/23
       lecture: "Reversibility and MCMC"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 6"
-      assignmentURL: /materials_placeholder
+      assignmentName: "Lab 6: Codebreaking by MCMC"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab06"
       problemURL:
       readings:
         - name: "Ch 14: Reversing Markov Chains"
@@ -227,8 +227,8 @@ weeks:
         url: "https://textbook.prob140.org/ch14/Detailed_Balance.html"
       - name: "Homework 6"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
-      - name: "Lab 6"
-        url: /materials_placeholder
+      - name: "Lab 6: Codebreaking by MCMC"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab06"
 
   - weekNum: 7
     weekName: Midterm
