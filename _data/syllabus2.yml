@@ -232,6 +232,8 @@ weeks:
         url: "https://textbook.prob140.org/ch13/Hitting_and_Occupation_Times.html"
       - name: "Lecture 12: Reversibility and MCMC"
         url: "https://textbook.prob140.org/ch14/Detailed_Balance.html"
+      - name: "Midterm Practice"
+        url: "/midterm_practice"
       - name: "Homework 6"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
       - name: "Lab 6: Codebreaking by MCMC"
@@ -248,8 +250,8 @@ weeks:
       lecture: "Midterm"
 
     links:
-      - name: "Review"
-        url: /materials_placeholder
+      - name: "Midterm Practice"
+        url: "/midterm_practice"
 
   - weekNum: 8
     weekName: Variability of Sample Sums

@@ -10,3 +10,5 @@ You may find the following resources helpful:
 - [Stat 134 Review Sheet](/assets/stat134_s17_midterm_review.pdf): You may ignore the questions related to the normal distribution ("What Distribution" #6 and "Recommended Problems" 3ii)
 - [Stat 134 Fall 2014 midterm](/assets/midterm_f14.pdf): You may skip over the SD part in Question 1. You should be able to do all the other problems without using the Normal CDF approximation. Remember to explicitly mention when you are using an approximation instead of an exact solution.
 - [Midterm review guide](/assets/Week6.pdf)
+
+Note that Prob140 covers material not included in the practice Stat 134 midterms, so make sure to read through the course notes.
