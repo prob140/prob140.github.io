@@ -8,6 +8,7 @@ weeks:
       slidesURL: /
       assignmentName: "HW 1"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01"
+      problemName: "Guide"
       problemURL: "/assets/Week1_practice.pdf"
       readings:
         - name: "Ch 1: Fundamentals"
@@ -48,6 +49,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 2"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02"
+      problemName: "Guide"
       problemURL: "/assets/Week2.pdf"
       readings:
         - name: "Ch 5: Collections of Events"
@@ -83,6 +85,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 3"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
+      problemName: "Guide"
       problemURL: "/assets/Week3.pdf"
       readings:
         - name: "Ch 7: Poissonization"
@@ -126,6 +129,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 4"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw04"
+      problemName: "Guide"
       problemURL: "/assets/Week4.pdf"
       readings:
         - name: "Ch 9: Expectation"
@@ -162,6 +166,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 5"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
+      problemName: "Guide"
       problemURL: "/assets/Week5.pdf"
       readings:
         - name: "Ch 11: Conditioning Revisited"
@@ -205,7 +210,8 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 6"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
-      problemURL:
+      problemName: "Midterm Guide"
+      problemURL: "/assets/Week6.pdf"
       readings:
         - name: "Ch 13: Hitting and Occupation Times"
           url: "https://textbook.prob140.org/ch13/Hitting_and_Occupation_Times.html"
@@ -215,7 +221,8 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "Lab 6: Codebreaking by MCMC"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab06"
-      problemURL:
+      problemName: "Problems"
+      problemURL: "/midterm_practice"
       readings:
         - name: "Ch 14: Reversing Markov Chains"
           url: "https://textbook.prob140.org/ch14/Detailed_Balance.html"
@@ -253,6 +260,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 7"
       assignmentURL: /materials_placeholder
+      problemName: "Guide"
       problemURL:
 
     - date: Th 3/9
@@ -281,6 +289,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 8"
       assignmentURL: /materials_placeholder
+      problemName: "Guide"
       problemURL:
 
     - date: Th 3/16
@@ -310,6 +319,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 9"
       assignmentURL: /materials_placeholder
+      problemName: "Guide"
       problemURL:
 
     - date: Wed 3/22
@@ -347,6 +357,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 10"
       assignmentURL: /materials_placeholder
+      problemName: "Guide"
       problemURL:
 
     - date: Th 4/6
@@ -375,6 +386,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 11"
       assignmentURL: /materials_placeholder
+      problemName: "Guide"
       problemURL:
 
     - date: Wed 4/12
@@ -411,6 +423,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 12"
       assignmentURL: /materials_placeholder
+      problemName: "Guide"
       problemURL:
 
     - date: Th 4/21
@@ -439,6 +452,7 @@ weeks:
       slidesURL: /materials_placeholder
       assignmentName: "HW 13"
       assignmentURL: /materials_placeholder
+      problemName: "Guide"
       problemURL:
 
     - date: Th 4/27
