@@ -252,6 +252,10 @@ weeks:
     links:
       - name: "Midterm Practice"
         url: "/midterm_practice"
+      - name: "Midterm Guide"
+        url: "/assets/Week6.pdf"
+      - name: "Midterm Cover Page"
+        url: "/assets/midterm_cover_page.pdf"
 
   - weekNum: 8
     weekName: Variability of Sample Sums

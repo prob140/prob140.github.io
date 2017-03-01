@@ -11,4 +11,6 @@ You may find the following resources helpful:
 - [Stat 134 Fall 2014 midterm](/assets/midterm_f14.pdf): You may skip over the SD part in Question 1. You should be able to do all the other problems without using the Normal CDF approximation. Remember to explicitly mention when you are using an approximation instead of an exact solution.
 - [Midterm review guide](/assets/Week6.pdf)
 
+- [Midterm Cover Sheet](/assets/midterm_cover_page.pdf): You should read this carefully before the midterm. It will answer some of your questions about the logistics and save you some time on the day of the midterm.
+
 Note that Prob140 covers material not included in the practice Stat 134 midterms, so make sure to read through the course notes.
