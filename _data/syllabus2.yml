@@ -268,6 +268,9 @@ weeks:
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
+      readings:
+        - name: "Ch 15: Variance Via Covariance"
+        - url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
 
     - date: Th 3/9
       lecture: "Central Limit Theorem"
@@ -278,7 +281,7 @@ weeks:
 
     links:
       - name: "Lecture 13: Covariance and its uses"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
       - name: "Lecture 14: Central Limit Theorem"
         url: /materials_placeholder
       - name: "Homework 7"
