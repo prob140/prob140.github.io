@@ -270,7 +270,7 @@ weeks:
       problemURL:
       readings:
         - name: "Ch 15: Variance Via Covariance"
-        - url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
+          url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
 
     - date: Th 3/9
       lecture: "Central Limit Theorem"
