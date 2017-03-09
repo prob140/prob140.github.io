@@ -245,9 +245,13 @@ weeks:
     basic: 
     - date: Tue 2/28
       lecture: "Review"
+      assignmentName: "No HW 7"
+      assignmentURL:
 
     - date: Th 3/2
       lecture: "Midterm"
+      assignmentName: "No Lab 7"
+      assignmentURL:
 
     links:
       - name: "Midterm Practice"
@@ -264,10 +268,10 @@ weeks:
     - date: Tue 3/7
       lecture: "Covariance and its uses"
       slidesURL: /materials_placeholder
-      assignmentName: "HW 7"
-      assignmentURL: /materials_placeholder
+      assignmentName: "HW 8"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw08"
       problemName: "Guide"
-      problemURL:
+      problemURL: "assets/Week8.pdf"
       readings:
         - name: "Ch 15: Variance Via Covariance"
           url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
@@ -275,7 +279,7 @@ weeks:
     - date: Th 3/9
       lecture: "Central Limit Theorem"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 7"
+      assignmentName: "Lab 8"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -284,9 +288,11 @@ weeks:
         url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
       - name: "Lecture 14: Central Limit Theorem"
         url: /materials_placeholder
-      - name: "Homework 7"
-        url: /materials_placeholder
-      - name: "Lab 7"
+      - name: "Week 8 Readings and Practice"
+        url: /assets/Week8.pdf
+      - name: "Homework 8"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw08"
+      - name: "Lab 8"
         url: /materials_placeholder
 
   - weekNum: 9
@@ -296,7 +302,7 @@ weeks:
     - date: Tue 3/14
       lecture: "Probability densities"
       slidesURL: /materials_placeholder
-      assignmentName: "HW 8"
+      assignmentName: "HW 9"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
@@ -304,7 +310,7 @@ weeks:
     - date: Th 3/16
       lecture: "Transformations"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 8"
+      assignmentName: "Lab 9"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -313,9 +319,9 @@ weeks:
         url: /materials_placeholder
       - name: "Lecture 16: Transformations"
         url: /materials_placeholder
-      - name: "Homework 8"
+      - name: "Homework 9"
         url: /materials_placeholder
-      - name: "Lab 8"
+      - name: "Lab 9"
         url: /materials_placeholder
 
 
@@ -326,7 +332,7 @@ weeks:
     - date: Tue 3/21
       lecture: "Joint densities"
       slidesURL: /materials_placeholder
-      assignmentName: "HW 9"
+      assignmentName: "HW 10"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
@@ -342,7 +348,7 @@ weeks:
     - date: Th 3/23
       lecture: "Maximum Likelihood"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 9"
+      assignmentName: "Lab 10"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -351,9 +357,9 @@ weeks:
         url: /materials_placeholder
       - name: "Lecture 18: Maximum Likelihood"
         url: /materials_placeholder
-      - name: "Homework 9"
+      - name: "Homework 10"
         url: /materials_placeholder
-      - name: "Lab 9"
+      - name: "Lab 10"
         url: /materials_placeholder
 
 
@@ -364,7 +370,7 @@ weeks:
     - date: Tue 4/4
       lecture: "The beta and gamma families"
       slidesURL: /materials_placeholder
-      assignmentName: "HW 10"
+      assignmentName: "HW 11"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
@@ -372,7 +378,7 @@ weeks:
     - date: Th 4/6
       lecture: "t, F, and chi-squared"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 10"
+      assignmentName: "Lab 11"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -381,9 +387,9 @@ weeks:
         url: /materials_placeholder
       - name: "Lecture 20: t, F, and chi-squared"
         url: /materials_placeholder
-      - name: "Homework 10"
+      - name: "Homework 11"
         url: /materials_placeholder
-      - name: "Lab 10"
+      - name: "Lab 11"
         url: /materials_placeholder
 
   - weekNum: 12
@@ -393,7 +399,7 @@ weeks:
     - date: Tue 4/11
       lecture: "Prior and posterior densities; beta-binomial"
       slidesURL: /materials_placeholder
-      assignmentName: "HW 11"
+      assignmentName: "HW 12"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
@@ -409,7 +415,7 @@ weeks:
     - date: Th 4/13
       lecture: "Dirichlet-multinomial"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 11"
+      assignmentName: "Lab 12"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -418,9 +424,9 @@ weeks:
         url: /materials_placeholder
       - name: "Lecture 22: Dirichlet-multinomial"
         url: /materials_placeholder
-      - name: "Homework 11"
+      - name: "Homework 12"
         url: /materials_placeholder
-      - name: "Lab 11"
+      - name: "Lab 12"
         url: /materials_placeholder
 
   - weekNum: 13
@@ -430,7 +436,7 @@ weeks:
     - date: Tue 4/17
       lecture: "Best predictor"
       slidesURL: /materials_placeholder
-      assignmentName: "HW 12"
+      assignmentName: "HW 13"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
@@ -438,7 +444,7 @@ weeks:
     - date: Th 4/21
       lecture: "Best linear predictor: correlation and regression"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 12"
+      assignmentName: "Lab 13"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -447,9 +453,9 @@ weeks:
         url: /materials_placeholder
       - name: "Lecture 24: Best linear predictor: correlation and regression"
         url: /materials_placeholder
-      - name: "Homework 12"
+      - name: "Homework 13"
         url: /materials_placeholder
-      - name: "Lab 12"
+      - name: "Lab 13"
         url: /materials_placeholder
 
   - weekNum: 14
@@ -459,7 +465,7 @@ weeks:
     - date: Tue 4/25
       lecture: "The multivariate normal"
       slidesURL: /materials_placeholder
-      assignmentName: "HW 13"
+      assignmentName: "HW 14"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
@@ -467,7 +473,7 @@ weeks:
     - date: Th 4/27
       lecture: "Best linear predictor: correlation and regression"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 13"
+      assignmentName: "Lab 14"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -476,7 +482,7 @@ weeks:
         url: /materials_placeholder
       - name: "Lecture 26: Best linear predictor: correlation and regression"
         url: /materials_placeholder
-      - name: "Homework 13"
+      - name: "Homework 14"
         url: /materials_placeholder
-      - name: "Lab 13"
+      - name: "Lab 14"
         url: /materials_placeholder
