@@ -279,21 +279,24 @@ weeks:
     - date: Th 3/9
       lecture: "Central Limit Theorem"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 8"
-      assignmentURL: /materials_placeholder
+      assignmentName: "Lab 8: Binomial, Poisson, and Normal"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab08"
       problemURL:
+      readings:
+        - name: "Ch 16: The Central Limit Theorem"
+          url: "https://textbook.prob140.org/ch16/The_Central_Limit_Theorem.html"
 
     links:
       - name: "Lecture 13: Covariance and its uses"
         url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
       - name: "Lecture 14: Central Limit Theorem"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch16/The_Central_Limit_Theorem.html"
       - name: "Week 8 Readings and Practice"
         url: /assets/Week8.pdf
       - name: "Homework 8"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw08"
-      - name: "Lab 8"
-        url: /materials_placeholder
+      - name: "Lab 8: Binomial, Poisson, and Normal"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab08"
 
   - weekNum: 9
     weekName: A Continuum of Values
