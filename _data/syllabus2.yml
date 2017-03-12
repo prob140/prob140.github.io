@@ -333,7 +333,7 @@ weeks:
     weekDuration: 3/20-3/24
     basic:
     - date: Tue 3/21
-      lecture: "Joint densities"
+      lecture: "Joint densities; the beta family"
       slidesURL: /materials_placeholder
       assignmentName: "HW 10"
       assignmentURL: /materials_placeholder
@@ -349,20 +349,18 @@ weeks:
       readingURL:
 
     - date: Th 3/23
-      lecture: "Maximum Likelihood"
+      lecture: "The gamma family"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 10"
+      assignmentName: "No Lab 10"
       assignmentURL: /materials_placeholder
       problemURL:
 
     links:
-      - name: "Lecture 17: Joint densities"
+      - name: "Lecture 17: Joint densities; the beta family"
         url: /materials_placeholder
-      - name: "Lecture 18: Maximum Likelihood"
+      - name: "Lecture 18: The gamma family"
         url: /materials_placeholder
       - name: "Homework 10"
-        url: /materials_placeholder
-      - name: "Lab 10"
         url: /materials_placeholder
 
 
@@ -371,7 +369,7 @@ weeks:
     weekDuration: 4/3-4/7
     basic:
     - date: Tue 4/4
-      lecture: "The beta and gamma families"
+      lecture: "Maximum likelihood; t, F, and chi-squared"
       slidesURL: /materials_placeholder
       assignmentName: "HW 11"
       assignmentURL: /materials_placeholder
@@ -379,16 +377,16 @@ weeks:
       problemURL:
 
     - date: Th 4/6
-      lecture: "t, F, and chi-squared"
+      lecture: "Moment Generating Functions"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 11"
       assignmentURL: /materials_placeholder
       problemURL:
 
     links:
-      - name: "Lecture 19: The beta and gamma families"
+      - name: "Lecture 19: Maximum likelihood; t, F, and chi-squared"
         url: /materials_placeholder
-      - name: "Lecture 20: t, F, and chi-squared"
+      - name: "Lecture 20: Moment Generating Functions"
         url: /materials_placeholder
       - name: "Homework 11"
         url: /materials_placeholder
@@ -474,18 +472,16 @@ weeks:
       problemURL:
 
     - date: Th 4/27
-      lecture: "Best linear predictor: correlation and regression"
+      lecture: "Conclusion"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 14"
+      assignmentName: "No Lab 14"
       assignmentURL: /materials_placeholder
       problemURL:
 
     links:
       - name: "Lecture 25: The multivariate normal"
         url: /materials_placeholder
-      - name: "Lecture 26: Best linear predictor: correlation and regression"
+      - name: "Lecture 26: Conclusion"
         url: /materials_placeholder
       - name: "Homework 14"
-        url: /materials_placeholder
-      - name: "Lab 14"
         url: /materials_placeholder
