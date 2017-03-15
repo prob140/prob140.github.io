@@ -309,6 +309,9 @@ weeks:
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
+      readings:
+        - name: "Ch 17: Continuous Distributions"
+          url: "https://textbook.prob140.org/ch17/Continuous_Distributions.html"
 
     - date: Th 3/16
       lecture: "Transformations"
@@ -319,7 +322,7 @@ weeks:
 
     links:
       - name: "Lecture 15: Probability densities"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch17/Continuous_Distributions.html"
       - name: "Lecture 16: Transformations"
         url: /materials_placeholder
       - name: "Homework 9"
