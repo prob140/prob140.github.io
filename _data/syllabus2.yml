@@ -308,7 +308,7 @@ weeks:
       assignmentName: "HW 9"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
       problemName: "Guide"
-      problemURL:
+      problemURL: /assets/Week9.pdf
       readings:
         - name: "Ch 17: Continuous Distributions"
           url: "https://textbook.prob140.org/ch17/Continuous_Distributions.html"
@@ -319,12 +319,17 @@ weeks:
       assignmentName: "Lab 9"
       assignmentURL: /materials_placeholder
       problemURL:
+      readings:
+        - name: "Ch 18: Transformations"
+          url: "https://textbook.prob140.org/ch18/Transformations.html"
 
     links:
       - name: "Lecture 15: Probability densities"
         url: "https://textbook.prob140.org/ch17/Continuous_Distributions.html"
       - name: "Lecture 16: Transformations"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch18/Transformations.html"
+      - name: "Week 9 Readings and Practice"
+        url: /assets/Week9.pdf
       - name: "Homework 9"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
       - name: "Lab 9"
