@@ -306,7 +306,7 @@ weeks:
       lecture: "Probability densities"
       slidesURL: /materials_placeholder
       assignmentName: "HW 9"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
       problemName: "Guide"
       problemURL:
       readings:
@@ -326,7 +326,7 @@ weeks:
       - name: "Lecture 16: Transformations"
         url: /materials_placeholder
       - name: "Homework 9"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
       - name: "Lab 9"
         url: /materials_placeholder
 
