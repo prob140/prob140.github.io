@@ -317,7 +317,7 @@ weeks:
       lecture: "Transformations"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 9"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09"
       problemURL:
       readings:
         - name: "Ch 18: Transformations"
@@ -333,7 +333,7 @@ weeks:
       - name: "Homework 9"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
       - name: "Lab 9"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09"
 
 
   - weekNum: 10
