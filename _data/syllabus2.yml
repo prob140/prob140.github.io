@@ -347,6 +347,9 @@ weeks:
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
+      readings:
+        - name: "Ch 19: Joint Density"
+          url: "https://textbook.prob140.org/ch19/Joint_Densities.html"
 
     - date: Wed 3/22
       lecture: " Quiz 3"
@@ -365,7 +368,7 @@ weeks:
 
     links:
       - name: "Lecture 17: Joint densities; the beta family"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch19/Joint_Densities.html"
       - name: "Lecture 18: The gamma family"
         url: /materials_placeholder
       - name: "Homework 10"
