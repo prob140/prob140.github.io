@@ -344,7 +344,7 @@ weeks:
       lecture: "Joint densities; the beta family"
       slidesURL: /materials_placeholder
       assignmentName: "HW 10"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10"
       problemName: "Guide"
       problemURL:
       readings:
@@ -372,7 +372,7 @@ weeks:
       - name: "Lecture 18: The gamma family"
         url: /materials_placeholder
       - name: "Homework 10"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10"
 
 
   - weekNum: 11
