@@ -346,7 +346,7 @@ weeks:
       assignmentName: "HW 10"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10"
       problemName: "Guide"
-      problemURL:
+      problemURL: "assets/Week10.pdf"
       readings:
         - name: "Ch 19: Joint Density"
           url: "https://textbook.prob140.org/ch19/Joint_Densities.html"
@@ -371,6 +371,8 @@ weeks:
         url: "https://textbook.prob140.org/ch19/Joint_Densities.html"
       - name: "Lecture 18: The gamma family"
         url: /materials_placeholder
+      - name: "Week 10 Readings and Practice"
+        url: /assets/Week10.pdf
       - name: "Homework 10"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10"
 
