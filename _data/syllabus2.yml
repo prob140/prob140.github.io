@@ -337,7 +337,7 @@ weeks:
 
 
   - weekNum: 10
-    weekName: An Approach to Inference
+    weekName: Families of Densities
     weekDuration: 3/20-3/24
     basic:
     - date: Tue 3/21
@@ -378,7 +378,7 @@ weeks:
 
 
   - weekNum: 11
-    weekName: Beta-Gamma Algebra
+    weekName: An Approach to Inference
     weekDuration: 4/3-4/7
     basic:
     - date: Tue 4/4
@@ -407,7 +407,7 @@ weeks:
         url: /materials_placeholder
 
   - weekNum: 12
-    weekName: Bayesian Inference
+    weekName: A Different Approach to Inference
     weekDuration: 4/10-4/14
     basic:
     - date: Tue 4/11
