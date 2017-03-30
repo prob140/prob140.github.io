@@ -316,7 +316,7 @@ weeks:
     - date: Th 3/16
       lecture: "Transformations"
       slidesURL: /materials_placeholder
-      assignmentName: "Lab 9"
+      assignmentName: "Lab 9: Simulation and the CDF"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09"
       problemURL:
       readings:
@@ -332,7 +332,7 @@ weeks:
         url: /assets/Week9.pdf
       - name: "Homework 9"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
-      - name: "Lab 9"
+      - name: "Lab 9: Simulation and the CDF"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09"
 
 
@@ -341,7 +341,7 @@ weeks:
     weekDuration: 3/20-3/24
     basic:
     - date: Tue 3/21
-      lecture: "Joint densities; the beta family"
+      lecture: "Joint densities"
       slidesURL: /materials_placeholder
       assignmentName: "HW 10"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10"
@@ -360,16 +360,16 @@ weeks:
       readingURL:
 
     - date: Th 3/23
-      lecture: "The gamma family"
+      lecture: "The Beta Family"
       slidesURL: /materials_placeholder
       assignmentName: "No Lab 10"
       assignmentURL: /materials_placeholder
       problemURL:
 
     links:
-      - name: "Lecture 17: Joint densities; the beta family"
+      - name: "Lecture 17: Joint densities"
         url: "https://textbook.prob140.org/ch19/Joint_Densities.html"
-      - name: "Lecture 18: The gamma family"
+      - name: "Lecture 18: The Beta Family"
         url: /materials_placeholder
       - name: "Week 10 Readings and Practice"
         url: /assets/Week10.pdf
@@ -382,7 +382,7 @@ weeks:
     weekDuration: 4/3-4/7
     basic:
     - date: Tue 4/4
-      lecture: "Maximum likelihood; t, F, and chi-squared"
+      lecture: "Independent normals; maximum likelihood"
       slidesURL: /materials_placeholder
       assignmentName: "HW 11"
       assignmentURL: /materials_placeholder
@@ -390,16 +390,16 @@ weeks:
       problemURL:
 
     - date: Th 4/6
-      lecture: "Moment Generating Functions"
+      lecture: "Sums and the gamma family"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 11"
       assignmentURL: /materials_placeholder
       problemURL:
 
     links:
-      - name: "Lecture 19: Maximum likelihood; t, F, and chi-squared"
+      - name: "Lecture 19: Independent normals; maximum likelihood"
         url: /materials_placeholder
-      - name: "Lecture 20: Moment Generating Functions"
+      - name: "Lecture 20: Sums and the gamma family"
         url: /materials_placeholder
       - name: "Homework 11"
         url: /materials_placeholder
@@ -411,7 +411,7 @@ weeks:
     weekDuration: 4/10-4/14
     basic:
     - date: Tue 4/11
-      lecture: "Prior and posterior densities; beta-binomial"
+      lecture: "Moment generating functions; Chernoff bound"
       slidesURL: /materials_placeholder
       assignmentName: "HW 12"
       assignmentURL: /materials_placeholder
@@ -427,16 +427,16 @@ weeks:
       readingURL:
 
     - date: Th 4/13
-      lecture: "Dirichlet-multinomial"
+      lecture: "Prior and posterior densities; beta-binomial"
       slidesURL: /materials_placeholder
       assignmentName: "Lab 12"
       assignmentURL: /materials_placeholder
       problemURL:
 
     links:
-      - name: "Lecture 21: Prior and posterior densities; beta-binomial"
+      - name: "Lecture 21: Moment generating functions; Chernoff bound"
         url: /materials_placeholder
-      - name: "Lecture 22: Dirichlet-multinomial"
+      - name: "Lecture 22: Prior and posterior densities; beta-binomial"
         url: /materials_placeholder
       - name: "Homework 12"
         url: /materials_placeholder
