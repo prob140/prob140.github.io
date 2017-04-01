@@ -5,7 +5,8 @@
   <tr> <td class="weeknum" rowspan="3">{{org_hash.weekNum}}</td>
 	{% for day in org_hash.basic %}
 	<td> {{day.date}} </td>
-	<td> {{day.lecture}}</td>
+	<td> {% if day.slidesURL %} <a href="{{day.slidesURL}}"> {{day.lecture}}</a>  {% else %} {{day.lecture}} {% endif %}
+		</td>
 	<td>
 	{% for reading in day.readings %}
 	<a href="{{reading.url}}">{{reading.name}} </a> <br />

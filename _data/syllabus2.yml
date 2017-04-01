@@ -5,7 +5,7 @@ weeks:
     basic: 
     - date: Tue 1/17
       lecture: "Probability: axioms, rules, approximation"
-      slidesURL: /
+      slidesURL:
       assignmentName: "HW 1"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01"
       problemName: "Guide"
@@ -18,7 +18,7 @@ weeks:
 
     - date: Th 1/19
       lecture: "Random variables: distributions, conditioning, equality"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 1: Matches in Random Sampling"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
       readings:
@@ -46,7 +46,7 @@ weeks:
     basic: 
     - date: Tue 1/24
       lecture: "Induction, counting, and bounds"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 2"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02"
       problemName: "Guide"
@@ -57,7 +57,7 @@ weeks:
 
     - date: Th 1/26
       lecture: "Binomial and Multinomial Distributions; The Poisson Limit"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 2: Poisson Approximations in Random Permutations"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02"
       readings:
@@ -82,7 +82,7 @@ weeks:
     basic: 
     - date: Tue 1/31
       lecture: "Independence and Poissonization; dependence and symmetry"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 3"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
       problemName: "Guide"
@@ -103,7 +103,7 @@ weeks:
 
     - date: Th 2/2
       lecture: "Prior and posterior distributions; random sampling"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 3: Riffle Shuffles and Randomness"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03"
       problemURL:
@@ -126,7 +126,7 @@ weeks:
     basic: 
     - date: Tue 2/7
       lecture: "Expectation: properties and tail bounds"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 4"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw04"
       problemName: "Guide"
@@ -138,7 +138,7 @@ weeks:
 
     - date: Th 2/9
       lecture: "SD: properties, tail bounds, least squares"
-      slidesURL: "https://textbook.prob140.org/ch10/Standard_Deviation.html"
+      slidesURL:
       assignmentName: "Lab 4: Minimum, Median, and Maximum"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04"
       readings:
@@ -163,7 +163,7 @@ weeks:
     basic: 
     - date: Tue 2/14
       lecture: "Probabilities and expectation by conditioning"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 5"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
       problemName: "Guide"
@@ -182,7 +182,7 @@ weeks:
 
     - date: Th 2/16
       lecture: "Long run behavior of Markov Chains"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 5: Tsetlin Library and PageRank"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05"
       readings:
@@ -207,7 +207,7 @@ weeks:
     basic: 
     - date: Tue 2/21
       lecture: "Hitting and occupation times"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 6"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
       problemName: "Midterm Guide"
@@ -218,7 +218,7 @@ weeks:
 
     - date: Th 2/23
       lecture: "Reversibility and MCMC"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 6: Codebreaking by MCMC"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab06"
       problemName: "Problems"
@@ -267,7 +267,7 @@ weeks:
     basic:
     - date: Tue 3/7
       lecture: "Covariance and its uses"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 8"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw08"
       problemName: "Guide"
@@ -278,7 +278,7 @@ weeks:
 
     - date: Th 3/9
       lecture: "Central Limit Theorem"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 8: Binomial, Poisson, and Normal"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab08"
       problemURL:
@@ -304,7 +304,7 @@ weeks:
     basic:
     - date: Tue 3/14
       lecture: "Probability densities"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 9"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
       problemName: "Guide"
@@ -315,7 +315,7 @@ weeks:
 
     - date: Th 3/16
       lecture: "Transformations"
-      slidesURL: /materials_placeholder
+      slidesURL: 
       assignmentName: "Lab 9: Simulation and the CDF"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09"
       problemURL:
@@ -342,7 +342,7 @@ weeks:
     basic:
     - date: Tue 3/21
       lecture: "Joint densities"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 10"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10"
       problemName: "Guide"
@@ -361,7 +361,7 @@ weeks:
 
     - date: Th 3/23
       lecture: "The Beta Family"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "No Lab 10"
       assignmentURL: /materials_placeholder
       problemURL:
@@ -383,7 +383,7 @@ weeks:
     basic:
     - date: Tue 4/4
       lecture: "Independent normals; maximum likelihood"
-      slidesURL: /materials_placeholder
+      slidesURL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465539/"
       assignmentName: "HW 11"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
@@ -391,7 +391,7 @@ weeks:
 
     - date: Th 4/6
       lecture: "Sums and the gamma family"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 11"
       assignmentURL: /materials_placeholder
       problemURL:
@@ -412,7 +412,7 @@ weeks:
     basic:
     - date: Tue 4/11
       lecture: "Moment generating functions; Chernoff bound"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 12"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
@@ -428,7 +428,7 @@ weeks:
 
     - date: Th 4/13
       lecture: "Prior and posterior densities; beta-binomial"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 12"
       assignmentURL: /materials_placeholder
       problemURL:
@@ -449,7 +449,7 @@ weeks:
     basic:
     - date: Tue 4/17
       lecture: "Best predictor"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 13"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
@@ -457,7 +457,7 @@ weeks:
 
     - date: Th 4/21
       lecture: "Best linear predictor: correlation and regression"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "Lab 13"
       assignmentURL: /materials_placeholder
       problemURL:
@@ -478,7 +478,7 @@ weeks:
     basic:
     - date: Tue 4/25
       lecture: "The multivariate normal"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "HW 14"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
@@ -486,7 +486,7 @@ weeks:
 
     - date: Th 4/27
       lecture: "Conclusion"
-      slidesURL: /materials_placeholder
+      slidesURL:
       assignmentName: "No Lab 14"
       assignmentURL: /materials_placeholder
       problemURL:
