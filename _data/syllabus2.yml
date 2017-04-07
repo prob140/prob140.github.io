@@ -387,7 +387,7 @@ weeks:
       assignmentName: "HW 11"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw11"
       problemName: "Guide"
-      problemURL:
+      problemURL: "assets/Week11.pdf"
       readings:
         - name: "Ch 20: Applications of the Normal"
           url: "https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html"
@@ -404,6 +404,8 @@ weeks:
         url: "https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html"
       - name: "Lecture 20: Sums and the gamma family"
         url: /materials_placeholder
+      - name: "Week 11 Readings and Practice"
+        url: "assets/Week11.pdf"
       - name: "Homework 11"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw11"
       - name: "Lab 11"
