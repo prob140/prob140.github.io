@@ -396,20 +396,20 @@ weeks:
       lecture: "Sums and the gamma family"
       slidesURL:
       assignmentName: "Lab 11"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab11"
       problemURL:
 
     links:
       - name: "Lecture 19: Independent normals; maximum likelihood"
         url: "https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html"
       - name: "Lecture 20: Sums and the gamma family"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html"
       - name: "Week 11 Readings and Practice"
         url: "assets/Week11.pdf"
       - name: "Homework 11"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw11"
       - name: "Lab 11"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab11"
 
   - weekNum: 12
     weekName: A Different Approach to Inference
