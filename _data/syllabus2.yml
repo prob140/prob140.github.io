@@ -422,6 +422,9 @@ weeks:
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
+      readings:
+        - name: "Ch 21: Distributions of Sums"
+          url: "https://textbook.prob140.org/ch21/Distributions_of_Sums.html"
 
     - date: Wed 4/12
       lecture: " Quiz 4"
@@ -440,7 +443,7 @@ weeks:
 
     links:
       - name: "Lecture 21: Moment generating functions; Chernoff bound"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch21/Distributions_of_Sums.html"
       - name: "Lecture 22: Prior and posterior densities; beta-binomial"
         url: /materials_placeholder
       - name: "Homework 12"
