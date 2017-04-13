@@ -395,7 +395,7 @@ weeks:
     - date: Th 4/6
       lecture: "Sums and the gamma family"
       slidesURL:
-      assignmentName: "Lab 11"
+      assignmentName: "Lab 11: MLE, Chi-Squared, and Goodness of Fit"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab11"
       problemURL:
 
@@ -408,7 +408,7 @@ weeks:
         url: "assets/Week11.pdf"
       - name: "Homework 11"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw11"
-      - name: "Lab 11"
+      - name: "Lab 11: MLE, Chi-Squared, and Goodness of Fit"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab11"
 
   - weekNum: 12
@@ -419,7 +419,7 @@ weeks:
       lecture: "Moment generating functions; Chernoff bound"
       slidesURL:
       assignmentName: "HW 12"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12"
       problemName: "Guide"
       problemURL:
       readings:
@@ -440,14 +440,17 @@ weeks:
       assignmentName: "Lab 12"
       assignmentURL: /materials_placeholder
       problemURL:
+      readings:
+        - name: "Ch 22: Prior and Posterior Distributions"
+          url: "https://textbook.prob140.org/ch22/Prior_and_Posterior_Distributions.html"
 
     links:
       - name: "Lecture 21: Moment generating functions; Chernoff bound"
         url: "https://textbook.prob140.org/ch21/Distributions_of_Sums.html"
       - name: "Lecture 22: Prior and posterior densities; beta-binomial"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch22/Prior_and_Posterior_Distributions.html"
       - name: "Homework 12"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12"
       - name: "Lab 12"
         url: /materials_placeholder
 
