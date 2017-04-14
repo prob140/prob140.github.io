@@ -437,8 +437,8 @@ weeks:
     - date: Th 4/13
       lecture: "Prior and posterior densities; beta-binomial"
       slidesURL:
-      assignmentName: "Lab 12"
-      assignmentURL: /materials_placeholder
+      assignmentName: "Lab 12: Chinese Restaurant Process, Part I"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab12"
       problemURL:
       readings:
         - name: "Ch 22: Prior and Posterior Distributions"
@@ -451,8 +451,8 @@ weeks:
         url: "https://textbook.prob140.org/ch22/Prior_and_Posterior_Distributions.html"
       - name: "Homework 12"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12"
-      - name: "Lab 12"
-        url: /materials_placeholder
+      - name: "Lab 12: Chinese Restaurant Process, Part I"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab12"
 
   - weekNum: 13
     weekName: Prediction
