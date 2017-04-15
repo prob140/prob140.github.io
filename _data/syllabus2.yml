@@ -362,7 +362,7 @@ weeks:
     - date: Th 3/23
       lecture: "The Beta Family"
       slidesURL:
-      assignmentName: "No Lab 10"
+      assignmentName: "No Lab 10 (Spring Break)"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -471,7 +471,7 @@ weeks:
     - date: Th 4/21
       lecture: "Best linear predictor: correlation and regression"
       slidesURL:
-      assignmentName: "Lab 13"
+      assignmentName: "Lab 13: Chinese Restaurant Process II"
       assignmentURL: /materials_placeholder
       problemURL:
 
@@ -492,7 +492,7 @@ weeks:
     - date: Tue 4/25
       lecture: "The multivariate normal"
       slidesURL:
-      assignmentName: "HW 14"
+      assignmentName: "No HW due in RRR week"
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
@@ -500,7 +500,7 @@ weeks:
     - date: Th 4/27
       lecture: "Conclusion"
       slidesURL:
-      assignmentName: "No Lab 14"
+      assignmentName: ""
       assignmentURL: /materials_placeholder
       problemURL:
 
