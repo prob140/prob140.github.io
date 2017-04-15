@@ -421,7 +421,7 @@ weeks:
       assignmentName: "HW 12"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12"
       problemName: "Guide"
-      problemURL:
+      problemURL: "assets/Week12.pdf"
       readings:
         - name: "Ch 21: Distributions of Sums"
           url: "https://textbook.prob140.org/ch21/Distributions_of_Sums.html"
@@ -449,6 +449,8 @@ weeks:
         url: "https://textbook.prob140.org/ch21/Distributions_of_Sums.html"
       - name: "Lecture 22: Prior and posterior densities; beta-binomial"
         url: "https://textbook.prob140.org/ch22/Prior_and_Posterior_Distributions.html"
+      - name: "Week 12 Readings and Practice"
+        url: "assets/Week12.pdf"
       - name: "Homework 12"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12"
       - name: "Lab 12: Chinese Restaurant Process, Part I"
