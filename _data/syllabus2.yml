@@ -437,7 +437,7 @@ weeks:
     - date: Th 4/13
       lecture: "Prior and posterior densities; beta-binomial"
       slidesURL:
-      assignmentName: "Lab 12: Chinese Restaurant Process, Part I"
+      assignmentName: "Lab 12: Chinese Restaurant Process I"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab12"
       problemURL:
       readings:
@@ -453,7 +453,7 @@ weeks:
         url: "assets/Week12.pdf"
       - name: "Homework 12"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12"
-      - name: "Lab 12: Chinese Restaurant Process, Part I"
+      - name: "Lab 12: Chinese Restaurant Process I"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab12"
 
   - weekNum: 13
@@ -482,7 +482,7 @@ weeks:
         url: /materials_placeholder
       - name: "Homework 13"
         url: /materials_placeholder
-      - name: "Lab 13"
+      - name: "Lab 13: Chinese Restaurant Process II"
         url: /materials_placeholder
 
   - weekNum: 14
