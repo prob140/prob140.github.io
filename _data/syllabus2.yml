@@ -474,10 +474,13 @@ weeks:
       assignmentName: "Lab 13: Chinese Restaurant Process II"
       assignmentURL: /materials_placeholder
       problemURL:
+      readings:
+        - name: "Ch 23: Prediction"
+          url: "https://textbook.prob140.org/ch23/Prediction.html"
 
     links:
       - name: "Lecture 23: Best predictor"
-        url: /materials_placeholder
+        url: "https://textbook.prob140.org/ch23/Prediction.html"
       - name: "Lecture 24: Best linear predictor: correlation and regression"
         url: /materials_placeholder
       - name: "Homework 13"
