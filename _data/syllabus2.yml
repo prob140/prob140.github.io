@@ -466,7 +466,7 @@ weeks:
       assignmentName: "HW 13"
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13"
       problemName: "Guide"
-      problemURL:
+      problemURL: "assets/Week13.pdf"
 
     - date: Th 4/21
       lecture: "Best linear predictor: correlation and regression"
@@ -483,6 +483,8 @@ weeks:
         url: "https://textbook.prob140.org/ch23/Prediction.html"
       - name: "Lecture 24: Best linear predictor: correlation and regression"
         url: /materials_placeholder
+      - name: "Week 13 Readings and Practice"
+        url: "assets/Week13.pdf"
       - name: "Homework 13"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13"
       - name: "Lab 13: Chinese Restaurant Process II"
