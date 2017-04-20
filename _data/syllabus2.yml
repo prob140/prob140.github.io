@@ -464,7 +464,7 @@ weeks:
       lecture: "Best predictor"
       slidesURL:
       assignmentName: "HW 13"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13"
       problemName: "Guide"
       problemURL:
 
@@ -484,7 +484,7 @@ weeks:
       - name: "Lecture 24: Best linear predictor: correlation and regression"
         url: /materials_placeholder
       - name: "Homework 13"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13"
       - name: "Lab 13: Chinese Restaurant Process II"
         url: /materials_placeholder
 
