@@ -472,7 +472,7 @@ weeks:
       lecture: "Best linear predictor: correlation and regression"
       slidesURL:
       assignmentName: "Lab 13: Chinese Restaurant Process II"
-      assignmentURL: /materials_placeholder
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab13"
       problemURL:
       readings:
         - name: "Ch 23: Prediction"
@@ -488,7 +488,7 @@ weeks:
       - name: "Homework 13"
         url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13"
       - name: "Lab 13: Chinese Restaurant Process II"
-        url: /materials_placeholder
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab13"
 
   - weekNum: 14
     weekName: A Multivariate Model
