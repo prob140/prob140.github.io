@@ -514,8 +514,6 @@ weeks:
 
     links:
       - name: "Lecture 25: The multivariate normal"
-        url: /materials_placeholder
+        url: "The Bivariate Normal Distribution"
       - name: "Lecture 26: Conclusion"
-        url: /materials_placeholder
-      - name: "Homework 14"
         url: /materials_placeholder
