@@ -501,6 +501,9 @@ weeks:
       assignmentURL: /materials_placeholder
       problemName: "Guide"
       problemURL:
+      readings:
+        - name: "Ch 24: The Bivariate Normal Distribution"
+          url: "https://textbook.prob140.org/ch24/Standard_Bivariate_Normal_Distribution.html"
 
     - date: Th 4/27
       lecture: "Conclusion"
