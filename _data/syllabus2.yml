@@ -499,7 +499,7 @@ weeks:
       slidesURL:
       assignmentName: "No HW due in RRR week"
       assignmentURL: /materials_placeholder
-      problemName: "Guide"
+      problemName: "Final Exam Resources"
       problemURL:
       readings:
         - name: "Ch 24: The Bivariate Normal Distribution"
@@ -517,3 +517,5 @@ weeks:
         url: "The Bivariate Normal Distribution"
       - name: "Lecture 26: Conclusion"
         url: /materials_placeholder
+      - name: "Final Exam Resources"
+        url: /final_practice
