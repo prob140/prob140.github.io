@@ -11,12 +11,12 @@ compilation of useful resources and will be periodically updated.
 - [Prof Adhikari's Problem Solving FAQ](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)
 - [Prob140 Post-midterm Problems by topic](/assets/Prob140_problems.xlsx)
 - [Stat134 Post-midterm Problems by topic](/assets/Stat134_problems.xlsx)
-
+- [Relationships between distributions](/assets/images/distributions.png): Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Relationships_among_probability_distributions)
 
 RRR Week Office Hours:
 
 | Day     |  Time  |  Name  |
-|---------|:------|:-----|
+|:---------|:------|:-----|
 |Monday|	1-3pm|	Serena|
 |Tuesday	|2-3 PM	|Kazu|
 |Wednesday|	12-2 PM	|Jason|
