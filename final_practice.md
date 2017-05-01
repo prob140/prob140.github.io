@@ -22,8 +22,8 @@ RRR Week Office Hours:
 |Wednesday|	12-2 PM	|Jason|
 |Wednesday|	2-4 PM	|Dibya|
 |Wednesday|	4-6 PM	|Tara|
-|Thursday|12-2 PM|Maxwell|
 |Thursday|	1-2 PM	|Tara|
 |Thursday|	2-3 PM	|Kazu|
 |Thursday|	3-5 PM	|Mujahid|
 |Friday|12-1 PM| Dibya|
+|Friday|3-5 PM|Maxwell|
