@@ -13,6 +13,7 @@ compilation of useful resources and will be periodically updated.
 - [Stat134 Post-midterm Problems by topic](/assets/Stat134_problems.xlsx)
 - [Relationships between distributions](/assets/images/distributions.png): Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Relationships_among_probability_distributions)
 - [Jason's short review](/assets/jasonreview.pdf)
+- [Stat 134 Spring 2016 Final](/assets/s134_s16_final.pdf)
 
 RRR Week Office Hours:
 
@@ -27,4 +28,5 @@ RRR Week Office Hours:
 |Thursday|	2-3 PM	|Kazu|
 |Thursday|	3-5 PM	|Mujahid|
 |Friday|12-1 PM| Dibya|
+|Friday| 1-3 PM| Ani (To be confirmed)|
 |Friday|3-5 PM|Maxwell|

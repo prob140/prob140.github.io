@@ -500,7 +500,7 @@ weeks:
       assignmentName: "No HW due in RRR week"
       assignmentURL: /materials_placeholder
       problemName: "Final Exam Resources"
-      problemURL:
+      problemURL: /final_practice
       readings:
         - name: "Ch 24: The Bivariate Normal Distribution"
           url: "https://textbook.prob140.org/ch24/Standard_Bivariate_Normal_Distribution.html"
