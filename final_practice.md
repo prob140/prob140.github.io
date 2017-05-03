@@ -12,6 +12,7 @@ compilation of useful resources and will be periodically updated.
 - [Prob140 Post-midterm Problems by topic](/assets/Prob140_problems.xlsx)
 - [Stat134 Post-midterm Problems by topic](/assets/Stat134_problems.xlsx)
 - [Relationships between distributions](/assets/images/distributions.png): Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Relationships_among_probability_distributions)
+- [Jason's short review](/assets/jasonreview.pdf)
 
 RRR Week Office Hours:
 
