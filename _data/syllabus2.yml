@@ -514,8 +514,8 @@ weeks:
 
     links:
       - name: "Lecture 25: The multivariate normal"
-        url: "The Bivariate Normal Distribution"
+        url: "https://textbook.prob140.org/ch24/Standard_Bivariate_Normal_Distribution.html"
       - name: "Lecture 26: Conclusion"
-        url: /materials_placeholder
+        url: ""
       - name: "Final Exam Resources"
         url: /final_practice
