@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Not yet released.
+title: This page is under development
 ---
 
-[Home](/)

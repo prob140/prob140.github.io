@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Information for Spring 2018
+title: Course Information for Spring 2017
 ---
 
 ## Prerequisites (no substitutes will be accepted in the pilot offering)

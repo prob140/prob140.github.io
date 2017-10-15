@@ -4,12 +4,12 @@ links:
         - name: About
           url: /about
         - name: Staff
-          url: /materials_placeholder
+          url: /instructors
         - name: Course Information
-          url: /materials_placeholder
+          url: /logistics
         - name: Course Notes
-          url: /materials_placeholder
+          url: "https://textbook.prob140.org/"
         - name: Reference Materials
-          url: /materials_placeholder
+          url: /references
         - name: Weekly Schedule
-          url: /materials_placeholder
+          url: /weekly
