@@ -11,7 +11,7 @@
 
   <title>
     
-      404: Page not found &middot; Prob 140
+      Developing this Course &middot; Prob 140
     
   </title>
 
@@ -128,8 +128,89 @@ MathJax.Hub.Config({
 </div>
     <div href='main' class="content container">
       <div class="page">
-  <h1 class="page-title">404: Page not found</h1>
-  <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="/sp17/">Head back home</a> to try finding it again.</p>
+  <h1 class="page-title">Developing this Course</h1>
+  <p>This is a quick guide on getting started on course development and management for Stat 140. If you have any questions beyond what’s covered here, please contact Dibya. If you haven’t already, create a Gitlab account <a href="https://gitlab.com/">here</a>, and send an email to Dibya with your username, asking to be added to the repo.</p>
+
+<h2 id="organization">Organization</h2>
+
+<p>The main center of course development is on GitLab under the organization <strong>PROBABILITY</strong>. You can access it at <a href="https://gitlab.com/probability">https://gitlab.com/probability</a>.</p>
+
+<p>If you’re correctly configured, you should see the following repositories</p>
+
+<ol>
+  <li>Internal Course Materials (gitlab.com/probability/course-materials) - The internal build system and beta course materials prior to release to students</li>
+  <li>Website (gitlab.com/probability/probability.gitlab.io) - The website source code for http://prob140.org</li>
+  <li>Textbook (gitlab.com/probability/textbook) - The textbook / lecture notes for this class: access the actual copy at http://probability.gitlab.io/textbook</li>
+  <li>Staging Textbook (gitlab.com/probability/textbook-staging) - The staged beta textbook: access the live version at http://probability.gitlab.io/textbook-staging</li>
+  <li>Assets (gitlab.com/probability/assets) - The live materials available to students - Used for Jupyter Interact</li>
+  <li>Explorations (gitlab.com/probability/explorations) - Some experiments and test-beds for problems and technologies before inclusion into the curriculum</li>
+  <li>Prob140 (gitlab.com/probability/prob140) - The repository for the <code class="highlighter-rouge">Prob140</code> library</li>
+</ol>
+
+<h2 id="workflow">Workflow</h2>
+
+<h3 id="course-materials">Course Materials</h3>
+
+<p>Course materials are homeworks, labs, and questions. Homeworks are weekly assignments composed of unrelated questions; they are released on Wednesday, and are due on Tuesday at midnight the following week. Labs are 2-hr long weekly assignment with some natural progression (or ultimate goal). Questions are small problems which are used to create homeworks.</p>
+
+<p>Course materials begin in the <code class="highlighter-rouge">course-materials</code> (Internal Course Materials) repository. To learn how to create a new homework or a new lab,  view the <a href="https://gitlab.com/probability/course-materials/">README</a> in the <code class="highlighter-rouge">course-materials</code> repository. Once they have been designed and extensively tested, we will export the student code base from the <code class="highlighter-rouge">course-materials</code> repository, and place it into the <code class="highlighter-rouge">assets</code> repository. The student will now be able to click an <em>Interact</em> link, which will download the folder from the <code class="highlighter-rouge">assets</code> repository, and put it into their Jupyter server.</p>
+
+<p>After the student has finished the assignment, they will use a library called <code class="highlighter-rouge">gsExport</code> to generate a PDF for use in Gradescope. This library segments the Jupyter notebook so it’s easier to grade in Gradescope. Students will then submit this segmented PDF to gradescope, at which point grading happens. Once the deadline passes, the solution will be also be placed into the <code class="highlighter-rouge">assets</code> repository.</p>
+
+<h3 id="textbook">Textbook</h3>
+
+<p>The textbook is a compilation of Markdown files and Jupyter Notebooks, all embedded in a GitBook.</p>
+
+<h3 id="how-the-ipynb-parser-works">How The IPyNB parser works</h3>
+
+<p>In order for the iPython notebook parser to correctly go through your notebook, there are exactly three things that you have to follow:</p>
+
+<p>1) When writing the notebook, remember to put “#SETUP” in cells that contain import code, “#SOLUTION” in cells that contains solutions (or where students should place solutions)</p>
+
+<p>2) When writing doctests, remember to start the cell with “%%runDoctest”, and put in all the doctests that you’d like following: Here’s an example</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>%%runDoctest
+&gt;&gt;&gt; 1+1
+2
+&gt;&gt;&gt; 10 == 2
+False
+</code></pre>
+</div>
+
+<p>3) Remember to put <code class="highlighter-rouge">&amp;zwnj;</code> in front of new questions and subquestions; this tells our Gradescope Exporter that a new question begins here, and to put the appropriate page break. Remember that the maximum difference between two <code class="highlighter-rouge">&amp;zwnj;</code> is 2 pages, so if you think that the student will write more than 2 pages, be sure to insert more <code class="highlighter-rouge">&amp;zwnj;</code> characters.</p>
+
+<p>Here’s an example of what this might look like (another really good guide is the starter notebook which is created when you make a new lab/question). All of these cells are markdown cells, by the way.</p>
+
+<p>Cell 1</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&amp;zwnj;
+## Subpart 1
+What is 1+1?
+</code></pre>
+</div>
+
+<p>Cell 2</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>#SOLUTION
+2
+</code></pre>
+</div>
+
+<p>Cell 3</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&amp;zwnj;
+## Subpart 2
+What is 1+2?
+</code></pre>
+</div>
+
+<p>Cell 4</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>#SOLUTION
+3	
+</code></pre>
+</div>
+
 </div>
 
     </div>

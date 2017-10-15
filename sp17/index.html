@@ -1,43 +1,997 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en-us">
 
-        
-   {% include agenda.html%}
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Prob 140 &middot; Prob 140
+    
+  </title>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
+</script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/sp17/assets/css/poole.css">
+  <link rel="stylesheet" href="/sp17/assets/css/syntax.css">
+  <link rel="stylesheet" href="/sp17/assets/css/hyde.css">
+  <link rel="stylesheet" href="/sp17/assets/css/fonts.css">
+  <link rel="stylesheet" href="/sp17/assets/css/basicModal.css">
+
+  <!-- Icons -->
+  <link rel="icon" type="image/png" href="/sp17//assets/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/sp17//assets/favicon-16x16.png" sizes="16x16" />
+  <script src="/sp17/assets/js/jquery.min.js"></script>
+<link rel="stylesheet" href="/sp17/assets/css/swiper.min.css">
+<script src="/sp17/assets/js/swiper.jquery.min.js"></script>
+<script src="/sp17/assets/js/basicModal.min.js"></script>
+
+
+
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <script>
+  </script>
+</head>
+
+
+  <body class="theme-data">
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="/" > <img class="iconIMG" src="/sp17/assets/icon.png"> </a>
+      <h1>
+      <p class="lead">Spring 2017 - Ani Adhikari</p>
+    </div>
+    <nav class="sidebar-nav">
+
+      
+      
+      
+      <a class="sidebar-nav-item active" href="/sp17//">Home</a>
+      
+      <a class="sidebar-nav-item" href="/sp17//about">About</a>
+      
+      <a class="sidebar-nav-item" href="/sp17//instructors">Staff</a>
+      
+      <a class="sidebar-nav-item" href="/sp17//logistics">Course Information</a>
+      
+      <a class="sidebar-nav-item" href="/sp17/https://textbook.prob140.org/">Course Notes</a>
+      
+      <a class="sidebar-nav-item" href="/sp17//references">Reference Materials</a>
+      
+      <a class="sidebar-nav-item" href="/sp17//weekly">Weekly Schedule</a>
+      
+    </nav>
+
+    <p>Developed by Ani Adhikari, Dibya Ghosh, Jim Pitman, Maxwell Weinstein, & Jason Zhang  </p>
+  </div>
+</div>
+
+    <div>
+          <div id="announcements-header" class="theme-data"> 
+          <b> Announcements! </b> (<a onclick="showAnnouncements()"> See All </a>) 
+          <div class="swiper-container2">
+    <!-- Additional required wrapper -->
+        <!-- If we need pagination -->
+    
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev2"></div>
+    <div class="swiper-button-next2"></div>
+    
+    <!-- If we need scrollbar -->
+    <div class="swiper-wrapper">
+      
+        <div class="swiper-slide">
+        Apr 28: Final Exam Resources page is up
+        </div>
+      
+        <div class="swiper-slide">
+        Apr 28: The Final will be held on Friday 5/12 from 7-10 PM
+        </div>
+      
+        <div class="swiper-slide">
+        Apr 25: No lab this week
+        </div>
+      
+        <div class="swiper-slide">
+        Mar 6: Midterm has been posted on Gradescope. See bCourses for a summary of midterm performance.
+        </div>
+      
+        <div class="swiper-slide">
+        Feb 1: Please don't delete cells in homework notebook! Save before exporting pdf!
+        </div>
+      
+        <div class="swiper-slide">
+        Jan 17: Join Piazza for this class! (Search for Prob 140)
+        </div>
+      
+        <div class="swiper-slide">
+        Jan 17: If the math in the Course Notes doesn't render properly, refresh/reload the page.
+        </div>
+      
+
+</div>
+</div>
+</div>
+    <div href='main' class="content container">
+         <div class="swiper-container">
+    <!-- Additional required wrapper -->
+        <!-- If we need pagination -->
+    <div class="swiper-pagination"></div>
+    
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+    
+    <!-- If we need scrollbar -->
+    <div class="swiper-scrollbar"></div>
+    <div class="swiper-wrapper">
+        <!-- Slides -->
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 0 Overview</h3>
+          <h2 class="highlighted-title">Getting Started</h2>
+          <p class="highlighted-byline">Before January 17</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+            <li><a href="/latex">Introduction to Latex</a></li>
+            <li><a href="/assets/data8fa16_final_reference_sheet.pdf">Python Reference by N. Kheterpal and A. Ku</a></li>
+            <li><a href="http://data8.org/datascience/tables.html">The Data Science Library</a></li>
+            <li><a href="/assets/prereq.pdf">Math Prereqs</a></li>
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+
+      
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 1</h3>
+          <h2 class="highlighted-title">Fundamentals</h2>
+          <p class="highlighted-byline">1/16-1/20</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch1/Fundamentals.html">Lecture 1: Introduction to Probability</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch3/RandomVariables.html">Lecture 2: Random Variables</a></li>
+          
+            <li><a href="/assets/Week1_practice.pdf">Week 1 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01">Lab 1: Matches in Random Sampling</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01">Homework 1</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 2</h3>
+          <h2 class="highlighted-title">Random Counts</h2>
+          <p class="highlighted-byline">1/23-1/27</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch5/CollectionsOfEvents.html">Lecture 3: Induction, Counting, and Bounds</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch6/RandomCounts.html">Lecture 4: Binomial and Multinomial Distributions; The Poisson Limit</a></li>
+          
+            <li><a href="/assets/Week2.pdf">Week 2 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02">Homework 2</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02">Lab 2: Poisson Approximations in Random Permutations</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 3</h3>
+          <h2 class="highlighted-title">Conditioning and Bayes Methods</h2>
+          <p class="highlighted-byline">1/30-2/3</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch7/Poissonization.html">Lecture 5: Independence and Poissonization; dependence and symmetry</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch8/Dependence.html">Lecture 6: Prior and posterior distributions; random sampling</a></li>
+          
+            <li><a href="/assets/Week3.pdf">Week 3 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03">Homework 3</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03">Lab 3: Riffle Shuffles and Randomness</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 4</h3>
+          <h2 class="highlighted-title">Introduction to Prediction</h2>
+          <p class="highlighted-byline">2/6-2/10</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch9/Expectation.html">Lecture 7: Expectation: properties and tail bounds</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch10/Standard_Deviation.html">Lecture 8: SD: properties, tail bounds, least squares</a></li>
+          
+            <li><a href="">Week 4 Readings and Practice</a></li>
+          
+            <li><a href="/assets/Week4.pdf"></a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw04">Homework 4</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04">Lab 4: Minimum, Median, and Maximum</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 5</h3>
+          <h2 class="highlighted-title">Markov Chains</h2>
+          <p class="highlighted-byline">2/13-2/17</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch11/ConditioningRevisited.html">Lecture 9: Probabilities and expectation by conditioning</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch12/MarkovChains.html">Lecture 10: Long run behavior of Markov Chains</a></li>
+          
+            <li><a href="/assets/Week5.pdf">Week 5 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05">Homework 5</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05">Lab 5: Tsetlin Library and PageRank</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 6</h3>
+          <h2 class="highlighted-title">Conditioning and Bayes Revisited</h2>
+          <p class="highlighted-byline">2/20-2/24</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch13/Hitting_and_Occupation_Times.html">Lecture 11: Hitting and occupation times</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch14/Detailed_Balance.html">Lecture 12: Reversibility and MCMC</a></li>
+          
+            <li><a href="/midterm_practice">Midterm Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06">Homework 6</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab06">Lab 6: Codebreaking by MCMC</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 7</h3>
+          <h2 class="highlighted-title">Midterm</h2>
+          <p class="highlighted-byline">2/27-3/3</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="/midterm_practice">Midterm Practice</a></li>
+          
+            <li><a href="/assets/Week6.pdf">Midterm Guide</a></li>
+          
+            <li><a href="/assets/midterm_cover_page.pdf">Midterm Cover Page</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 8</h3>
+          <h2 class="highlighted-title">Variability of Sample Sums</h2>
+          <p class="highlighted-byline">3/6-3/10</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch15/Variance_Via_Covariance.html">Lecture 13: Covariance and its uses</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch16/The_Central_Limit_Theorem.html">Lecture 14: Central Limit Theorem</a></li>
+          
+            <li><a href="/assets/Week8.pdf">Week 8 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw08">Homework 8</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab08">Lab 8: Binomial, Poisson, and Normal</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 9</h3>
+          <h2 class="highlighted-title">A Continuum of Values</h2>
+          <p class="highlighted-byline">3/13-3/17</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch17/Continuous_Distributions.html">Lecture 15: Probability densities</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch18/Transformations.html">Lecture 16: Transformations</a></li>
+          
+            <li><a href="/assets/Week9.pdf">Week 9 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09">Homework 9</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09">Lab 9: Simulation and the CDF</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 10</h3>
+          <h2 class="highlighted-title">Families of Densities</h2>
+          <p class="highlighted-byline">3/20-3/24</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch19/Joint_Densities.html">Lecture 17: Joint densities</a></li>
+          
+            <li><a href="/materials_placeholder">Lecture 18: The Beta Family</a></li>
+          
+            <li><a href="/assets/Week10.pdf">Week 10 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10">Homework 10</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 11</h3>
+          <h2 class="highlighted-title">An Approach to Inference</h2>
+          <p class="highlighted-byline">4/3-4/7</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html">Lecture 19: Independent normals; maximum likelihood</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html">Lecture 20: Sums and the gamma family</a></li>
+          
+            <li><a href="assets/Week11.pdf">Week 11 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw11">Homework 11</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab11">Lab 11: MLE, Chi-Squared, and Goodness of Fit</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 12</h3>
+          <h2 class="highlighted-title">A Different Approach to Inference</h2>
+          <p class="highlighted-byline">4/10-4/14</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch21/Distributions_of_Sums.html">Lecture 21: Moment generating functions; Chernoff bound</a></li>
+          
+            <li><a href="https://textbook.prob140.org/ch22/Prior_and_Posterior_Distributions.html">Lecture 22: Prior and posterior densities; beta-binomial</a></li>
+          
+            <li><a href="assets/Week12.pdf">Week 12 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12">Homework 12</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab12">Lab 12: Chinese Restaurant Process I</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 13</h3>
+          <h2 class="highlighted-title">Prediction</h2>
+          <p class="highlighted-byline">4/17-4/21</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch23/Prediction.html">Lecture 23: Best predictor</a></li>
+          
+            <li><a href="/materials_placeholder">Lecture 24: Best linear predictor: correlation and regression</a></li>
+          
+            <li><a href="assets/Week13.pdf">Week 13 Readings and Practice</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13">Homework 13</a></li>
+          
+            <li><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab13">Lab 13: Chinese Restaurant Process II</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+      
+
+        <div class="swiper-slide">
+          <div class="wrap">
+          <h3 class="highlighted-subtitle">Week 14</h3>
+          <h2 class="highlighted-title">A Multivariate Model</h2>
+          <p class="highlighted-byline">4/24-4/28</p> <span class="dividing-bar"></span>
+          <ul class="lists two-col">
+          
+            <li><a href="https://textbook.prob140.org/ch24/Standard_Bivariate_Normal_Distribution.html">Lecture 25: The multivariate normal</a></li>
+          
+            <li><a href="">Lecture 26: Conclusion</a></li>
+          
+            <li><a href="/final_practice">Final Exam Resources</a></li>
+          
+          </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
+        </div>
+    
+
+</div>
+</div>
+
+<script>
+    $(document).ready(function () {
+    //initialize swiper when document ready  
+    var mySwiper = new Swiper ('.swiper-container', {
+      // Optional parameters
+         pagination: '.swiper-pagination',
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+      direction: 'horizontal',
+      loop: false,
+      initialSlide:14
+    })        
+  });
+  </script>
+
 
           <div class="syllabusContainer">
-               {% include syllabus.html%}
+               <table id="calendar">
+<tbody>
+<tr><th>Week</th><th>Date</th><th>Topic</th><th>Course Notes</th><th>Practice</th> <th> Assignment </th></tr>
+
+  <tr> <td class="weeknum" rowspan="3">1</td>
+	
+	<td> Tue 1/17 </td>
+	<td>  Probability: axioms, rules, approximation 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch1/Fundamentals.html">Ch 1: Fundamentals </a> <br />
+	
+	<a href="https://textbook.prob140.org/ch2/Calculating_Chances.html">Ch 2: Calculating Chances </a> <br />
+	
+	</td>
+	<td>  <a href="/assets/Week1_practice.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01">HW 1 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 1/19 </td>
+	<td>  Random variables: distributions, conditioning, equality 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch3/RandomVariables.html">Ch 3: Random Variables </a> <br />
+	
+	<a href="https://textbook.prob140.org/ch4/RelationsBetweenVariables.html">Ch 4: Relations Between Variables </a> <br />
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01">Lab 1: Matches in Random Sampling </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">2</td>
+	
+	<td> Tue 1/24 </td>
+	<td>  Induction, counting, and bounds 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch5/CollectionsOfEvents.html">Ch 5: Collections of Events </a> <br />
+	
+	</td>
+	<td>  <a href="/assets/Week2.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02">HW 2 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 1/26 </td>
+	<td>  Binomial and Multinomial Distributions; The Poisson Limit 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch6/RandomCounts.html">Ch 6: Random Counts </a> <br />
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02">Lab 2: Poisson Approximations in Random Permutations </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">3</td>
+	
+	<td> Tue 1/31 </td>
+	<td>  Independence and Poissonization; dependence and symmetry 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch7/Poissonization.html">Ch 7: Poissonization </a> <br />
+	
+	<a href="https://textbook.prob140.org/ch8/Dependence.html">Ch 8: Dependence </a> <br />
+	
+	</td>
+	<td>  <a href="/assets/Week3.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03">HW 3 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Wed 2/1 </td>
+	<td>   Quiz 1 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href=""> </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 2/2 </td>
+	<td>  Prior and posterior distributions; random sampling 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03">Lab 3: Riffle Shuffles and Randomness </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">4</td>
+	
+	<td> Tue 2/7 </td>
+	<td>  Expectation: properties and tail bounds 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch9/Expectation.html">Ch 9: Expectation </a> <br />
+	
+	</td>
+	<td>  <a href="/assets/Week4.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw04">HW 4 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 2/9 </td>
+	<td>  SD: properties, tail bounds, least squares 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch10/Standard_Deviation.html">Ch 10: Standard Deviation </a> <br />
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04">Lab 4: Minimum, Median, and Maximum </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">5</td>
+	
+	<td> Tue 2/14 </td>
+	<td>  Probabilities and expectation by conditioning 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch11/ConditioningRevisited.html">Ch 11: Conditioning Revisited </a> <br />
+	
+	</td>
+	<td>  <a href="/assets/Week5.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05">HW 5 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Wed 2/15 </td>
+	<td>   Quiz 2 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href=""> </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 2/16 </td>
+	<td>  Long run behavior of Markov Chains 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch12/MarkovChains.html">Ch 12: Markov Chains </a> <br />
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05">Lab 5: Tsetlin Library and PageRank </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">6</td>
+	
+	<td> Tue 2/21 </td>
+	<td>  Hitting and occupation times 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch13/Hitting_and_Occupation_Times.html">Ch 13: Hitting and Occupation Times </a> <br />
+	
+	</td>
+	<td>  <a href="/assets/Week6.pdf">  Midterm Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06">HW 6 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 2/23 </td>
+	<td>  Reversibility and MCMC 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch14/Detailed_Balance.html">Ch 14: Reversing Markov Chains </a> <br />
+	
+	</td>
+	<td>  <a href="/midterm_practice">  Problems </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab06">Lab 6: Codebreaking by MCMC </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">7</td>
+	
+	<td> Tue 2/28 </td>
+	<td>  Review 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="">No HW 7 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 3/2 </td>
+	<td>  Midterm 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="">No Lab 7 </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">8</td>
+	
+	<td> Tue 3/7 </td>
+	<td>  Covariance and its uses 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch15/Variance_Via_Covariance.html">Ch 15: Variance Via Covariance </a> <br />
+	
+	</td>
+	<td>  <a href="assets/Week8.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw08">HW 8 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 3/9 </td>
+	<td>  Central Limit Theorem 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch16/The_Central_Limit_Theorem.html">Ch 16: The Central Limit Theorem </a> <br />
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab08">Lab 8: Binomial, Poisson, and Normal </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">9</td>
+	
+	<td> Tue 3/14 </td>
+	<td>  Probability densities 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch17/Continuous_Distributions.html">Ch 17: Continuous Distributions </a> <br />
+	
+	</td>
+	<td>  <a href="/assets/Week9.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09">HW 9 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 3/16 </td>
+	<td>  Transformations 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch18/Transformations.html">Ch 18: Transformations </a> <br />
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09">Lab 9: Simulation and the CDF </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">10</td>
+	
+	<td> Tue 3/21 </td>
+	<td>  Joint densities 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch19/Joint_Densities.html">Ch 19: Joint Density </a> <br />
+	
+	</td>
+	<td>  <a href="assets/Week10.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10">HW 10 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Wed 3/22 </td>
+	<td>   Quiz 3 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href=""> </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 3/23 </td>
+	<td>  The Beta Family 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="/materials_placeholder">No Lab 10 (Spring Break) </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">11</td>
+	
+	<td> Tue 4/4 </td>
+	<td>  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465539/"> Independent normals; maximum likelihood</a>  
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html">Ch 20: Applications of the Normal </a> <br />
+	
+	</td>
+	<td>  <a href="assets/Week11.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw11">HW 11 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 4/6 </td>
+	<td>  Sums and the gamma family 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab11">Lab 11: MLE, Chi-Squared, and Goodness of Fit </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">12</td>
+	
+	<td> Tue 4/11 </td>
+	<td>  Moment generating functions; Chernoff bound 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch21/Distributions_of_Sums.html">Ch 21: Distributions of Sums </a> <br />
+	
+	</td>
+	<td>  <a href="assets/Week12.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12">HW 12 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Wed 4/12 </td>
+	<td>   Quiz 4 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href=""> </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 4/13 </td>
+	<td>  Prior and posterior densities; beta-binomial 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch22/Prior_and_Posterior_Distributions.html">Ch 22: Prior and Posterior Distributions </a> <br />
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab12">Lab 12: Chinese Restaurant Process I </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">13</td>
+	
+	<td> Tue 4/17 </td>
+	<td>  Best predictor 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href="assets/Week13.pdf">  Guide </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13">HW 13 </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 4/21 </td>
+	<td>  Best linear predictor: correlation and regression 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch23/Prediction.html">Ch 23: Prediction </a> <br />
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab13">Lab 13: Chinese Restaurant Process II </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+  <tr> <td class="weeknum" rowspan="3">14</td>
+	
+	<td> Tue 4/25 </td>
+	<td>  The multivariate normal 
+		</td>
+	<td>
+	
+	<a href="https://textbook.prob140.org/ch24/Standard_Bivariate_Normal_Distribution.html">Ch 24: The Bivariate Normal Distribution </a> <br />
+	
+	</td>
+	<td>  <a href="/final_practice">  Final Exam Resources </a> </td>
+	<td>  <a href="/materials_placeholder">No HW due in RRR week </a> </td>
+	</tr>
+	<tr>
+  
+	<td> Th 4/27 </td>
+	<td>  Conclusion 
+		</td>
+	<td>
+	
+	</td>
+	<td>  <a href=""> </a> </td>
+	<td>  <a href="/materials_placeholder"> </a> </td>
+	</tr>
+	<tr>
+  
+  </tr>
+
+</tbody>
+</table>
+
             </div>
 <div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
+  
 </div>
 
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
+  
     <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
+  
+  
     <span class="pagination-item newer">Newer</span>
-  {% endif %}
+  
 </div>
+    </div>
+    </div>
+  </body>
+
+<script>
+    $(document).ready(function () {
+    //initialize swiper when document ready  
+    var mySwiper = new Swiper ('.swiper-container2', {
+      // Optional parameters
+      direction: 'horizontal',
+      loop: true,
+      autoplay: 100000,
+      speed: 3000,
+      initialSlide:0,
+      spaceBetween: 1000
+    })        
+  });
+
+    function showAnnouncements(){
+      basicModal.show({
+    body: "<h2> Announcements </h2> <ul><li>Apr 28: Final Exam Resources page is up</li><li>Apr 28: The Final will be held on Friday 5/12 from 7-10 PM</li><li>Apr 25: No lab this week</li><li>Mar 6: Midterm has been posted on Gradescope. See bCourses for a summary of midterm performance.</li><li>Feb 1: Please don't delete cells in homework notebook! Save before exporting pdf!</li><li>Jan 17: Join Piazza for this class! (Search for Prob 140)</li><li>Jan 17: If the math in the Course Notes doesn't render properly, refresh/reload the page.</li></ul>",
+    closable: true,
+    buttons: {
+        action: {
+            title: 'Dismiss',
+            fn: basicModal.close
+        }
+    }
+});
+    }
+  </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86100204-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</html>
