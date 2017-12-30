@@ -17,6 +17,6 @@ title: Reference Materials
 
 ## Python
 - [datascience Reference](http://data8.org/datascience/tables.html)
-- [prob140 Reference](https://probability.gitlab.io/prob140/html/)
+- [prob140 Reference](https://probability.gitlab.io/prob140/)
 - [Python Reference by N. Kheterpal and A. Ku](/assets/data8fa16_final_reference_sheet.pdf)
 
