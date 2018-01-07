@@ -12,9 +12,9 @@ weeks:
       problemURL: "/assets/Week1_practice.pdf"
       readings:
         - name: "Ch 1: Fundamentals"
-          url: "https://textbook.prob140.org/ch1/Fundamentals.html"
+          url: "/sp17/textbook/ch1/Fundamentals.html"
         - name: "Ch 2: Calculating Chances"
-          url: "https://textbook.prob140.org/ch2/Calculating_Chances.html"
+          url: "/sp17/textbook/ch2/Calculating_Chances.html"
 
     - date: Th 1/19
       lecture: "Random variables: distributions, conditioning, equality"
@@ -23,16 +23,16 @@ weeks:
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
       readings:
         - name: "Ch 3: Random Variables"
-          url: "https://textbook.prob140.org/ch3/RandomVariables.html"
+          url: "/sp17/textbook/ch3/RandomVariables.html"
         - name: "Ch 4: Relations Between Variables"
-          url: "https://textbook.prob140.org/ch4/RelationsBetweenVariables.html"
+          url: "/sp17/textbook/ch4/RelationsBetweenVariables.html"
       problemURL:
 
     links:
       - name: "Lecture 1: Introduction to Probability"
-        url: "https://textbook.prob140.org/ch1/Fundamentals.html"
+        url: "/sp17/textbook/ch1/Fundamentals.html"
       - name: "Lecture 2: Random Variables"
-        url: https://textbook.prob140.org/ch3/RandomVariables.html
+        url: /sp17/textbook/ch3/RandomVariables.html
       - name: "Week 1 Readings and Practice"
         url: "/assets/Week1_practice.pdf"
       - name: "Lab 1: Matches in Random Sampling"
@@ -53,7 +53,7 @@ weeks:
       problemURL: "/assets/Week2.pdf"
       readings:
         - name: "Ch 5: Collections of Events"
-          url: "https://textbook.prob140.org/ch5/CollectionsOfEvents.html"
+          url: "/sp17/textbook/ch5/CollectionsOfEvents.html"
 
     - date: Th 1/26
       lecture: "Binomial and Multinomial Distributions; The Poisson Limit"
@@ -62,13 +62,13 @@ weeks:
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02"
       readings:
         - name: "Ch 6: Random Counts"
-          url: "https://textbook.prob140.org/ch6/RandomCounts.html"
+          url: "/sp17/textbook/ch6/RandomCounts.html"
 
     links:
       - name: "Lecture 3: Induction, Counting, and Bounds"
-        url: "https://textbook.prob140.org/ch5/CollectionsOfEvents.html"
+        url: "/sp17/textbook/ch5/CollectionsOfEvents.html"
       - name: "Lecture 4: Binomial and Multinomial Distributions; The Poisson Limit"
-        url: "https://textbook.prob140.org/ch6/RandomCounts.html"
+        url: "/sp17/textbook/ch6/RandomCounts.html"
       - name: "Week 2 Readings and Practice"
         url: "/assets/Week2.pdf"
       - name: "Homework 2"
@@ -89,9 +89,9 @@ weeks:
       problemURL: "/assets/Week3.pdf"
       readings:
         - name: "Ch 7: Poissonization"
-          url: "https://textbook.prob140.org/ch7/Poissonization.html"
+          url: "/sp17/textbook/ch7/Poissonization.html"
         - name: "Ch 8: Dependence"
-          url: "https://textbook.prob140.org/ch8/Dependence.html"
+          url: "/sp17/textbook/ch8/Dependence.html"
 
     - date: Wed 2/1
       lecture: " Quiz 1"
@@ -110,9 +110,9 @@ weeks:
 
     links:
       - name: "Lecture 5: Independence and Poissonization; dependence and symmetry"
-        url: "https://textbook.prob140.org/ch7/Poissonization.html"
+        url: "/sp17/textbook/ch7/Poissonization.html"
       - name: "Lecture 6: Prior and posterior distributions; random sampling"
-        url: "https://textbook.prob140.org/ch8/Dependence.html"
+        url: "/sp17/textbook/ch8/Dependence.html"
       - name: "Week 3 Readings and Practice"
         url: "/assets/Week3.pdf"
       - name: "Homework 3"
@@ -133,7 +133,7 @@ weeks:
       problemURL: "/assets/Week4.pdf"
       readings:
         - name: "Ch 9: Expectation"
-          url: "https://textbook.prob140.org/ch9/Expectation.html"
+          url: "/sp17/textbook/ch9/Expectation.html"
 
 
     - date: Th 2/9
@@ -143,13 +143,13 @@ weeks:
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04"
       readings:
         - name: "Ch 10: Standard Deviation"
-          url: "https://textbook.prob140.org/ch10/Standard_Deviation.html"
+          url: "/sp17/textbook/ch10/Standard_Deviation.html"
 
     links:
       - name: "Lecture 7: Expectation: properties and tail bounds"
-        url: "https://textbook.prob140.org/ch9/Expectation.html"
+        url: "/sp17/textbook/ch9/Expectation.html"
       - name: "Lecture 8: SD: properties, tail bounds, least squares"
-        url: "https://textbook.prob140.org/ch10/Standard_Deviation.html"
+        url: "/sp17/textbook/ch10/Standard_Deviation.html"
       - name: "Week 4 Readings and Practice"
       - url: "/assets/Week4.pdf"
       - name: "Homework 4"
@@ -170,7 +170,7 @@ weeks:
       problemURL: "/assets/Week5.pdf"
       readings:
         - name: "Ch 11: Conditioning Revisited"
-          url: "https://textbook.prob140.org/ch11/ConditioningRevisited.html"
+          url: "/sp17/textbook/ch11/ConditioningRevisited.html"
 
     - date: Wed 2/15
       lecture: " Quiz 2"
@@ -187,13 +187,13 @@ weeks:
       assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05"
       readings:
         - name: "Ch 12: Markov Chains"
-          url: "https://textbook.prob140.org/ch12/MarkovChains.html"
+          url: "/sp17/textbook/ch12/MarkovChains.html"
 
     links:
       - name: "Lecture 9: Probabilities and expectation by conditioning"
-        url: "https://textbook.prob140.org/ch11/ConditioningRevisited.html"
+        url: "/sp17/textbook/ch11/ConditioningRevisited.html"
       - name: "Lecture 10: Long run behavior of Markov Chains"
-        url: "https://textbook.prob140.org/ch12/MarkovChains.html"
+        url: "/sp17/textbook/ch12/MarkovChains.html"
       - name: "Week 5 Readings and Practice"
         url: "/assets/Week5.pdf"
       - name: "Homework 5"
@@ -214,7 +214,7 @@ weeks:
       problemURL: "/assets/Week6.pdf"
       readings:
         - name: "Ch 13: Hitting and Occupation Times"
-          url: "https://textbook.prob140.org/ch13/Hitting_and_Occupation_Times.html"
+          url: "/sp17/textbook/ch13/Hitting_and_Occupation_Times.html"
 
     - date: Th 2/23
       lecture: "Reversibility and MCMC"
@@ -225,13 +225,13 @@ weeks:
       problemURL: "/midterm_practice"
       readings:
         - name: "Ch 14: Reversing Markov Chains"
-          url: "https://textbook.prob140.org/ch14/Detailed_Balance.html"
+          url: "/sp17/textbook/ch14/Detailed_Balance.html"
 
     links:
       - name: "Lecture 11: Hitting and occupation times"
-        url: "https://textbook.prob140.org/ch13/Hitting_and_Occupation_Times.html"
+        url: "/sp17/textbook/ch13/Hitting_and_Occupation_Times.html"
       - name: "Lecture 12: Reversibility and MCMC"
-        url: "https://textbook.prob140.org/ch14/Detailed_Balance.html"
+        url: "/sp17/textbook/ch14/Detailed_Balance.html"
       - name: "Midterm Practice"
         url: "/midterm_practice"
       - name: "Homework 6"
@@ -274,7 +274,7 @@ weeks:
       problemURL: "assets/Week8.pdf"
       readings:
         - name: "Ch 15: Variance Via Covariance"
-          url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
+          url: "/sp17/textbook/ch15/Variance_Via_Covariance.html"
 
     - date: Th 3/9
       lecture: "Central Limit Theorem"
@@ -284,13 +284,13 @@ weeks:
       problemURL:
       readings:
         - name: "Ch 16: The Central Limit Theorem"
-          url: "https://textbook.prob140.org/ch16/The_Central_Limit_Theorem.html"
+          url: "/sp17/textbook/ch16/The_Central_Limit_Theorem.html"
 
     links:
       - name: "Lecture 13: Covariance and its uses"
-        url: "https://textbook.prob140.org/ch15/Variance_Via_Covariance.html"
+        url: "/sp17/textbook/ch15/Variance_Via_Covariance.html"
       - name: "Lecture 14: Central Limit Theorem"
-        url: "https://textbook.prob140.org/ch16/The_Central_Limit_Theorem.html"
+        url: "/sp17/textbook/ch16/The_Central_Limit_Theorem.html"
       - name: "Week 8 Readings and Practice"
         url: /assets/Week8.pdf
       - name: "Homework 8"
@@ -311,7 +311,7 @@ weeks:
       problemURL: /assets/Week9.pdf
       readings:
         - name: "Ch 17: Continuous Distributions"
-          url: "https://textbook.prob140.org/ch17/Continuous_Distributions.html"
+          url: "/sp17/textbook/ch17/Continuous_Distributions.html"
 
     - date: Th 3/16
       lecture: "Transformations"
@@ -321,13 +321,13 @@ weeks:
       problemURL:
       readings:
         - name: "Ch 18: Transformations"
-          url: "https://textbook.prob140.org/ch18/Transformations.html"
+          url: "/sp17/textbook/ch18/Transformations.html"
 
     links:
       - name: "Lecture 15: Probability densities"
-        url: "https://textbook.prob140.org/ch17/Continuous_Distributions.html"
+        url: "/sp17/textbook/ch17/Continuous_Distributions.html"
       - name: "Lecture 16: Transformations"
-        url: "https://textbook.prob140.org/ch18/Transformations.html"
+        url: "/sp17/textbook/ch18/Transformations.html"
       - name: "Week 9 Readings and Practice"
         url: /assets/Week9.pdf
       - name: "Homework 9"
@@ -349,7 +349,7 @@ weeks:
       problemURL: "assets/Week10.pdf"
       readings:
         - name: "Ch 19: Joint Density"
-          url: "https://textbook.prob140.org/ch19/Joint_Densities.html"
+          url: "/sp17/textbook/ch19/Joint_Densities.html"
 
     - date: Wed 3/22
       lecture: " Quiz 3"
@@ -368,7 +368,7 @@ weeks:
 
     links:
       - name: "Lecture 17: Joint densities"
-        url: "https://textbook.prob140.org/ch19/Joint_Densities.html"
+        url: "/sp17/textbook/ch19/Joint_Densities.html"
       - name: "Lecture 18: The Beta Family"
         url: /materials_placeholder
       - name: "Week 10 Readings and Practice"
@@ -390,7 +390,7 @@ weeks:
       problemURL: "assets/Week11.pdf"
       readings:
         - name: "Ch 20: Applications of the Normal"
-          url: "https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html"
+          url: "/sp17/textbook/ch20/Applications_of_the_Normal_Distribution.html"
 
     - date: Th 4/6
       lecture: "Sums and the gamma family"
@@ -401,9 +401,9 @@ weeks:
 
     links:
       - name: "Lecture 19: Independent normals; maximum likelihood"
-        url: "https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html"
+        url: "/sp17/textbook/ch20/Applications_of_the_Normal_Distribution.html"
       - name: "Lecture 20: Sums and the gamma family"
-        url: "https://textbook.prob140.org/ch20/Applications_of_the_Normal_Distribution.html"
+        url: "/sp17/textbook/ch20/Applications_of_the_Normal_Distribution.html"
       - name: "Week 11 Readings and Practice"
         url: "assets/Week11.pdf"
       - name: "Homework 11"
@@ -424,7 +424,7 @@ weeks:
       problemURL: "assets/Week12.pdf"
       readings:
         - name: "Ch 21: Distributions of Sums"
-          url: "https://textbook.prob140.org/ch21/Distributions_of_Sums.html"
+          url: "/sp17/textbook/ch21/Distributions_of_Sums.html"
 
     - date: Wed 4/12
       lecture: " Quiz 4"
@@ -442,13 +442,13 @@ weeks:
       problemURL:
       readings:
         - name: "Ch 22: Prior and Posterior Distributions"
-          url: "https://textbook.prob140.org/ch22/Prior_and_Posterior_Distributions.html"
+          url: "/sp17/textbook/ch22/Prior_and_Posterior_Distributions.html"
 
     links:
       - name: "Lecture 21: Moment generating functions; Chernoff bound"
-        url: "https://textbook.prob140.org/ch21/Distributions_of_Sums.html"
+        url: "/sp17/textbook/ch21/Distributions_of_Sums.html"
       - name: "Lecture 22: Prior and posterior densities; beta-binomial"
-        url: "https://textbook.prob140.org/ch22/Prior_and_Posterior_Distributions.html"
+        url: "/sp17/textbook/ch22/Prior_and_Posterior_Distributions.html"
       - name: "Week 12 Readings and Practice"
         url: "assets/Week12.pdf"
       - name: "Homework 12"
@@ -476,11 +476,11 @@ weeks:
       problemURL:
       readings:
         - name: "Ch 23: Prediction"
-          url: "https://textbook.prob140.org/ch23/Prediction.html"
+          url: "/sp17/textbook/ch23/Prediction.html"
 
     links:
       - name: "Lecture 23: Best predictor"
-        url: "https://textbook.prob140.org/ch23/Prediction.html"
+        url: "/sp17/textbook/ch23/Prediction.html"
       - name: "Lecture 24: Best linear predictor: correlation and regression"
         url: /materials_placeholder
       - name: "Week 13 Readings and Practice"
@@ -503,7 +503,7 @@ weeks:
       problemURL: /final_practice
       readings:
         - name: "Ch 24: The Bivariate Normal Distribution"
-          url: "https://textbook.prob140.org/ch24/Standard_Bivariate_Normal_Distribution.html"
+          url: "/sp17/textbook/ch24/Standard_Bivariate_Normal_Distribution.html"
 
     - date: Th 4/27
       lecture: "Conclusion"
@@ -514,7 +514,7 @@ weeks:
 
     links:
       - name: "Lecture 25: The multivariate normal"
-        url: "https://textbook.prob140.org/ch24/Standard_Bivariate_Normal_Distribution.html"
+        url: "/sp17/textbook/ch24/Standard_Bivariate_Normal_Distribution.html"
       - name: "Lecture 26: Conclusion"
         url: ""
       - name: "Final Exam Resources"
