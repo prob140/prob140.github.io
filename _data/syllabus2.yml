@@ -1,1 +1,215 @@
 weeks:
+  - weekNum: 1
+    weekName: Introduction
+    weekDuration: 1/15-1/19
+    basic:
+    - date: Wed 1/17
+      lecture: "Probability: axioms, rules, approximation"
+      slidesURL:
+      assignmentName: "HW 1"
+      assignmentURL:
+      problemName:
+      problemURL:
+      readings:
+        - name:
+          url:
+    - date: Fri 1/19
+      lecture: "Lab 1"
+      assignmentName: "Lab 1"
+      assignmentURL:
+
+  - weekNum: 2
+    weekName: Working with Random Variables
+    weekDuration: 1/22-1/26
+    basic:
+    - date: Mon 1/22
+      lecture: "Random variables: distributions, conditioning, equality"
+      slidesURL:
+      assignmentName: "HW 2"
+      assignmentURL:
+      problemName:
+      problemURL:
+      readings:
+        - name:
+          url:
+    - date: Wed 1/24
+      lecture: "Induction, counting, symmetry, bounds"
+      slidesURL:
+      assignmentName:
+      assignmentURL:
+      problemName:
+      problemURL:
+      readings:
+        - name:
+          url:
+    - date: Fri 1/26
+      lecture: "Lab 2"
+      slidesURL:
+      assignmentName: "Lab 2"
+      assignmentURL:
+
+  - weekNum: 3
+    weekName: Random Counts
+    weekDuration: 1/29-2/2
+    basic:
+    - date: Mon 1/29
+      lecture: "Binomial and multinomial distributions; the Poisson limit"
+      assignmentName: "HW 3"
+    - date: Wed 1/31
+      lecture: "Independence and Poissonization; dependence"
+    - date: Fri 2/2
+      lecture: "Quiz 1 + Lab 3"
+      assignmentName: "Lab 3"
+      assignmentURL:
+
+  - weekNum: 4
+    weekName: Expectation
+    weekDuration: 2/5-2/9
+    basic:
+    - date: Mon 2/5
+      lecture: "Expectation and additivity"
+      assignmentName: "HW 4"
+    - date: Wed 2/7
+      lecture: "Finding expectations by conditioning"
+    - date: Fri 2/9
+      lecture: "Lab 4"
+      assignmentName: "Lab 4"
+      assignmentURL:
+
+  - weekNum: 5
+    weekName: Markov Chains
+    weekDuration: 2/12-2/16
+    basic:
+    - date: Mon 2/12
+      lecture: "Long run behavior of Markov Chains"
+      assignmentName: "HW 5"
+    - date: Wed 2/14
+      lecture: "Reversibility"
+    - date: Fri 2/16
+      lecture: "Quiz 2 + Lab 5"
+      assignmentName: "Lab 5"
+      assignmentURL:
+
+  - weekNum: 6
+    weekName: Reversing Markov Chains
+    weekDuration: 2/19-2/23
+    basic:
+    - date: Mon 2/19
+      lecture: "Holiday: No lecture"
+      assignmentName: "HW 6"
+    - date: Wed 2/21
+      lecture: "Markov Chain monte Carlo"
+    - date: Fri 2/23
+      lecture: "Lab 6"
+      assignmentName: "Lab 6"
+      assignmentURL:
+
+  - weekNum: 7
+    weekName: Midterm
+    weekDuration: 2/26-3/2
+    basic:
+    - date: Mon 2/26
+      lecture: "Midterm Review"
+      assignmentName: ""
+    - date: Wed 2/28
+      lecture: "Midterm"
+    - date: Thu 3/1
+      lecture: "No sections"
+    - date: Fri 3/2
+      lecture: "Lab 7"
+      assignmentName: "Lab 7"
+      assignmentURL:
+
+  - weekNum: 8
+    weekName: Variance and Covariance
+    weekDuration: 3/5-3/9
+    basic:
+    - date: Mon 3/5
+      lecture: "SD: tail bounds, least squares"
+      assignmentName: "HW 7"
+    - date: Wed 3/7
+      lecture: "Covariance and its uses"
+    - date: Fri 3/9
+      lecture: "Lab 8"
+      assignmentName: "Lab 8"
+      assignmentURL:
+
+  - weekNum: 9
+    weekName: Continuous Distributions
+    weekDuration: 3/12-3/16
+    basic:
+    - date: Mon 3/12
+      lecture: "Central Limit Theorem"
+      assignmentName: "HW 8"
+    - date: Wed 3/14
+      lecture: "Probability Densities"
+    - date: Fri 3/16
+      lecture: "Quiz 3 + Lab 9"
+      assignmentName: "Lab 9"
+      assignmentURL:
+
+  - weekNum: 10
+    weekName: Working with Continuous Distributions
+    weekDuration: 3/19-3/23
+    basic:
+    - date: Mon 3/19
+      lecture: "Transformations"
+      assignmentName: "HW 9"
+    - date: Wed 3/21
+      lecture: "Joint densities; the beta family"
+    - date: Fri 3/23
+      lecture: "No lab"
+
+  - weekNum: 11
+    weekName: The Normal and Gamma Families
+    weekDuration: 4/2-4/6
+    basic:
+    - date: Mon 4/2
+      lecture: "Independent normals; maximum likelihood"
+      assignmentName: "HW 10"
+    - date: Wed 4/4
+      lecture: "Sums and the gamma family"
+    - date: Fri 4/6
+      lecture: "Lab 10"
+      assignmentName: "Lab 10"
+      assignmentURL:
+
+  - weekNum: 12
+    weekName: An Approach to Prediction
+    weekDuration: 4/9-4/13
+    basic:
+    - date: Mon 4/9
+      lecture: "Moment generating functions; Chernoff bound"
+      assignmentName: "HW 11"
+    - date: Wed 4/11
+      lecture: "Prior and posterior distributions; beta-binomial"
+    - date: Fri 4/13
+      lecture: "Quiz 4 + Lab 11"
+      assignmentName: "Lab 11"
+      assignmentURL:
+
+  - weekNum: 13
+    weekName: Least Squares Prediction
+    weekDuration: 4/16-4/20
+    basic:
+    - date: Mon 4/16
+      lecture: "Best predictor"
+      assignmentName: "HW 12"
+    - date: Wed 4/18
+      lecture: "Best linear predictor"
+    - date: Fri 4/20
+      lecture: "Lab 12"
+      assignmentName: "Lab 12"
+      assignmentURL:
+
+  - weekNum: 14
+    weekName: Regression
+    weekDuration: 4/23-4/27
+    basic:
+    - date: Mon 4/23
+      lecture: "Multivariate normal"
+      assignmentName: "HW 13"
+    - date: Wed 4/25
+      lecture: "Correlation and regression"
+    - date: Fri 4/27
+      lecture: "Review session"
