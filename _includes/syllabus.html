@@ -2,7 +2,7 @@
 <tbody>
 <tr><th>Week</th><th>Date</th><th>Topic</th><th>Text Sections</th><th>Preparation</th> <th> Assignment </th></tr>
 {% for org_hash in site.data.syllabus2.weeks %}
-  <tr> <td class="weeknum" rowspan="3">{{org_hash.weekNum}}</td>
+  <tr> <td class="weeknum" rowspan="4">{{org_hash.weekNum}}</td>
 	{% for day in org_hash.basic %}
 	<td> {{day.date}} </td>
 	<td> {% if day.slidesURL %} <a href="{{day.slidesURL}}"> {{day.lecture}}</a>  {% else %} {{day.lecture}} {% endif %}

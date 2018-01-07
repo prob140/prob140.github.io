@@ -13,6 +13,8 @@ weeks:
       readings:
         - name:
           url:
+    - date: Thu 1/18
+      lecture: "Discussion Section"
     - date: Fri 1/19
       lecture: "Lab 1"
       assignmentName: "Lab 1"
@@ -42,6 +44,8 @@ weeks:
       readings:
         - name:
           url:
+    - date: Thu 1/25
+      lecture: "Discussion Section"
     - date: Fri 1/26
       lecture: "Lab 2"
       slidesURL:
@@ -57,8 +61,10 @@ weeks:
       assignmentName: 
     - date: Wed 1/31
       lecture: "Independence and Poissonization; dependence"
+    - date: Thu 2/1
+      lecture: "Discussion Section"
     - date: Fri 2/2
-      lecture: "Quiz 1 + Lab 3"
+      lecture: "Lab 3"
       assignmentName: "Lab 3"
       assignmentURL:
 
@@ -71,6 +77,8 @@ weeks:
       assignmentName: 
     - date: Wed 2/7
       lecture: "Finding expectations by conditioning"
+    - date: Thu 2/8
+      lecture: "Discussion Section"
     - date: Fri 2/9
       lecture: "Lab 4"
       assignmentName: "Lab 4"
@@ -85,8 +93,10 @@ weeks:
       assignmentName: 
     - date: Wed 2/14
       lecture: "Reversibility"
+    - date: Thu 2/15
+      lecture: "Discussion Section"
     - date: Fri 2/16
-      lecture: "Quiz 2 + Lab 5"
+      lecture: "Lab 5"
       assignmentName: "Lab 5"
       assignmentURL:
 
@@ -99,6 +109,8 @@ weeks:
       assignmentName: 
     - date: Wed 2/21
       lecture: "Markov Chain monte Carlo"
+    - date: Thu 2/22
+      lecture: "Discussion Section"
     - date: Fri 2/23
       lecture: "Lab 6"
       assignmentName: "Lab 6"
@@ -113,6 +125,8 @@ weeks:
       assignmentName: ""
     - date: Wed 2/28
       lecture: "Midterm"
+    - date: Thu 3/1
+      lecture: "No sections"
     - date: Fri 3/2
       lecture: "Lab 7"
       assignmentName: "Lab 7"
@@ -127,6 +141,8 @@ weeks:
       assignmentName: 
     - date: Wed 3/7
       lecture: "Covariance and its uses"
+    - date: Thu 3/8
+      lecture: "Discussion Section"
     - date: Fri 3/9
       lecture: "Lab 8"
       assignmentName: "Lab 8"
@@ -141,8 +157,10 @@ weeks:
       assignmentName: 
     - date: Wed 3/14
       lecture: "Probability Densities"
+    - date: Thu 3/15
+      lecture: "Discussion Section"
     - date: Fri 3/16
-      lecture: "Quiz 3 + Lab 9"
+      lecture: "Lab 9"
       assignmentName: "Lab 9"
       assignmentURL:
 
@@ -155,6 +173,8 @@ weeks:
       assignmentName: 
     - date: Wed 3/21
       lecture: "Joint densities; the beta family"
+    - date: Thu 3/22
+      lecture: "Discussion Section"
     - date: Fri 3/23
       lecture: "No lab"
 
@@ -167,6 +187,8 @@ weeks:
       assignmentName: 
     - date: Wed 4/4
       lecture: "Sums and the gamma family"
+    - date: Thu 4/5
+      lecture: "Discussion Section"
     - date: Fri 4/6
       lecture: "Lab 10"
       assignmentName: "Lab 10"
@@ -181,8 +203,10 @@ weeks:
       assignmentName: 
     - date: Wed 4/11
       lecture: "Prior and posterior distributions; beta-binomial"
+    - date: Thu 4/12
+      lecture: "Discussion Section"
     - date: Fri 4/13
-      lecture: "Quiz 4 + Lab 11"
+      lecture: "Lab 11"
       assignmentName: "Lab 11"
       assignmentURL:
 
@@ -195,6 +219,8 @@ weeks:
       assignmentName: 
     - date: Wed 4/18
       lecture: "Best linear predictor"
+    - date: Thu 4/19
+      lecture: "Discussion Section"
     - date: Fri 4/20
       lecture: "Lab 12"
       assignmentName: "Lab 12"
@@ -209,5 +235,13 @@ weeks:
       assignmentName: 
     - date: Wed 4/25
       lecture: "Correlation and regression"
+    - date: Thu 4/26
+      lecture: "Discussion Section"
     - date: Fri 4/27
       lecture: "Review session"
+
+  - weekNum: 15
+    basic:
+    - date: Fri 5/11
+      lecture: FINAL EXAM (3-6)
+
