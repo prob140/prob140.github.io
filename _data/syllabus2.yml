@@ -6,7 +6,7 @@ weeks:
     - date: Wed 1/17
       lecture: "Probability: axioms, rules, approximation"
       slidesURL:
-      assignmentName: "HW 1"
+      assignmentName: 
       assignmentURL:
       problemName:
       problemURL:
@@ -25,7 +25,7 @@ weeks:
     - date: Mon 1/22
       lecture: "Random variables: distributions, conditioning, equality"
       slidesURL:
-      assignmentName: "HW 2"
+      assignmentName: 
       assignmentURL:
       problemName:
       problemURL:
@@ -54,7 +54,7 @@ weeks:
     basic:
     - date: Mon 1/29
       lecture: "Binomial and multinomial distributions; the Poisson limit"
-      assignmentName: "HW 3"
+      assignmentName: 
     - date: Wed 1/31
       lecture: "Independence and Poissonization; dependence"
     - date: Fri 2/2
@@ -68,7 +68,7 @@ weeks:
     basic:
     - date: Mon 2/5
       lecture: "Expectation and additivity"
-      assignmentName: "HW 4"
+      assignmentName: 
     - date: Wed 2/7
       lecture: "Finding expectations by conditioning"
     - date: Fri 2/9
@@ -82,7 +82,7 @@ weeks:
     basic:
     - date: Mon 2/12
       lecture: "Long run behavior of Markov Chains"
-      assignmentName: "HW 5"
+      assignmentName: 
     - date: Wed 2/14
       lecture: "Reversibility"
     - date: Fri 2/16
@@ -96,7 +96,7 @@ weeks:
     basic:
     - date: Mon 2/19
       lecture: "Holiday: No lecture"
-      assignmentName: "HW 6"
+      assignmentName: 
     - date: Wed 2/21
       lecture: "Markov Chain monte Carlo"
     - date: Fri 2/23
@@ -113,8 +113,6 @@ weeks:
       assignmentName: ""
     - date: Wed 2/28
       lecture: "Midterm"
-    - date: Thu 3/1
-      lecture: "No sections"
     - date: Fri 3/2
       lecture: "Lab 7"
       assignmentName: "Lab 7"
@@ -126,7 +124,7 @@ weeks:
     basic:
     - date: Mon 3/5
       lecture: "SD: tail bounds, least squares"
-      assignmentName: "HW 7"
+      assignmentName: 
     - date: Wed 3/7
       lecture: "Covariance and its uses"
     - date: Fri 3/9
@@ -140,7 +138,7 @@ weeks:
     basic:
     - date: Mon 3/12
       lecture: "Central Limit Theorem"
-      assignmentName: "HW 8"
+      assignmentName: 
     - date: Wed 3/14
       lecture: "Probability Densities"
     - date: Fri 3/16
@@ -154,7 +152,7 @@ weeks:
     basic:
     - date: Mon 3/19
       lecture: "Transformations"
-      assignmentName: "HW 9"
+      assignmentName: 
     - date: Wed 3/21
       lecture: "Joint densities; the beta family"
     - date: Fri 3/23
@@ -166,7 +164,7 @@ weeks:
     basic:
     - date: Mon 4/2
       lecture: "Independent normals; maximum likelihood"
-      assignmentName: "HW 10"
+      assignmentName: 
     - date: Wed 4/4
       lecture: "Sums and the gamma family"
     - date: Fri 4/6
@@ -180,7 +178,7 @@ weeks:
     basic:
     - date: Mon 4/9
       lecture: "Moment generating functions; Chernoff bound"
-      assignmentName: "HW 11"
+      assignmentName: 
     - date: Wed 4/11
       lecture: "Prior and posterior distributions; beta-binomial"
     - date: Fri 4/13
@@ -194,7 +192,7 @@ weeks:
     basic:
     - date: Mon 4/16
       lecture: "Best predictor"
-      assignmentName: "HW 12"
+      assignmentName: 
     - date: Wed 4/18
       lecture: "Best linear predictor"
     - date: Fri 4/20
@@ -208,7 +206,7 @@ weeks:
     basic:
     - date: Mon 4/23
       lecture: "Multivariate normal"
-      assignmentName: "HW 13"
+      assignmentName: 
     - date: Wed 4/25
       lecture: "Correlation and regression"
     - date: Fri 4/27
