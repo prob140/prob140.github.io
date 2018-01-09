@@ -4,7 +4,7 @@ weeks:
     weekDuration: 1/15-1/19
     basic:
     - date: Wed 1/17
-      lecture: "Probability: axioms, rules, approximation"
+      lecture: "Probability: Axioms, Rules, Approximation"
       slidesURL:
       assignmentName: 
       assignmentURL:
@@ -25,7 +25,7 @@ weeks:
     weekDuration: 1/22-1/26
     basic:
     - date: Mon 1/22
-      lecture: "Random variables: distributions, conditioning, equality"
+      lecture: "Random Variables: Distributions, Conditioning, Equality"
       slidesURL:
       assignmentName: 
       assignmentURL:
@@ -35,7 +35,7 @@ weeks:
         - name:
           url:
     - date: Wed 1/24
-      lecture: "Induction, counting, symmetry, bounds"
+      lecture: "Counting, Symmetry, Bounds"
       slidesURL:
       assignmentName:
       assignmentURL:
@@ -57,10 +57,10 @@ weeks:
     weekDuration: 1/29-2/2
     basic:
     - date: Mon 1/29
-      lecture: "Binomial and multinomial distributions; the Poisson limit"
+      lecture: "Binomial and Multinomial Distributions; the Poisson Limit"
       assignmentName: 
     - date: Wed 1/31
-      lecture: "Independence and Poissonization; dependence"
+      lecture: "Independence and Poissonization; Dependence"
     - date: Thu 2/1
       lecture: "Discussion Section"
     - date: Fri 2/2
@@ -73,10 +73,10 @@ weeks:
     weekDuration: 2/5-2/9
     basic:
     - date: Mon 2/5
-      lecture: "Expectation and additivity"
+      lecture: "Expectation and Additivity"
       assignmentName: 
     - date: Wed 2/7
-      lecture: "Finding expectations by conditioning"
+      lecture: "Finding Expectations by Conditioning"
     - date: Thu 2/8
       lecture: "Discussion Section"
     - date: Fri 2/9
@@ -89,7 +89,7 @@ weeks:
     weekDuration: 2/12-2/16
     basic:
     - date: Mon 2/12
-      lecture: "Long run behavior of Markov Chains"
+      lecture: "Long Run Behavior of Markov Chains"
       assignmentName: 
     - date: Wed 2/14
       lecture: "Reversibility"
@@ -108,7 +108,7 @@ weeks:
       lecture: "Holiday: No lecture"
       assignmentName: 
     - date: Wed 2/21
-      lecture: "Markov Chain monte Carlo"
+      lecture: "Markov Chain Monte Carlo"
     - date: Thu 2/22
       lecture: "Discussion Section"
     - date: Fri 2/23
@@ -126,7 +126,7 @@ weeks:
     - date: Wed 2/28
       lecture: "Midterm"
     - date: Thu 3/1
-      lecture: "No sections"
+      lecture: "No Discussion Section"
     - date: Fri 3/2
       lecture: "Lab 7"
       assignmentName: "Lab 7"
@@ -137,10 +137,10 @@ weeks:
     weekDuration: 3/5-3/9
     basic:
     - date: Mon 3/5
-      lecture: "SD: tail bounds, least squares"
+      lecture: "SD: Tail Bounds, Least Squares"
       assignmentName: 
     - date: Wed 3/7
-      lecture: "Covariance and its uses"
+      lecture: "Covariance and its Uses"
     - date: Thu 3/8
       lecture: "Discussion Section"
     - date: Fri 3/9
@@ -172,7 +172,7 @@ weeks:
       lecture: "Transformations"
       assignmentName: 
     - date: Wed 3/21
-      lecture: "Joint densities; the beta family"
+      lecture: "Joint Densities; the Beta Family"
     - date: Thu 3/22
       lecture: "Discussion Section"
     - date: Fri 3/23
@@ -183,10 +183,10 @@ weeks:
     weekDuration: 4/2-4/6
     basic:
     - date: Mon 4/2
-      lecture: "Independent normals; maximum likelihood"
+      lecture: "Independent Normals; Maximum Likelihood"
       assignmentName: 
     - date: Wed 4/4
-      lecture: "Sums and the gamma family"
+      lecture: "Sums and the Gamma Family"
     - date: Thu 4/5
       lecture: "Discussion Section"
     - date: Fri 4/6
@@ -199,10 +199,10 @@ weeks:
     weekDuration: 4/9-4/13
     basic:
     - date: Mon 4/9
-      lecture: "Moment generating functions; Chernoff bound"
+      lecture: "Moment Generating Functions; Chernoff Bound"
       assignmentName: 
     - date: Wed 4/11
-      lecture: "Prior and posterior distributions; beta-binomial"
+      lecture: "Prior and Posterior Distributions; Beta-Binomial"
     - date: Thu 4/12
       lecture: "Discussion Section"
     - date: Fri 4/13
@@ -215,10 +215,10 @@ weeks:
     weekDuration: 4/16-4/20
     basic:
     - date: Mon 4/16
-      lecture: "Best predictor"
+      lecture: "Best Predictor"
       assignmentName: 
     - date: Wed 4/18
-      lecture: "Best linear predictor"
+      lecture: "Best Linear Predictor"
     - date: Thu 4/19
       lecture: "Discussion Section"
     - date: Fri 4/20
@@ -231,14 +231,14 @@ weeks:
     weekDuration: 4/23-4/27
     basic:
     - date: Mon 4/23
-      lecture: "Multivariate normal"
+      lecture: "Multivariate Normal"
       assignmentName: 
     - date: Wed 4/25
-      lecture: "Correlation and regression"
+      lecture: "Correlation and Regression"
     - date: Thu 4/26
       lecture: "Discussion Section"
     - date: Fri 4/27
-      lecture: "Review session"
+      lecture: "Review Session"
 
   - weekNum: 15
     basic:

@@ -2,7 +2,8 @@
 <tbody>
 <tr><th>Week</th><th>Date</th><th>Topic</th><th>Text Sections</th><th>Preparation</th> <th> Assignment </th></tr>
 {% for org_hash in site.data.syllabus2.weeks %}
-  <tr> <td class="weeknum" rowspan="4">{{org_hash.weekNum}}</td>
+  {% capture row_index %}{% cycle 'odd', 'even' %}{% endcapture %}
+  <tr class="{{row_index}}"> <td class="weeknum" rowspan="4">{{org_hash.weekNum}}</td>
 	{% for day in org_hash.basic %}
 	<td> {{day.date}} </td>
 	<td> {% if day.slidesURL %} <a href="{{day.slidesURL}}"> {{day.lecture}}</a>  {% else %} {{day.lecture}} {% endif %}
@@ -15,7 +16,7 @@
 	<td>  <a href="{{day.problemURL}}"> {% if day.problemURL %} {{day.problemName}} {% endif %}</a> </td>
 	<td>  <a href="{{day.assignmentURL}}">{{day.assignmentName}} </a> </td>
 	</tr>
-	<tr>
+	<tr class="{{row_index}}">
   {% endfor %}
   </tr>
 {% endfor %}
