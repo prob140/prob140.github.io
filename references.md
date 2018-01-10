@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reference Materials
+title: Resources
 ---
 
 ## Prerequisites
@@ -19,3 +19,5 @@ title: Reference Materials
 - [prob140 Reference](https://probability.gitlab.io/prob140/)
 - [Data 8 Midterm Reference](assets/data8-fa17-midterm-guide.pdf)
 
+## Piazza
+https://piazza.com/class/jc82tpcsxdx2as
