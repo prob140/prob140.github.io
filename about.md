@@ -3,7 +3,7 @@ layout: page
 title: About Prob 140
 ---
 
-#### A. Adhikari, October 2017 ####
+#### A. Adhikari ####
 
 ### What is Prob 140? ###
 
