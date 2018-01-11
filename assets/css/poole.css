@@ -260,7 +260,7 @@ th {
 }
 
 table tr:hover td:not(.weeknum){
-  background: #B9D3B6;
+  background: rgba(148, 182, 211, 0.6);
 }
 
 /*
