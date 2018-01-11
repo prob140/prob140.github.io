@@ -34,6 +34,8 @@ weeks:
       readings:
         - name:
           url:
+    - date: Tue 1/23
+      lecture: "Homework 1 Due"
     - date: Wed 1/24
       lecture: "Counting, Symmetry, Bounds"
       slidesURL:
@@ -59,6 +61,8 @@ weeks:
     - date: Mon 1/29
       lecture: "Binomial and Multinomial Distributions; the Poisson Limit"
       assignmentName: 
+    - date: Tue 1/30
+      lecture: "Homework 2 Due"
     - date: Wed 1/31
       lecture: "Independence and Poissonization; Dependence"
     - date: Thu 2/1
@@ -75,6 +79,8 @@ weeks:
     - date: Mon 2/5
       lecture: "Expectation and Additivity"
       assignmentName: 
+    - date: Tue 2/6
+      lecture: "Homework 3 Due"
     - date: Wed 2/7
       lecture: "Finding Expectations by Conditioning"
     - date: Thu 2/8
@@ -91,6 +97,8 @@ weeks:
     - date: Mon 2/12
       lecture: "Long Run Behavior of Markov Chains"
       assignmentName: 
+    - date: Tue 2/13
+      lecture: "Homework 4 Due"
     - date: Wed 2/14
       lecture: "Reversibility"
     - date: Thu 2/15
@@ -107,6 +115,8 @@ weeks:
     - date: Mon 2/19
       lecture: "Holiday: No lecture"
       assignmentName: 
+    - date: Tue 2/20
+      lecture: "Homework 5 Due"
     - date: Wed 2/21
       lecture: "Markov Chain Monte Carlo"
     - date: Thu 2/22
@@ -123,6 +133,8 @@ weeks:
     - date: Mon 2/26
       lecture: "Midterm Review"
       assignmentName: ""
+    - date: Tue 2/27
+      lecture: "Homework 6 Due"
     - date: Wed 2/28
       lecture: "Midterm"
     - date: Thu 3/1
@@ -139,6 +151,8 @@ weeks:
     - date: Mon 3/5
       lecture: "SD: Tail Bounds, Least Squares"
       assignmentName: 
+    - date: Tue 3/6
+      lecture: "Homework 7 Due"
     - date: Wed 3/7
       lecture: "Covariance and its Uses"
     - date: Thu 3/8
@@ -155,6 +169,8 @@ weeks:
     - date: Mon 3/12
       lecture: "Central Limit Theorem"
       assignmentName: 
+    - date: Tue 3/13
+      lecture: "Homework 8 Due"
     - date: Wed 3/14
       lecture: "Probability Densities"
     - date: Thu 3/15
@@ -171,6 +187,8 @@ weeks:
     - date: Mon 3/19
       lecture: "Transformations"
       assignmentName: 
+    - date: Tue 3/20
+      lecture: "Homework 9 Due"
     - date: Wed 3/21
       lecture: "Joint Densities; the Beta Family"
     - date: Thu 3/22
@@ -185,6 +203,8 @@ weeks:
     - date: Mon 4/2
       lecture: "Independent Normals; Maximum Likelihood"
       assignmentName: 
+    - date: Tue 4/3
+      lecture: "Homework 10 Due"
     - date: Wed 4/4
       lecture: "Sums and the Gamma Family"
     - date: Thu 4/5
@@ -201,6 +221,8 @@ weeks:
     - date: Mon 4/9
       lecture: "Moment Generating Functions; Chernoff Bound"
       assignmentName: 
+    - date: Tue 4/10
+      lecture: "Homework 11 Due"
     - date: Wed 4/11
       lecture: "Prior and Posterior Distributions; Beta-Binomial"
     - date: Thu 4/12
@@ -217,6 +239,8 @@ weeks:
     - date: Mon 4/16
       lecture: "Best Predictor"
       assignmentName: 
+    - date: Tue 4/17
+      lecture: "Homework 12 Due"
     - date: Wed 4/18
       lecture: "Best Linear Predictor"
     - date: Thu 4/19
@@ -233,6 +257,8 @@ weeks:
     - date: Mon 4/23
       lecture: "Multivariate Normal"
       assignmentName: 
+    - date: Tue 4/24
+      lecture: "Homework 13 Due"
     - date: Wed 4/25
       lecture: "Correlation and Regression"
     - date: Thu 4/26
