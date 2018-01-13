@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## Prerequisites
-- [Math Prerequesites](/assets/prereq.pdf)
+- [Math Prerequisites](/assets/prereq.pdf)
 - [Computing Finite Sums by Coding](/assets/Finite_Sums_Answers_by_Coding.pdf)
 - [Data 8 Fall 2017](http://data8.org/fa17/)
 - [Data 8 Textbook](http://inferentialthinking.com/)
