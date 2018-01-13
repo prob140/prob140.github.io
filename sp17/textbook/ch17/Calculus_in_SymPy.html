@@ -1,0 +1,2245 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <title>17.4 Calculus in SymPy · GitBook</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.0">
+        
+        
+        
+    
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../ch18/Transformations.html" />
+    
+    
+    <link rel="prev" href="Expectation.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="http://prob140.org/" target="_blank" class="custom-link">Main Prob140 Site</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../ch1/to_the_student.html">
+            
+                <a href="../ch1/to_the_student.html">
+            
+                    
+                    To the Student
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../ch1/Fundamentals.html">
+            
+                <a href="../ch1/Fundamentals.html">
+            
+                    
+                    Chapter 1: Fundamentals
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../ch1/Outcome_Space_and_Events.html">
+            
+                <a href="../ch1/Outcome_Space_and_Events.html">
+            
+                    
+                    1.1 Outcome Spaces and Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../ch1/Equally_Likely_Outcomes.html">
+            
+                <a href="../ch1/Equally_Likely_Outcomes.html">
+            
+                    
+                    1.2 Equally Likely Outcomes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="../ch1/Collisions_in_Hashing.html">
+            
+                <a href="../ch1/Collisions_in_Hashing.html">
+            
+                    
+                    1.3 Collisions In Hashing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="../ch1/Birthday_Problem.html">
+            
+                <a href="../ch1/Birthday_Problem.html">
+            
+                    
+                    1.4 The Birthday Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="../ch1/Exponential_Approximation.html">
+            
+                <a href="../ch1/Exponential_Approximation.html">
+            
+                    
+                    1.5 Exponential Approxmation
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../ch2/Calculating_Chances.html">
+            
+                <a href="../ch2/Calculating_Chances.html">
+            
+                    
+                    Chapter 2: Calculating Chances
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../ch2/Addition.html">
+            
+                <a href="../ch2/Addition.html">
+            
+                    
+                    2.1 Addition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../ch2/Examples.html">
+            
+                <a href="../ch2/Examples.html">
+            
+                    
+                    2.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../ch2/Multiplication.html">
+            
+                <a href="../ch2/Multiplication.html">
+            
+                    
+                    2.3 Multiplication
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="../ch2/More_Examples.html">
+            
+                <a href="../ch2/More_Examples.html">
+            
+                    
+                    2.4 More Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../ch3/RandomVariables.html">
+            
+                <a href="../ch3/RandomVariables.html">
+            
+                    
+                    Chapter 3: Random Variables
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../ch3/FunctionsOnOutcomeSpace.html">
+            
+                <a href="../ch3/FunctionsOnOutcomeSpace.html">
+            
+                    
+                    3.1 Functions on an Outcome Space
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../ch3/Distributions.html">
+            
+                <a href="../ch3/Distributions.html">
+            
+                    
+                    3.2 Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../ch3/Equality.html">
+            
+                <a href="../ch3/Equality.html">
+            
+                    
+                    3.3 Equality
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../ch4/RelationsBetweenVariables.html">
+            
+                <a href="../ch4/RelationsBetweenVariables.html">
+            
+                    
+                    Chapter 4: Relations Between Variables
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="../ch4/JointDistributions.html">
+            
+                <a href="../ch4/JointDistributions.html">
+            
+                    
+                    4.1 Joint Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="../ch4/MarginalDistributions.html">
+            
+                <a href="../ch4/MarginalDistributions.html">
+            
+                    
+                    4.2 Marginal Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="../ch4/ConditionalDistributions.html">
+            
+                <a href="../ch4/ConditionalDistributions.html">
+            
+                    
+                    4.3 Conditional Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.4" data-path="../ch4/DependenceAndIndependence.html">
+            
+                <a href="../ch4/DependenceAndIndependence.html">
+            
+                    
+                    4.4 Dependence and Independence
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../ch5/CollectionsOfEvents.html">
+            
+                <a href="../ch5/CollectionsOfEvents.html">
+            
+                    
+                    Chapter 5: Collections of Events
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.7.1" data-path="../ch5/IntersectionOfSeveralEvents.html">
+            
+                <a href="../ch5/IntersectionOfSeveralEvents.html">
+            
+                    
+                    5.1 Intersection of Several Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="../ch5/UnionOfSeveralEvents.html">
+            
+                <a href="../ch5/UnionOfSeveralEvents.html">
+            
+                    
+                    5.2 Union of Several Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.3" data-path="../ch5/TheMatchingProblem.html">
+            
+                <a href="../ch5/TheMatchingProblem.html">
+            
+                    
+                    5.3 The Matching Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.4" data-path="../ch5/BoolesInequality.html">
+            
+                <a href="../ch5/BoolesInequality.html">
+            
+                    
+                    5.4 Booles Inequality
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../ch6/RandomCounts.html">
+            
+                <a href="../ch6/RandomCounts.html">
+            
+                    
+                    Chapter 6: Random Counts
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.8.1" data-path="../ch6/BinomialDistribution.html">
+            
+                <a href="../ch6/BinomialDistribution.html">
+            
+                    
+                    6.1 The Binomial Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.2" data-path="../ch6/Examples.html">
+            
+                <a href="../ch6/Examples.html">
+            
+                    
+                    6.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.3" data-path="../ch6/OddsRatios.html">
+            
+                <a href="../ch6/OddsRatios.html">
+            
+                    
+                    6.3 Odds Ratios
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.4" data-path="../ch6/LLSNs.html">
+            
+                <a href="../ch6/LLSNs.html">
+            
+                    
+                    6.4 The Law of Small Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../ch7/Poissonization.html">
+            
+                <a href="../ch7/Poissonization.html">
+            
+                    
+                    Chapter 7: Poissonization
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.9.1" data-path="../ch7/PoissonizingTheBinomial.html">
+            
+                <a href="../ch7/PoissonizingTheBinomial.html">
+            
+                    
+                    7.1 Poissonizing the Binomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.2" data-path="../ch7/PoissonizingTheMultinomial.html">
+            
+                <a href="../ch7/PoissonizingTheMultinomial.html">
+            
+                    
+                    7.2 Poissonizing the Multinomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../ch8/Dependence.html">
+            
+                <a href="../ch8/Dependence.html">
+            
+                    
+                    Chapter 8: Dependence
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.10.1" data-path="../ch8/Updating_Probabilities.html">
+            
+                <a href="../ch8/Updating_Probabilities.html">
+            
+                    
+                    8.1 Updating Probabilities
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.2" data-path="../ch8/Randomizing_a_Parameter.html">
+            
+                <a href="../ch8/Randomizing_a_Parameter.html">
+            
+                    
+                    8.2 Randomizing a Parameter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3" data-path="../ch8/Sampling_Without_Replacement.html">
+            
+                <a href="../ch8/Sampling_Without_Replacement.html">
+            
+                    
+                    8.3 Sampling Without Replacement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.4" data-path="../ch8/Hypergeometric_Distribution.html">
+            
+                <a href="../ch8/Hypergeometric_Distribution.html">
+            
+                    
+                    8.4 The Hypergeometric Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../ch9/Expectation.html">
+            
+                <a href="../ch9/Expectation.html">
+            
+                    
+                    Chapter 9: Expectations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.11.1" data-path="../ch9/Definition.html">
+            
+                <a href="../ch9/Definition.html">
+            
+                    
+                    9.1 Definition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.2" data-path="../ch9/Additivity.html">
+            
+                <a href="../ch9/Additivity.html">
+            
+                    
+                    9.2 Additivity
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.3" data-path="../ch9/Expectation_of_Functions.html">
+            
+                <a href="../ch9/Expectation_of_Functions.html">
+            
+                    
+                    9.3 Expectations of Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="../ch10/Standard_Deviation.html">
+            
+                <a href="../ch10/Standard_Deviation.html">
+            
+                    
+                    Chapter 10: Standard Deviations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.12.1" data-path="../ch10/Definition.html">
+            
+                <a href="../ch10/Definition.html">
+            
+                    
+                    10.1 Definition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2" data-path="../ch10/Prediction_and_Estimation.html">
+            
+                <a href="../ch10/Prediction_and_Estimation.html">
+            
+                    
+                    10.2 Prediction and Estimation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.3" data-path="../ch10/Bounds.html">
+            
+                <a href="../ch10/Bounds.html">
+            
+                    
+                    10.3 Bounds
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.4" data-path="../ch10/Heavy_Tails.html">
+            
+                <a href="../ch10/Heavy_Tails.html">
+            
+                    
+                    10.4 Heavy Tails
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13" data-path="../ch11/ConditioningRevisited.html">
+            
+                <a href="../ch11/ConditioningRevisited.html">
+            
+                    
+                    Chapter 11: Conditioning Revisited
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.13.1" data-path="../ch11/ProbabilityByConditioning.html">
+            
+                <a href="../ch11/ProbabilityByConditioning.html">
+            
+                    
+                    11.1 Probability by Conditioning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.2" data-path="../ch11/ExpectationByConditioning.html">
+            
+                <a href="../ch11/ExpectationByConditioning.html">
+            
+                    
+                    11.2 Expectation by Conditioning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.3" data-path="../ch11/ExpectedWaitingTimes.html">
+            
+                <a href="../ch11/ExpectedWaitingTimes.html">
+            
+                    
+                    11.3 Expected Waiting Times
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="../ch12/MarkovChains.html">
+            
+                <a href="../ch12/MarkovChains.html">
+            
+                    
+                    Chapter 12: Markov Chains
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.1" data-path="../ch12/ChainataFixedTime.html">
+            
+                <a href="../ch12/ChainataFixedTime.html">
+            
+                    
+                    12.1 Chain at a Fixed Time
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.2" data-path="../ch12/NotationandTerminology.html">
+            
+                <a href="../ch12/NotationandTerminology.html">
+            
+                    
+                    12.2 Notation and Terminology
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.3" data-path="../ch12/LongRunBehavior.html">
+            
+                <a href="../ch12/LongRunBehavior.html">
+            
+                    
+                    12.3 Long Run Behavior
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.4" data-path="../ch12/Examples.html">
+            
+                <a href="../ch12/Examples.html">
+            
+                    
+                    12.4 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15" data-path="../ch13/Hitting_and_Occupation_Times.html">
+            
+                <a href="../ch13/Hitting_and_Occupation_Times.html">
+            
+                    
+                    Chapter 13: Hitting and Occupation Times
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.15.1" data-path="../ch13/Waiting_Till_a_Pattern_Appears.html">
+            
+                <a href="../ch13/Waiting_Till_a_Pattern_Appears.html">
+            
+                    
+                    13.1 Waiting Till a Pattern Appears
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.2" data-path="../ch13/Returns_and_First_Passage_Times.html">
+            
+                <a href="../ch13/Returns_and_First_Passage_Times.html">
+            
+                    
+                    13.2 Returns and First Passage Times
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.3" data-path="../ch13/Occupation_Times.html">
+            
+                <a href="../ch13/Occupation_Times.html">
+            
+                    
+                    13.3 Occupation Times Within a Block
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.4" data-path="../ch13/Periodic_Chains.html">
+            
+                <a href="../ch13/Periodic_Chains.html">
+            
+                    
+                    13.4 Periodic Chains
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16" data-path="../ch14/Reversing_Markov_Chains.html">
+            
+                <a href="../ch14/Reversing_Markov_Chains.html">
+            
+                    
+                    Chapter 14: Reversing Markov Chains
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.1" data-path="../ch14/Detailed_Balance.html">
+            
+                <a href="../ch14/Detailed_Balance.html">
+            
+                    
+                    14.1 Detailed Balance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.2" data-path="../ch14/Reversibility.html">
+            
+                <a href="../ch14/Reversibility.html">
+            
+                    
+                    14.2 Reversibility
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.3" data-path="../ch14/Code_Breaking.html">
+            
+                <a href="../ch14/Code_Breaking.html">
+            
+                    
+                    14.3 Code Breaking
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.4" data-path="../ch14/Markov_Chain_Monte_Carlo.html">
+            
+                <a href="../ch14/Markov_Chain_Monte_Carlo.html">
+            
+                    
+                    14.4 Markov Chain Monte Carlo
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17" data-path="../ch15/Variance_Via_Covariance.html">
+            
+                <a href="../ch15/Variance_Via_Covariance.html">
+            
+                    
+                    Chapter 15: Variance Via Covariance
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.17.1" data-path="../ch15/Properties_of_Covariance.html">
+            
+                <a href="../ch15/Properties_of_Covariance.html">
+            
+                    
+                    15.1 Properties of Covariance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.2" data-path="../ch15/Sums_of_IID_Samples.html">
+            
+                <a href="../ch15/Sums_of_IID_Samples.html">
+            
+                    
+                    15.2 Sums of IID Samples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.3" data-path="../ch15/Sums_of_Simple_Random_Samples.html">
+            
+                <a href="../ch15/Sums_of_Simple_Random_Samples.html">
+            
+                    
+                    15.3 Sums of Simple Random Samples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.4" data-path="../ch15/Finite_Population_Correction.html">
+            
+                <a href="../ch15/Finite_Population_Correction.html">
+            
+                    
+                    15.4 Finite Population Correction
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18" data-path="../ch16/The_Central_Limit_Theorem.html">
+            
+                <a href="../ch16/The_Central_Limit_Theorem.html">
+            
+                    
+                    Chapter 16: The Central Limit Theorem
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.18.1" data-path="../ch16/Exact_Distribution.html">
+            
+                <a href="../ch16/Exact_Distribution.html">
+            
+                    
+                    16.1 Exact Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.2" data-path="../ch16/PGFs_in_NumPy.html">
+            
+                <a href="../ch16/PGFs_in_NumPy.html">
+            
+                    
+                    16.2 PGFs in NumPy
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.3" data-path="../ch16/Central_Limit_Theorem.html">
+            
+                <a href="../ch16/Central_Limit_Theorem.html">
+            
+                    
+                    16.3 Central Limit Theorem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.4" data-path="../ch16/The_Sample_Mean.html">
+            
+                <a href="../ch16/The_Sample_Mean.html">
+            
+                    
+                    16.4 The Sample Mean
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.5" data-path="../ch16/Confidence_Intervals.html">
+            
+                <a href="../ch16/Confidence_Intervals.html">
+            
+                    
+                    16.5 Confidence Intervals
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19" data-path="Continuous_Distributions.html">
+            
+                <a href="Continuous_Distributions.html">
+            
+                    
+                    Chapter 17: Continuous Distributions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.19.1" data-path="Density_and_CDF.html">
+            
+                <a href="Density_and_CDF.html">
+            
+                    
+                    17.1 Density and CDF
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.2" data-path="The_Meaning_of_Density.html">
+            
+                <a href="The_Meaning_of_Density.html">
+            
+                    
+                    17.2 The Meaning of Density
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.3" data-path="Expectation.html">
+            
+                <a href="Expectation.html">
+            
+                    
+                    17.3 Expectation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.19.4" data-path="Calculus_in_SymPy.html">
+            
+                <a href="Calculus_in_SymPy.html">
+            
+                    
+                    17.4 Calculus in SymPy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20" data-path="../ch18/Transformations.html">
+            
+                <a href="../ch18/Transformations.html">
+            
+                    
+                    Chapter 18: Transformations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.20.1" data-path="../ch18/Exponential_Distribution.html">
+            
+                <a href="../ch18/Exponential_Distribution.html">
+            
+                    
+                    18.1 Exponential Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.2" data-path="../ch18/Linear_Transformations.html">
+            
+                <a href="../ch18/Linear_Transformations.html">
+            
+                    
+                    18.2 Linear Transformations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.3" data-path="../ch18/Monotone_Functions.html">
+            
+                <a href="../ch18/Monotone_Functions.html">
+            
+                    
+                    18.3 Monotone Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21" data-path="../ch19/Joint_Densities.html">
+            
+                <a href="../ch19/Joint_Densities.html">
+            
+                    
+                    Chapter 19: Joint Densities
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.21.1" data-path="../ch19/Probabilities_and_Expectations.html">
+            
+                <a href="../ch19/Probabilities_and_Expectations.html">
+            
+                    
+                    19.1 Probabilities and Expectations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.2" data-path="../ch19/Independence.html">
+            
+                <a href="../ch19/Independence.html">
+            
+                    
+                    19.2 Independence
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.3" data-path="../ch19/Marginal_and_Conditional_Densities.html">
+            
+                <a href="../ch19/Marginal_and_Conditional_Densities.html">
+            
+                    
+                    19.3 Marginal and Conditional Densities
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.4" data-path="../ch19/Beta_Densities_with_Integer_Parameters.html">
+            
+                <a href="../ch19/Beta_Densities_with_Integer_Parameters.html">
+            
+                    
+                    19.4 Beta Densities with Integer Parameters
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22" data-path="../ch20/Applications_of_the_Normal_Distribution.html">
+            
+                <a href="../ch20/Applications_of_the_Normal_Distribution.html">
+            
+                    
+                    Chapter 20: Applications of the Normal Distribution
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.22.1" data-path="../ch20/Properties_of_the_Standard_Normal.html">
+            
+                <a href="../ch20/Properties_of_the_Standard_Normal.html">
+            
+                    
+                    20.1 Properties of the Standard Normal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.2" data-path="../ch20/Sums_of_Independent_Normal_Variables.html">
+            
+                <a href="../ch20/Sums_of_Independent_Normal_Variables.html">
+            
+                    
+                    20.2 Sums of Independent Normal Variables
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.3" data-path="../ch20/Maximum_Likelihood_Estimation.html">
+            
+                <a href="../ch20/Maximum_Likelihood_Estimation.html">
+            
+                    
+                    20.3 Maximum Likelihood Estimation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.4" data-path="../ch20/Chi_Squared_Distributions.html">
+            
+                <a href="../ch20/Chi_Squared_Distributions.html">
+            
+                    
+                    20.4 Chi Squared Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.5" data-path="../ch20/Sums_of_Squares_of_Standard_Normals.html">
+            
+                <a href="../ch20/Sums_of_Squares_of_Standard_Normals.html">
+            
+                    
+                    20.5 Sums of Squares of Standard Normals
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23" data-path="../ch21/Distributions_of_Sums.html">
+            
+                <a href="../ch21/Distributions_of_Sums.html">
+            
+                    
+                    Chapter 21: Distributions of Sums
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.23.1" data-path="../ch21/Convolution_Formula.html">
+            
+                <a href="../ch21/Convolution_Formula.html">
+            
+                    
+                    21.1 Convolution Formula
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.2" data-path="../ch21/Moment_Generating_Functions.html">
+            
+                <a href="../ch21/Moment_Generating_Functions.html">
+            
+                    
+                    21.2 Moment Generating Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.3" data-path="../ch21/MGFs_Normal_and_the_CLT.html">
+            
+                <a href="../ch21/MGFs_Normal_and_the_CLT.html">
+            
+                    
+                    21.3 MGFs Normal and the CLT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.4" data-path="../ch21/Chernoff_Bound.html">
+            
+                <a href="../ch21/Chernoff_Bound.html">
+            
+                    
+                    21.4 Chernoff Bound
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24" data-path="../ch22/Prior_and_Posterior_Distributions.html">
+            
+                <a href="../ch22/Prior_and_Posterior_Distributions.html">
+            
+                    
+                    Chapter 22: Prior and Posterior Distributions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.24.1" data-path="../ch22/Conditioning_on_a_Continuous_Variable.html">
+            
+                <a href="../ch22/Conditioning_on_a_Continuous_Variable.html">
+            
+                    
+                    22.1 Conditioning on a Continuous Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.2" data-path="../ch22/Beta_Binomial.html">
+            
+                <a href="../ch22/Beta_Binomial.html">
+            
+                    
+                    22.2 Beta Binomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.3" data-path="../ch22/Distribution_of_the_Number_of_Successes.html">
+            
+                <a href="../ch22/Distribution_of_the_Number_of_Successes.html">
+            
+                    
+                    22.3 Distribution of the Number of Successes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.4" data-path="../ch22/Long_Run_Proportion_of_Successes.html">
+            
+                <a href="../ch22/Long_Run_Proportion_of_Successes.html">
+            
+                    
+                    22.4 Long Run Proportion of Successes
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25" data-path="../ch23/Prediction.html">
+            
+                <a href="../ch23/Prediction.html">
+            
+                    
+                    Chapter 23: Prediction
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.25.1" data-path="../ch23/Conditional_Variance.html">
+            
+                <a href="../ch23/Conditional_Variance.html">
+            
+                    
+                    23.1 Conditional Variance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25.2" data-path="../ch23/Examples.html">
+            
+                <a href="../ch23/Examples.html">
+            
+                    
+                    23.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25.3" data-path="../ch23/Least_Squares.html">
+            
+                <a href="../ch23/Least_Squares.html">
+            
+                    
+                    23.3 Least Squares
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26" data-path="../ch24/The_Bivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/The_Bivariate_Normal_Distribution.html">
+            
+                    
+                    Chapter 24: The Bivariate Normal Distribution
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.26.1" data-path="../ch24/Standard_Bivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/Standard_Bivariate_Normal_Distribution.html">
+            
+                    
+                    24.1 Standard Bivariate Normal Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.2" data-path="../ch24/Historical_Example.html">
+            
+                <a href="../ch24/Historical_Example.html">
+            
+                    
+                    24.2 Historical Example
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.3" data-path="../ch24/Independence_and_Angles.html">
+            
+                <a href="../ch24/Independence_and_Angles.html">
+            
+                    
+                    24.3 Independence and Angles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.4" data-path="../ch24/Linear_Combinations.html">
+            
+                <a href="../ch24/Linear_Combinations.html">
+            
+                    
+                    24.4 Linear Combinations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.5" data-path="../ch24/Multivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/Multivariate_Normal_Distribution.html">
+            
+                    
+                    24.5 Multivariate Normal Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.6" data-path="../ch24/Best_Predictor.html">
+            
+                <a href="../ch24/Best_Predictor.html">
+            
+                    
+                    24.6 Best Predictor
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >17.4 Calculus in SymPy</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="calculus-in-sympy">Calculus in SymPy</h2><div id="ipython-notebook">
+            <a class="interact-button" href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&amp;path=textbook/Chapter 17/17_4_Calculus_in_SymPy.ipynb" target="_blank">Interact</a>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$']],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Calculus-in-SymPy">Calculus in SymPy<a class="anchor-link" href="#Calculus-in-SymPy">&#xB6;</a></h3><p>Working with densities involves calculus which can sometimes be time-consuming. In this course we will give you two ways of reducing the amount of calculus involved.</p>
+<ul>
+<li>Probabilistic methods can help reduce algebra and calculus. You&apos;ve seen this with algebra in the discrete case. You&apos;ll see it with calculus as we learn more about densities.</li>
+<li>Python has a symbolic math module called <code>SymPy</code> that does algebra, calculus, and much other symbolic math. In this section we will show you how to do calculus using <code>SymPy</code>.</li>
+</ul></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>We will demonstrate the methods in the context of an example. Suppose $X$ has density given by</p>
+$$
+f(x) = 
+\begin{cases}
+105x^2(1-x)^4 ~~~ \text{if } 0 \le x \le 1 \\
+0 ~~~~~~~~~ \text{otherwise}
+\end{cases}
+$$<p>As you can see from its graph below, $f$ could be used to model the distribution of a random proportion that you think is likely to be somewhere between 0.2 and 0.4.</p></div></div>
+<div class="output_png output_subarea ">
+<img src="../notebooks-images/17_4_Calculus_in_SymPy_3_0.png"></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The density $f$ is a polynomial on the unit interval, and in principle the algebra and calculus involved in integrating it are straightforward. But they are tedious. So let&apos;s get <code>SymPy</code> to do the work.</p>
+<p>First, we will import all the functions in <code>SymPy</code> and set up some printing methods that make the output look nicer than the retro typewritten pgf output you saw in a previous section. In future sections of this text, you can assume that this importing and initialization will have been done at the start.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sympy</span> <span class="k">import</span> <span class="o">*</span>
+<span class="n">init_printing</span><span class="p">()</span>
+</pre></div></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Next, we have to tell Python which variables are symbolic and what their possible values are. The function <code>declare</code> lets us do this. It takes as its arguments the string representing the variable, and an option <code>interval</code> specifying the interval of possible values of the variable. In our example, the variable <code>x</code> takes values in the unit interval. In later examples we will show you how to declare infinite intervals of possible values.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">declare</span><span class="p">(</span><span class="s1">&apos;x&apos;</span><span class="p">,</span> <span class="n">interval</span><span class="o">=</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span>
+</pre></div></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Now we will assign the name <code>density</code> to the expression that defines $f$. The expression looks just like a numerical calculation, but the output is algebraic!</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">density</span> <span class="o">=</span> <span class="mi">105</span> <span class="o">*</span> <span class="n">x</span><span class="o">**</span><span class="mi">2</span> <span class="o">*</span> <span class="p">(</span><span class="mi">1</span><span class="o">-</span><span class="n">x</span><span class="p">)</span><span class="o">**</span><span class="mi">4</span>
+<span class="n">density</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$105 x^{2} \left(- x + 1\right)^{4}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>That&apos;s the density $f$ defined by the equation at the start of the section. Notice that what we naturally think of as $1 - x$ is expressed as $-x + 1$. That&apos;s because <code>SymPy</code> is writing the polynomial leading with the term of highest degree.</p>
+<p>Let&apos;s not simply accept that this function is a density. Let&apos;s check that it is a density by integrating it from 0 to 1. To do this, we use the method <code>Integral</code> that takes the name of a function and a <em>tuple</em> (a sequence in parentheses) consisting of the variable of integration and the lower and upper limits of integration. We have assigned this integral to the name <code>total_area</code></p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">total_area</span> <span class="o">=</span> <span class="n">Integral</span><span class="p">(</span><span class="n">density</span><span class="p">,</span> <span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span>
+<span class="n">total_area</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$\int_{0}^{1} 105 x^{2} \left(- x + 1\right)^{4}\, dx$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The output of displays the integral, which is nice, but what we really want is its numerical value. In <code>SymPy</code>, this is achieved by rather rudely instructing the method to <code>doit()</code>.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">total_area</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$1$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>This confirms that the function $f$ is a density.</p>
+<p>We can use <code>Integral</code> again to find the chance of any interval. Here is $P(0.2 &lt; X &lt; 0.4)$.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">p_02_04</span> <span class="o">=</span> <span class="n">Integral</span><span class="p">(</span><span class="n">density</span><span class="p">,</span> <span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mf">0.2</span><span class="p">,</span> <span class="mf">0.4</span><span class="p">))</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+<span class="n">p_02_04</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$0.432064000000001$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>For $x$ in the unit interval, the cdf of $X$ is
+$$
+F(x) ~ = ~ P(X \le x) ~ = ~ \int_0^x f(s)ds ~ = ~ I(s)~ \Big{\rvert}_0^x ~ = ~ I(x) - I(0)
+$$</p>
+<p>where $I$ is the indefinite integral of $f$.</p>
+<p>To get the indefinite integral, simply ask <code>SymPy</code> to integrate the density; there are no limits of integration.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">indefinite</span> <span class="o">=</span> <span class="n">Integral</span><span class="p">(</span><span class="n">density</span><span class="p">)</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+<span class="n">indefinite</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$15 x^{7} - 70 x^{6} + 126 x^{5} - 105 x^{4} + 35 x^{3}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Now $F(x) = I(x) - I(0)$. You can see at a glance that $I(0) = 0$ but here is how <code>SymPy</code> would figure that out.</p>
+<p>To evaluate $I(0)$, <code>SymPy</code> must substitute $x$ with 0 in the expression for $I$. This is achieved by the method <code>subs</code> that takes the variable as its first argument and the specified value as the second.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">I_0</span> <span class="o">=</span> <span class="n">indefinite</span><span class="o">.</span><span class="n">subs</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
+<span class="n">I_0</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$0$$</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cdf</span> <span class="o">=</span> <span class="n">indefinite</span> <span class="o">-</span> <span class="n">I_0</span>
+<span class="n">cdf</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$15 x^{7} - 70 x^{6} + 126 x^{5} - 105 x^{4} + 35 x^{3}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>To find the value of the cdf at a specified point, say 0.4, we have to substitute $x$ with 0.4 in the formula for the cdf.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cdf_04</span> <span class="o">=</span> <span class="n">cdf</span><span class="o">.</span><span class="n">subs</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mf">0.4</span><span class="p">)</span>
+<span class="n">cdf_04</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$0.580096000000001$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Thus $P(X \le 0.4)$ is roughly 58%. Earlier we calulated $P(0.2 &lt; X &lt; 0.4) = 43.2\%$, which we can confirm by using the cdf:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cdf_02</span> <span class="o">=</span> <span class="n">cdf</span><span class="o">.</span><span class="n">subs</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mf">0.2</span><span class="p">)</span>
+<span class="n">cdf_04</span> <span class="o">-</span> <span class="n">cdf_02</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$0.432064000000001$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The expectation $E(X)$ is a definite integral from 0 to 1:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">expectation</span> <span class="o">=</span> <span class="n">Integral</span><span class="p">(</span><span class="n">x</span><span class="o">*</span><span class="n">density</span><span class="p">,</span> <span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+<span class="n">expectation</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$\frac{3}{8}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Notice how simple the answer is. Later in the course, you will see why.</p>
+<p>Here is $E(X^2)$, which turns out to be another simple fraction. Clearly, the density $f$ has interesting properties. We will study them later. For now, let&apos;s just get the numerical answers.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">expected_square</span> <span class="o">=</span> <span class="n">Integral</span><span class="p">((</span><span class="n">x</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span><span class="o">*</span><span class="n">density</span><span class="p">,</span> <span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+<span class="n">expected_square</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$\frac{1}{6}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Now you can find $SD(X)$.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sd</span> <span class="o">=</span> <span class="p">(</span><span class="n">expected_square</span> <span class="o">-</span> <span class="n">expectation</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span><span class="o">**</span><span class="mf">0.5</span>
+<span class="n">sd</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$0.161374306091976$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="SymPy-and-the-Exponential-Density">SymPy and the Exponential Density<a class="anchor-link" href="#SymPy-and-the-Exponential-Density">&#xB6;</a></h3><p>One of the primary distributions in probability theory, the exponential distribution has a positive parameter $\lambda$ and density given by</p>
+$$
+f(t) ~ = \lambda e^{-\lambda t}, ~~~ t \ge 0
+$$<p>The density is 0 on the negative numbers. Here is its graph when $\lambda = 3$.</p></div></div>
+<div class="output_png output_subarea ">
+<img src="../notebooks-images/17_4_Calculus_in_SymPy_32_0.png"></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>To check that $f$ is a density, we have to confirm that its integral is 1. So we will declare two positive symbolic variables <code>t</code> and <code>lamda</code>. Notice the incorrectly spelled <code>lamda</code>. That is because <code>lambda</code> has another meaning in Python, as some of you might know.</p>
+<p>In fact <code>lamda</code> is a constant, not a variable. But <code>SymPy</code> needs to know that it&apos;s an algebraic object, so we have to declare it as such.</p>
+<p>Note the use of <code>positive=True</code> to declare positive variables.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">declare</span><span class="p">(</span><span class="s1">&apos;lamda&apos;</span><span class="p">,</span> <span class="n">positive</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">declare</span><span class="p">(</span><span class="s1">&apos;t&apos;</span><span class="p">,</span> <span class="n">positive</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Now we will define the density function. Notice the use of <code>exp</code> for the exponential function. Notice also that the form of the answer looks different from the way we have written it above, though it&apos;s algebraically the same.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">expon_density</span> <span class="o">=</span> <span class="n">lamda</span> <span class="o">*</span> <span class="n">exp</span><span class="p">(</span><span class="o">-</span><span class="n">lamda</span> <span class="o">*</span> <span class="n">t</span><span class="p">)</span>
+<span class="n">expon_density</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$\frac{\lambda}{e^{\lambda t}}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>This is an unavoidable aspect of computer aided algebra, and it is the reason we will use <code>SymPy</code> purely for computation, not for display.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>To see that the function is a density, we can check that its integral from 0 to $\infty$ is 1. The symbol that <code>SymPy</code> uses for $\infty$ is a double lower case o: <code>oo</code>. That looks very much like $\infty$.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">Integral</span><span class="p">(</span><span class="n">expon_density</span><span class="p">,</span> <span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">oo</span><span class="p">))</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$1$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Suppose $T$ has the exponential $(\lambda)$ density. Then for $t \ge 0$ the cdf of $T$ is</p>
+$$
+F_T(t) ~ = ~ P(T \le t) ~ = ~ \int_0^t \lambda e^{-\lambda s}ds
+$$<p>This is a straightforward integral that you can probably do in your head. However, let&apos;s get some more practice using <code>SymPy</code> to find cdf&apos;s.
+We will use the same method that we used to find the cdf in the previous example.</p>
+$$
+\int_0^t \lambda e^{-\lambda s}ds ~ = ~ I(t) - I(0)
+$$<p>where $I$ is the indefinite integral of the density. To get this indefinite integral we will use <code>Integral</code> as before, except that this time we must specify <code>t</code> as the variable of integration. That is because <code>SymPy</code> sees two algebraic quantities <code>t</code> and <code>lamda</code> in the density, and doesn&apos;t know which one is the variable unless we tell it.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">indefinite</span> <span class="o">=</span> <span class="n">Integral</span><span class="p">(</span><span class="n">expon_density</span><span class="p">,</span> <span class="n">t</span><span class="p">)</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+<span class="n">indefinite</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$- \frac{1}{e^{\lambda t}}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Now use $F_T(t) = I(t) - I(0)$:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">I_0</span> <span class="o">=</span> <span class="n">indefinite</span><span class="o">.</span><span class="n">subs</span><span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
+<span class="n">I_0</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$-1$$</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cdf</span> <span class="o">=</span> <span class="n">indefinite</span> <span class="o">-</span> <span class="n">I_0</span>
+<span class="n">cdf</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$1 - e^{- \lambda t}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Thus the cdf of the exponential $(\lambda)$ density is
+$$
+F_T(t) ~ = ~ 1 - e^{-\lambda t}
+$$
+Also,
+$$
+E(T) ~ = ~ \int_0^\infty t \lambda e^{-\lambda t} dt ~ = ~ \frac{1}{\lambda}
+$$</p>
+<p>which you can check by integration by parts. But <code>SymPy</code> is faster:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">expectation</span> <span class="o">=</span> <span class="n">Integral</span><span class="p">(</span><span class="n">t</span><span class="o">*</span><span class="n">expon_density</span><span class="p">,</span> <span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">oo</span><span class="p">))</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+<span class="n">expectation</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$\frac{1}{\lambda}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>And 
+$$
+E(T^2) = \frac{2}{\lambda^2}
+$$</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">expected_square</span> <span class="o">=</span> <span class="n">Integral</span><span class="p">(</span><span class="n">t</span><span class="o">**</span><span class="mi">2</span> <span class="o">*</span> <span class="n">expon_density</span><span class="p">,</span> <span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">oo</span><span class="p">))</span><span class="o">.</span><span class="n">doit</span><span class="p">()</span>
+<span class="n">expected_square</span>
+</pre></div></div></div>
+<div class="output_latex output_subarea output_execute_result">
+$$\frac{2}{\lambda^{2}}$$</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>So 
+$$
+Var(T) ~ = ~ \frac{2}{\lambda^2} - \frac{1}{\lambda^2} ~ = ~ \frac{1}{\lambda^2}
+$$
+and hence
+$$
+SD(T) ~ = ~ \frac{1}{\lambda}
+$$</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The purpose of this section has been to give you a workout in <code>SymPy</code>. We will take a closer look at the exponential distribution in the next section.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div></div></div></div>
+
+
+
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="Expectation.html" class="navigation navigation-prev " aria-label="Previous page: 17.3 Expectation">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../ch18/Transformations.html" class="navigation navigation-next " aria-label="Next page: Chapter 18: Transformations">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"17.4 Calculus in SymPy","level":"1.19.4","depth":2,"next":{"title":"Chapter 18: Transformations","level":"1.20","depth":1,"path":"ch18/Transformations.md","ref":"ch18/Transformations.md","articles":[{"title":"18.1 Exponential Distribution","level":"1.20.1","depth":2,"path":"ch18/Exponential_Distribution.md","ref":"ch18/Exponential_Distribution.md","articles":[]},{"title":"18.2 Linear Transformations","level":"1.20.2","depth":2,"path":"ch18/Linear_Transformations.md","ref":"ch18/Linear_Transformations.md","articles":[]},{"title":"18.3 Monotone Functions","level":"1.20.3","depth":2,"path":"ch18/Monotone_Functions.md","ref":"ch18/Monotone_Functions.md","articles":[]}]},"previous":{"title":"17.3 Expectation","level":"1.19.3","depth":2,"path":"ch17/Expectation.md","ref":"ch17/Expectation.md","articles":[]},"dir":"ltr"},"config":{"plugins":["mathjax","addcssjs"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"addcssjs":{"css":[],"js":["js/custom.js"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"mathjax":{"forceSVG":false,"version":"2.6-latest"},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"Main Prob140 Site":"http://prob140.org/"}},"gitbook":"*"},"file":{"path":"ch17/Calculus_in_SymPy.md","mtime":"2018-01-07T01:27:01.625Z","type":"markdown"},"gitbook":{"version":"3.2.0","time":"2018-01-07T01:40:24.089Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="https://cdn.mathjax.org/mathjax/2.6-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-mathjax/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    
+    <script type="text/javascript" src="../js/custom.js"></script>
+    
+
+    </body>
+</html>
+

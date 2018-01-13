@@ -1,0 +1,521 @@
+weeks:
+  - weekNum: 1
+    weekName: Fundamentals
+    weekDuration: 1/16-1/20
+    basic: 
+    - date: Tue 1/17
+      lecture: "Probability: axioms, rules, approximation"
+      slidesURL:
+      assignmentName: "HW 1"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01"
+      problemName: "Guide"
+      problemURL: "/assets/Week1_practice.pdf"
+      readings:
+        - name: "Ch 1: Fundamentals"
+          url: "/sp17/textbook/ch1/Fundamentals.html"
+        - name: "Ch 2: Calculating Chances"
+          url: "/sp17/textbook/ch2/Calculating_Chances.html"
+
+    - date: Th 1/19
+      lecture: "Random variables: distributions, conditioning, equality"
+      slidesURL:
+      assignmentName: "Lab 1: Matches in Random Sampling"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
+      readings:
+        - name: "Ch 3: Random Variables"
+          url: "/sp17/textbook/ch3/RandomVariables.html"
+        - name: "Ch 4: Relations Between Variables"
+          url: "/sp17/textbook/ch4/RelationsBetweenVariables.html"
+      problemURL:
+
+    links:
+      - name: "Lecture 1: Introduction to Probability"
+        url: "/sp17/textbook/ch1/Fundamentals.html"
+      - name: "Lecture 2: Random Variables"
+        url: /sp17/textbook/ch3/RandomVariables.html
+      - name: "Week 1 Readings and Practice"
+        url: "/assets/Week1_practice.pdf"
+      - name: "Lab 1: Matches in Random Sampling"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab01"
+      - name: "Homework 1"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw01"
+
+  - weekNum: 2
+    weekName: Random Counts
+    weekDuration: 1/23-1/27
+    basic: 
+    - date: Tue 1/24
+      lecture: "Induction, counting, and bounds"
+      slidesURL:
+      assignmentName: "HW 2"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02"
+      problemName: "Guide"
+      problemURL: "/assets/Week2.pdf"
+      readings:
+        - name: "Ch 5: Collections of Events"
+          url: "/sp17/textbook/ch5/CollectionsOfEvents.html"
+
+    - date: Th 1/26
+      lecture: "Binomial and Multinomial Distributions; The Poisson Limit"
+      slidesURL:
+      assignmentName: "Lab 2: Poisson Approximations in Random Permutations"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02"
+      readings:
+        - name: "Ch 6: Random Counts"
+          url: "/sp17/textbook/ch6/RandomCounts.html"
+
+    links:
+      - name: "Lecture 3: Induction, Counting, and Bounds"
+        url: "/sp17/textbook/ch5/CollectionsOfEvents.html"
+      - name: "Lecture 4: Binomial and Multinomial Distributions; The Poisson Limit"
+        url: "/sp17/textbook/ch6/RandomCounts.html"
+      - name: "Week 2 Readings and Practice"
+        url: "/assets/Week2.pdf"
+      - name: "Homework 2"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw02"
+      - name: "Lab 2: Poisson Approximations in Random Permutations"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab02"
+
+  - weekNum: 3
+    weekName: Conditioning and Bayes Methods
+    weekDuration: 1/30-2/3
+    basic: 
+    - date: Tue 1/31
+      lecture: "Independence and Poissonization; dependence and symmetry"
+      slidesURL:
+      assignmentName: "HW 3"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
+      problemName: "Guide"
+      problemURL: "/assets/Week3.pdf"
+      readings:
+        - name: "Ch 7: Poissonization"
+          url: "/sp17/textbook/ch7/Poissonization.html"
+        - name: "Ch 8: Dependence"
+          url: "/sp17/textbook/ch8/Dependence.html"
+
+    - date: Wed 2/1
+      lecture: " Quiz 1"
+      slidesURL:
+      assignmentName:
+      assignmentURL:
+      reading:
+      readingURL:
+
+    - date: Th 2/2
+      lecture: "Prior and posterior distributions; random sampling"
+      slidesURL:
+      assignmentName: "Lab 3: Riffle Shuffles and Randomness"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03"
+      problemURL:
+
+    links:
+      - name: "Lecture 5: Independence and Poissonization; dependence and symmetry"
+        url: "/sp17/textbook/ch7/Poissonization.html"
+      - name: "Lecture 6: Prior and posterior distributions; random sampling"
+        url: "/sp17/textbook/ch8/Dependence.html"
+      - name: "Week 3 Readings and Practice"
+        url: "/assets/Week3.pdf"
+      - name: "Homework 3"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw03"
+      - name: "Lab 3: Riffle Shuffles and Randomness"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab03"
+
+  - weekNum: 4
+    weekName: Introduction to Prediction
+    weekDuration: 2/6-2/10
+    basic: 
+    - date: Tue 2/7
+      lecture: "Expectation: properties and tail bounds"
+      slidesURL:
+      assignmentName: "HW 4"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw04"
+      problemName: "Guide"
+      problemURL: "/assets/Week4.pdf"
+      readings:
+        - name: "Ch 9: Expectation"
+          url: "/sp17/textbook/ch9/Expectation.html"
+
+
+    - date: Th 2/9
+      lecture: "SD: properties, tail bounds, least squares"
+      slidesURL:
+      assignmentName: "Lab 4: Minimum, Median, and Maximum"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04"
+      readings:
+        - name: "Ch 10: Standard Deviation"
+          url: "/sp17/textbook/ch10/Standard_Deviation.html"
+
+    links:
+      - name: "Lecture 7: Expectation: properties and tail bounds"
+        url: "/sp17/textbook/ch9/Expectation.html"
+      - name: "Lecture 8: SD: properties, tail bounds, least squares"
+        url: "/sp17/textbook/ch10/Standard_Deviation.html"
+      - name: "Week 4 Readings and Practice"
+      - url: "/assets/Week4.pdf"
+      - name: "Homework 4"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw04"
+      - name: "Lab 4: Minimum, Median, and Maximum"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab04"
+
+  - weekNum: 5
+    weekName: Markov Chains
+    weekDuration: 2/13-2/17
+    basic: 
+    - date: Tue 2/14
+      lecture: "Probabilities and expectation by conditioning"
+      slidesURL:
+      assignmentName: "HW 5"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
+      problemName: "Guide"
+      problemURL: "/assets/Week5.pdf"
+      readings:
+        - name: "Ch 11: Conditioning Revisited"
+          url: "/sp17/textbook/ch11/ConditioningRevisited.html"
+
+    - date: Wed 2/15
+      lecture: " Quiz 2"
+      slidesURL:
+      assignmentName:
+      assignmentURL:
+      problemURL:
+
+
+    - date: Th 2/16
+      lecture: "Long run behavior of Markov Chains"
+      slidesURL:
+      assignmentName: "Lab 5: Tsetlin Library and PageRank"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05"
+      readings:
+        - name: "Ch 12: Markov Chains"
+          url: "/sp17/textbook/ch12/MarkovChains.html"
+
+    links:
+      - name: "Lecture 9: Probabilities and expectation by conditioning"
+        url: "/sp17/textbook/ch11/ConditioningRevisited.html"
+      - name: "Lecture 10: Long run behavior of Markov Chains"
+        url: "/sp17/textbook/ch12/MarkovChains.html"
+      - name: "Week 5 Readings and Practice"
+        url: "/assets/Week5.pdf"
+      - name: "Homework 5"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw05"
+      - name: "Lab 5: Tsetlin Library and PageRank"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab05"
+
+  - weekNum: 6
+    weekName: Conditioning and Bayes Revisited
+    weekDuration: 2/20-2/24
+    basic: 
+    - date: Tue 2/21
+      lecture: "Hitting and occupation times"
+      slidesURL:
+      assignmentName: "HW 6"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
+      problemName: "Midterm Guide"
+      problemURL: "/assets/Week6.pdf"
+      readings:
+        - name: "Ch 13: Hitting and Occupation Times"
+          url: "/sp17/textbook/ch13/Hitting_and_Occupation_Times.html"
+
+    - date: Th 2/23
+      lecture: "Reversibility and MCMC"
+      slidesURL:
+      assignmentName: "Lab 6: Codebreaking by MCMC"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab06"
+      problemName: "Problems"
+      problemURL: "/midterm_practice"
+      readings:
+        - name: "Ch 14: Reversing Markov Chains"
+          url: "/sp17/textbook/ch14/Detailed_Balance.html"
+
+    links:
+      - name: "Lecture 11: Hitting and occupation times"
+        url: "/sp17/textbook/ch13/Hitting_and_Occupation_Times.html"
+      - name: "Lecture 12: Reversibility and MCMC"
+        url: "/sp17/textbook/ch14/Detailed_Balance.html"
+      - name: "Midterm Practice"
+        url: "/midterm_practice"
+      - name: "Homework 6"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw06"
+      - name: "Lab 6: Codebreaking by MCMC"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab06"
+
+  - weekNum: 7
+    weekName: Midterm
+    weekDuration: 2/27-3/3
+    basic: 
+    - date: Tue 2/28
+      lecture: "Review"
+      assignmentName: "No HW 7"
+      assignmentURL:
+
+    - date: Th 3/2
+      lecture: "Midterm"
+      assignmentName: "No Lab 7"
+      assignmentURL:
+
+    links:
+      - name: "Midterm Practice"
+        url: "/midterm_practice"
+      - name: "Midterm Guide"
+        url: "/assets/Week6.pdf"
+      - name: "Midterm Cover Page"
+        url: "/assets/midterm_cover_page.pdf"
+
+  - weekNum: 8
+    weekName: Variability of Sample Sums
+    weekDuration: 3/6-3/10
+    basic:
+    - date: Tue 3/7
+      lecture: "Covariance and its uses"
+      slidesURL:
+      assignmentName: "HW 8"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw08"
+      problemName: "Guide"
+      problemURL: "assets/Week8.pdf"
+      readings:
+        - name: "Ch 15: Variance Via Covariance"
+          url: "/sp17/textbook/ch15/Variance_Via_Covariance.html"
+
+    - date: Th 3/9
+      lecture: "Central Limit Theorem"
+      slidesURL:
+      assignmentName: "Lab 8: Binomial, Poisson, and Normal"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab08"
+      problemURL:
+      readings:
+        - name: "Ch 16: The Central Limit Theorem"
+          url: "/sp17/textbook/ch16/The_Central_Limit_Theorem.html"
+
+    links:
+      - name: "Lecture 13: Covariance and its uses"
+        url: "/sp17/textbook/ch15/Variance_Via_Covariance.html"
+      - name: "Lecture 14: Central Limit Theorem"
+        url: "/sp17/textbook/ch16/The_Central_Limit_Theorem.html"
+      - name: "Week 8 Readings and Practice"
+        url: /assets/Week8.pdf
+      - name: "Homework 8"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw08"
+      - name: "Lab 8: Binomial, Poisson, and Normal"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab08"
+
+  - weekNum: 9
+    weekName: A Continuum of Values
+    weekDuration: 3/13-3/17
+    basic:
+    - date: Tue 3/14
+      lecture: "Probability densities"
+      slidesURL:
+      assignmentName: "HW 9"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
+      problemName: "Guide"
+      problemURL: /assets/Week9.pdf
+      readings:
+        - name: "Ch 17: Continuous Distributions"
+          url: "/sp17/textbook/ch17/Continuous_Distributions.html"
+
+    - date: Th 3/16
+      lecture: "Transformations"
+      slidesURL: 
+      assignmentName: "Lab 9: Simulation and the CDF"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09"
+      problemURL:
+      readings:
+        - name: "Ch 18: Transformations"
+          url: "/sp17/textbook/ch18/Transformations.html"
+
+    links:
+      - name: "Lecture 15: Probability densities"
+        url: "/sp17/textbook/ch17/Continuous_Distributions.html"
+      - name: "Lecture 16: Transformations"
+        url: "/sp17/textbook/ch18/Transformations.html"
+      - name: "Week 9 Readings and Practice"
+        url: /assets/Week9.pdf
+      - name: "Homework 9"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw09"
+      - name: "Lab 9: Simulation and the CDF"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab09"
+
+
+  - weekNum: 10
+    weekName: Families of Densities
+    weekDuration: 3/20-3/24
+    basic:
+    - date: Tue 3/21
+      lecture: "Joint densities"
+      slidesURL:
+      assignmentName: "HW 10"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10"
+      problemName: "Guide"
+      problemURL: "assets/Week10.pdf"
+      readings:
+        - name: "Ch 19: Joint Density"
+          url: "/sp17/textbook/ch19/Joint_Densities.html"
+
+    - date: Wed 3/22
+      lecture: " Quiz 3"
+      slidesURL:
+      assignmentName:
+      assignmentURL:
+      reading:
+      readingURL:
+
+    - date: Th 3/23
+      lecture: "The Beta Family"
+      slidesURL:
+      assignmentName: "No Lab 10 (Spring Break)"
+      assignmentURL: /materials_placeholder
+      problemURL:
+
+    links:
+      - name: "Lecture 17: Joint densities"
+        url: "/sp17/textbook/ch19/Joint_Densities.html"
+      - name: "Lecture 18: The Beta Family"
+        url: /materials_placeholder
+      - name: "Week 10 Readings and Practice"
+        url: /assets/Week10.pdf
+      - name: "Homework 10"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw10"
+
+
+  - weekNum: 11
+    weekName: An Approach to Inference
+    weekDuration: 4/3-4/7
+    basic:
+    - date: Tue 4/4
+      lecture: "Independent normals; maximum likelihood"
+      slidesURL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465539/"
+      assignmentName: "HW 11"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw11"
+      problemName: "Guide"
+      problemURL: "assets/Week11.pdf"
+      readings:
+        - name: "Ch 20: Applications of the Normal"
+          url: "/sp17/textbook/ch20/Applications_of_the_Normal_Distribution.html"
+
+    - date: Th 4/6
+      lecture: "Sums and the gamma family"
+      slidesURL:
+      assignmentName: "Lab 11: MLE, Chi-Squared, and Goodness of Fit"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab11"
+      problemURL:
+
+    links:
+      - name: "Lecture 19: Independent normals; maximum likelihood"
+        url: "/sp17/textbook/ch20/Applications_of_the_Normal_Distribution.html"
+      - name: "Lecture 20: Sums and the gamma family"
+        url: "/sp17/textbook/ch20/Applications_of_the_Normal_Distribution.html"
+      - name: "Week 11 Readings and Practice"
+        url: "assets/Week11.pdf"
+      - name: "Homework 11"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw11"
+      - name: "Lab 11: MLE, Chi-Squared, and Goodness of Fit"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab11"
+
+  - weekNum: 12
+    weekName: A Different Approach to Inference
+    weekDuration: 4/10-4/14
+    basic:
+    - date: Tue 4/11
+      lecture: "Moment generating functions; Chernoff bound"
+      slidesURL:
+      assignmentName: "HW 12"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12"
+      problemName: "Guide"
+      problemURL: "assets/Week12.pdf"
+      readings:
+        - name: "Ch 21: Distributions of Sums"
+          url: "/sp17/textbook/ch21/Distributions_of_Sums.html"
+
+    - date: Wed 4/12
+      lecture: " Quiz 4"
+      slidesURL:
+      assignmentName:
+      assignmentURL:
+      reading:
+      readingURL:
+
+    - date: Th 4/13
+      lecture: "Prior and posterior densities; beta-binomial"
+      slidesURL:
+      assignmentName: "Lab 12: Chinese Restaurant Process I"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab12"
+      problemURL:
+      readings:
+        - name: "Ch 22: Prior and Posterior Distributions"
+          url: "/sp17/textbook/ch22/Prior_and_Posterior_Distributions.html"
+
+    links:
+      - name: "Lecture 21: Moment generating functions; Chernoff bound"
+        url: "/sp17/textbook/ch21/Distributions_of_Sums.html"
+      - name: "Lecture 22: Prior and posterior densities; beta-binomial"
+        url: "/sp17/textbook/ch22/Prior_and_Posterior_Distributions.html"
+      - name: "Week 12 Readings and Practice"
+        url: "assets/Week12.pdf"
+      - name: "Homework 12"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw12"
+      - name: "Lab 12: Chinese Restaurant Process I"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab12"
+
+  - weekNum: 13
+    weekName: Prediction
+    weekDuration: 4/17-4/21
+    basic:
+    - date: Tue 4/17
+      lecture: "Best predictor"
+      slidesURL:
+      assignmentName: "HW 13"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13"
+      problemName: "Guide"
+      problemURL: "assets/Week13.pdf"
+
+    - date: Th 4/21
+      lecture: "Best linear predictor: correlation and regression"
+      slidesURL:
+      assignmentName: "Lab 13: Chinese Restaurant Process II"
+      assignmentURL: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab13"
+      problemURL:
+      readings:
+        - name: "Ch 23: Prediction"
+          url: "/sp17/textbook/ch23/Prediction.html"
+
+    links:
+      - name: "Lecture 23: Best predictor"
+        url: "/sp17/textbook/ch23/Prediction.html"
+      - name: "Lecture 24: Best linear predictor: correlation and regression"
+        url: /materials_placeholder
+      - name: "Week 13 Readings and Practice"
+        url: "assets/Week13.pdf"
+      - name: "Homework 13"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=hw/hw13"
+      - name: "Lab 13: Chinese Restaurant Process II"
+        url: "http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=labs/lab13"
+
+  - weekNum: 14
+    weekName: A Multivariate Model
+    weekDuration: 4/24-4/28
+    basic:
+    - date: Tue 4/25
+      lecture: "The multivariate normal"
+      slidesURL:
+      assignmentName: "No HW due in RRR week"
+      assignmentURL: /materials_placeholder
+      problemName: "Final Exam Resources"
+      problemURL: /final_practice
+      readings:
+        - name: "Ch 24: The Bivariate Normal Distribution"
+          url: "/sp17/textbook/ch24/Standard_Bivariate_Normal_Distribution.html"
+
+    - date: Th 4/27
+      lecture: "Conclusion"
+      slidesURL:
+      assignmentName: ""
+      assignmentURL: /materials_placeholder
+      problemURL:
+
+    links:
+      - name: "Lecture 25: The multivariate normal"
+        url: "/sp17/textbook/ch24/Standard_Bivariate_Normal_Distribution.html"
+      - name: "Lecture 26: Conclusion"
+        url: ""
+      - name: "Final Exam Resources"
+        url: /final_practice

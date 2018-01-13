@@ -1,0 +1,2727 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <title>12.1 Chain at a Fixed Time · GitBook</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.0">
+        
+        
+        
+    
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="NotationandTerminology.html" />
+    
+    
+    <link rel="prev" href="MarkovChains.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="http://prob140.org/" target="_blank" class="custom-link">Main Prob140 Site</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../ch1/to_the_student.html">
+            
+                <a href="../ch1/to_the_student.html">
+            
+                    
+                    To the Student
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../ch1/Fundamentals.html">
+            
+                <a href="../ch1/Fundamentals.html">
+            
+                    
+                    Chapter 1: Fundamentals
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../ch1/Outcome_Space_and_Events.html">
+            
+                <a href="../ch1/Outcome_Space_and_Events.html">
+            
+                    
+                    1.1 Outcome Spaces and Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../ch1/Equally_Likely_Outcomes.html">
+            
+                <a href="../ch1/Equally_Likely_Outcomes.html">
+            
+                    
+                    1.2 Equally Likely Outcomes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="../ch1/Collisions_in_Hashing.html">
+            
+                <a href="../ch1/Collisions_in_Hashing.html">
+            
+                    
+                    1.3 Collisions In Hashing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="../ch1/Birthday_Problem.html">
+            
+                <a href="../ch1/Birthday_Problem.html">
+            
+                    
+                    1.4 The Birthday Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="../ch1/Exponential_Approximation.html">
+            
+                <a href="../ch1/Exponential_Approximation.html">
+            
+                    
+                    1.5 Exponential Approxmation
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../ch2/Calculating_Chances.html">
+            
+                <a href="../ch2/Calculating_Chances.html">
+            
+                    
+                    Chapter 2: Calculating Chances
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../ch2/Addition.html">
+            
+                <a href="../ch2/Addition.html">
+            
+                    
+                    2.1 Addition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../ch2/Examples.html">
+            
+                <a href="../ch2/Examples.html">
+            
+                    
+                    2.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../ch2/Multiplication.html">
+            
+                <a href="../ch2/Multiplication.html">
+            
+                    
+                    2.3 Multiplication
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="../ch2/More_Examples.html">
+            
+                <a href="../ch2/More_Examples.html">
+            
+                    
+                    2.4 More Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../ch3/RandomVariables.html">
+            
+                <a href="../ch3/RandomVariables.html">
+            
+                    
+                    Chapter 3: Random Variables
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../ch3/FunctionsOnOutcomeSpace.html">
+            
+                <a href="../ch3/FunctionsOnOutcomeSpace.html">
+            
+                    
+                    3.1 Functions on an Outcome Space
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../ch3/Distributions.html">
+            
+                <a href="../ch3/Distributions.html">
+            
+                    
+                    3.2 Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../ch3/Equality.html">
+            
+                <a href="../ch3/Equality.html">
+            
+                    
+                    3.3 Equality
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../ch4/RelationsBetweenVariables.html">
+            
+                <a href="../ch4/RelationsBetweenVariables.html">
+            
+                    
+                    Chapter 4: Relations Between Variables
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="../ch4/JointDistributions.html">
+            
+                <a href="../ch4/JointDistributions.html">
+            
+                    
+                    4.1 Joint Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="../ch4/MarginalDistributions.html">
+            
+                <a href="../ch4/MarginalDistributions.html">
+            
+                    
+                    4.2 Marginal Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="../ch4/ConditionalDistributions.html">
+            
+                <a href="../ch4/ConditionalDistributions.html">
+            
+                    
+                    4.3 Conditional Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.4" data-path="../ch4/DependenceAndIndependence.html">
+            
+                <a href="../ch4/DependenceAndIndependence.html">
+            
+                    
+                    4.4 Dependence and Independence
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../ch5/CollectionsOfEvents.html">
+            
+                <a href="../ch5/CollectionsOfEvents.html">
+            
+                    
+                    Chapter 5: Collections of Events
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.7.1" data-path="../ch5/IntersectionOfSeveralEvents.html">
+            
+                <a href="../ch5/IntersectionOfSeveralEvents.html">
+            
+                    
+                    5.1 Intersection of Several Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="../ch5/UnionOfSeveralEvents.html">
+            
+                <a href="../ch5/UnionOfSeveralEvents.html">
+            
+                    
+                    5.2 Union of Several Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.3" data-path="../ch5/TheMatchingProblem.html">
+            
+                <a href="../ch5/TheMatchingProblem.html">
+            
+                    
+                    5.3 The Matching Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.4" data-path="../ch5/BoolesInequality.html">
+            
+                <a href="../ch5/BoolesInequality.html">
+            
+                    
+                    5.4 Booles Inequality
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../ch6/RandomCounts.html">
+            
+                <a href="../ch6/RandomCounts.html">
+            
+                    
+                    Chapter 6: Random Counts
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.8.1" data-path="../ch6/BinomialDistribution.html">
+            
+                <a href="../ch6/BinomialDistribution.html">
+            
+                    
+                    6.1 The Binomial Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.2" data-path="../ch6/Examples.html">
+            
+                <a href="../ch6/Examples.html">
+            
+                    
+                    6.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.3" data-path="../ch6/OddsRatios.html">
+            
+                <a href="../ch6/OddsRatios.html">
+            
+                    
+                    6.3 Odds Ratios
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.4" data-path="../ch6/LLSNs.html">
+            
+                <a href="../ch6/LLSNs.html">
+            
+                    
+                    6.4 The Law of Small Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../ch7/Poissonization.html">
+            
+                <a href="../ch7/Poissonization.html">
+            
+                    
+                    Chapter 7: Poissonization
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.9.1" data-path="../ch7/PoissonizingTheBinomial.html">
+            
+                <a href="../ch7/PoissonizingTheBinomial.html">
+            
+                    
+                    7.1 Poissonizing the Binomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.2" data-path="../ch7/PoissonizingTheMultinomial.html">
+            
+                <a href="../ch7/PoissonizingTheMultinomial.html">
+            
+                    
+                    7.2 Poissonizing the Multinomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../ch8/Dependence.html">
+            
+                <a href="../ch8/Dependence.html">
+            
+                    
+                    Chapter 8: Dependence
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.10.1" data-path="../ch8/Updating_Probabilities.html">
+            
+                <a href="../ch8/Updating_Probabilities.html">
+            
+                    
+                    8.1 Updating Probabilities
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.2" data-path="../ch8/Randomizing_a_Parameter.html">
+            
+                <a href="../ch8/Randomizing_a_Parameter.html">
+            
+                    
+                    8.2 Randomizing a Parameter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3" data-path="../ch8/Sampling_Without_Replacement.html">
+            
+                <a href="../ch8/Sampling_Without_Replacement.html">
+            
+                    
+                    8.3 Sampling Without Replacement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.4" data-path="../ch8/Hypergeometric_Distribution.html">
+            
+                <a href="../ch8/Hypergeometric_Distribution.html">
+            
+                    
+                    8.4 The Hypergeometric Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../ch9/Expectation.html">
+            
+                <a href="../ch9/Expectation.html">
+            
+                    
+                    Chapter 9: Expectations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.11.1" data-path="../ch9/Definition.html">
+            
+                <a href="../ch9/Definition.html">
+            
+                    
+                    9.1 Definition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.2" data-path="../ch9/Additivity.html">
+            
+                <a href="../ch9/Additivity.html">
+            
+                    
+                    9.2 Additivity
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.3" data-path="../ch9/Expectation_of_Functions.html">
+            
+                <a href="../ch9/Expectation_of_Functions.html">
+            
+                    
+                    9.3 Expectations of Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="../ch10/Standard_Deviation.html">
+            
+                <a href="../ch10/Standard_Deviation.html">
+            
+                    
+                    Chapter 10: Standard Deviations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.12.1" data-path="../ch10/Definition.html">
+            
+                <a href="../ch10/Definition.html">
+            
+                    
+                    10.1 Definition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2" data-path="../ch10/Prediction_and_Estimation.html">
+            
+                <a href="../ch10/Prediction_and_Estimation.html">
+            
+                    
+                    10.2 Prediction and Estimation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.3" data-path="../ch10/Bounds.html">
+            
+                <a href="../ch10/Bounds.html">
+            
+                    
+                    10.3 Bounds
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.4" data-path="../ch10/Heavy_Tails.html">
+            
+                <a href="../ch10/Heavy_Tails.html">
+            
+                    
+                    10.4 Heavy Tails
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13" data-path="../ch11/ConditioningRevisited.html">
+            
+                <a href="../ch11/ConditioningRevisited.html">
+            
+                    
+                    Chapter 11: Conditioning Revisited
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.13.1" data-path="../ch11/ProbabilityByConditioning.html">
+            
+                <a href="../ch11/ProbabilityByConditioning.html">
+            
+                    
+                    11.1 Probability by Conditioning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.2" data-path="../ch11/ExpectationByConditioning.html">
+            
+                <a href="../ch11/ExpectationByConditioning.html">
+            
+                    
+                    11.2 Expectation by Conditioning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.3" data-path="../ch11/ExpectedWaitingTimes.html">
+            
+                <a href="../ch11/ExpectedWaitingTimes.html">
+            
+                    
+                    11.3 Expected Waiting Times
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="MarkovChains.html">
+            
+                <a href="MarkovChains.html">
+            
+                    
+                    Chapter 12: Markov Chains
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.14.1" data-path="ChainataFixedTime.html">
+            
+                <a href="ChainataFixedTime.html">
+            
+                    
+                    12.1 Chain at a Fixed Time
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.2" data-path="NotationandTerminology.html">
+            
+                <a href="NotationandTerminology.html">
+            
+                    
+                    12.2 Notation and Terminology
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.3" data-path="LongRunBehavior.html">
+            
+                <a href="LongRunBehavior.html">
+            
+                    
+                    12.3 Long Run Behavior
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.4" data-path="Examples.html">
+            
+                <a href="Examples.html">
+            
+                    
+                    12.4 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15" data-path="../ch13/Hitting_and_Occupation_Times.html">
+            
+                <a href="../ch13/Hitting_and_Occupation_Times.html">
+            
+                    
+                    Chapter 13: Hitting and Occupation Times
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.15.1" data-path="../ch13/Waiting_Till_a_Pattern_Appears.html">
+            
+                <a href="../ch13/Waiting_Till_a_Pattern_Appears.html">
+            
+                    
+                    13.1 Waiting Till a Pattern Appears
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.2" data-path="../ch13/Returns_and_First_Passage_Times.html">
+            
+                <a href="../ch13/Returns_and_First_Passage_Times.html">
+            
+                    
+                    13.2 Returns and First Passage Times
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.3" data-path="../ch13/Occupation_Times.html">
+            
+                <a href="../ch13/Occupation_Times.html">
+            
+                    
+                    13.3 Occupation Times Within a Block
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.4" data-path="../ch13/Periodic_Chains.html">
+            
+                <a href="../ch13/Periodic_Chains.html">
+            
+                    
+                    13.4 Periodic Chains
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16" data-path="../ch14/Reversing_Markov_Chains.html">
+            
+                <a href="../ch14/Reversing_Markov_Chains.html">
+            
+                    
+                    Chapter 14: Reversing Markov Chains
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.1" data-path="../ch14/Detailed_Balance.html">
+            
+                <a href="../ch14/Detailed_Balance.html">
+            
+                    
+                    14.1 Detailed Balance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.2" data-path="../ch14/Reversibility.html">
+            
+                <a href="../ch14/Reversibility.html">
+            
+                    
+                    14.2 Reversibility
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.3" data-path="../ch14/Code_Breaking.html">
+            
+                <a href="../ch14/Code_Breaking.html">
+            
+                    
+                    14.3 Code Breaking
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.4" data-path="../ch14/Markov_Chain_Monte_Carlo.html">
+            
+                <a href="../ch14/Markov_Chain_Monte_Carlo.html">
+            
+                    
+                    14.4 Markov Chain Monte Carlo
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17" data-path="../ch15/Variance_Via_Covariance.html">
+            
+                <a href="../ch15/Variance_Via_Covariance.html">
+            
+                    
+                    Chapter 15: Variance Via Covariance
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.17.1" data-path="../ch15/Properties_of_Covariance.html">
+            
+                <a href="../ch15/Properties_of_Covariance.html">
+            
+                    
+                    15.1 Properties of Covariance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.2" data-path="../ch15/Sums_of_IID_Samples.html">
+            
+                <a href="../ch15/Sums_of_IID_Samples.html">
+            
+                    
+                    15.2 Sums of IID Samples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.3" data-path="../ch15/Sums_of_Simple_Random_Samples.html">
+            
+                <a href="../ch15/Sums_of_Simple_Random_Samples.html">
+            
+                    
+                    15.3 Sums of Simple Random Samples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.4" data-path="../ch15/Finite_Population_Correction.html">
+            
+                <a href="../ch15/Finite_Population_Correction.html">
+            
+                    
+                    15.4 Finite Population Correction
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18" data-path="../ch16/The_Central_Limit_Theorem.html">
+            
+                <a href="../ch16/The_Central_Limit_Theorem.html">
+            
+                    
+                    Chapter 16: The Central Limit Theorem
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.18.1" data-path="../ch16/Exact_Distribution.html">
+            
+                <a href="../ch16/Exact_Distribution.html">
+            
+                    
+                    16.1 Exact Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.2" data-path="../ch16/PGFs_in_NumPy.html">
+            
+                <a href="../ch16/PGFs_in_NumPy.html">
+            
+                    
+                    16.2 PGFs in NumPy
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.3" data-path="../ch16/Central_Limit_Theorem.html">
+            
+                <a href="../ch16/Central_Limit_Theorem.html">
+            
+                    
+                    16.3 Central Limit Theorem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.4" data-path="../ch16/The_Sample_Mean.html">
+            
+                <a href="../ch16/The_Sample_Mean.html">
+            
+                    
+                    16.4 The Sample Mean
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.5" data-path="../ch16/Confidence_Intervals.html">
+            
+                <a href="../ch16/Confidence_Intervals.html">
+            
+                    
+                    16.5 Confidence Intervals
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19" data-path="../ch17/Continuous_Distributions.html">
+            
+                <a href="../ch17/Continuous_Distributions.html">
+            
+                    
+                    Chapter 17: Continuous Distributions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.19.1" data-path="../ch17/Density_and_CDF.html">
+            
+                <a href="../ch17/Density_and_CDF.html">
+            
+                    
+                    17.1 Density and CDF
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.2" data-path="../ch17/The_Meaning_of_Density.html">
+            
+                <a href="../ch17/The_Meaning_of_Density.html">
+            
+                    
+                    17.2 The Meaning of Density
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.3" data-path="../ch17/Expectation.html">
+            
+                <a href="../ch17/Expectation.html">
+            
+                    
+                    17.3 Expectation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.4" data-path="../ch17/Calculus_in_SymPy.html">
+            
+                <a href="../ch17/Calculus_in_SymPy.html">
+            
+                    
+                    17.4 Calculus in SymPy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20" data-path="../ch18/Transformations.html">
+            
+                <a href="../ch18/Transformations.html">
+            
+                    
+                    Chapter 18: Transformations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.20.1" data-path="../ch18/Exponential_Distribution.html">
+            
+                <a href="../ch18/Exponential_Distribution.html">
+            
+                    
+                    18.1 Exponential Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.2" data-path="../ch18/Linear_Transformations.html">
+            
+                <a href="../ch18/Linear_Transformations.html">
+            
+                    
+                    18.2 Linear Transformations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.3" data-path="../ch18/Monotone_Functions.html">
+            
+                <a href="../ch18/Monotone_Functions.html">
+            
+                    
+                    18.3 Monotone Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21" data-path="../ch19/Joint_Densities.html">
+            
+                <a href="../ch19/Joint_Densities.html">
+            
+                    
+                    Chapter 19: Joint Densities
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.21.1" data-path="../ch19/Probabilities_and_Expectations.html">
+            
+                <a href="../ch19/Probabilities_and_Expectations.html">
+            
+                    
+                    19.1 Probabilities and Expectations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.2" data-path="../ch19/Independence.html">
+            
+                <a href="../ch19/Independence.html">
+            
+                    
+                    19.2 Independence
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.3" data-path="../ch19/Marginal_and_Conditional_Densities.html">
+            
+                <a href="../ch19/Marginal_and_Conditional_Densities.html">
+            
+                    
+                    19.3 Marginal and Conditional Densities
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.4" data-path="../ch19/Beta_Densities_with_Integer_Parameters.html">
+            
+                <a href="../ch19/Beta_Densities_with_Integer_Parameters.html">
+            
+                    
+                    19.4 Beta Densities with Integer Parameters
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22" data-path="../ch20/Applications_of_the_Normal_Distribution.html">
+            
+                <a href="../ch20/Applications_of_the_Normal_Distribution.html">
+            
+                    
+                    Chapter 20: Applications of the Normal Distribution
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.22.1" data-path="../ch20/Properties_of_the_Standard_Normal.html">
+            
+                <a href="../ch20/Properties_of_the_Standard_Normal.html">
+            
+                    
+                    20.1 Properties of the Standard Normal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.2" data-path="../ch20/Sums_of_Independent_Normal_Variables.html">
+            
+                <a href="../ch20/Sums_of_Independent_Normal_Variables.html">
+            
+                    
+                    20.2 Sums of Independent Normal Variables
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.3" data-path="../ch20/Maximum_Likelihood_Estimation.html">
+            
+                <a href="../ch20/Maximum_Likelihood_Estimation.html">
+            
+                    
+                    20.3 Maximum Likelihood Estimation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.4" data-path="../ch20/Chi_Squared_Distributions.html">
+            
+                <a href="../ch20/Chi_Squared_Distributions.html">
+            
+                    
+                    20.4 Chi Squared Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.5" data-path="../ch20/Sums_of_Squares_of_Standard_Normals.html">
+            
+                <a href="../ch20/Sums_of_Squares_of_Standard_Normals.html">
+            
+                    
+                    20.5 Sums of Squares of Standard Normals
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23" data-path="../ch21/Distributions_of_Sums.html">
+            
+                <a href="../ch21/Distributions_of_Sums.html">
+            
+                    
+                    Chapter 21: Distributions of Sums
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.23.1" data-path="../ch21/Convolution_Formula.html">
+            
+                <a href="../ch21/Convolution_Formula.html">
+            
+                    
+                    21.1 Convolution Formula
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.2" data-path="../ch21/Moment_Generating_Functions.html">
+            
+                <a href="../ch21/Moment_Generating_Functions.html">
+            
+                    
+                    21.2 Moment Generating Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.3" data-path="../ch21/MGFs_Normal_and_the_CLT.html">
+            
+                <a href="../ch21/MGFs_Normal_and_the_CLT.html">
+            
+                    
+                    21.3 MGFs Normal and the CLT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.4" data-path="../ch21/Chernoff_Bound.html">
+            
+                <a href="../ch21/Chernoff_Bound.html">
+            
+                    
+                    21.4 Chernoff Bound
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24" data-path="../ch22/Prior_and_Posterior_Distributions.html">
+            
+                <a href="../ch22/Prior_and_Posterior_Distributions.html">
+            
+                    
+                    Chapter 22: Prior and Posterior Distributions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.24.1" data-path="../ch22/Conditioning_on_a_Continuous_Variable.html">
+            
+                <a href="../ch22/Conditioning_on_a_Continuous_Variable.html">
+            
+                    
+                    22.1 Conditioning on a Continuous Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.2" data-path="../ch22/Beta_Binomial.html">
+            
+                <a href="../ch22/Beta_Binomial.html">
+            
+                    
+                    22.2 Beta Binomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.3" data-path="../ch22/Distribution_of_the_Number_of_Successes.html">
+            
+                <a href="../ch22/Distribution_of_the_Number_of_Successes.html">
+            
+                    
+                    22.3 Distribution of the Number of Successes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.4" data-path="../ch22/Long_Run_Proportion_of_Successes.html">
+            
+                <a href="../ch22/Long_Run_Proportion_of_Successes.html">
+            
+                    
+                    22.4 Long Run Proportion of Successes
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25" data-path="../ch23/Prediction.html">
+            
+                <a href="../ch23/Prediction.html">
+            
+                    
+                    Chapter 23: Prediction
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.25.1" data-path="../ch23/Conditional_Variance.html">
+            
+                <a href="../ch23/Conditional_Variance.html">
+            
+                    
+                    23.1 Conditional Variance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25.2" data-path="../ch23/Examples.html">
+            
+                <a href="../ch23/Examples.html">
+            
+                    
+                    23.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25.3" data-path="../ch23/Least_Squares.html">
+            
+                <a href="../ch23/Least_Squares.html">
+            
+                    
+                    23.3 Least Squares
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26" data-path="../ch24/The_Bivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/The_Bivariate_Normal_Distribution.html">
+            
+                    
+                    Chapter 24: The Bivariate Normal Distribution
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.26.1" data-path="../ch24/Standard_Bivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/Standard_Bivariate_Normal_Distribution.html">
+            
+                    
+                    24.1 Standard Bivariate Normal Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.2" data-path="../ch24/Historical_Example.html">
+            
+                <a href="../ch24/Historical_Example.html">
+            
+                    
+                    24.2 Historical Example
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.3" data-path="../ch24/Independence_and_Angles.html">
+            
+                <a href="../ch24/Independence_and_Angles.html">
+            
+                    
+                    24.3 Independence and Angles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.4" data-path="../ch24/Linear_Combinations.html">
+            
+                <a href="../ch24/Linear_Combinations.html">
+            
+                    
+                    24.4 Linear Combinations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.5" data-path="../ch24/Multivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/Multivariate_Normal_Distribution.html">
+            
+                    
+                    24.5 Multivariate Normal Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.6" data-path="../ch24/Best_Predictor.html">
+            
+                <a href="../ch24/Best_Predictor.html">
+            
+                    
+                    24.6 Best Predictor
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >12.1 Chain at a Fixed Time</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="chain-at-a-fixed-time">Chain at a Fixed Time</h2><div id="ipython-notebook">
+            <a class="interact-button" href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&amp;path=textbook/Chapter 12/12_1_Chain_at_a_Fixed_Time.ipynb" target="_blank">Interact</a>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$']],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="The-Chain-at-a-Fixed-Time">The Chain at a Fixed Time<a class="anchor-link" href="#The-Chain-at-a-Fixed-Time">&#xB6;</a></h3><p>Let $X_0, X_1, X_2, \ldots $ be a Markov Chain with state space $S$. We will start by setting up notation that will help us express our calculations compactly.</p>
+<p>For $n \ge 0$, let $P_n$ be the distribution of $X_n$. That is,</p>
+$$
+P_n(i) = P(X_n = i), ~~~~ i \in S
+$$<p>Then the distribution of $X_0$ is $P_0$. This is called the <em>initial distribution</em> of the chain.</p>
+<p>For $n \ge 0$ and $j \in S$,</p>
+\begin{align*}
+P_{n+1}(j) &amp;= P(X_{n+1} = j) \\
+&amp;= \sum_{i \in S} P(X_n = i, X_{n+1} = j) \\
+&amp;= \sum_{i \in S} P(X_n = i)P(X_{n+1} = j \mid X_n = i) \\
+&amp;= \sum_{i \in S} P_n(i)P(X_{n+1} = j \mid X_n = i)
+\end{align*}<p>The conditional probability $P(X_{n+1} = j \mid X_n = i)$ is called a <em>one-step transition probability at time $n$</em>.</p>
+<p>For many chains such as the random walk, these one-step transition probabilities depend only on the states $i$ and $j$, not on the time $n$. For example, for the random walk,</p>
+\begin{equation}
+P(X_{n+1} = j \mid X_n = i) = 
+ \begin{cases} 
+      \frac{1}{2} &amp; \text{if } j = i-1 \text{ or } j = i+1 \\
+      0 &amp; \text{ otherwise}
+   \end{cases}
+\end{equation}<p>for every $n$. When one-step transition probabilites don&apos;t depend on $n$, they are called <em>stationary</em> or <em>time-homogenous</em>. All the Markov Chains that we will study in this course have time-homogenous transition probabilities.</p>
+<p>For such a chain, define the <em>one-step transition probability</em></p>
+$$
+P(i, j) = P(X_{n+1} = j \mid X_n = i)
+$$</div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="The-Probability-of-a-Path">The Probability of a Path<a class="anchor-link" href="#The-Probability-of-a-Path">&#xB6;</a></h3><p>Given that the chain starts at $i$, what is the chance that the next three values are of the chain are $j, k$, and $l$, in that order?</p>
+<p>We are looking for 
+$$
+P(X_1 = j, X_2 = k, X_3 = l \mid X_0 = i)
+$$</p>
+<p>By repeated use of the multiplication rule and the Markov property, this is</p>
+$$
+P(X_1 = j, X_2 = k, X_3 = l \mid X_0 = i) = P(i, j)P(j, k)P(k, l)
+$$<p>In the same way, given that you know the starting point, you can find the probability of any path of finite length by multiplying one-step transition probabilities.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="The-Distribution-of-$X_{n+1}$">The Distribution of $X_{n+1}$<a class="anchor-link" href="#The-Distribution-of-$X_%7Bn+1%7D$">&#xB6;</a></h3><p>By our calculation at the start of this section,</p>
+\begin{align*}
+P_{n+1}(j) &amp;= P(X_{n+1} = j) \\
+&amp;= \sum_{i \in S} P_n(i)P(X_{n+1} = j \mid X_n = i) \\
+&amp;= \sum_{i \in S} P_n(i)P(i, j)
+\end{align*}<p>The calculation is based on the straightforward observation that for the chain to be at state $j$ at time $n+1$, it had to be at some state $i$ at time $n$ and then get from $i$ to $j$ in one step.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let&apos;s use all this in examples. You will quickly see that the distribution $P_n$ has interesting properties.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Lazy-Random-Walk-on-a-Circle">Lazy Random Walk on a Circle<a class="anchor-link" href="#Lazy-Random-Walk-on-a-Circle">&#xB6;</a></h3><p>Let the state space be five points arranged on a circle. Suppose the process starts at Point 1, and at each step either stays in place with probability 0.5 (and thus is lazy), or moves to one of the two neighboring points with chance 0.25 each, regardless of the other moves.</p>
+<p>This transition behavior can be summed up in a <em>transition diagram</em>:</p>
+<p><img alt="Lazy Circle Walk" src="trans_circle.png"></p>
+<p>At every step, the next move is determined by a random choice from among three options and by the chain&apos;s current location, not on how it got to that location. So the process is a Markov chain. Let&apos;s call it $X_0, X_1, X_2, \ldots $.</p>
+<p>By our assumption, the initial distribution $P_0$ puts all the probability on Point 1. It is defined in the cell below. We will be using <code>prob140</code> Markov Chain methods based on <a href="https://github.com/riccardoscalco/Pykov" target="_blank">Pykov</a> written by <a href="http://riccardoscalco.github.io" target="_blank">Riccardo Scalco</a>. Note the use of <code>states</code> instead of <code>values</code>. Please enter the states in ascending order, for technical reasons that we hope to overcome later in the term.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">s</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">6</span><span class="p">)</span>
+<span class="n">p</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">]</span>
+<span class="n">initial</span> <span class="o">=</span> <span class="n">Table</span><span class="p">()</span><span class="o">.</span><span class="n">states</span><span class="p">(</span><span class="n">s</span><span class="p">)</span><span class="o">.</span><span class="n">probability</span><span class="p">(</span><span class="n">p</span><span class="p">)</span>
+<span class="n">initial</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>1          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0          </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The transition probabilities are:</p>
+<ul>
+<li>For $2 \le i \le 4$, $P(i, i) = 0.5$ and $P(i, i-1) = 0.25 = P(i, i+1)$. </li>
+<li>$P(1, 1) = 0.5$ and $P(1, 5) = 0.25 = P(1, 2)$.</li>
+<li>$P(5, 5) = 0.5$ and $P(5, 4) = 0.25 = P(5, 1)$.</li>
+</ul>
+<p>These probabilities are returned by the function <code>circle_walk_probs</code> that takes states $i$ and $j$ as its arguments.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">circle_walk_probs</span><span class="p">(</span><span class="n">i</span><span class="p">,</span> <span class="n">j</span><span class="p">):</span>
+        <span class="k">if</span> <span class="n">i</span><span class="o">-</span><span class="n">j</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mf">0.5</span>
+        <span class="k">elif</span> <span class="nb">abs</span><span class="p">(</span><span class="n">i</span><span class="o">-</span><span class="n">j</span><span class="p">)</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mf">0.25</span>
+        <span class="k">elif</span> <span class="nb">abs</span><span class="p">(</span><span class="n">i</span><span class="o">-</span><span class="n">j</span><span class="p">)</span> <span class="o">==</span> <span class="mi">4</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mf">0.25</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mi">0</span>   
+</pre></div></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>All the transition probabilities can be captured in a table, in a process analogous to creating a joint distribution table.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">trans_tbl</span> <span class="o">=</span> <span class="n">Table</span><span class="p">()</span><span class="o">.</span><span class="n">states</span><span class="p">(</span><span class="n">s</span><span class="p">)</span><span class="o">.</span><span class="n">transition_function</span><span class="p">(</span><span class="n">circle_walk_probs</span><span class="p">)</span>
+</pre></div></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">trans_tbl</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>Source</th> <th>Target</th> <th>P(Target | Source)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1     </td> <td>1     </td> <td>0.5               </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>1     </td> <td>2     </td> <td>0.25              </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>1     </td> <td>3     </td> <td>0                 </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>1     </td> <td>4     </td> <td>0                 </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>1     </td> <td>5     </td> <td>0.25              </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2     </td> <td>1     </td> <td>0.25              </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2     </td> <td>2     </td> <td>0.5               </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2     </td> <td>3     </td> <td>0.25              </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2     </td> <td>4     </td> <td>0                 </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2     </td> <td>5     </td> <td>0                 </td>
+        </tr>
+    </tbody>
+</table>
+<p>... (15 rows omitted)</p></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Just as when we were constructing joint distribution tables, we can better visualize this as a $5 \times 5$ table:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">circle_walk</span> <span class="o">=</span> <span class="n">trans_tbl</span><span class="o">.</span><span class="n">toMarkovChain</span><span class="p">()</span>
+<span class="n">circle_walk</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>0.50</td>
+      <td>0.25</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>0.25</td>
+      <td>0.50</td>
+      <td>0.25</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>0.00</td>
+      <td>0.25</td>
+      <td>0.50</td>
+      <td>0.25</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.25</td>
+      <td>0.50</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>0.25</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.25</td>
+      <td>0.50</td>
+    </tr>
+  </tbody>
+</table></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>This is called the <em>transition matrix</em> of the chain.</p>
+<ul>
+<li>For each $i$ and $j$, the $(i, j)$ element of the transition matrix is the one-step transition probability $P(i, j)$.</li>
+<li>For each $i$, the $i$th row of the transition matrix consists of the conditional distribution of $X_{n+1}$ given $X_n = i$.</li>
+</ul></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Probability-of-a-Path">Probability of a Path<a class="anchor-link" href="#Probability-of-a-Path">&#xB6;</a></h4><p>What&apos;s the probability of the path 1, 1, 2, 1, 2? That&apos;s the path $X_0 = 1, X_1 = 1, X_2 = 2, X_3 = 1, X_4 = 2$. We know that the chain is starting at 1, so the chance of the path is</p>
+$$
+1 \cdot P(1, 1)P(1, 2)P(2, 1)P(1, 2) = 0.5 \times 0.25 \times 0.25 \times 0.25 = 0.0078125
+$$<p>The method <code>prob_of_path</code> takes the initial distribution and path as its arguments, and returns the probability of the path:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">circle_walk</span><span class="o">.</span><span class="n">prob_of_path</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">])</span>
+</pre></div></div></div>
+<div class="output_text output_subarea output_execute_result">
+<pre>0.0078125000000000035</pre></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Distribution-of-$X_n$">Distribution of $X_n$<a class="anchor-link" href="#Distribution-of-$X_n$">&#xB6;</a></h4><p>Remember that the chain starts at 1. So $P_0$, the distribution of $X_0$ is:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">initial</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>1          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0          </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>We know that $P_1$ must place probability 0.5 at Point 1 and 0.25 each the points 2 and 5. This is confirmed by the <code>distribution</code> method that applies to a MarkovChain object. Its first argument is the initial distribution, and its second is the number of steps $n$. It returns a distribution object that is the distribution of $X_n$.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">P_1</span> <span class="o">=</span> <span class="n">circle_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+<span class="n">P_1</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.5        </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.25       </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0.25       </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>What&apos;s the probability that the chain is has value 3 at time 2? That&apos;s $P_2(3)$ which we can calculate by conditioning on $X_1$:</p>
+$$
+P_2(3) = \sum_{i=1}^5 P_1(i)P(i, 3)
+$$<p>The distribution of $X_1$ is $P_1$, given above. Here are those probabilities in an array:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">P_1</span><span class="o">.</span><span class="n">column</span><span class="p">(</span><span class="s1">&apos;Probability&apos;</span><span class="p">)</span>
+</pre></div></div></div>
+<div class="output_text output_subarea output_execute_result">
+<pre>array([ 0.5 ,  0.25,  0.  ,  0.  ,  0.25])</pre></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The <code>3</code> column of the transition matrix gives us, for each $i$, the chance of getting from $i$ to 3 in one step.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">circle_walk</span><span class="o">.</span><span class="n">column</span><span class="p">(</span><span class="s1">&apos;3&apos;</span><span class="p">)</span>
+</pre></div></div></div>
+<div class="output_text output_subarea output_execute_result">
+<pre>array([ 0.  ,  0.25,  0.5 ,  0.25,  0.  ])</pre></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>So the probability that the chain has the value 3 at time 2 is $P_2(3)$ which is equal to:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">sum</span><span class="p">(</span><span class="n">P_1</span><span class="o">.</span><span class="n">column</span><span class="p">(</span><span class="s1">&apos;Probability&apos;</span><span class="p">)</span><span class="o">*</span><span class="n">circle_walk</span><span class="o">.</span><span class="n">column</span><span class="p">(</span><span class="s1">&apos;3&apos;</span><span class="p">))</span>
+</pre></div></div></div>
+<div class="output_text output_subarea output_execute_result">
+<pre>0.0625</pre></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Similarly, $P_2(2)$ is equal to:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">sum</span><span class="p">(</span><span class="n">P_1</span><span class="o">.</span><span class="n">column</span><span class="p">(</span><span class="s1">&apos;Probability&apos;</span><span class="p">)</span><span class="o">*</span><span class="n">circle_walk</span><span class="o">.</span><span class="n">column</span><span class="p">(</span><span class="s1">&apos;2&apos;</span><span class="p">))</span>
+</pre></div></div></div>
+<div class="output_text output_subarea output_execute_result">
+<pre>0.25</pre></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>And so on. The <code>distribution</code> method finds all these probabilities for us.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">P_2</span> <span class="o">=</span> <span class="n">circle_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+<span class="n">P_2</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.375      </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.25       </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0.0625     </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0.0625     </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0.25       </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>At time 3, the chain continues to be much more likely to be at 1, 2, or 5 compared to the other two states. That&apos;s because it started at Point 1 and is lazy.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">P_3</span> <span class="o">=</span> <span class="n">circle_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="n">P_3</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.3125     </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.234375   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0.109375   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0.109375   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0.234375   </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>But by time 10, something interesting starts to emerge.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">P_10</span> <span class="o">=</span> <span class="n">circle_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span>
+<span class="n">P_10</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.20577    </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.201783   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0.195332   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0.195332   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0.201783   </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The chain is almost equally likely to be at any of the five states. By time 50, it seems to have completely forgotten where it started, and is distributed uniformly on the state space.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">P_50</span> <span class="o">=</span> <span class="n">circle_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">50</span><span class="p">)</span>
+<span class="n">P_50</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.2        </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.2        </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0.2        </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0.2        </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0.2        </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>As time passes, this chain gets &quot;all mixed up&quot;, regardless of where it started. That is perhaps not surprising as the transition probabilities are symmetric over the five states. Let&apos;s see what happens when we cut the circle between Points 1 and 5 and lay it out in a line.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Reflecting-Random-Walk">Reflecting Random Walk<a class="anchor-link" href="#Reflecting-Random-Walk">&#xB6;</a></h3><p>The state space and transition probabilities remain the same, except when the chain is at the two &quot;edge&quot; states.</p>
+<ul>
+<li>If the chain is at Point 1, then at the next step it either stays there or moves to Point 2 with equal probability: $P(1, 1) = 0.5 = P(1, 2)$.</li>
+<li>If the chain is at Point 5, then at the next step it either stays there or moves to Point 4 with equal probability: $P(5, 5) = 0.5 = P(5, 4)$.</li>
+</ul>
+<p>We say that there is <em>reflection</em> at the boundaries 1 and 5.</p>
+<p><img alt="Reflecting Lazy Walk" src="trans_refl.png"></p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">ref_walk_probs</span><span class="p">(</span><span class="n">i</span><span class="p">,</span> <span class="n">j</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">i</span><span class="o">-</span><span class="n">j</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span> <span class="mf">0.5</span>
+    <span class="k">elif</span> <span class="mi">2</span> <span class="o">&lt;=</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="mi">4</span><span class="p">:</span>
+        <span class="k">if</span> <span class="nb">abs</span><span class="p">(</span><span class="n">i</span><span class="o">-</span><span class="n">j</span><span class="p">)</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mf">0.25</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mi">0</span>
+    <span class="k">elif</span> <span class="n">i</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">j</span> <span class="o">==</span> <span class="mi">2</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mf">0.5</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mi">0</span>
+    <span class="k">elif</span> <span class="n">i</span> <span class="o">==</span> <span class="mi">5</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">j</span> <span class="o">==</span> <span class="mi">4</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mf">0.5</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">return</span> <span class="mi">0</span>
+</pre></div></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">trans_tbl</span> <span class="o">=</span> <span class="n">Table</span><span class="p">()</span><span class="o">.</span><span class="n">states</span><span class="p">(</span><span class="n">s</span><span class="p">)</span><span class="o">.</span><span class="n">transition_function</span><span class="p">(</span><span class="n">ref_walk_probs</span><span class="p">)</span>
+<span class="n">refl_walk</span> <span class="o">=</span> <span class="n">trans_tbl</span><span class="o">.</span><span class="n">toMarkovChain</span><span class="p">()</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&apos;Transition Matrix&apos;</span><span class="p">)</span>
+<span class="n">refl_walk</span>
+</pre></div></div></div>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Transition Matrix
+</pre></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>0.50</td>
+      <td>0.50</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>0.25</td>
+      <td>0.50</td>
+      <td>0.25</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>0.00</td>
+      <td>0.25</td>
+      <td>0.50</td>
+      <td>0.25</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.25</td>
+      <td>0.50</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.50</td>
+      <td>0.50</td>
+    </tr>
+  </tbody>
+</table></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let the chain start at Point 1 as it did in the last example. That initial distribution was defined as <code>initial</code>. At time 1, therefore, the chain is either at 1 or 2, and at times 2 and 3 it is likely to still be around 1.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">refl_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.5        </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.5        </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0          </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0          </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">refl_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.3125     </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.46875    </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0.1875     </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0.03125    </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0          </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>But by time 20, the distribution is settling down:</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">refl_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">20</span><span class="p">)</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.135533   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.264896   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0.25       </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0.235104   </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0.114467   </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>And by time 100 it has settled into what is called its <em>steady state</em>.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">refl_walk</span><span class="o">.</span><span class="n">distribution</span><span class="p">(</span><span class="n">initial</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<table border="1" class="dataframe">
+    <thead>
+        <tr>
+            <th>State</th> <th>Probability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1    </td> <td>0.125      </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>2    </td> <td>0.25       </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>3    </td> <td>0.25       </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>4    </td> <td>0.25       </td>
+        </tr>
+    </tbody>
+        <tbody><tr>
+            <td>5    </td> <td>0.125      </td>
+        </tr>
+    </tbody>
+</table></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>This steady state distribution isn&apos;t uniform. But it is steady. If you increase the amount of time for which the chain has run, you get the same distribution for the value of the chain at that time.</p>
+<p>That&apos;s quite remarkable. In the rest of this chapter, we will look more closely at what&apos;s going on.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div></div></div></div>
+
+
+
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="MarkovChains.html" class="navigation navigation-prev " aria-label="Previous page: Chapter 12: Markov Chains">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="NotationandTerminology.html" class="navigation navigation-next " aria-label="Next page: 12.2 Notation and Terminology">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"12.1 Chain at a Fixed Time","level":"1.14.1","depth":2,"next":{"title":"12.2 Notation and Terminology","level":"1.14.2","depth":2,"path":"ch12/NotationandTerminology.md","ref":"ch12/NotationandTerminology.md","articles":[]},"previous":{"title":"Chapter 12: Markov Chains","level":"1.14","depth":1,"path":"ch12/MarkovChains.md","ref":"ch12/MarkovChains.md","articles":[{"title":"12.1 Chain at a Fixed Time","level":"1.14.1","depth":2,"path":"ch12/ChainataFixedTime.md","ref":"ch12/ChainataFixedTime.md","articles":[]},{"title":"12.2 Notation and Terminology","level":"1.14.2","depth":2,"path":"ch12/NotationandTerminology.md","ref":"ch12/NotationandTerminology.md","articles":[]},{"title":"12.3 Long Run Behavior","level":"1.14.3","depth":2,"path":"ch12/LongRunBehavior.md","ref":"ch12/LongRunBehavior.md","articles":[]},{"title":"12.4 Examples","level":"1.14.4","depth":2,"path":"ch12/Examples.md","ref":"ch12/Examples.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["mathjax","addcssjs"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"addcssjs":{"css":[],"js":["js/custom.js"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"mathjax":{"forceSVG":false,"version":"2.6-latest"},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"Main Prob140 Site":"http://prob140.org/"}},"gitbook":"*"},"file":{"path":"ch12/ChainataFixedTime.md","mtime":"2018-01-07T01:27:01.622Z","type":"markdown"},"gitbook":{"version":"3.2.0","time":"2018-01-07T01:40:24.089Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="https://cdn.mathjax.org/mathjax/2.6-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-mathjax/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    
+    <script type="text/javascript" src="../js/custom.js"></script>
+    
+
+    </body>
+</html>
+

@@ -7,14 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            'Prob 140'
-tagline:          'Prob 140'
+tagline:          'Probability for Data Science'
 description:      'Probability for Data Science <br /> Ani Adhikari <br />'
-url:              http://probability.gitlab.io
+url:              http://prob140.org
 baseurl:          /
 
 author:
-  name:           'Dibya Ghosh'
-  url:            http://dibya.xyz/beta/
+  name:           'Dibya Ghosh, Jason Zhang'
+  url:            http://prob140.org
 
 paginate:         5
 

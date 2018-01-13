@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      LaTeX Introduction &middot; Prob 140
+    
+  </title>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
+</script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/sp17/assets/css/poole.css">
+  <link rel="stylesheet" href="/sp17/assets/css/syntax.css">
+  <link rel="stylesheet" href="/sp17/assets/css/hyde.css">
+  <link rel="stylesheet" href="/sp17/assets/css/fonts.css">
+  <link rel="stylesheet" href="/sp17/assets/css/basicModal.css">
+
+  <!-- Icons -->
+  <link rel="icon" type="image/png" href="/sp17//assets/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/sp17//assets/favicon-16x16.png" sizes="16x16" />
+  <script src="/sp17/assets/js/jquery.min.js"></script>
+<link rel="stylesheet" href="/sp17/assets/css/swiper.min.css">
+<script src="/sp17/assets/js/swiper.jquery.min.js"></script>
+<script src="/sp17/assets/js/basicModal.min.js"></script>
+
+
+
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <script>
+  </script>
+</head>
+
+
+  <body class="theme-data">
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="/" > <img class="iconIMG" src="/sp17/assets/icon.png"> </a>
+      <h1>
+      <p class="lead">Spring 2017 - Ani Adhikari</p>
+    </div>
+    <nav class="sidebar-nav">
+
+      
+      
+      
+      <a class="sidebar-nav-item" href="/sp17/">Home</a>
+      
+      <a class="sidebar-nav-item" href="/sp17/about">About</a>
+      
+      <a class="sidebar-nav-item" href="/sp17/instructors">Staff</a>
+      
+      <a class="sidebar-nav-item" href="/sp17/logistics">Course Information</a>
+      
+      <a class="sidebar-nav-item" href="/sp17/textbook">Course Notes</a>
+      
+      <a class="sidebar-nav-item" href="/sp17/references">Reference Materials</a>
+      
+      <a class="sidebar-nav-item" href="/sp17/weekly">Weekly Schedule</a>
+      
+    </nav>
+
+    <p>Developed by Ani Adhikari, Dibya Ghosh, Jim Pitman, Maxwell Weinstein, & Jason Zhang  </p>
+  </div>
+</div>
+
+    <div>
+          <div id="announcements-header" class="theme-data"> 
+          <b> Announcements! </b> (<a onclick="showAnnouncements()"> See All </a>) 
+          <div class="swiper-container2">
+    <!-- Additional required wrapper -->
+        <!-- If we need pagination -->
+    
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev2"></div>
+    <div class="swiper-button-next2"></div>
+    
+    <!-- If we need scrollbar -->
+    <div class="swiper-wrapper">
+      
+        <div class="swiper-slide">
+        Apr 28: Final Exam Resources page is up
+        </div>
+      
+        <div class="swiper-slide">
+        Apr 28: The Final will be held on Friday 5/12 from 7-10 PM
+        </div>
+      
+        <div class="swiper-slide">
+        Apr 25: No lab this week
+        </div>
+      
+        <div class="swiper-slide">
+        Mar 6: Midterm has been posted on Gradescope. See bCourses for a summary of midterm performance.
+        </div>
+      
+        <div class="swiper-slide">
+        Feb 1: Please don't delete cells in homework notebook! Save before exporting pdf!
+        </div>
+      
+        <div class="swiper-slide">
+        Jan 17: Join Piazza for this class! (Search for Prob 140)
+        </div>
+      
+        <div class="swiper-slide">
+        Jan 17: If the math in the Course Notes doesn't render properly, refresh/reload the page.
+        </div>
+      
+
+</div>
+</div>
+</div>
+    <div href='main' class="content container">
+      <div class="page">
+  <h1 class="page-title">LaTeX Introduction</h1>
+  <p><a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&amp;path=Latex.ipynb" class="button"> Click Here to Launch Interact </a></p>
+
+<h1 id="an-introduction-to-latex-latex">An Introduction to $\LaTeX$ (LaTeX)</h1>
+
+<p>Latex is a typesetting language used for formatting equations (and much more) in the scientific communities. LaTeX is used very commonly in higher mathematical and computer science classes and academia. In Stat 140, we’ll be using LaTeX to “pretty print” equations and answers for homeworks and labs</p>
+
+<h2 id="how-to-follow-this-introduction">How To Follow This Introduction?</h2>
+
+<p>If you’re viewing through Jupyter, then you’re all set! Otherwise, go ahead and download this notebook <a href="/latex.ipynb">here</a>. This way, you’ll be able to follow and modify the examples that we give, as well as test your own. To see the latex behind the math expressions, go ahead and edit that particular cell</p>
+
+<h2 id="how-do-we-use-latex">How Do We Use LaTeX?</h2>
+
+<p>For the purposes of this introduction, and for Prob 140, we shall use the “math mode” in Latex through markdown cells in Jupyter Notebook. Remember that in order to switch a cell to “markdown mode”, simply change the option from “code” $\to$ “Markdown” on the above toolbar.</p>
+
+<p>There are two main ways to enter math mode</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ You're in Inline Math Mode $
+
+$$ You're in Centered Math Mode $$
+</code></pre>
+</div>
+
+<h3 id="inline-math-mode">Inline Math Mode</h3>
+
+<p>We use inline math when we want to put in equations and/or variables in sentences / the natural flow of text. Here’s an example of inline math:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Say you have $x$ cows and $y$ chickens on a farm, and you've counted $100$ legs amongst all the animals. What are $x$ and $y$?
+</code></pre>
+</div>
+
+<p>This is what that’ll look like:</p>
+
+<p>Say you have $x$ cows and $y$ chickens on a farm, and you’ve counted $100$ legs amongst all the animals. What are $x$ and $y$?</p>
+
+<p><em>Note</em>: Notice that text while inside math mode are somewhat italicized; don’t use math mode to write all your text, leave it just for variables</p>
+
+<h3 id="centered-math-mode">Centered Math Mode</h3>
+
+<p>We use centered math mode, when there are particular equations that you’d like to highlight, or have stand out. Here’s an example.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$$ 1 + 2 + \dots + n = 0.5n(n+1) $$
+</code></pre>
+</div>
+
+<p>This is what that’ll look like:</p>
+
+<script type="math/tex; mode=display">1 + 2 + \ldots + n = 0.5n(n+1)</script>
+
+<p><em>Note</em>: Don’t worry about <code class="highlighter-rouge">ldots</code> yet</p>
+
+<h2 id="superscripts-and-subscripts">Superscripts and Subscripts</h2>
+
+<h3 id="superscripts">Superscripts</h3>
+
+<p>In order to write superscripts, of the form $x^y$, simply write <code class="highlighter-rouge">$x^y$</code></p>
+
+<p><code class="highlighter-rouge">$ 2^3 = 8$</code>:</p>
+
+<p>$ 2^3 = 8$</p>
+
+<p><code class="highlighter-rouge">$ (x+y)^2 = x^2 + 2xy + y^2$</code>:</p>
+
+<p>$ (x+y)^2 = x^2 + 2xy + y^2$</p>
+
+<p>** Warning: ** Generally, the power can only be one character long; to write more, you must wrap it with braces { } . So for example:</p>
+
+<p>If you forget braces, it’ll look like this:</p>
+
+<p><code class="highlighter-rouge">$2^10 = 1024$</code>:</p>
+
+<p>$2^10 = 1024$</p>
+
+<p>To fix, simply add braces</p>
+
+<p><code class="highlighter-rouge">$2^{10} = 1024$</code>:</p>
+
+<p>$2^{10} = 1024$</p>
+
+<h3 id="subscripts">Subscripts</h3>
+
+<p>In order to write subscripts, of the form $a_1$, simply use the <em>underscore character</em> <code class="highlighter-rouge">_</code> and write <code class="highlighter-rouge">$a_1$</code></p>
+
+<p><code class="highlighter-rouge">$ 2^3 = 8$</code>:</p>
+
+<p>$ 2^3 = 8$</p>
+
+<p><code class="highlighter-rouge">$ (x+y)^2 = x^2 + 2xy + y^2$</code>:</p>
+
+<p>$ (x+y)^2 = x^2 + 2xy + y^2$</p>
+
+<p>** Warning: ** Just as with the superscript, the subscript can only be one character long; to write more, you must wrap it with braces { }</p>
+
+<h2 id="expressions">Expressions</h2>
+
+<p>LaTeX provides commands for writing symbols in your mathematical expressions. In the last example you saw the <code class="highlighter-rouge">\ldots</code> command; as you saw, this drew the dots like this: $\ldots$.</p>
+
+<p>Here are some examples of such commands</p>
+
+<ol>
+  <li><code class="highlighter-rouge">\sum</code> : $\sum$</li>
+  <li><code class="highlighter-rouge">\prod</code> : $\prod$</li>
+  <li><code class="highlighter-rouge">\infty</code> : $\infty$</li>
+  <li><code class="highlighter-rouge">\log</code>  : $\log$</li>
+  <li><code class="highlighter-rouge">\int</code> : $\int$</li>
+  <li><code class="highlighter-rouge">\alpha</code> : $\alpha$</li>
+  <li><code class="highlighter-rouge">\cup</code> : $\cup$</li>
+  <li><code class="highlighter-rouge">\cap</code> : $\cap$</li>
+  <li><code class="highlighter-rouge">\ldots</code> : $\ldots$</li>
+  <li><code class="highlighter-rouge">\pm</code> : $\pm$</li>
+  <li><code class="highlighter-rouge">n \choose k</code> : $n \choose k$</li>
+</ol>
+
+<p>We can use the subscripting and superscripting from the last section with any of these commands as well; it all integrates well. Here’s an example from the <em>Math Prerequisites</em> worksheet</p>
+
+<p><strong>1.</strong> Consider the sequence defined by $c_i = i$ for $i = 1, 2, \ldots 10$. What is $\sum_{i=1}^{10} c_i$?</p>
+
+<p>Essentially, all the greek letters have such commands (simply go <code class="highlighter-rouge">\yourgreekletterhere</code>): These we use a lot; here are some of the common ones we use</p>
+
+<ol>
+  <li><code class="highlighter-rouge">\alpha</code> : $\alpha$</li>
+  <li><code class="highlighter-rouge">\beta</code> : $\beta$</li>
+  <li><code class="highlighter-rouge">\lambda</code> : $\lambda$</li>
+  <li><code class="highlighter-rouge">\mu</code> : $\mu$</li>
+  <li><code class="highlighter-rouge">\sigma</code> : $\sigma$</li>
+  <li><code class="highlighter-rouge">\pi</code> : $\pi$</li>
+</ol>
+
+<p>Some commands can take arguments (just like in Python). The way you pass in arguments into a command is by using the braces <code class="highlighter-rouge"><span class="p">{}</span></code> syntax</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\command{Arg 1}{Arg 2}...
+</code></pre>
+</div>
+
+<p>The most common such command you’ll use is the <code class="highlighter-rouge">\frac</code> command, which creates fractions. <code class="highlighter-rouge">\frac</code> takes in two arguments, the first the numerator, and the second the denominator (<code class="highlighter-rouge">\frac{Numerator}{Denominator}</code>). Here are some examples</p>
+
+<p>1.
+    \frac{10}{4} = \frac{5}{2}</p>
+
+<p>$\frac{10}{4} = \frac{5}{2}$</p>
+
+<p>2.
+    \frac{x^2}{x} = x</p>
+
+<p>$\frac{x^2}{x} = x$</p>
+
+<p>Another common command you’ll use is the <code class="highlighter-rouge">\sqrt</code> command, which takes in one argument- the operand. Here’s an example</p>
+
+<p>1.
+    \sqrt{9} = 3</p>
+
+<p>$\sqrt{9} = 3$</p>
+
+<h3 id="example-combining-everything-together">Example Combining Everything Together</h3>
+
+<p><strong>Question:</strong> Consider a polynomial $ax^2 + bx + c$. For what values of $x$ does this polynomial equal $0$?</p>
+
+<p><strong>Answer</strong></p>
+
+<p><code class="highlighter-rouge">$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$</code></p>
+
+<script type="math/tex; mode=display">x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}</script>
+
+<h3 id="bounds-for-summations-products-and-integrals">Bounds for summations, products, and integrals</h3>
+
+<p>For summations, products, and integrals, we often want to define the bounds or limits. In LaTeX, the syntax for the bounds are the same symbols as subscript and superscript.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\sum_{lower}^{upper}
+\prod_{lower}^{upper}
+\int_{lower}^{upper}
+</code></pre>
+</div>
+
+<p>Note that the bounds will appear next to the symbol in inline math mode and around the symbol in centered math mode</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\sum_{i=1}^\infty a_i Inline: $\sum_{i=1}^\infty a_i$
+</code></pre>
+</div>
+
+<p>Centered:
+<script type="math/tex">\sum_{i=1}^\infty a_i</script></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\prod_{i=a}^{b} f(i) $$\prod_{i=1}^{\infty} f(i)$$
+
+\int_{0}^{1}\frac{1}{x^2}dx $$\int_{0}^{1}\frac{1}{x^2}dx$$
+
+\int_{0}^{1}\int_{0}^{1}(x+y)dxdy $$\int_{0}^{1}\int_{0}^{1}(x+y)dxdy$$
+
+\lim_{x\to\infty} f(x) $$\lim_{x\to\infty} f(x)$$
+</code></pre>
+</div>
+
+<h3 id="align">Align</h3>
+
+<p>When manipulating long equations, it is often useful to show the steps in between. The <code class="highlighter-rouge">align*</code> environment provides easy vertical alignment of equations.Let’s see an example</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\begin{align*}
+    2x + 10 &amp;= -4\\
+    2x &amp;= -14\\
+    x &amp;= -7 \end{align*}
+</code></pre>
+</div>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{align*}
+        2x + 10 &= -4\\
+        2x &= -14\\
+        x &= -7
+\end{align*} %]]></script>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\begin{align*}
+f(x) &amp;= \int_0^1 g(x)dx = \int_0^1 x^2dx\\
+&amp;= \left[x^3\right]_0^1\\
+&amp;= 1^3 - 0^3\\
+&amp;= \boxed{1} \end{align*}
+</code></pre>
+</div>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{align*}
+f(x) &= \int_0^1 g(x)dx = \int_0^1 x^2dx\\
+&= \left[x^3\right]_0^1\\
+&= 1^3 - 0^3\\
+&= \boxed{1}
+\end{align*} %]]></script>
+
+<p>Note that the block starts with <code class="highlighter-rouge">\begin{align*} and ends with \end{align*}</code>. Each line ends with <code class="highlighter-rouge">\\</code> for new line. The character that we want to align is denoted with <code class="highlighter-rouge">&amp;</code></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\begin{align*}
+x&amp;=y           &amp;  w &amp;=z              &amp;  a&amp;=b+c\\
+2x&amp;=-y         &amp;  3w&amp;=\frac{1}{2}z   &amp;  a&amp;=b\\
+-4 + 5x&amp;=2+y   &amp;  w+2&amp;=-1+w          &amp;  ab&amp;=cb \end{align*}
+</code></pre>
+</div>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{align*}
+x&=y           &  w &=z              &  a&=b+c\\
+2x&=-y         &  3w&=\frac{1}{2}z   &  a&=b\\
+-4 + 5x&=2+y   &  w+2&=-1+w          &  ab&=cb
+\end{align*} %]]></script>
+
+<h3 id="normal-text-in-latex">Normal Text in Latex</h3>
+
+<p>Notice that any normal text is automatically italicized in LaTeX because it usually represents variables. To make text display normally, we can use <code class="highlighter-rouge">\text{}</code></p>
+
+<p>For example, <code class="highlighter-rouge">$P(\text{the coin lands heads}) = \frac{1}{2}</code>$ shows up as</p>
+
+<p>$P(\text{the coin lands heads}) = \frac{1}{2}$</p>
+
+<p>The ability to embed normal text in LaTeX is particularly useful when there are conditions:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\frac{x^2}{x} = x \text{ if } x \ne 0
+</code></pre>
+</div>
+
+<script type="math/tex; mode=display">\frac{x^2}{x} = x \text{ if } x \ne 0</script>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>f(x)=\begin{cases}
+\lambda e^{-\lambda x} \text{, if }x&gt;0\\
+0 \text{, else} \end{cases}
+</code></pre>
+</div>
+
+<script type="math/tex; mode=display">f(x)=\begin{cases}
+    \lambda e^{-\lambda x} \text{, if }x>0\\
+    0 \text{, else}
+\end{cases}</script>
+
+<h3 id="example-3c">Example (3c)</h3>
+
+<p>Let ${c}$ and ${d}$ be sequences of real numbers such that
+<script type="math/tex">\sum_{i=1}^{100} c_i = 10</script>
+<script type="math/tex">\sum_{i=1}^{100} d_i = 20</script></p>
+
+<p>What is $\sum_{i=1}^{100} (4c_i - d_i + 5)$?</p>
+
+<h3 id="solution">Solution</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\begin{align*}
+\sum_{i=1}^{100} (4c_i - d_i + 5) &amp;= \sum_{i=1}^{100} 4c_i + \sum_{i=1}^{100} - d_i + \sum_{i=1}^{100} 5\\
+&amp;= 4 \sum_{i=1}^{100} c_i - \sum_{i=1}^{100}  d_i + \sum_{i=1}^{100} 5\\
+&amp;= 4 (10) - (20) + 5(100)\\
+&amp;= 520
+\end{align*}
+</code></pre>
+</div>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{align*}
+    \sum_{i=1}^{100} (4c_i - d_i + 5) &= \sum_{i=1}^{100} 4c_i + \sum_{i=1}^{100} - d_i + \sum_{i=1}^{100} 5\\
+    &= 4 \sum_{i=1}^{100} c_i - \sum_{i=1}^{100}  d_i + \sum_{i=1}^{100} 5\\
+    &= 4 (10) - (20) + 5(100)\\
+    &= 520
+\end{align*} %]]></script>
+
+<h2 id="further-resources">Further Resources</h2>
+
+<p>You’ve made it! These steps outlined above should cover all the LaTeX you need to write solutions. Sometime in your pursuit, you may need some commands or symbols that haven’t been listed here. When so, the following resources are here to help</p>
+
+<ul>
+  <li><a href="https://www.google.com/">Google</a>: This site lets you search for anything, including any LaTeX symbols that you might forget</li>
+  <li><a href="http://detexify.kirelabs.org/classify.html">DeTexify</a>: This site lets you draw a symbol, and will immediately find the corresponding Latex command. Similar apps for iPhone and Android also exist</li>
+  <li><a href="https://www.sharelatex.com/learn/Mathematical_expressions">ShareLatex Tutorial</a> ShareLaTeX is one of the main online work environments; they have a very simple yet comprehensive tutorial about LaTex. If you’d like to learn more about LaTeX, this is your gateway</li>
+</ul>
+
+<h2 id="exploration">Exploration</h2>
+
+<p>The best way to learn and absorb LaTeX is to look at examples and code it yourself. Once you have the above guiding principles down, the rest of LaTeX distills into simply finding the symbol that you were trying to find. In that spirit of exploration, we’ve given you the source for the <em>Mathematical Prerequisites</em> worksheet. Try to understand what each of the symbols are doing, and try writing your solutions and explanations in LaTeX below.</p>
+
+<p>Don’t worry about the <code class="highlighter-rouge">underline</code> command in the later questions: we only use it to print the blank spaces</p>
+
+<h4 id="question-1">Question 1:</h4>
+<p>Consider the sequence defined by $c_i =i$, for $i=1, 2, \ldots , 10$.</p>
+
+<ol>
+  <li>Find $\sum_{i=1}^{10} c_i$.</li>
+</ol>
+
+<p><code class="highlighter-rouge">\sum_{i=1}^{10} c_i</code></p>
+<ol>
+  <li>If possible, find $\sum_{k=1}^{10} c_k$.  If this is not possible,explain why not.</li>
+</ol>
+
+<p><code class="highlighter-rouge">\sum_{k=1}^{10} c_k</code></p>
+
+<h4 id="solution-1">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-2">Question 2</h4>
+
+<p>Does the expression
+<script type="math/tex">\sum_{n=1}^{10} 2</script></p>
+
+<p><code class="highlighter-rouge">\sum_{n=1}^{10} 2</code></p>
+
+<p>make sense?  If it does, what is its value?</p>
+
+<h4 id="solution-2">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-3">Question 3</h4>
+
+<p>Let ${c}$ and ${d}$ be sequences of real numbers so
+that
+<script type="math/tex">\sum_{i=1}^{100} c_i ~=~ 10</script>
+<script type="math/tex">\sum_{j=1}^{100} d_j ~=~ 20</script>
+In parts 1-3 find the value of the expression.</p>
+
+<p>1) $\sum_{i=1}^{100} (4c_i + 5)$</p>
+
+<p>2) $\sum_{i=1}^{100} 4c_i ~+~ 5$</p>
+
+<p>3) $\sum_{i=1}^{100} (4c_i - d_i + 5)$</p>
+
+<p><code class="highlighter-rouge">\sum_{i=1}^{100} (4c_i - d_i + 5)</code></p>
+
+<p>4) True or false:
+<script type="math/tex">\sum_{i=1}^{100} \sum_{j=1}^{100} (c_i + d_j) ~~=~~
+\sum_{i=1}^{100} (c_i + d_i)</script></p>
+
+<p><code class="highlighter-rouge">\sum_{i=1}^{100} \sum_{j=1}^{100} (c_i + d_j)  = \sum_{i=1}^{100} (c_i + d_i)</code></p>
+
+<p>If you think the identity is true, find the common value of the two
+sides. If the identity is false,
+can you find the value of either of the sides?</p>
+
+<h4 id="solution-3">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-4">Question 4</h4>
+
+<p>Let $0 &lt; p &lt; 1$.  Find simple expressions for</p>
+
+<ol>
+  <li>
+    <p>$ \sum_{i=0}^{100} p^i $</p>
+  </li>
+  <li>
+    <p>$ \sum_{i=0}^{\infty} p^i $</p>
+  </li>
+  <li>
+    <p>$ \sum_{i=100}^{\infty} p^i $</p>
+  </li>
+</ol>
+
+<h4 id="solution-4">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-5">Question 5</h4>
+
+<p>The sum $ \sum_{n=0}^{\infty} \frac{1}{n!} $ can be expressed very
+simply.  Find that simple expression and a numerical value.</p>
+
+<p><code class="highlighter-rouge">\sum_{n=0}^{\infty} \frac{1}{n!}</code></p>
+
+<h4 id="solution-5">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-6">Question 6</h4>
+
+<p>Repeat the previous exercise for each of the sums</p>
+
+<ol>
+  <li>
+    <script type="math/tex; mode=display">\sum_{i=0}^{\infty} \frac{2^i}{i!}</script>
+  </li>
+</ol>
+
+<p><code class="highlighter-rouge"> \sum_{i=0}^{\infty} \frac{2^i}{i!} </code></p>
+<ol>
+  <li><script type="math/tex">\sum_{i=0}^{\infty} \frac{2^{3i}}{i!}</script>.</li>
+</ol>
+
+<p><code class="highlighter-rouge">\sum_{i=0}^{\infty} \frac{2^{3i}}{i!}</code></p>
+
+<p>If you had trouble with the previous exercise, this one might help.</p>
+
+<h4 id="solution-6">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-7">Question 7</h4>
+
+<p>You know that $e^0 = 1$. What we’re going
+to need, quite often, is an approximation to $e^x$ for a small non-zero number $x$.
+A crude approximation is 1 because $x$ is tiny. But you can get a finer approximation
+by writing the first two terms in the expansion for $e^x$ and remembering that Taylor
+says the rest is small compared to $x$.</p>
+
+<ol>
+  <li>
+    <p>Explain why $e^{0.01}$ is roughly $1.01$ and $e^{-0.01}$ is roughly $0.99$.</p>
+  </li>
+  <li>
+    <p>Use your reasoning in part (a) to explain why $\log (1+x)$ is roughly $x$ for small $x$.
+In this class, as in much of math, $\log$ is taken to the base $e$.</p>
+  </li>
+</ol>
+
+<h4 id="solution-7">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-8">Question 8</h4>
+
+<p>How many different ways are there to arrange six people in a row?</p>
+
+<h4 id="solution-8">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-9">Question 9</h4>
+
+<p>A committee consists of 6 women and 4 men.
+How many different choices can be made if you want to select</p>
+
+<ul>
+  <li>a Chairperson and an Assistant Chairperson?</li>
+  <li>a subcommittee of two people?</li>
+  <li>a committee of two men and two women?</li>
+</ul>
+
+<h4 id="solution-9">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-10">Question 10</h4>
+
+<p>Let $a$ and $b$ be any two real numbers.
+You know that $(a + b)^2 = a^2 + 2ab + b^2$.</p>
+
+<ol>
+  <li>
+    <p>Analogously, write the following as a sum of four terms: $(a + b)^3$</p>
+  </li>
+  <li>
+    <p>Let $n$ be a non-negative integer. Fill in the blanks:
+<script type="math/tex">(a + b)^n ~=~ \sum_{k=\underline{~~}}^{\underline{~~}} \underline{~~~~~} a^k b^{n-k}</script></p>
+  </li>
+</ol>
+
+<p><code class="highlighter-rouge">(a + b)^n ~=~ \sum_{k=\underline{~~}}^{\underline{~~}} \underline{~~~~~} a^k b^{n-k}</code></p>
+
+<h4 id="solution-10">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-11">Question 11</h4>
+
+<p>Calculate the following.</p>
+
+<ol>
+  <li>
+    <p>$\frac{d}{dx} \log (x^2)$</p>
+  </li>
+  <li>
+    <p>$\frac{d}{dx} xe^{-cx}$ where $c &gt; 0$ is a constant</p>
+  </li>
+  <li>
+    <p>$\int xe^{-cx} dx$ where $c &gt; 0$ is a constant (use part (b) or methods of integration)</p>
+  </li>
+  <li>
+    <p>$\int_0^{\infty} ce^{-cx} dx$ where $c &gt; 0$ is a constant</p>
+  </li>
+</ol>
+
+<h4 id="solution-11">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-12">Question 12</h4>
+
+<p>Let $c &gt; 0$ be a constant. $\int_0^x ce^{-cx} dx$ doesn’t make sense. Why not?</p>
+
+<p><code class="highlighter-rouge">\int_0^x ce^{-cx} dx</code></p>
+
+<h4 id="solution-12">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-13">Question 13</h4>
+
+<p>Calculate $ \int_0^1 \int_0^1 (x+xy+y) dx dy $.</p>
+
+<p><code class="highlighter-rouge">\int_0^1 \int_0^1 (x+xy+y) dx dy </code></p>
+
+<h4 id="solution-13">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+<h4 id="question-14">Question 14</h4>
+
+<p>Fill in the blanks (it really helps to draw the region of integration):</p>
+
+<p><code class="highlighter-rouge">\int_0^1 \int_y^1 (x+xy+y) dx dy ~=~ \int_0^1 \int_{\underline{~~}}^{\underline{~~}} (x+xy+y) dy dx</code></p>
+
+<script type="math/tex; mode=display">\int_0^1 \int_y^1 (x+xy+y) dx dy ~=~ \int_0^1 \int_{\underline{~~}}^{\underline{~~}} (x+xy+y) dy dx</script>
+
+<h4 id="solution-14">Solution</h4>
+
+<p><em>Your Answer Here</em></p>
+
+</div>
+
+    </div>
+    </div>
+  </body>
+
+<script>
+    $(document).ready(function () {
+    //initialize swiper when document ready  
+    var mySwiper = new Swiper ('.swiper-container2', {
+      // Optional parameters
+      direction: 'horizontal',
+      loop: true,
+      autoplay: 100000,
+      speed: 3000,
+      initialSlide:0,
+      spaceBetween: 1000
+    })        
+  });
+
+    function showAnnouncements(){
+      basicModal.show({
+    body: "<h2> Announcements </h2> <ul><li>Apr 28: Final Exam Resources page is up</li><li>Apr 28: The Final will be held on Friday 5/12 from 7-10 PM</li><li>Apr 25: No lab this week</li><li>Mar 6: Midterm has been posted on Gradescope. See bCourses for a summary of midterm performance.</li><li>Feb 1: Please don't delete cells in homework notebook! Save before exporting pdf!</li><li>Jan 17: Join Piazza for this class! (Search for Prob 140)</li><li>Jan 17: If the math in the Course Notes doesn't render properly, refresh/reload the page.</li></ul>",
+    closable: true,
+    buttons: {
+        action: {
+            title: 'Dismiss',
+            fn: basicModal.close
+        }
+    }
+});
+    }
+  </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86100204-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</html>

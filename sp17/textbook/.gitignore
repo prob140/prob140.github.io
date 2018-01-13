@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+_book/
+textbook/
+node_modules/
+#notebooks-html/
+#notebooks-images/
+
+# OSX file
+.DS_Store
+
+# IPython checkpoints
+.ipynb_checkpoints
+*.swp

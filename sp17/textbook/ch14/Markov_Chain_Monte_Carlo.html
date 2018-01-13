@@ -1,0 +1,2040 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <title>14.4 Markov Chain Monte Carlo · GitBook</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.0">
+        
+        
+        
+    
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../ch15/Variance_Via_Covariance.html" />
+    
+    
+    <link rel="prev" href="Code_Breaking.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="http://prob140.org/" target="_blank" class="custom-link">Main Prob140 Site</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../ch1/to_the_student.html">
+            
+                <a href="../ch1/to_the_student.html">
+            
+                    
+                    To the Student
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../ch1/Fundamentals.html">
+            
+                <a href="../ch1/Fundamentals.html">
+            
+                    
+                    Chapter 1: Fundamentals
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../ch1/Outcome_Space_and_Events.html">
+            
+                <a href="../ch1/Outcome_Space_and_Events.html">
+            
+                    
+                    1.1 Outcome Spaces and Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../ch1/Equally_Likely_Outcomes.html">
+            
+                <a href="../ch1/Equally_Likely_Outcomes.html">
+            
+                    
+                    1.2 Equally Likely Outcomes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="../ch1/Collisions_in_Hashing.html">
+            
+                <a href="../ch1/Collisions_in_Hashing.html">
+            
+                    
+                    1.3 Collisions In Hashing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="../ch1/Birthday_Problem.html">
+            
+                <a href="../ch1/Birthday_Problem.html">
+            
+                    
+                    1.4 The Birthday Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="../ch1/Exponential_Approximation.html">
+            
+                <a href="../ch1/Exponential_Approximation.html">
+            
+                    
+                    1.5 Exponential Approxmation
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../ch2/Calculating_Chances.html">
+            
+                <a href="../ch2/Calculating_Chances.html">
+            
+                    
+                    Chapter 2: Calculating Chances
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../ch2/Addition.html">
+            
+                <a href="../ch2/Addition.html">
+            
+                    
+                    2.1 Addition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../ch2/Examples.html">
+            
+                <a href="../ch2/Examples.html">
+            
+                    
+                    2.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../ch2/Multiplication.html">
+            
+                <a href="../ch2/Multiplication.html">
+            
+                    
+                    2.3 Multiplication
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="../ch2/More_Examples.html">
+            
+                <a href="../ch2/More_Examples.html">
+            
+                    
+                    2.4 More Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../ch3/RandomVariables.html">
+            
+                <a href="../ch3/RandomVariables.html">
+            
+                    
+                    Chapter 3: Random Variables
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../ch3/FunctionsOnOutcomeSpace.html">
+            
+                <a href="../ch3/FunctionsOnOutcomeSpace.html">
+            
+                    
+                    3.1 Functions on an Outcome Space
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../ch3/Distributions.html">
+            
+                <a href="../ch3/Distributions.html">
+            
+                    
+                    3.2 Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../ch3/Equality.html">
+            
+                <a href="../ch3/Equality.html">
+            
+                    
+                    3.3 Equality
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../ch4/RelationsBetweenVariables.html">
+            
+                <a href="../ch4/RelationsBetweenVariables.html">
+            
+                    
+                    Chapter 4: Relations Between Variables
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="../ch4/JointDistributions.html">
+            
+                <a href="../ch4/JointDistributions.html">
+            
+                    
+                    4.1 Joint Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="../ch4/MarginalDistributions.html">
+            
+                <a href="../ch4/MarginalDistributions.html">
+            
+                    
+                    4.2 Marginal Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="../ch4/ConditionalDistributions.html">
+            
+                <a href="../ch4/ConditionalDistributions.html">
+            
+                    
+                    4.3 Conditional Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.4" data-path="../ch4/DependenceAndIndependence.html">
+            
+                <a href="../ch4/DependenceAndIndependence.html">
+            
+                    
+                    4.4 Dependence and Independence
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../ch5/CollectionsOfEvents.html">
+            
+                <a href="../ch5/CollectionsOfEvents.html">
+            
+                    
+                    Chapter 5: Collections of Events
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.7.1" data-path="../ch5/IntersectionOfSeveralEvents.html">
+            
+                <a href="../ch5/IntersectionOfSeveralEvents.html">
+            
+                    
+                    5.1 Intersection of Several Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="../ch5/UnionOfSeveralEvents.html">
+            
+                <a href="../ch5/UnionOfSeveralEvents.html">
+            
+                    
+                    5.2 Union of Several Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.3" data-path="../ch5/TheMatchingProblem.html">
+            
+                <a href="../ch5/TheMatchingProblem.html">
+            
+                    
+                    5.3 The Matching Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.4" data-path="../ch5/BoolesInequality.html">
+            
+                <a href="../ch5/BoolesInequality.html">
+            
+                    
+                    5.4 Booles Inequality
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../ch6/RandomCounts.html">
+            
+                <a href="../ch6/RandomCounts.html">
+            
+                    
+                    Chapter 6: Random Counts
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.8.1" data-path="../ch6/BinomialDistribution.html">
+            
+                <a href="../ch6/BinomialDistribution.html">
+            
+                    
+                    6.1 The Binomial Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.2" data-path="../ch6/Examples.html">
+            
+                <a href="../ch6/Examples.html">
+            
+                    
+                    6.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.3" data-path="../ch6/OddsRatios.html">
+            
+                <a href="../ch6/OddsRatios.html">
+            
+                    
+                    6.3 Odds Ratios
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.4" data-path="../ch6/LLSNs.html">
+            
+                <a href="../ch6/LLSNs.html">
+            
+                    
+                    6.4 The Law of Small Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../ch7/Poissonization.html">
+            
+                <a href="../ch7/Poissonization.html">
+            
+                    
+                    Chapter 7: Poissonization
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.9.1" data-path="../ch7/PoissonizingTheBinomial.html">
+            
+                <a href="../ch7/PoissonizingTheBinomial.html">
+            
+                    
+                    7.1 Poissonizing the Binomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.2" data-path="../ch7/PoissonizingTheMultinomial.html">
+            
+                <a href="../ch7/PoissonizingTheMultinomial.html">
+            
+                    
+                    7.2 Poissonizing the Multinomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../ch8/Dependence.html">
+            
+                <a href="../ch8/Dependence.html">
+            
+                    
+                    Chapter 8: Dependence
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.10.1" data-path="../ch8/Updating_Probabilities.html">
+            
+                <a href="../ch8/Updating_Probabilities.html">
+            
+                    
+                    8.1 Updating Probabilities
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.2" data-path="../ch8/Randomizing_a_Parameter.html">
+            
+                <a href="../ch8/Randomizing_a_Parameter.html">
+            
+                    
+                    8.2 Randomizing a Parameter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3" data-path="../ch8/Sampling_Without_Replacement.html">
+            
+                <a href="../ch8/Sampling_Without_Replacement.html">
+            
+                    
+                    8.3 Sampling Without Replacement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.4" data-path="../ch8/Hypergeometric_Distribution.html">
+            
+                <a href="../ch8/Hypergeometric_Distribution.html">
+            
+                    
+                    8.4 The Hypergeometric Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../ch9/Expectation.html">
+            
+                <a href="../ch9/Expectation.html">
+            
+                    
+                    Chapter 9: Expectations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.11.1" data-path="../ch9/Definition.html">
+            
+                <a href="../ch9/Definition.html">
+            
+                    
+                    9.1 Definition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.2" data-path="../ch9/Additivity.html">
+            
+                <a href="../ch9/Additivity.html">
+            
+                    
+                    9.2 Additivity
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.3" data-path="../ch9/Expectation_of_Functions.html">
+            
+                <a href="../ch9/Expectation_of_Functions.html">
+            
+                    
+                    9.3 Expectations of Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="../ch10/Standard_Deviation.html">
+            
+                <a href="../ch10/Standard_Deviation.html">
+            
+                    
+                    Chapter 10: Standard Deviations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.12.1" data-path="../ch10/Definition.html">
+            
+                <a href="../ch10/Definition.html">
+            
+                    
+                    10.1 Definition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2" data-path="../ch10/Prediction_and_Estimation.html">
+            
+                <a href="../ch10/Prediction_and_Estimation.html">
+            
+                    
+                    10.2 Prediction and Estimation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.3" data-path="../ch10/Bounds.html">
+            
+                <a href="../ch10/Bounds.html">
+            
+                    
+                    10.3 Bounds
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.4" data-path="../ch10/Heavy_Tails.html">
+            
+                <a href="../ch10/Heavy_Tails.html">
+            
+                    
+                    10.4 Heavy Tails
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13" data-path="../ch11/ConditioningRevisited.html">
+            
+                <a href="../ch11/ConditioningRevisited.html">
+            
+                    
+                    Chapter 11: Conditioning Revisited
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.13.1" data-path="../ch11/ProbabilityByConditioning.html">
+            
+                <a href="../ch11/ProbabilityByConditioning.html">
+            
+                    
+                    11.1 Probability by Conditioning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.2" data-path="../ch11/ExpectationByConditioning.html">
+            
+                <a href="../ch11/ExpectationByConditioning.html">
+            
+                    
+                    11.2 Expectation by Conditioning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.3" data-path="../ch11/ExpectedWaitingTimes.html">
+            
+                <a href="../ch11/ExpectedWaitingTimes.html">
+            
+                    
+                    11.3 Expected Waiting Times
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="../ch12/MarkovChains.html">
+            
+                <a href="../ch12/MarkovChains.html">
+            
+                    
+                    Chapter 12: Markov Chains
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.1" data-path="../ch12/ChainataFixedTime.html">
+            
+                <a href="../ch12/ChainataFixedTime.html">
+            
+                    
+                    12.1 Chain at a Fixed Time
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.2" data-path="../ch12/NotationandTerminology.html">
+            
+                <a href="../ch12/NotationandTerminology.html">
+            
+                    
+                    12.2 Notation and Terminology
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.3" data-path="../ch12/LongRunBehavior.html">
+            
+                <a href="../ch12/LongRunBehavior.html">
+            
+                    
+                    12.3 Long Run Behavior
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.4" data-path="../ch12/Examples.html">
+            
+                <a href="../ch12/Examples.html">
+            
+                    
+                    12.4 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15" data-path="../ch13/Hitting_and_Occupation_Times.html">
+            
+                <a href="../ch13/Hitting_and_Occupation_Times.html">
+            
+                    
+                    Chapter 13: Hitting and Occupation Times
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.15.1" data-path="../ch13/Waiting_Till_a_Pattern_Appears.html">
+            
+                <a href="../ch13/Waiting_Till_a_Pattern_Appears.html">
+            
+                    
+                    13.1 Waiting Till a Pattern Appears
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.2" data-path="../ch13/Returns_and_First_Passage_Times.html">
+            
+                <a href="../ch13/Returns_and_First_Passage_Times.html">
+            
+                    
+                    13.2 Returns and First Passage Times
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.3" data-path="../ch13/Occupation_Times.html">
+            
+                <a href="../ch13/Occupation_Times.html">
+            
+                    
+                    13.3 Occupation Times Within a Block
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.4" data-path="../ch13/Periodic_Chains.html">
+            
+                <a href="../ch13/Periodic_Chains.html">
+            
+                    
+                    13.4 Periodic Chains
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16" data-path="Reversing_Markov_Chains.html">
+            
+                <a href="Reversing_Markov_Chains.html">
+            
+                    
+                    Chapter 14: Reversing Markov Chains
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.1" data-path="Detailed_Balance.html">
+            
+                <a href="Detailed_Balance.html">
+            
+                    
+                    14.1 Detailed Balance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.2" data-path="Reversibility.html">
+            
+                <a href="Reversibility.html">
+            
+                    
+                    14.2 Reversibility
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.3" data-path="Code_Breaking.html">
+            
+                <a href="Code_Breaking.html">
+            
+                    
+                    14.3 Code Breaking
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.16.4" data-path="Markov_Chain_Monte_Carlo.html">
+            
+                <a href="Markov_Chain_Monte_Carlo.html">
+            
+                    
+                    14.4 Markov Chain Monte Carlo
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17" data-path="../ch15/Variance_Via_Covariance.html">
+            
+                <a href="../ch15/Variance_Via_Covariance.html">
+            
+                    
+                    Chapter 15: Variance Via Covariance
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.17.1" data-path="../ch15/Properties_of_Covariance.html">
+            
+                <a href="../ch15/Properties_of_Covariance.html">
+            
+                    
+                    15.1 Properties of Covariance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.2" data-path="../ch15/Sums_of_IID_Samples.html">
+            
+                <a href="../ch15/Sums_of_IID_Samples.html">
+            
+                    
+                    15.2 Sums of IID Samples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.3" data-path="../ch15/Sums_of_Simple_Random_Samples.html">
+            
+                <a href="../ch15/Sums_of_Simple_Random_Samples.html">
+            
+                    
+                    15.3 Sums of Simple Random Samples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.4" data-path="../ch15/Finite_Population_Correction.html">
+            
+                <a href="../ch15/Finite_Population_Correction.html">
+            
+                    
+                    15.4 Finite Population Correction
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18" data-path="../ch16/The_Central_Limit_Theorem.html">
+            
+                <a href="../ch16/The_Central_Limit_Theorem.html">
+            
+                    
+                    Chapter 16: The Central Limit Theorem
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.18.1" data-path="../ch16/Exact_Distribution.html">
+            
+                <a href="../ch16/Exact_Distribution.html">
+            
+                    
+                    16.1 Exact Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.2" data-path="../ch16/PGFs_in_NumPy.html">
+            
+                <a href="../ch16/PGFs_in_NumPy.html">
+            
+                    
+                    16.2 PGFs in NumPy
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.3" data-path="../ch16/Central_Limit_Theorem.html">
+            
+                <a href="../ch16/Central_Limit_Theorem.html">
+            
+                    
+                    16.3 Central Limit Theorem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.4" data-path="../ch16/The_Sample_Mean.html">
+            
+                <a href="../ch16/The_Sample_Mean.html">
+            
+                    
+                    16.4 The Sample Mean
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.5" data-path="../ch16/Confidence_Intervals.html">
+            
+                <a href="../ch16/Confidence_Intervals.html">
+            
+                    
+                    16.5 Confidence Intervals
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19" data-path="../ch17/Continuous_Distributions.html">
+            
+                <a href="../ch17/Continuous_Distributions.html">
+            
+                    
+                    Chapter 17: Continuous Distributions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.19.1" data-path="../ch17/Density_and_CDF.html">
+            
+                <a href="../ch17/Density_and_CDF.html">
+            
+                    
+                    17.1 Density and CDF
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.2" data-path="../ch17/The_Meaning_of_Density.html">
+            
+                <a href="../ch17/The_Meaning_of_Density.html">
+            
+                    
+                    17.2 The Meaning of Density
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.3" data-path="../ch17/Expectation.html">
+            
+                <a href="../ch17/Expectation.html">
+            
+                    
+                    17.3 Expectation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.4" data-path="../ch17/Calculus_in_SymPy.html">
+            
+                <a href="../ch17/Calculus_in_SymPy.html">
+            
+                    
+                    17.4 Calculus in SymPy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20" data-path="../ch18/Transformations.html">
+            
+                <a href="../ch18/Transformations.html">
+            
+                    
+                    Chapter 18: Transformations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.20.1" data-path="../ch18/Exponential_Distribution.html">
+            
+                <a href="../ch18/Exponential_Distribution.html">
+            
+                    
+                    18.1 Exponential Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.2" data-path="../ch18/Linear_Transformations.html">
+            
+                <a href="../ch18/Linear_Transformations.html">
+            
+                    
+                    18.2 Linear Transformations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.3" data-path="../ch18/Monotone_Functions.html">
+            
+                <a href="../ch18/Monotone_Functions.html">
+            
+                    
+                    18.3 Monotone Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21" data-path="../ch19/Joint_Densities.html">
+            
+                <a href="../ch19/Joint_Densities.html">
+            
+                    
+                    Chapter 19: Joint Densities
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.21.1" data-path="../ch19/Probabilities_and_Expectations.html">
+            
+                <a href="../ch19/Probabilities_and_Expectations.html">
+            
+                    
+                    19.1 Probabilities and Expectations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.2" data-path="../ch19/Independence.html">
+            
+                <a href="../ch19/Independence.html">
+            
+                    
+                    19.2 Independence
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.3" data-path="../ch19/Marginal_and_Conditional_Densities.html">
+            
+                <a href="../ch19/Marginal_and_Conditional_Densities.html">
+            
+                    
+                    19.3 Marginal and Conditional Densities
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.4" data-path="../ch19/Beta_Densities_with_Integer_Parameters.html">
+            
+                <a href="../ch19/Beta_Densities_with_Integer_Parameters.html">
+            
+                    
+                    19.4 Beta Densities with Integer Parameters
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22" data-path="../ch20/Applications_of_the_Normal_Distribution.html">
+            
+                <a href="../ch20/Applications_of_the_Normal_Distribution.html">
+            
+                    
+                    Chapter 20: Applications of the Normal Distribution
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.22.1" data-path="../ch20/Properties_of_the_Standard_Normal.html">
+            
+                <a href="../ch20/Properties_of_the_Standard_Normal.html">
+            
+                    
+                    20.1 Properties of the Standard Normal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.2" data-path="../ch20/Sums_of_Independent_Normal_Variables.html">
+            
+                <a href="../ch20/Sums_of_Independent_Normal_Variables.html">
+            
+                    
+                    20.2 Sums of Independent Normal Variables
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.3" data-path="../ch20/Maximum_Likelihood_Estimation.html">
+            
+                <a href="../ch20/Maximum_Likelihood_Estimation.html">
+            
+                    
+                    20.3 Maximum Likelihood Estimation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.4" data-path="../ch20/Chi_Squared_Distributions.html">
+            
+                <a href="../ch20/Chi_Squared_Distributions.html">
+            
+                    
+                    20.4 Chi Squared Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.5" data-path="../ch20/Sums_of_Squares_of_Standard_Normals.html">
+            
+                <a href="../ch20/Sums_of_Squares_of_Standard_Normals.html">
+            
+                    
+                    20.5 Sums of Squares of Standard Normals
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23" data-path="../ch21/Distributions_of_Sums.html">
+            
+                <a href="../ch21/Distributions_of_Sums.html">
+            
+                    
+                    Chapter 21: Distributions of Sums
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.23.1" data-path="../ch21/Convolution_Formula.html">
+            
+                <a href="../ch21/Convolution_Formula.html">
+            
+                    
+                    21.1 Convolution Formula
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.2" data-path="../ch21/Moment_Generating_Functions.html">
+            
+                <a href="../ch21/Moment_Generating_Functions.html">
+            
+                    
+                    21.2 Moment Generating Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.3" data-path="../ch21/MGFs_Normal_and_the_CLT.html">
+            
+                <a href="../ch21/MGFs_Normal_and_the_CLT.html">
+            
+                    
+                    21.3 MGFs Normal and the CLT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.4" data-path="../ch21/Chernoff_Bound.html">
+            
+                <a href="../ch21/Chernoff_Bound.html">
+            
+                    
+                    21.4 Chernoff Bound
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24" data-path="../ch22/Prior_and_Posterior_Distributions.html">
+            
+                <a href="../ch22/Prior_and_Posterior_Distributions.html">
+            
+                    
+                    Chapter 22: Prior and Posterior Distributions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.24.1" data-path="../ch22/Conditioning_on_a_Continuous_Variable.html">
+            
+                <a href="../ch22/Conditioning_on_a_Continuous_Variable.html">
+            
+                    
+                    22.1 Conditioning on a Continuous Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.2" data-path="../ch22/Beta_Binomial.html">
+            
+                <a href="../ch22/Beta_Binomial.html">
+            
+                    
+                    22.2 Beta Binomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.3" data-path="../ch22/Distribution_of_the_Number_of_Successes.html">
+            
+                <a href="../ch22/Distribution_of_the_Number_of_Successes.html">
+            
+                    
+                    22.3 Distribution of the Number of Successes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.4" data-path="../ch22/Long_Run_Proportion_of_Successes.html">
+            
+                <a href="../ch22/Long_Run_Proportion_of_Successes.html">
+            
+                    
+                    22.4 Long Run Proportion of Successes
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25" data-path="../ch23/Prediction.html">
+            
+                <a href="../ch23/Prediction.html">
+            
+                    
+                    Chapter 23: Prediction
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.25.1" data-path="../ch23/Conditional_Variance.html">
+            
+                <a href="../ch23/Conditional_Variance.html">
+            
+                    
+                    23.1 Conditional Variance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25.2" data-path="../ch23/Examples.html">
+            
+                <a href="../ch23/Examples.html">
+            
+                    
+                    23.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25.3" data-path="../ch23/Least_Squares.html">
+            
+                <a href="../ch23/Least_Squares.html">
+            
+                    
+                    23.3 Least Squares
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26" data-path="../ch24/The_Bivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/The_Bivariate_Normal_Distribution.html">
+            
+                    
+                    Chapter 24: The Bivariate Normal Distribution
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.26.1" data-path="../ch24/Standard_Bivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/Standard_Bivariate_Normal_Distribution.html">
+            
+                    
+                    24.1 Standard Bivariate Normal Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.2" data-path="../ch24/Historical_Example.html">
+            
+                <a href="../ch24/Historical_Example.html">
+            
+                    
+                    24.2 Historical Example
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.3" data-path="../ch24/Independence_and_Angles.html">
+            
+                <a href="../ch24/Independence_and_Angles.html">
+            
+                    
+                    24.3 Independence and Angles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.4" data-path="../ch24/Linear_Combinations.html">
+            
+                <a href="../ch24/Linear_Combinations.html">
+            
+                    
+                    24.4 Linear Combinations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.5" data-path="../ch24/Multivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/Multivariate_Normal_Distribution.html">
+            
+                    
+                    24.5 Multivariate Normal Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.6" data-path="../ch24/Best_Predictor.html">
+            
+                <a href="../ch24/Best_Predictor.html">
+            
+                    
+                    24.6 Best Predictor
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >14.4 Markov Chain Monte Carlo</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="markov-chain-monte-carlo">Markov Chain Monte Carlo</h2><div id="ipython-notebook">
+            <a class="interact-button" href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&amp;path=textbook/Chapter 14/14_4_Markov_Chain_Monte_Carlo.ipynb" target="_blank">Interact</a>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$']],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Markov-Chain-Monte-Carlo">Markov Chain Monte Carlo<a class="anchor-link" href="#Markov-Chain-Monte-Carlo">&#xB6;</a></h3><p>The goal of Markov Chain Monte Carlo (MCMC) is to generate random samples from complicated high dimensional distributions about which we have incomplete information. For example, it might be that we don&apos;t know the normalizing constant of the distribution, as we saw in the code breaking example of the previous section.</p>
+<p>Suppose the distribution from which we want to generate a sample is called $\pi$. We are going to assume that $\pi$ is a probability distribution on a finite set, and you should imagine the set to be large. MCMC relies on a few observations.</p>
+<ul>
+<li><p>Let $X_0, X_1, \ldots $ be an irreducible aperiodic Markov Chain on a finite state space. Then the distribution of $X_n$ converges to a stationary distribution as $n$ gets large. If we can create a Markov Chain $\{X_n\}$ that has the desired distribution $\pi$ as its stationary distribution, then we can simulate draws from $\pi$ (or close enough to it) by running the chain for a long time and using the values $X_n$ for large $n$.</p>
+</li>
+<li><p>To create a transition matrix that results in $\pi$ as the stationary distribution, the easiest way is to try to ensure that the detailed balance equations are solved. That is, the easiest way is to try to create a reversible chain.</p>
+</li>
+<li><p>The chain is reversible if there is detailed balance, which we can write as</p>
+</li>
+</ul>
+$$
+\frac{\pi(j)}{\pi(i)} = \frac{P(i, j)}{P(j, i)}
+$$<p>The right hand side is based on the transition probabilities of the chain that we want to create. Notice that the left hand side <em>only involves ratios of the terms in $\pi$</em>, and therefore can be checked <em>even if we don&apos;t know the constant that normalizes $\pi$</em>.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Metropolis-Algorithm">Metropolis Algorithm<a class="anchor-link" href="#Metropolis-Algorithm">&#xB6;</a></h3><p>Exactly who proposed the first algorithm to create such a Markov Chain is the subject of some debate. A general version was proposed by Hastings. Here we will describe an earlier version attributed to Metropolis and co-authors in 1953.</p>
+<p>The goal is to create a transition matrix $P$ so that $\pi$ and $P$ together solve the detailed balance equations.</p>
+<p>The algorithm is based on any symmetric transition matrix $Q$ that creates an irreducible chain on the state space. For example, if the state space is numerical you could start with, &quot;Wherever the chain is, it picks one of the three closest values (including itself) with probability $1/3$ each.&quot; For a pair of states $i$ and $j$, the transition probability $Q(i, j)$ is called the <em>proposal probability</em>.</p>
+<p>Here are the steps that determine the transitions of the new chain.</p>
+<ul>
+<li><p>Suppose the chain is at $i$ at time $n$, that is, suppose $X_n = i$. Pick a state $j$ according to the proposal probability $Q(i, j)$. This $j$ is the candidate state to which your chain might move.</p>
+</li>
+<li><p>Define the <em>acceptance ratio</em>
+$$
+r(i, j) = \frac{\pi(j)}{\pi(i)}
+$$</p>
+</li>
+<li><p>If $r(i, j) \ge 1$, set $X_{n+1} = j$.</p>
+</li>
+<li><p>If $r(i, j) &lt; 1$, toss a coin that lands heads with chance $r(i, j)$.</p>
+<ul>
+<li>If the coin lands heads, set $X_{n+1} = j$. </li>
+<li>If the coin lands tails, set $X_{n+1} = i$.</li>
+</ul>
+</li>
+<li>Repeat all the steps, with $X_{n+1}$ as the starting value.</li>
+</ul>
+<p>Thus the chain either moves to the state picked according to $Q$, or it stays where it is. We say that it <em>accepts a move to a new state</em> based on $Q$ and $r$, and otherwise it doesn&apos;t move.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="How-to-Think-About-the-Algorithm">How to Think About the Algorithm<a class="anchor-link" href="#How-to-Think-About-the-Algorithm">&#xB6;</a></h3><p>Before we prove that the algorithm works, let&apos;s examine what it is doing in the context of decoders.</p>
+<p>First notice that we are requiring $Q$ to be symmetric as well as irreducible. The symmetry requirement makes sense as each detailed balance equation involves transitions $i \to j$ as well as $j \to i$.</p>
+<p>Fix any starting decoder and call it $i$. Now you have to decide where the chain is going to move next, that is, what the next decoder is going to be. The algorithm starts this process off by picking a decoder $j$ according to $Q$. We say that <em>$Q$ proposes a move to $j$</em>.</p>
+<p>To decide whether or not the chain should move to $j$, remember that the distribution $\pi$ contains the likelihoods of all the decoders. You want to end up with decoders that have high likelihood, so it is natural to compare $\pi(i)$ and $\pi(j)$.</p>
+<p>The algorithm does this by comparing the <em>acceptance ratio</em> $r(i, j) = \pi(j)/\pi(1)$ to 1.</p>
+<ul>
+<li><p>If $r(i, j) \ge 1$, the likelihood of $j$ is at least as large that of $i$, so you <em>accept the proposal</em> and move to $j$.</p>
+</li>
+<li><p>If $r(i, j) &lt; 1$, the proposed decoder $j$ has <em>less</em> likelihood than the current $i$, so it is tempting to stay at $i$. But this risks the chain getting stuck at a local maximum. The algorithm provides a chance to avoid this, by tossing a biased coin. If the coin lands tails, the chain moves to $j$ even though $j$ has a <em>lower</em> likelihood than the current decoder $i$. The idea is that from this new position there might be paths to decoders that have the highest likelihoods of all.</p>
+</li>
+</ul></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="The-Algorithm-Works">The Algorithm Works<a class="anchor-link" href="#The-Algorithm-Works">&#xB6;</a></h3><p>We will now show that the detailed balance equations are solved by the desired limit distribution $\pi$ and the transition matrix $\mathbb{P}$ of the chain created by the Metropolis algorithm.</p>
+<p>Take any two states $i$ and $j$.</p>
+<h4 id="Case-1:-$\pi(i)-=-\pi(j)$">Case 1: $\pi(i) = \pi(j)$<a class="anchor-link" href="#Case-1:-$%5Cpi(i)-=-%5Cpi(j)$">&#xB6;</a></h4><p>Then $r(i, j) = 1$. By the algorithm, $P(i, j) = Q(i, j)$ and also $P(j, i) = Q(j, i) = Q(i, j)$ by the symmetry of $Q$.</p>
+<p>Therefore $P(i, j) = P(j, i)$ and the detailed balance equation $\pi(i)P(i, j) = \pi(j)P(j, i)$ is satisfied.</p>
+<h4 id="case-2-pii--pij">Case 2: $\pi(i) &lt; \pi(j)$</h4>
+<p>Then $r(i, j) &lt; 1$, so</p>
+$$
+P(i, j) ~=~ Q(i, j)r(i, j) 
+~=~ Q(j, i)\frac{\pi(j)}{\pi(i)} ~~~ \text{(symmetry of } Q \text{ and definition of }r) 
+$$<p>Now $r(j, i) &gt; 1$, so the algorithm says $P(j, i) = Q(j, i)$.</p>
+<p>Therefore
+$$
+P(i, j) ~ = ~ P(j, i)\frac{\pi(j)}{\pi(i)}
+$$
+which is the same as
+$$
+\pi(i)P(i, j) ~ = ~ \pi(j)P(j, i)
+$$</p>
+<h4 id="Case-2:-$\pi(i)-&gt;-\pi(j)$">Case 2: $\pi(i) &gt; \pi(j)$<a class="anchor-link" href="#Case-2:-$%5Cpi(i)-%3E-%5Cpi(j)$">&#xB6;</a></h4><p>Reverse the roles of $i$ and $j$ in Case 2.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>That&apos;s it! A simple and brilliant idea that provides a solution to a difficult problem. In lab, you will see it in action when you implement the algorithm to decode text.</p></div></div></div>
+
+
+
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="Code_Breaking.html" class="navigation navigation-prev " aria-label="Previous page: 14.3 Code Breaking">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../ch15/Variance_Via_Covariance.html" class="navigation navigation-next " aria-label="Next page: Chapter 15: Variance Via Covariance">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"14.4 Markov Chain Monte Carlo","level":"1.16.4","depth":2,"next":{"title":"Chapter 15: Variance Via Covariance","level":"1.17","depth":1,"path":"ch15/Variance_Via_Covariance.md","ref":"ch15/Variance_Via_Covariance.md","articles":[{"title":"15.1 Properties of Covariance","level":"1.17.1","depth":2,"path":"ch15/Properties_of_Covariance.md","ref":"ch15/Properties_of_Covariance.md","articles":[]},{"title":"15.2 Sums of IID Samples","level":"1.17.2","depth":2,"path":"ch15/Sums_of_IID_Samples.md","ref":"ch15/Sums_of_IID_Samples.md","articles":[]},{"title":"15.3 Sums of Simple Random Samples","level":"1.17.3","depth":2,"path":"ch15/Sums_of_Simple_Random_Samples.md","ref":"ch15/Sums_of_Simple_Random_Samples.md","articles":[]},{"title":"15.4 Finite Population Correction","level":"1.17.4","depth":2,"path":"ch15/Finite_Population_Correction.md","ref":"ch15/Finite_Population_Correction.md","articles":[]}]},"previous":{"title":"14.3 Code Breaking","level":"1.16.3","depth":2,"path":"ch14/Code_Breaking.md","ref":"ch14/Code_Breaking.md","articles":[]},"dir":"ltr"},"config":{"plugins":["mathjax","addcssjs"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"addcssjs":{"css":[],"js":["js/custom.js"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"mathjax":{"forceSVG":false,"version":"2.6-latest"},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"Main Prob140 Site":"http://prob140.org/"}},"gitbook":"*"},"file":{"path":"ch14/Markov_Chain_Monte_Carlo.md","mtime":"2018-01-07T01:27:01.625Z","type":"markdown"},"gitbook":{"version":"3.2.0","time":"2018-01-07T01:40:24.089Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="https://cdn.mathjax.org/mathjax/2.6-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-mathjax/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    
+    <script type="text/javascript" src="../js/custom.js"></script>
+    
+
+    </body>
+</html>
+

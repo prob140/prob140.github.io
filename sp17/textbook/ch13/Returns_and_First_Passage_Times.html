@@ -1,0 +1,2156 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <title>13.2 Returns and First Passage Times · GitBook</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.0">
+        
+        
+        
+    
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="Occupation_Times.html" />
+    
+    
+    <link rel="prev" href="Waiting_Till_a_Pattern_Appears.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="http://prob140.org/" target="_blank" class="custom-link">Main Prob140 Site</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../ch1/to_the_student.html">
+            
+                <a href="../ch1/to_the_student.html">
+            
+                    
+                    To the Student
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../ch1/Fundamentals.html">
+            
+                <a href="../ch1/Fundamentals.html">
+            
+                    
+                    Chapter 1: Fundamentals
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../ch1/Outcome_Space_and_Events.html">
+            
+                <a href="../ch1/Outcome_Space_and_Events.html">
+            
+                    
+                    1.1 Outcome Spaces and Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../ch1/Equally_Likely_Outcomes.html">
+            
+                <a href="../ch1/Equally_Likely_Outcomes.html">
+            
+                    
+                    1.2 Equally Likely Outcomes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="../ch1/Collisions_in_Hashing.html">
+            
+                <a href="../ch1/Collisions_in_Hashing.html">
+            
+                    
+                    1.3 Collisions In Hashing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="../ch1/Birthday_Problem.html">
+            
+                <a href="../ch1/Birthday_Problem.html">
+            
+                    
+                    1.4 The Birthday Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="../ch1/Exponential_Approximation.html">
+            
+                <a href="../ch1/Exponential_Approximation.html">
+            
+                    
+                    1.5 Exponential Approxmation
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../ch2/Calculating_Chances.html">
+            
+                <a href="../ch2/Calculating_Chances.html">
+            
+                    
+                    Chapter 2: Calculating Chances
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../ch2/Addition.html">
+            
+                <a href="../ch2/Addition.html">
+            
+                    
+                    2.1 Addition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../ch2/Examples.html">
+            
+                <a href="../ch2/Examples.html">
+            
+                    
+                    2.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../ch2/Multiplication.html">
+            
+                <a href="../ch2/Multiplication.html">
+            
+                    
+                    2.3 Multiplication
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="../ch2/More_Examples.html">
+            
+                <a href="../ch2/More_Examples.html">
+            
+                    
+                    2.4 More Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../ch3/RandomVariables.html">
+            
+                <a href="../ch3/RandomVariables.html">
+            
+                    
+                    Chapter 3: Random Variables
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../ch3/FunctionsOnOutcomeSpace.html">
+            
+                <a href="../ch3/FunctionsOnOutcomeSpace.html">
+            
+                    
+                    3.1 Functions on an Outcome Space
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../ch3/Distributions.html">
+            
+                <a href="../ch3/Distributions.html">
+            
+                    
+                    3.2 Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../ch3/Equality.html">
+            
+                <a href="../ch3/Equality.html">
+            
+                    
+                    3.3 Equality
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../ch4/RelationsBetweenVariables.html">
+            
+                <a href="../ch4/RelationsBetweenVariables.html">
+            
+                    
+                    Chapter 4: Relations Between Variables
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="../ch4/JointDistributions.html">
+            
+                <a href="../ch4/JointDistributions.html">
+            
+                    
+                    4.1 Joint Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="../ch4/MarginalDistributions.html">
+            
+                <a href="../ch4/MarginalDistributions.html">
+            
+                    
+                    4.2 Marginal Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="../ch4/ConditionalDistributions.html">
+            
+                <a href="../ch4/ConditionalDistributions.html">
+            
+                    
+                    4.3 Conditional Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.4" data-path="../ch4/DependenceAndIndependence.html">
+            
+                <a href="../ch4/DependenceAndIndependence.html">
+            
+                    
+                    4.4 Dependence and Independence
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../ch5/CollectionsOfEvents.html">
+            
+                <a href="../ch5/CollectionsOfEvents.html">
+            
+                    
+                    Chapter 5: Collections of Events
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.7.1" data-path="../ch5/IntersectionOfSeveralEvents.html">
+            
+                <a href="../ch5/IntersectionOfSeveralEvents.html">
+            
+                    
+                    5.1 Intersection of Several Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="../ch5/UnionOfSeveralEvents.html">
+            
+                <a href="../ch5/UnionOfSeveralEvents.html">
+            
+                    
+                    5.2 Union of Several Events
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.3" data-path="../ch5/TheMatchingProblem.html">
+            
+                <a href="../ch5/TheMatchingProblem.html">
+            
+                    
+                    5.3 The Matching Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.4" data-path="../ch5/BoolesInequality.html">
+            
+                <a href="../ch5/BoolesInequality.html">
+            
+                    
+                    5.4 Booles Inequality
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../ch6/RandomCounts.html">
+            
+                <a href="../ch6/RandomCounts.html">
+            
+                    
+                    Chapter 6: Random Counts
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.8.1" data-path="../ch6/BinomialDistribution.html">
+            
+                <a href="../ch6/BinomialDistribution.html">
+            
+                    
+                    6.1 The Binomial Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.2" data-path="../ch6/Examples.html">
+            
+                <a href="../ch6/Examples.html">
+            
+                    
+                    6.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.3" data-path="../ch6/OddsRatios.html">
+            
+                <a href="../ch6/OddsRatios.html">
+            
+                    
+                    6.3 Odds Ratios
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8.4" data-path="../ch6/LLSNs.html">
+            
+                <a href="../ch6/LLSNs.html">
+            
+                    
+                    6.4 The Law of Small Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../ch7/Poissonization.html">
+            
+                <a href="../ch7/Poissonization.html">
+            
+                    
+                    Chapter 7: Poissonization
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.9.1" data-path="../ch7/PoissonizingTheBinomial.html">
+            
+                <a href="../ch7/PoissonizingTheBinomial.html">
+            
+                    
+                    7.1 Poissonizing the Binomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.2" data-path="../ch7/PoissonizingTheMultinomial.html">
+            
+                <a href="../ch7/PoissonizingTheMultinomial.html">
+            
+                    
+                    7.2 Poissonizing the Multinomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../ch8/Dependence.html">
+            
+                <a href="../ch8/Dependence.html">
+            
+                    
+                    Chapter 8: Dependence
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.10.1" data-path="../ch8/Updating_Probabilities.html">
+            
+                <a href="../ch8/Updating_Probabilities.html">
+            
+                    
+                    8.1 Updating Probabilities
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.2" data-path="../ch8/Randomizing_a_Parameter.html">
+            
+                <a href="../ch8/Randomizing_a_Parameter.html">
+            
+                    
+                    8.2 Randomizing a Parameter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.3" data-path="../ch8/Sampling_Without_Replacement.html">
+            
+                <a href="../ch8/Sampling_Without_Replacement.html">
+            
+                    
+                    8.3 Sampling Without Replacement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10.4" data-path="../ch8/Hypergeometric_Distribution.html">
+            
+                <a href="../ch8/Hypergeometric_Distribution.html">
+            
+                    
+                    8.4 The Hypergeometric Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../ch9/Expectation.html">
+            
+                <a href="../ch9/Expectation.html">
+            
+                    
+                    Chapter 9: Expectations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.11.1" data-path="../ch9/Definition.html">
+            
+                <a href="../ch9/Definition.html">
+            
+                    
+                    9.1 Definition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.2" data-path="../ch9/Additivity.html">
+            
+                <a href="../ch9/Additivity.html">
+            
+                    
+                    9.2 Additivity
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11.3" data-path="../ch9/Expectation_of_Functions.html">
+            
+                <a href="../ch9/Expectation_of_Functions.html">
+            
+                    
+                    9.3 Expectations of Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="../ch10/Standard_Deviation.html">
+            
+                <a href="../ch10/Standard_Deviation.html">
+            
+                    
+                    Chapter 10: Standard Deviations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.12.1" data-path="../ch10/Definition.html">
+            
+                <a href="../ch10/Definition.html">
+            
+                    
+                    10.1 Definition
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.2" data-path="../ch10/Prediction_and_Estimation.html">
+            
+                <a href="../ch10/Prediction_and_Estimation.html">
+            
+                    
+                    10.2 Prediction and Estimation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.3" data-path="../ch10/Bounds.html">
+            
+                <a href="../ch10/Bounds.html">
+            
+                    
+                    10.3 Bounds
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12.4" data-path="../ch10/Heavy_Tails.html">
+            
+                <a href="../ch10/Heavy_Tails.html">
+            
+                    
+                    10.4 Heavy Tails
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13" data-path="../ch11/ConditioningRevisited.html">
+            
+                <a href="../ch11/ConditioningRevisited.html">
+            
+                    
+                    Chapter 11: Conditioning Revisited
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.13.1" data-path="../ch11/ProbabilityByConditioning.html">
+            
+                <a href="../ch11/ProbabilityByConditioning.html">
+            
+                    
+                    11.1 Probability by Conditioning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.2" data-path="../ch11/ExpectationByConditioning.html">
+            
+                <a href="../ch11/ExpectationByConditioning.html">
+            
+                    
+                    11.2 Expectation by Conditioning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13.3" data-path="../ch11/ExpectedWaitingTimes.html">
+            
+                <a href="../ch11/ExpectedWaitingTimes.html">
+            
+                    
+                    11.3 Expected Waiting Times
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="../ch12/MarkovChains.html">
+            
+                <a href="../ch12/MarkovChains.html">
+            
+                    
+                    Chapter 12: Markov Chains
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.14.1" data-path="../ch12/ChainataFixedTime.html">
+            
+                <a href="../ch12/ChainataFixedTime.html">
+            
+                    
+                    12.1 Chain at a Fixed Time
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.2" data-path="../ch12/NotationandTerminology.html">
+            
+                <a href="../ch12/NotationandTerminology.html">
+            
+                    
+                    12.2 Notation and Terminology
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.3" data-path="../ch12/LongRunBehavior.html">
+            
+                <a href="../ch12/LongRunBehavior.html">
+            
+                    
+                    12.3 Long Run Behavior
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14.4" data-path="../ch12/Examples.html">
+            
+                <a href="../ch12/Examples.html">
+            
+                    
+                    12.4 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15" data-path="Hitting_and_Occupation_Times.html">
+            
+                <a href="Hitting_and_Occupation_Times.html">
+            
+                    
+                    Chapter 13: Hitting and Occupation Times
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.15.1" data-path="Waiting_Till_a_Pattern_Appears.html">
+            
+                <a href="Waiting_Till_a_Pattern_Appears.html">
+            
+                    
+                    13.1 Waiting Till a Pattern Appears
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.15.2" data-path="Returns_and_First_Passage_Times.html">
+            
+                <a href="Returns_and_First_Passage_Times.html">
+            
+                    
+                    13.2 Returns and First Passage Times
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.3" data-path="Occupation_Times.html">
+            
+                <a href="Occupation_Times.html">
+            
+                    
+                    13.3 Occupation Times Within a Block
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15.4" data-path="Periodic_Chains.html">
+            
+                <a href="Periodic_Chains.html">
+            
+                    
+                    13.4 Periodic Chains
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16" data-path="../ch14/Reversing_Markov_Chains.html">
+            
+                <a href="../ch14/Reversing_Markov_Chains.html">
+            
+                    
+                    Chapter 14: Reversing Markov Chains
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.16.1" data-path="../ch14/Detailed_Balance.html">
+            
+                <a href="../ch14/Detailed_Balance.html">
+            
+                    
+                    14.1 Detailed Balance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.2" data-path="../ch14/Reversibility.html">
+            
+                <a href="../ch14/Reversibility.html">
+            
+                    
+                    14.2 Reversibility
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.3" data-path="../ch14/Code_Breaking.html">
+            
+                <a href="../ch14/Code_Breaking.html">
+            
+                    
+                    14.3 Code Breaking
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16.4" data-path="../ch14/Markov_Chain_Monte_Carlo.html">
+            
+                <a href="../ch14/Markov_Chain_Monte_Carlo.html">
+            
+                    
+                    14.4 Markov Chain Monte Carlo
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17" data-path="../ch15/Variance_Via_Covariance.html">
+            
+                <a href="../ch15/Variance_Via_Covariance.html">
+            
+                    
+                    Chapter 15: Variance Via Covariance
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.17.1" data-path="../ch15/Properties_of_Covariance.html">
+            
+                <a href="../ch15/Properties_of_Covariance.html">
+            
+                    
+                    15.1 Properties of Covariance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.2" data-path="../ch15/Sums_of_IID_Samples.html">
+            
+                <a href="../ch15/Sums_of_IID_Samples.html">
+            
+                    
+                    15.2 Sums of IID Samples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.3" data-path="../ch15/Sums_of_Simple_Random_Samples.html">
+            
+                <a href="../ch15/Sums_of_Simple_Random_Samples.html">
+            
+                    
+                    15.3 Sums of Simple Random Samples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17.4" data-path="../ch15/Finite_Population_Correction.html">
+            
+                <a href="../ch15/Finite_Population_Correction.html">
+            
+                    
+                    15.4 Finite Population Correction
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18" data-path="../ch16/The_Central_Limit_Theorem.html">
+            
+                <a href="../ch16/The_Central_Limit_Theorem.html">
+            
+                    
+                    Chapter 16: The Central Limit Theorem
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.18.1" data-path="../ch16/Exact_Distribution.html">
+            
+                <a href="../ch16/Exact_Distribution.html">
+            
+                    
+                    16.1 Exact Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.2" data-path="../ch16/PGFs_in_NumPy.html">
+            
+                <a href="../ch16/PGFs_in_NumPy.html">
+            
+                    
+                    16.2 PGFs in NumPy
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.3" data-path="../ch16/Central_Limit_Theorem.html">
+            
+                <a href="../ch16/Central_Limit_Theorem.html">
+            
+                    
+                    16.3 Central Limit Theorem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.4" data-path="../ch16/The_Sample_Mean.html">
+            
+                <a href="../ch16/The_Sample_Mean.html">
+            
+                    
+                    16.4 The Sample Mean
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18.5" data-path="../ch16/Confidence_Intervals.html">
+            
+                <a href="../ch16/Confidence_Intervals.html">
+            
+                    
+                    16.5 Confidence Intervals
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19" data-path="../ch17/Continuous_Distributions.html">
+            
+                <a href="../ch17/Continuous_Distributions.html">
+            
+                    
+                    Chapter 17: Continuous Distributions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.19.1" data-path="../ch17/Density_and_CDF.html">
+            
+                <a href="../ch17/Density_and_CDF.html">
+            
+                    
+                    17.1 Density and CDF
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.2" data-path="../ch17/The_Meaning_of_Density.html">
+            
+                <a href="../ch17/The_Meaning_of_Density.html">
+            
+                    
+                    17.2 The Meaning of Density
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.3" data-path="../ch17/Expectation.html">
+            
+                <a href="../ch17/Expectation.html">
+            
+                    
+                    17.3 Expectation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19.4" data-path="../ch17/Calculus_in_SymPy.html">
+            
+                <a href="../ch17/Calculus_in_SymPy.html">
+            
+                    
+                    17.4 Calculus in SymPy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20" data-path="../ch18/Transformations.html">
+            
+                <a href="../ch18/Transformations.html">
+            
+                    
+                    Chapter 18: Transformations
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.20.1" data-path="../ch18/Exponential_Distribution.html">
+            
+                <a href="../ch18/Exponential_Distribution.html">
+            
+                    
+                    18.1 Exponential Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.2" data-path="../ch18/Linear_Transformations.html">
+            
+                <a href="../ch18/Linear_Transformations.html">
+            
+                    
+                    18.2 Linear Transformations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20.3" data-path="../ch18/Monotone_Functions.html">
+            
+                <a href="../ch18/Monotone_Functions.html">
+            
+                    
+                    18.3 Monotone Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21" data-path="../ch19/Joint_Densities.html">
+            
+                <a href="../ch19/Joint_Densities.html">
+            
+                    
+                    Chapter 19: Joint Densities
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.21.1" data-path="../ch19/Probabilities_and_Expectations.html">
+            
+                <a href="../ch19/Probabilities_and_Expectations.html">
+            
+                    
+                    19.1 Probabilities and Expectations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.2" data-path="../ch19/Independence.html">
+            
+                <a href="../ch19/Independence.html">
+            
+                    
+                    19.2 Independence
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.3" data-path="../ch19/Marginal_and_Conditional_Densities.html">
+            
+                <a href="../ch19/Marginal_and_Conditional_Densities.html">
+            
+                    
+                    19.3 Marginal and Conditional Densities
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21.4" data-path="../ch19/Beta_Densities_with_Integer_Parameters.html">
+            
+                <a href="../ch19/Beta_Densities_with_Integer_Parameters.html">
+            
+                    
+                    19.4 Beta Densities with Integer Parameters
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22" data-path="../ch20/Applications_of_the_Normal_Distribution.html">
+            
+                <a href="../ch20/Applications_of_the_Normal_Distribution.html">
+            
+                    
+                    Chapter 20: Applications of the Normal Distribution
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.22.1" data-path="../ch20/Properties_of_the_Standard_Normal.html">
+            
+                <a href="../ch20/Properties_of_the_Standard_Normal.html">
+            
+                    
+                    20.1 Properties of the Standard Normal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.2" data-path="../ch20/Sums_of_Independent_Normal_Variables.html">
+            
+                <a href="../ch20/Sums_of_Independent_Normal_Variables.html">
+            
+                    
+                    20.2 Sums of Independent Normal Variables
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.3" data-path="../ch20/Maximum_Likelihood_Estimation.html">
+            
+                <a href="../ch20/Maximum_Likelihood_Estimation.html">
+            
+                    
+                    20.3 Maximum Likelihood Estimation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.4" data-path="../ch20/Chi_Squared_Distributions.html">
+            
+                <a href="../ch20/Chi_Squared_Distributions.html">
+            
+                    
+                    20.4 Chi Squared Distributions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22.5" data-path="../ch20/Sums_of_Squares_of_Standard_Normals.html">
+            
+                <a href="../ch20/Sums_of_Squares_of_Standard_Normals.html">
+            
+                    
+                    20.5 Sums of Squares of Standard Normals
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23" data-path="../ch21/Distributions_of_Sums.html">
+            
+                <a href="../ch21/Distributions_of_Sums.html">
+            
+                    
+                    Chapter 21: Distributions of Sums
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.23.1" data-path="../ch21/Convolution_Formula.html">
+            
+                <a href="../ch21/Convolution_Formula.html">
+            
+                    
+                    21.1 Convolution Formula
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.2" data-path="../ch21/Moment_Generating_Functions.html">
+            
+                <a href="../ch21/Moment_Generating_Functions.html">
+            
+                    
+                    21.2 Moment Generating Functions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.3" data-path="../ch21/MGFs_Normal_and_the_CLT.html">
+            
+                <a href="../ch21/MGFs_Normal_and_the_CLT.html">
+            
+                    
+                    21.3 MGFs Normal and the CLT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23.4" data-path="../ch21/Chernoff_Bound.html">
+            
+                <a href="../ch21/Chernoff_Bound.html">
+            
+                    
+                    21.4 Chernoff Bound
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24" data-path="../ch22/Prior_and_Posterior_Distributions.html">
+            
+                <a href="../ch22/Prior_and_Posterior_Distributions.html">
+            
+                    
+                    Chapter 22: Prior and Posterior Distributions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.24.1" data-path="../ch22/Conditioning_on_a_Continuous_Variable.html">
+            
+                <a href="../ch22/Conditioning_on_a_Continuous_Variable.html">
+            
+                    
+                    22.1 Conditioning on a Continuous Variable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.2" data-path="../ch22/Beta_Binomial.html">
+            
+                <a href="../ch22/Beta_Binomial.html">
+            
+                    
+                    22.2 Beta Binomial
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.3" data-path="../ch22/Distribution_of_the_Number_of_Successes.html">
+            
+                <a href="../ch22/Distribution_of_the_Number_of_Successes.html">
+            
+                    
+                    22.3 Distribution of the Number of Successes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24.4" data-path="../ch22/Long_Run_Proportion_of_Successes.html">
+            
+                <a href="../ch22/Long_Run_Proportion_of_Successes.html">
+            
+                    
+                    22.4 Long Run Proportion of Successes
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25" data-path="../ch23/Prediction.html">
+            
+                <a href="../ch23/Prediction.html">
+            
+                    
+                    Chapter 23: Prediction
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.25.1" data-path="../ch23/Conditional_Variance.html">
+            
+                <a href="../ch23/Conditional_Variance.html">
+            
+                    
+                    23.1 Conditional Variance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25.2" data-path="../ch23/Examples.html">
+            
+                <a href="../ch23/Examples.html">
+            
+                    
+                    23.2 Examples
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.25.3" data-path="../ch23/Least_Squares.html">
+            
+                <a href="../ch23/Least_Squares.html">
+            
+                    
+                    23.3 Least Squares
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26" data-path="../ch24/The_Bivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/The_Bivariate_Normal_Distribution.html">
+            
+                    
+                    Chapter 24: The Bivariate Normal Distribution
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.26.1" data-path="../ch24/Standard_Bivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/Standard_Bivariate_Normal_Distribution.html">
+            
+                    
+                    24.1 Standard Bivariate Normal Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.2" data-path="../ch24/Historical_Example.html">
+            
+                <a href="../ch24/Historical_Example.html">
+            
+                    
+                    24.2 Historical Example
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.3" data-path="../ch24/Independence_and_Angles.html">
+            
+                <a href="../ch24/Independence_and_Angles.html">
+            
+                    
+                    24.3 Independence and Angles
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.4" data-path="../ch24/Linear_Combinations.html">
+            
+                <a href="../ch24/Linear_Combinations.html">
+            
+                    
+                    24.4 Linear Combinations
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.5" data-path="../ch24/Multivariate_Normal_Distribution.html">
+            
+                <a href="../ch24/Multivariate_Normal_Distribution.html">
+            
+                    
+                    24.5 Multivariate Normal Distribution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.26.6" data-path="../ch24/Best_Predictor.html">
+            
+                <a href="../ch24/Best_Predictor.html">
+            
+                    
+                    24.6 Best Predictor
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >13.2 Returns and First Passage Times</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="returns-and-first-passage-times">Returns and First Passage Times</h2><div id="ipython-notebook">
+            <a class="interact-button" href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&amp;path=textbook/Chapter 13/13_2_Returns_and_First_Passage_Times.ipynb" target="_blank">Interact</a>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$']],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Returns-and-First-Passage-Times">Returns and First Passage Times<a class="anchor-link" href="#Returns-and-First-Passage-Times">&#xB6;</a></h3><p>Throughout this section we will assume that $X_0, X_1, X_2, \ldots $ is an irreducible aperiodic Markov Chain with a finite state space. We will start by listing some facts about the number of times this chain visits each state. We won&apos;t prove the facts but will indicate why they are true. You should know the facts even if you don&apos;t study the sketched justifications.</p>
+<ul>
+<li>For large $n$, all elements of the $n$-step transition matrix are positive. That is, for sufficiently large $n$, $P_n(i, j) &gt; 0$ for all $i$ and $j$. </li>
+</ul>
+<p>To see why this is true, remember that for each pair of states $i$ and $j$, the sequence $P_n(i, j)$ converges to $\pi(j) &gt; 0$ as $n$ gets large. Therefore the terms in the sequence are positive for large $n$. As there is a finite number of pairs of states, there is a finite number of sequences of transition probabilities, and so after some large enough $n$, all the $n$-step transition probabilities are positive.</p>
+<ul>
+<li>Each state is visited infinitely many times with probability 1. We say that each state is <em>recurrent</em>. As all the states are recurrent, we say for short that <em>the chain is recurrent</em>. </li>
+</ul>
+<p>Observe that because the state space is finite, at least one state has to be visited infinitely often. It can be derived from this that since all states communicate with each other, all states must be visited infinitely often.</p>
+<ul>
+<li>Fix any states $i$ and $j$ (which could be the same). Given that the chain starts at $i$, the expected time till it reaches $j$ is finite. In particular, given that the chain starts at $i$, the expected return time to $i$ is finite. We say that all states are <em>positive recurrent</em>, and hence that the <em>chain is positive recurrent</em>. </li>
+</ul>
+<p>To see why this is true, note from above that for any state $i$, there is some time $n^*$ for which $P_n^*(i, i)$ is positive. Start the chain at $i$ and watch the chain only at times that are multiples of $n^*$. At these times, the number of moves till the chain returns to $i$ is a geometric random variable with a positive &quot;success&quot; probability $P_{n^*}(i, i)$, and hence it has finite expectation. If you watch the chain at all times, not just at multiples of $n^*$, it will return to $i$ even faster.</p>
+<h4 id="Expected-Long-Run-Occupation-Proportions">Expected Long Run Occupation Proportions<a class="anchor-link" href="#Expected-Long-Run-Occupation-Proportions">&#xB6;</a></h4><p>We know that the chain has a stationary distribution $\pi$ that is unique and strictly positive. 
+We also know that for every state $j$, the expected long run proportion of time the chain spends at $j$ is $\pi(j)$. We call this the expected long run proportion of <em>times at which the chain occupies the state $j$</em>.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="First-Passage-Times">First Passage Times<a class="anchor-link" href="#First-Passage-Times">&#xB6;</a></h3><p>We will start with <em>hitting times</em> defined as follows. For any state $j$, the <em>first hitting time</em> or the <em>first passage time</em> of $j$ is</p>
+$$
+W_j = \inf \{ n \ge 1: X_n = j \}
+$$<p>That is, $W_j$ is the first time at which the chain reaches state $j$ once it has started running. We will be lazy and call $W_j$ a <em>hitting time</em> instead of a <em>first hitting time</em>, but we will make sure to use <em>first</em> in contexts where we are studying repeated hits on $j$.</p>
+<p>We have seen these examples of these $W$&apos;s before. In the last section we worked with the hitting time till a pattern appeared. You will recall that the pattern was one of the states of a Markov Chain that we set up.</p>
+<p>The expected hitting time of $j$ given that the chain started at $i$ is $E(W_j \mid X_0 = i)$. This is also called the <em>mean first passage time</em> of $j$ given that the chain started in $i$. We can calculate these using first step analysis, but when $i = j$ there is a simple expression for the expectation in terms of the stationary distribution $\pi$.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Expected-Return-Time">Expected Return Time<a class="anchor-link" href="#Expected-Return-Time">&#xB6;</a></h3><p>In the case where $i = j$, we say that $E(W_i \mid X_0 = i)$ is the expected <em>return time</em> to $i$ given that the chain started at $i$. That is because the definition of $W_i$ only involves times that are at least 1.</p>
+<p>It turns out that there is a simple relation between $\pi(i)$ and the expected return time to $i$. We won&apos;t prove the relation but it is not hard to believe:</p>
+$$
+E(W_i \mid X_0 = i) = \frac{1}{\pi(i)} , ~~~~ i \in S
+$$<p>Since $\pi(i) &gt; 0$ for all states $i$, the expected return time to each state is finite.</p>
+<p>To understand what this result is saying, suppose $\pi(i) = 1/10$. Then you know that in the long run the chain spends $1/10$ of its time at $i$. Since it&apos;s at $i$ at one of every 10 steps on average, it makes sense that once the chain is at $i$ you expect it to return to $i$ in 10 steps. This is not a proof by any means, but it confirms that the result is consistent with intuition.</p>
+<p>This result is analogous to, but not the same as, the fact that in i.i.d. Bernoulli $(p)$ trials, the expected long run proportion of successes is $p$, and the expected number of trials till the first success is $1/p$.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Example:-Ehrenfest-Chain">Example: Ehrenfest Chain<a class="anchor-link" href="#Example:-Ehrenfest-Chain">&#xB6;</a></h3><p>Recall that in the Ehrenfest model described in an earlier chapter, there are two containers containing a total of $N$ particles. At each instant, a container is selected at random and a particle is selected at random independently of the container. Then the selected particle is placed in the selected container; if it was already in that container, it stays there.</p>
+<p>Let $X_n$ be the number of particles in Container 1 at time $n$. Then $X_0, X_1, \ldots$ is a Markov chain with transition probabilities given by:</p>
+\begin{equation}
+P(i, j) = 
+ \begin{cases} 
+      \frac{N-i}{2N} &amp; \text{if } j = i+1 \\
+      \frac{1}{2} &amp; \text{if } j = i \\
+      \frac{i}{2N} &amp; \text{if } j = i-1 \\
+      0 &amp; \text{otherwise}
+   \end{cases}
+\end{equation}<p>We showed that the stationary distribution of this chain is binomial $(N, 1/2)$.</p>
+<p>Now our result about expected hitting times implies that given that Containter 1 is empty, the expected amount of time till it again becomes empty is</p>
+$$
+\frac{1}{\binom{N}{0}(1/2)^N} = 2^N
+$$<p>In general for any $0 \le k \le N$, given that Container 1 has $k$ particles in it, the expected amount of time till it once again has $k$ particles is</p>
+$$
+\frac{1}{\binom{N}{k}(1/2)^N} = \frac{2^N}{\binom{N}{k}}
+$$<p>If $N$ is even, then $\binom{N}{k}$ is increasing in $k$ for $0 \le k \le N/2$ and decreasing for larger $k$, so the expected return time is the smallest for $k = N/2$. If $N$ is odd the expected return times are smallest for the two values of $k$ on either side of $N/2$.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Expected-First-Passage-Times">Expected First Passage Times<a class="anchor-link" href="#Expected-First-Passage-Times">&#xB6;</a></h3><p>To get all the expected first passage times $E(W_j \mid X_0 = i)$, you can set up equations by first step analysis just as we did in the previous section.</p>
+<p>For states $i \ne j$,</p>
+$$
+E(W_j \mid X_0 = i) = 1 + \sum_{k \ne j} P(i, k)E(W_j \mid X_0 = k)
+$$<p>As you have seen, such systems of equations can be tedious to solve. If the transition matrix is numerical, you can use the <code>mean_first_passage_times</code> method to get all of the mean first passage times at once.</p></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Here is an example using the Ehrenfest chain with $N=6$ so that we can see the entire matrix of mean first passage times.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">N</span> <span class="o">=</span> <span class="mi">6</span>
+
+<span class="n">s</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="n">N</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span>
+
+<span class="k">def</span> <span class="nf">trans_probs</span><span class="p">(</span><span class="n">i</span><span class="p">,</span> <span class="n">j</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">j</span> <span class="o">==</span> <span class="n">i</span><span class="p">:</span>
+        <span class="k">return</span> <span class="mi">1</span><span class="o">/</span><span class="mi">2</span>
+    <span class="k">if</span> <span class="n">j</span> <span class="o">==</span> <span class="n">i</span><span class="o">+</span><span class="mi">1</span><span class="p">:</span>
+        <span class="k">return</span> <span class="p">(</span><span class="n">N</span><span class="o">-</span><span class="n">i</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">N</span><span class="p">)</span>
+    <span class="k">elif</span> <span class="n">j</span> <span class="o">==</span> <span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">:</span>
+        <span class="k">return</span> <span class="n">i</span><span class="o">/</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">N</span><span class="p">)</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">return</span> <span class="mi">0</span>
+
+<span class="n">tbl</span> <span class="o">=</span> <span class="n">Table</span><span class="p">()</span><span class="o">.</span><span class="n">states</span><span class="p">(</span><span class="n">s</span><span class="p">)</span><span class="o">.</span><span class="n">transition_function</span><span class="p">(</span><span class="n">trans_probs</span><span class="p">)</span>
+<span class="n">ehrenfest</span> <span class="o">=</span> <span class="n">tbl</span><span class="o">.</span><span class="n">toMarkovChain</span><span class="p">()</span>
+</pre></div></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">ehrenfest</span><span class="o">.</span><span class="n">mean_first_passage_times</span><span class="p">()</span>
+</pre></div></div></div>
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>0</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th>6</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>64.0</td>
+      <td>2.000000</td>
+      <td>4.800000</td>
+      <td>9.2</td>
+      <td>17.600000</td>
+      <td>40.400000</td>
+      <td>166.4</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>126.0</td>
+      <td>10.666667</td>
+      <td>2.800000</td>
+      <td>7.2</td>
+      <td>15.600000</td>
+      <td>38.400000</td>
+      <td>164.4</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>148.8</td>
+      <td>22.800000</td>
+      <td>4.266667</td>
+      <td>4.4</td>
+      <td>12.800000</td>
+      <td>35.600000</td>
+      <td>161.6</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>157.2</td>
+      <td>31.200000</td>
+      <td>8.400000</td>
+      <td>3.2</td>
+      <td>8.400000</td>
+      <td>31.200000</td>
+      <td>157.2</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>161.6</td>
+      <td>35.600000</td>
+      <td>12.800000</td>
+      <td>4.4</td>
+      <td>4.266667</td>
+      <td>22.800000</td>
+      <td>148.8</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>164.4</td>
+      <td>38.400000</td>
+      <td>15.600000</td>
+      <td>7.2</td>
+      <td>2.800000</td>
+      <td>10.666667</td>
+      <td>126.0</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>166.4</td>
+      <td>40.400000</td>
+      <td>17.600000</td>
+      <td>9.2</td>
+      <td>4.800000</td>
+      <td>2.000000</td>
+      <td>64.0</td>
+    </tr>
+  </tbody>
+</table></div></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The diagonal elements are the expected return times $E(W_i \mid X_0 = i)$ and are the inverses of the stationary binomial (6, 1/2) probabilities.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="mi">1</span><span class="o">/</span><span class="p">(</span><span class="n">ehrenfest</span><span class="o">.</span><span class="n">steady_state</span><span class="p">()</span><span class="o">.</span><span class="n">column</span><span class="p">(</span><span class="s1">&apos;Probability&apos;</span><span class="p">))</span>
+</pre></div></div></div>
+<div class="output_text output_subarea output_execute_result">
+<pre>array([ 64.        ,  10.66666667,   4.26666667,   3.2       ,
+         4.26666667,  10.66666667,  64.        ])</pre></div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The $(i, j)$th off-diagonal element is $E(W_j \mid X_0 = i)$. For example, if the chain starts at 2, you expect it to take $12.8$ steps to get to 4. The numerical value comes from solving the equations set up by first step analysis.</p>
+<p>Notice the symmetry in the row corresponding to state 3, which is half-way between the empty and full states of Container 1. Starting at this half-way point, you expect the same amount of time (157.2 moves) for Container 1 to become empty as for it to become full.</p></div></div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div></div></div></div>
+
+
+
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="Waiting_Till_a_Pattern_Appears.html" class="navigation navigation-prev " aria-label="Previous page: 13.1 Waiting Till a Pattern Appears">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="Occupation_Times.html" class="navigation navigation-next " aria-label="Next page: 13.3 Occupation Times Within a Block">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"13.2 Returns and First Passage Times","level":"1.15.2","depth":2,"next":{"title":"13.3 Occupation Times Within a Block","level":"1.15.3","depth":2,"path":"ch13/Occupation_Times.md","ref":"ch13/Occupation_Times.md","articles":[]},"previous":{"title":"13.1 Waiting Till a Pattern Appears","level":"1.15.1","depth":2,"path":"ch13/Waiting_Till_a_Pattern_Appears.md","ref":"ch13/Waiting_Till_a_Pattern_Appears.md","articles":[]},"dir":"ltr"},"config":{"plugins":["mathjax","addcssjs"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"addcssjs":{"css":[],"js":["js/custom.js"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"mathjax":{"forceSVG":false,"version":"2.6-latest"},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"Main Prob140 Site":"http://prob140.org/"}},"gitbook":"*"},"file":{"path":"ch13/Returns_and_First_Passage_Times.md","mtime":"2018-01-07T01:27:01.625Z","type":"markdown"},"gitbook":{"version":"3.2.0","time":"2018-01-07T01:40:24.089Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="https://cdn.mathjax.org/mathjax/2.6-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-mathjax/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    
+    <script type="text/javascript" src="../js/custom.js"></script>
+    
+
+    </body>
+</html>
+

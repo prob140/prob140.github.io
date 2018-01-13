@@ -4,10 +4,12 @@ links:
         - name: About
           url: /about
         - name: Staff
-          url: /instructors
+          url: /materials_placeholder
         - name: Course Information
           url: /logistics
         - name: Textbook
-          url: /textbook_placeholder
-        - name: Reference Materials
+          url: /materials_placeholder
+        - name: References
           url: /references
+        - name: Weekly Schedule
+          url: /materials_placeholder

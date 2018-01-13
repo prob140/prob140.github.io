@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Prob 140</title>
+ <link href="http://probability.gitlab.io/atom.xml" rel="self"/>
+ <link href="http://probability.gitlab.io/"/>
+ <updated>2018-01-06T17:54:31-08:00</updated>
+ <id>http://probability.gitlab.io</id>
+ <author>
+   <name>Dibya Ghosh, Jason Zhang</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
