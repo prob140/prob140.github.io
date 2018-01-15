@@ -238,7 +238,7 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #000000;
+  /*border: 1px solid #000000;*/
   border-collapse: collapse;
 }
 
@@ -259,7 +259,7 @@ th {
   color: white;
 }
 
-table tr:hover td:not(.weeknum){
+table#calendar tr:hover td:not(.weeknum){
   background: rgba(148, 182, 211, 0.6);
 }
 
