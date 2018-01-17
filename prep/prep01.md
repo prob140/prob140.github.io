@@ -3,8 +3,6 @@ layout: page
 title: Week 1 Preparation Guide
 ---
 
-[PDF](/prep/prep01.pdf)
-
 Please do the required reading before attempting problems. Not only does it contain the material you need for the week's work, and more examples than in the lectures, it will remind you of the details that you have to keep in mind when attempting problems. Homework will go faster if you read first.
 
 ## Reading ##
