@@ -10,7 +10,7 @@ title: Resources
 - [Data 8 Textbook](http://inferentialthinking.com/)
 
 ## Probability
-- [Course Notes](/materials_placeholder)
+- [Textbook](https://textbook.prob140.org/)
 - [*Probability* by Jim Pitman](http://springer.com/us/book/9780387979748)
 - [*Theory meets Data*](/assets/tmd_11_18_2017.pdf)
 

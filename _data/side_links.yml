@@ -8,7 +8,7 @@ links:
         - name: Course Information
           url: /logistics
         - name: Textbook
-          url: /materials_placeholder
+          url: https://textbook.prob140.org/
         - name: Resources
           url: /references
         - name: Weekly Schedule

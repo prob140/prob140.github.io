@@ -11,14 +11,21 @@ weeks:
       problemName:
       problemURL:
       readings:
-        - name:
-          url:
+        - name: "Ch 1: Fundamentals"
+          url: https://textbook.prob140.org/notebooks-md/1_00_Fundamentals.html
+        - name: "Ch 2: Calculating Chances"
+          url: https://textbook.prob140.org/notebooks-md/2_00_Calculating_Chances.html
     - date: Thu 1/18
       lecture: "Discussion Section"
     - date: Fri 1/19
       lecture: "Lab 1"
       assignmentName: "Lab 1"
       assignmentURL:
+    links:
+      - name: "Ch 1: Fundamentals"
+        url: "https://textbook.prob140.org/notebooks-md/1_00_Fundamentals.html"
+      - name: "Ch 2: Calculating Chances"
+        url: "https://textbook.prob140.org/notebooks-md/2_00_Calculating_Chances.html"
 
   - weekNum: 2
     weekName: Working with Random Variables
