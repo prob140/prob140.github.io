@@ -6,10 +6,10 @@ weeks:
     - date: Wed 1/17
       lecture: "Probability: Axioms, Rules, Approximation"
       slidesURL:
-      assignmentName: 
-      assignmentURL:
-      problemName:
-      problemURL:
+      assignmentName: "HW 1"
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw01a.ipynb
+      problemName: "Guide"
+      problemURL: /prep/prep01
       readings:
         - name: "Ch 1: Fundamentals"
           url: https://textbook.prob140.org/notebooks-md/1_00_Fundamentals.html
@@ -26,6 +26,8 @@ weeks:
         url: "https://textbook.prob140.org/notebooks-md/1_00_Fundamentals.html"
       - name: "Ch 2: Calculating Chances"
         url: "https://textbook.prob140.org/notebooks-md/2_00_Calculating_Chances.html"
+      - name: "HW 1"
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw01a.ipynb"
 
   - weekNum: 2
     weekName: Working with Random Variables
