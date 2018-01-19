@@ -20,7 +20,7 @@ weeks:
     - date: Fri 1/19
       lecture: "Lab 1"
       assignmentName: "Lab 1"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_01.ipynb
     links:
       - name: "Ch 1: Fundamentals"
         url: "https://textbook.prob140.org/notebooks-md/1_00_Fundamentals.html"
@@ -28,6 +28,8 @@ weeks:
         url: "https://textbook.prob140.org/notebooks-md/2_00_Calculating_Chances.html"
       - name: "HW 1"
         url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw01a.ipynb"
+      - name: "Lab 1"
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_01.ipynb"
 
   - weekNum: 2
     weekName: Working with Random Variables
