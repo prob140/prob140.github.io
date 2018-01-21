@@ -50,7 +50,7 @@ weeks:
     - date: Tue 1/23
       lecture: "Homework 1 Due"
     - date: Wed 1/24
-      lecture: "Counting, Symmetry, Bounds"
+      lecture: "Symmetry and Collections of Events"
       slidesURL:
       assignmentName:
       assignmentURL:
@@ -79,12 +79,12 @@ weeks:
     weekDuration: 1/29-2/2
     basic:
     - date: Mon 1/29
-      lecture: "Binomial and Multinomial Distributions; the Poisson Limit"
+      lecture: "Binomial and Related Counts; the Poisson Limit"
       assignmentName: 
     - date: Tue 1/30
       lecture: "Homework 2 Due"
     - date: Wed 1/31
-      lecture: "Independence and Poissonization; Dependence"
+      lecture: "Independence and Poissonization"
     - date: Thu 2/1
       lecture: "Discussion Section"
     - date: Fri 2/2
