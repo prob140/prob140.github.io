@@ -43,8 +43,10 @@ weeks:
       problemName:
       problemURL:
       readings:
-        - name:
-          url:
+        - name: "Ch 3: Random Variables"
+          url: https://textbook.prob140.org/notebooks-md/3_00_Random_Variables.html
+        - name: "Ch 4: Relations Between Variables"
+          url: https://textbook.prob140.org/notebooks-md/4_00_Relations_Between_Variables.html
     - date: Tue 1/23
       lecture: "Homework 1 Due"
     - date: Wed 1/24
@@ -55,8 +57,8 @@ weeks:
       problemName:
       problemURL:
       readings:
-        - name:
-          url:
+        - name: "Ch 5: Collections of Events"
+          url: https://textbook.prob140.org/notebooks-md/5_00_Collections_of_Events.html
     - date: Thu 1/25
       lecture: "Discussion Section"
     - date: Fri 1/26
@@ -64,6 +66,13 @@ weeks:
       slidesURL:
       assignmentName: "Lab 2"
       assignmentURL:
+    links:
+      - name: "Ch 3: Random Variables"
+        url: https://textbook.prob140.org/notebooks-md/3_00_Random_Variables.html
+      - name: "Ch 4: Relations Between Variables"
+        url: https://textbook.prob140.org/notebooks-md/4_00_Relations_Between_Variables.html
+      - name: "Ch 5: Collections of Events"
+        url: https://textbook.prob140.org/notebooks-md/5_00_Collections_of_Events.html
 
   - weekNum: 3
     weekName: Random Counts
@@ -82,6 +91,9 @@ weeks:
       lecture: "Lab 3"
       assignmentName: "Lab 3"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 4
     weekName: Expectation
@@ -100,6 +112,9 @@ weeks:
       lecture: "Lab 4"
       assignmentName: "Lab 4"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 5
     weekName: Markov Chains
@@ -118,6 +133,9 @@ weeks:
       lecture: "Lab 5"
       assignmentName: "Lab 5"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 6
     weekName: Reversing Markov Chains
@@ -136,6 +154,9 @@ weeks:
       lecture: "Lab 6"
       assignmentName: "Lab 6"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 7
     weekName: Midterm
@@ -154,6 +175,9 @@ weeks:
       lecture: "Lab 7"
       assignmentName: "Lab 7"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 8
     weekName: Variance and Covariance
@@ -172,6 +196,9 @@ weeks:
       lecture: "Lab 8"
       assignmentName: "Lab 8"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 9
     weekName: Continuous Distributions
@@ -190,6 +217,9 @@ weeks:
       lecture: "Lab 9"
       assignmentName: "Lab 9"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 10
     weekName: Working with Continuous Distributions
@@ -206,6 +236,9 @@ weeks:
       lecture: "Discussion Section"
     - date: Fri 3/23
       lecture: "No lab"
+    links:
+      - name:
+        url:
 
   - weekNum: 11
     weekName: The Normal and Gamma Families
@@ -224,6 +257,9 @@ weeks:
       lecture: "Lab 10"
       assignmentName: "Lab 10"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 12
     weekName: An Approach to Prediction
@@ -242,6 +278,9 @@ weeks:
       lecture: "Lab 11"
       assignmentName: "Lab 11"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 13
     weekName: Least Squares Prediction
@@ -260,6 +299,9 @@ weeks:
       lecture: "Lab 12"
       assignmentName: "Lab 12"
       assignmentURL:
+    links:
+      - name:
+        url:
 
   - weekNum: 14
     weekName: Regression
@@ -276,6 +318,9 @@ weeks:
       lecture: "Discussion Section"
     - date: Fri 4/27
       lecture: "Review Session"
+    links:
+      - name:
+        url:
 
   - weekNum: 15
     basic:
