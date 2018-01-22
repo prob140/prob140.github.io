@@ -40,8 +40,8 @@ weeks:
       slidesURL:
       assignmentName: 
       assignmentURL:
-      problemName:
-      problemURL:
+      problemName: "Guide"
+      problemURL: /prep/prep02
       readings:
         - name: "Ch 3: Random Variables"
           url: https://textbook.prob140.org/notebooks-md/3_00_Random_Variables.html
