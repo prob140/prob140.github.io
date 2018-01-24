@@ -4,21 +4,23 @@ weeks:
     weekDuration: 1/15-1/19
     basic:
     - date: Wed 1/17
-      lecture: "Probability: Axioms, Rules, Approximation"
-      slidesURL:
+      content: Lecture 1
+      title: "Probability: Axioms, Rules, Approximation"
       assignmentName: "HW 1"
       assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw01a.ipynb
-      problemName: "Guide"
-      problemURL: /prep/prep01
       readings:
         - name: "Ch 1: Fundamentals"
           url: https://textbook.prob140.org/notebooks-md/1_00_Fundamentals.html
         - name: "Ch 2: Calculating Chances"
           url: https://textbook.prob140.org/notebooks-md/2_00_Calculating_Chances.html
     - date: Thu 1/18
-      lecture: "Discussion Section"
+      content: "Discussion"
+      readings:
+        - name: "Week 1 Guide"
+          url: /prep/prep01
     - date: Fri 1/19
-      lecture: "Lab 1"
+      content: "Lab 1"
+      title: "Birthday Attack"
       assignmentName: "Lab 1"
       assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_01.ipynb
     links:
@@ -36,21 +38,22 @@ weeks:
     weekDuration: 1/22-1/26
     basic:
     - date: Mon 1/22
-      lecture: "Random Variables: Distributions, Conditioning, Equality"
+      content: Lecture 2
+      title: "Random Variables: Distributions, Conditioning, Equality"
       slidesURL:
-      assignmentName: 
-      assignmentURL:
-      problemName: "Guide"
-      problemURL: /prep/prep02
       readings:
         - name: "Ch 3: Random Variables"
           url: https://textbook.prob140.org/notebooks-md/3_00_Random_Variables.html
         - name: "Ch 4: Relations Between Variables"
           url: https://textbook.prob140.org/notebooks-md/4_00_Relations_Between_Variables.html
     - date: Tue 1/23
-      lecture: "Homework 1 Due"
+      content: "HW 1 Due"
+      readings:
+        - name: "Week 2 Guide"
+          url: /prep/prep02
     - date: Wed 1/24
-      lecture: "Symmetry and Collections of Events"
+      content: Lecture 3
+      title: "Symmetry and Collections of Events"
       slidesURL:
       assignmentName:
       assignmentURL:
@@ -60,9 +63,9 @@ weeks:
         - name: "Ch 5: Collections of Events"
           url: https://textbook.prob140.org/notebooks-md/5_00_Collections_of_Events.html
     - date: Thu 1/25
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 1/26
-      lecture: "Lab 2"
+      content: "Lab 2"
       slidesURL:
       assignmentName: "Lab 2"
       assignmentURL:
@@ -79,16 +82,18 @@ weeks:
     weekDuration: 1/29-2/2
     basic:
     - date: Mon 1/29
-      lecture: "Binomial and Related Counts; the Poisson Limit"
+      content: Lecture 4
+      title: "Binomial and Related Counts; the Poisson Limit"
       assignmentName: 
     - date: Tue 1/30
-      lecture: "Homework 2 Due"
+      content: "HW 2 Due"
     - date: Wed 1/31
-      lecture: "Independence and Poissonization"
+      content: Lecture 5
+      title: "Independence and Poissonization"
     - date: Thu 2/1
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 2/2
-      lecture: "Lab 3"
+      content: "Lab 3"
       assignmentName: "Lab 3"
       assignmentURL:
     links:
@@ -100,16 +105,18 @@ weeks:
     weekDuration: 2/5-2/9
     basic:
     - date: Mon 2/5
-      lecture: "Expectation and Additivity"
+      content: Lecture 6
+      title: "Expectation and Additivity"
       assignmentName: 
     - date: Tue 2/6
-      lecture: "Homework 3 Due"
+      content: "HW 3 Due"
     - date: Wed 2/7
-      lecture: "Finding Expectations by Conditioning"
+      content: Lecture 7
+      title: "Finding Expectations by Conditioning"
     - date: Thu 2/8
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 2/9
-      lecture: "Lab 4"
+      content: "Lab 4"
       assignmentName: "Lab 4"
       assignmentURL:
     links:
@@ -121,16 +128,18 @@ weeks:
     weekDuration: 2/12-2/16
     basic:
     - date: Mon 2/12
-      lecture: "Long Run Behavior of Markov Chains"
+      content: Lecture 8
+      title: "Long Run Behavior of Markov Chains"
       assignmentName: 
     - date: Tue 2/13
-      lecture: "Homework 4 Due"
+      content: "HW 4 Due"
     - date: Wed 2/14
-      lecture: "Reversibility"
+      content: Lecture 9
+      title: "Reversibility"
     - date: Thu 2/15
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 2/16
-      lecture: "Lab 5"
+      content: "Lab 5"
       assignmentName: "Lab 5"
       assignmentURL:
     links:
@@ -142,16 +151,17 @@ weeks:
     weekDuration: 2/19-2/23
     basic:
     - date: Mon 2/19
-      lecture: "Holiday: No lecture"
+      content: "Holiday: No content"
       assignmentName: 
     - date: Tue 2/20
-      lecture: "Homework 5 Due"
+      content: "HW 5 Due"
     - date: Wed 2/21
-      lecture: "Markov Chain Monte Carlo"
+      content: Lecture 10
+      title: "Markov Chain Monte Carlo"
     - date: Thu 2/22
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 2/23
-      lecture: "Lab 6"
+      content: "Lab 6"
       assignmentName: "Lab 6"
       assignmentURL:
     links:
@@ -163,16 +173,17 @@ weeks:
     weekDuration: 2/26-3/2
     basic:
     - date: Mon 2/26
-      lecture: "Midterm Review"
+      content: Lecture 11
+      title: "Midterm Review"
       assignmentName: ""
     - date: Tue 2/27
-      lecture: "Homework 6 Due"
+      content: "HW 6 Due"
     - date: Wed 2/28
-      lecture: "Midterm"
+      content: "Midterm"
     - date: Thu 3/1
-      lecture: "No Discussion Section"
+      content: "No Discussion"
     - date: Fri 3/2
-      lecture: "Lab 7"
+      content: "Lab 7"
       assignmentName: "Lab 7"
       assignmentURL:
     links:
@@ -184,16 +195,18 @@ weeks:
     weekDuration: 3/5-3/9
     basic:
     - date: Mon 3/5
-      lecture: "SD: Tail Bounds, Least Squares"
+      content: Lecture 12
+      title: "SD: Tail Bounds, Least Squares"
       assignmentName: 
     - date: Tue 3/6
-      lecture: "Homework 7 Due"
+      content: "HW 7 Due"
     - date: Wed 3/7
-      lecture: "Covariance and its Uses"
+      content: Lecture 13
+      title: "Covariance and its Uses"
     - date: Thu 3/8
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 3/9
-      lecture: "Lab 8"
+      content: "Lab 8"
       assignmentName: "Lab 8"
       assignmentURL:
     links:
@@ -205,16 +218,18 @@ weeks:
     weekDuration: 3/12-3/16
     basic:
     - date: Mon 3/12
-      lecture: "Central Limit Theorem"
+      content: Lecture 14
+      title: "Central Limit Theorem"
       assignmentName: 
     - date: Tue 3/13
-      lecture: "Homework 8 Due"
+      content: "HW 8 Due"
     - date: Wed 3/14
-      lecture: "Probability Densities"
+      content: Lecture 15
+      title: "Probability Densities"
     - date: Thu 3/15
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 3/16
-      lecture: "Lab 9"
+      content: "Lab 9"
       assignmentName: "Lab 9"
       assignmentURL:
     links:
@@ -226,16 +241,18 @@ weeks:
     weekDuration: 3/19-3/23
     basic:
     - date: Mon 3/19
-      lecture: "Transformations"
+      content: Lecture 16
+      title: "Transformations"
       assignmentName: 
     - date: Tue 3/20
-      lecture: "Homework 9 Due"
+      content: "HW 9 Due"
     - date: Wed 3/21
-      lecture: "Joint Densities; the Beta Family"
+      content: Lecture 17
+      title: "Joint Densities; the Beta Family"
     - date: Thu 3/22
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 3/23
-      lecture: "No lab"
+      content: "No lab"
     links:
       - name:
         url:
@@ -245,16 +262,18 @@ weeks:
     weekDuration: 4/2-4/6
     basic:
     - date: Mon 4/2
-      lecture: "Independent Normals; Maximum Likelihood"
+      content: Lecture 18
+      title: "Independent Normals; Maximum Likelihood"
       assignmentName: 
     - date: Tue 4/3
-      lecture: "Homework 10 Due"
+      content: "HW 10 Due"
     - date: Wed 4/4
-      lecture: "Sums and the Gamma Family"
+      content: Lecture 19
+      title: "Sums and the Gamma Family"
     - date: Thu 4/5
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 4/6
-      lecture: "Lab 10"
+      content: "Lab 10"
       assignmentName: "Lab 10"
       assignmentURL:
     links:
@@ -266,16 +285,18 @@ weeks:
     weekDuration: 4/9-4/13
     basic:
     - date: Mon 4/9
-      lecture: "Moment Generating Functions; Chernoff Bound"
+      content: Lecture 20
+      title: "Moment Generating Functions; Chernoff Bound"
       assignmentName: 
     - date: Tue 4/10
-      lecture: "Homework 11 Due"
+      content: "HW 11 Due"
     - date: Wed 4/11
-      lecture: "Prior and Posterior Distributions; Beta-Binomial"
+      content: Lecture 21
+      title: "Prior and Posterior Distributions; Beta-Binomial"
     - date: Thu 4/12
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 4/13
-      lecture: "Lab 11"
+      content: "Lab 11"
       assignmentName: "Lab 11"
       assignmentURL:
     links:
@@ -287,16 +308,18 @@ weeks:
     weekDuration: 4/16-4/20
     basic:
     - date: Mon 4/16
-      lecture: "Best Predictor"
+      content: Lecture 22
+      title: "Best Predictor"
       assignmentName: 
     - date: Tue 4/17
-      lecture: "Homework 12 Due"
+      content: "HW 12 Due"
     - date: Wed 4/18
-      lecture: "Best Linear Predictor"
+      content: Lecture 23
+      title: "Best Linear Predictor"
     - date: Thu 4/19
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 4/20
-      lecture: "Lab 12"
+      content: "Lab 12"
       assignmentName: "Lab 12"
       assignmentURL:
     links:
@@ -308,16 +331,18 @@ weeks:
     weekDuration: 4/23-4/27
     basic:
     - date: Mon 4/23
-      lecture: "Multivariate Normal"
+      content: Lecture 24
+      title: "Multivariate Normal"
       assignmentName: 
     - date: Tue 4/24
-      lecture: "Homework 13 Due"
+      content: "HW 13 Due"
     - date: Wed 4/25
-      lecture: "Correlation and Regression"
+      content: Lecture 25
+      title: "Correlation and Regression"
     - date: Thu 4/26
-      lecture: "Discussion Section"
+      content: "Discussion"
     - date: Fri 4/27
-      lecture: "Review Session"
+      content: "Review Session"
     links:
       - name:
         url:
@@ -325,5 +350,5 @@ weeks:
   - weekNum: 15
     basic:
     - date: Fri 5/11
-      lecture: FINAL EXAM (3-6)
+      content: FINAL EXAM (3-6)
 
