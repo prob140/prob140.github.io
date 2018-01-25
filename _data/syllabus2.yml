@@ -55,8 +55,8 @@ weeks:
       content: Lecture 3
       title: "Symmetry and Collections of Events"
       slidesURL:
-      assignmentName:
-      assignmentURL:
+      assignmentName: HW 2
+      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw2.ipynb"
       problemName:
       problemURL:
       readings:
@@ -66,9 +66,10 @@ weeks:
       content: "Discussion"
     - date: Fri 1/26
       content: "Lab 2"
+      title: "Five-Card Poker"
       slidesURL:
       assignmentName: "Lab 2"
-      assignmentURL:
+      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_02.ipynb"
     links:
       - name: "Ch 3: Random Variables"
         url: https://textbook.prob140.org/notebooks-md/3_00_Random_Variables.html
@@ -76,6 +77,10 @@ weeks:
         url: https://textbook.prob140.org/notebooks-md/4_00_Relations_Between_Variables.html
       - name: "Ch 5: Collections of Events"
         url: https://textbook.prob140.org/notebooks-md/5_00_Collections_of_Events.html
+      - name: "HW 2"
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw2.ipynb"
+      - name: "Lab 2"
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_02.ipynb"
 
   - weekNum: 3
     weekName: Random Counts
