@@ -56,7 +56,7 @@ weeks:
       title: "Symmetry and Collections of Events"
       slidesURL:
       assignmentName: HW 2
-      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw2.ipynb"
+      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw02.ipynb"
       problemName:
       problemURL:
       readings:
@@ -78,7 +78,7 @@ weeks:
       - name: "Ch 5: Collections of Events"
         url: https://textbook.prob140.org/notebooks-md/5_00_Collections_of_Events.html
       - name: "HW 2"
-        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw2.ipynb"
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw02.ipynb"
       - name: "Lab 2"
         url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_02.ipynb"
 
