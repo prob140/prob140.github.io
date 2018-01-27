@@ -89,12 +89,18 @@ weeks:
     - date: Mon 1/29
       content: Lecture 4
       title: "Binomial and Related Counts; the Poisson Limit"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Ch 6: Random Counts"
+          url: https://textbook.prob140.org/notebooks-md/6_00_Random_Counts.html
     - date: Tue 1/30
       content: "HW 2 Due"
     - date: Wed 1/31
       content: Lecture 5
       title: "Independence and Poissonization"
+      readings:
+        - name: "Ch 7: Poissonization"
+          url: https://textbook.prob140.org/notebooks-md/7_00_Poissonization.html
     - date: Thu 2/1
       content: "Discussion"
     - date: Fri 2/2
@@ -102,8 +108,10 @@ weeks:
       assignmentName: "Lab 3"
       assignmentURL:
     links:
-      - name:
-        url:
+      - name: "Ch 6: Random Counts"
+        url: https://textbook.prob140.org/notebooks-md/6_00_Random_Counts.html
+      - name: "Ch 7: Poissonization"
+        url: https://textbook.prob140.org/notebooks-md/7_00_Poissonization.html
 
   - weekNum: 4
     weekName: Expectation
