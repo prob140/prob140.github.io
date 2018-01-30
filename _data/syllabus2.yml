@@ -64,6 +64,9 @@ weeks:
           url: https://textbook.prob140.org/notebooks-md/5_00_Collections_of_Events.html
     - date: Thu 1/25
       content: "Discussion"
+      readings:
+        - name: "Week 3 Guide"
+          url: /prep/prep03
     - date: Fri 1/26
       content: "Lab 2"
       title: "Five-Card Poker"
