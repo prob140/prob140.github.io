@@ -9,15 +9,14 @@ weeks:
       assignmentName: "HW 1"
       assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw01a.ipynb
       readings:
+        - name: "Week 1 Guide"
+          url: /prep/prep01
         - name: "Ch 1: Fundamentals"
           url: https://textbook.prob140.org/notebooks-md/1_00_Fundamentals.html
         - name: "Ch 2: Calculating Chances"
           url: https://textbook.prob140.org/notebooks-md/2_00_Calculating_Chances.html
     - date: Thu 1/18
       content: "Discussion"
-      readings:
-        - name: "Week 1 Guide"
-          url: /prep/prep01
     - date: Fri 1/19
       content: "Lab 1"
       title: "Birthday Attack"
@@ -42,15 +41,14 @@ weeks:
       title: "Random Variables: Distributions, Conditioning, Equality"
       slidesURL:
       readings:
+        - name: "Week 2 Guide"
+          url: /prep/prep02
         - name: "Ch 3: Random Variables"
           url: https://textbook.prob140.org/notebooks-md/3_00_Random_Variables.html
         - name: "Ch 4: Relations Between Variables"
           url: https://textbook.prob140.org/notebooks-md/4_00_Relations_Between_Variables.html
     - date: Tue 1/23
       content: "HW 1 Due"
-      readings:
-        - name: "Week 2 Guide"
-          url: /prep/prep02
     - date: Wed 1/24
       content: Lecture 3
       title: "Symmetry and Collections of Events"
@@ -64,9 +62,6 @@ weeks:
           url: https://textbook.prob140.org/notebooks-md/5_00_Collections_of_Events.html
     - date: Thu 1/25
       content: "Discussion"
-      readings:
-        - name: "Week 3 Guide"
-          url: /prep/prep03
     - date: Fri 1/26
       content: "Lab 2"
       title: "Five-Card Poker"
@@ -94,6 +89,8 @@ weeks:
       title: "Binomial and Related Counts; the Poisson Limit"
       assignmentName:
       readings:
+        - name: "Week 3 Guide"
+          url: /prep/prep03
         - name: "Ch 6: Random Counts"
           url: https://textbook.prob140.org/notebooks-md/6_00_Random_Counts.html
     - date: Tue 1/30
