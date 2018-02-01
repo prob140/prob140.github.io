@@ -101,17 +101,24 @@ weeks:
       readings:
         - name: "Ch 7: Poissonization"
           url: https://textbook.prob140.org/notebooks-md/7_00_Poissonization.html
+      assignmentName: "HW 3"
+      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw03.ipynb"
     - date: Thu 2/1
       content: "Discussion"
     - date: Fri 2/2
       content: "Lab 3"
+      title: "Total Variation"
       assignmentName: "Lab 3"
-      assignmentURL:
+      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_03.ipynb"
     links:
       - name: "Ch 6: Random Counts"
         url: https://textbook.prob140.org/notebooks-md/6_00_Random_Counts.html
       - name: "Ch 7: Poissonization"
-        url: https://textbook.prob140.org/notebooks-md/7_00_Poissonization.html
+        url: https://textbook.prob140.org/notebooks-md/7_00_Poissonization.
+      - name: "HW 3"
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw03.ipynb"
+      - name: "Lab 3"
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_03.ipynb"
 
   - weekNum: 4
     weekName: Expectation
