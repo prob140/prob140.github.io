@@ -127,12 +127,18 @@ weeks:
     - date: Mon 2/5
       content: Lecture 6
       title: "Expectation and Additivity"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Ch 8: Expectation"
+          url: https://textbook.prob140.org/notebooks-md/8_00_Expectation.html
     - date: Tue 2/6
       content: "HW 3 Due"
     - date: Wed 2/7
       content: Lecture 7
       title: "Finding Expectations by Conditioning"
+      readings:
+        - name: "Ch 9: Conditioning, Revisited"
+          url: https://textbook.prob140.org/notebooks-md/9_00_Conditioning_Revisited.html
     - date: Thu 2/8
       content: "Discussion"
     - date: Fri 2/9
@@ -140,8 +146,10 @@ weeks:
       assignmentName: "Lab 4"
       assignmentURL:
     links:
-      - name:
-        url:
+      - name: "Ch 8: Expectation"
+        url: https://textbook.prob140.org/notebooks-md/8_00_Expectation.html
+      - name: "Ch 9: Conditioning, Revisited"
+        url: https://textbook.prob140.org/notebooks-md/9_00_Conditioning_Revisited.html
 
   - weekNum: 5
     weekName: Markov Chains
