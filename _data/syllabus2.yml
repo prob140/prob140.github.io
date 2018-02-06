@@ -129,6 +129,8 @@ weeks:
       title: "Expectation and Additivity"
       assignmentName:
       readings:
+        - name: "Week 4 Guide"
+          url: /prep/prep04
         - name: "Ch 8: Expectation"
           url: https://textbook.prob140.org/notebooks-md/8_00_Expectation.html
     - date: Tue 2/6
