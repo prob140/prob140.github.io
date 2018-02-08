@@ -138,6 +138,8 @@ weeks:
     - date: Wed 2/7
       content: Lecture 7
       title: "Finding Expectations by Conditioning"
+      assignmentName: HW 4
+      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw04.ipynb"
       readings:
         - name: "Ch 9: Conditioning, Revisited"
           url: https://textbook.prob140.org/notebooks-md/9_00_Conditioning_Revisited.html
@@ -146,12 +148,17 @@ weeks:
     - date: Fri 2/9
       content: "Lab 4"
       assignmentName: "Lab 4"
-      assignmentURL:
+      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_04.ipynb"
     links:
       - name: "Ch 8: Expectation"
         url: https://textbook.prob140.org/notebooks-md/8_00_Expectation.html
       - name: "Ch 9: Conditioning, Revisited"
         url: https://textbook.prob140.org/notebooks-md/9_00_Conditioning_Revisited.html
+      - name: HW 4
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw04.ipynb"
+      - name: Lab 4
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_04.ipynb"
+
 
   - weekNum: 5
     weekName: Markov Chains
