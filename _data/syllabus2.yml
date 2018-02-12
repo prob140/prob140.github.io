@@ -167,11 +167,17 @@ weeks:
     - date: Mon 2/12
       content: Lecture 8
       title: "Long Run Behavior of Markov Chains"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Ch 10: Markov Chains"
+          url: https://textbook.prob140.org/notebooks-md/10_00_Markov_Chains.html
     - date: Tue 2/13
       content: "HW 4 Due"
     - date: Wed 2/14
       content: Lecture 9
+      readings:
+        - name: "Ch 11: Reversing Markov Chains"
+          url: https://textbook.prob140.org/notebooks-md/11_00_Reversing_Markov_Chains.html
       title: "Reversibility"
     - date: Thu 2/15
       content: "Discussion"
@@ -180,8 +186,10 @@ weeks:
       assignmentName: "Lab 5"
       assignmentURL:
     links:
-      - name:
-        url:
+      - name: "Ch 10: Markov Chains"
+        url: https://textbook.prob140.org/notebooks-md/10_00_Markov_Chains.html
+      - name: "Ch 11: Reversing Markov Chains"
+        url: https://textbook.prob140.org/notebooks-md/11_00_Reversing_Markov_Chains.html
 
   - weekNum: 6
     weekName: Reversing Markov Chains
