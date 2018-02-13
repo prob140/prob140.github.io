@@ -169,6 +169,8 @@ weeks:
       title: "Long Run Behavior of Markov Chains"
       assignmentName:
       readings:
+        - name: "Week 5 Guide"
+          url: /prep/prep05
         - name: "Ch 10: Markov Chains"
           url: https://textbook.prob140.org/notebooks-md/10_00_Markov_Chains.html
     - date: Tue 2/13
