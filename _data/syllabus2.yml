@@ -188,7 +188,7 @@ weeks:
     - date: Fri 2/16
       content: "Lab 5"
       assignmentName: "Lab 5"
-      assignmentURL:
+      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_05.ipynb"
     links:
       - name: "Ch 10: Markov Chains"
         url: https://textbook.prob140.org/notebooks-md/10_00_Markov_Chains.html
@@ -196,6 +196,8 @@ weeks:
         url: https://textbook.prob140.org/notebooks-md/11_00_Reversing_Markov_Chains.html
       - name: "HW 5"
         url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw05.ipynb"
+      - name: "Lab 5"
+        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_05.ipynb"
 
   - weekNum: 6
     weekName: Reversing Markov Chains
