@@ -8,3 +8,4 @@ title: Preparation Guides
 * [Week 3](/prep/prep03)
 * [Week 4](/prep/prep04)
 * [Week 5](/prep/prep05)
+* [Midterm](/prep/midterm)

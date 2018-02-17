@@ -147,6 +147,7 @@ weeks:
       content: "Discussion"
     - date: Fri 2/9
       content: "Lab 4"
+      title: "Expectations of Discrete Order Statistics"
       assignmentName: "Lab 4"
       assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_04.ipynb"
     links:
@@ -187,6 +188,7 @@ weeks:
       content: "Discussion"
     - date: Fri 2/16
       content: "Lab 5"
+      title: Uniform and Size Biased Permutations
       assignmentName: "Lab 5"
       assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_05.ipynb"
     links:
@@ -205,7 +207,10 @@ weeks:
     basic:
     - date: Mon 2/19
       content: "Holiday: No content"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Midterm Guide"
+          url: /prep/midterm
     - date: Tue 2/20
       content: "HW 5 Due"
     - date: Wed 2/21
