@@ -216,15 +216,20 @@ weeks:
     - date: Wed 2/21
       content: Lecture 10
       title: "Markov Chain Monte Carlo"
+      assignmentName: HW 6
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw06.ipynb
     - date: Thu 2/22
       content: "Discussion"
     - date: Fri 2/23
       content: "Lab 6"
       assignmentName: "Lab 6"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_06.ipynb
+      title: Code Breaking by MCMC
     links:
-      - name:
-        url:
+      - name: HW 6
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw05.ipynb
+      - name: Lab 6
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_06.ipynb
 
   - weekNum: 7
     weekName: Midterm
