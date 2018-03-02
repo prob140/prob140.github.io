@@ -248,10 +248,10 @@ weeks:
     - date: Fri 3/2
       content: "Lab 7"
       assignmentName: "Lab 7"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_07.ipynb
     links:
-      - name:
-        url:
+      - name: "Lab 7"
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_07.ipynb
 
   - weekNum: 8
     weekName: Variance and Covariance
