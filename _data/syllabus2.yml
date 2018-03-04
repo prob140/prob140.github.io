@@ -249,6 +249,7 @@ weeks:
       content: "Lab 7"
       assignmentName: "Lab 7"
       assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_07.ipynb
+      title: "Board Game Night"
     links:
       - name: "Lab 7"
         url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_07.ipynb
@@ -260,7 +261,10 @@ weeks:
     - date: Mon 3/5
       content: Lecture 12
       title: "SD: Tail Bounds, Least Squares"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Ch 12: Standard Deviation"
+          url: https://textbook.prob140.org/notebooks-md/12_00_Standard_Deviation.html
     - date: Tue 3/6
       content: "HW 7 Due"
     - date: Wed 3/7
@@ -268,13 +272,18 @@ weeks:
       title: "Covariance and its Uses"
     - date: Thu 3/8
       content: "Discussion"
+      readings:
+        - name: "Ch 13: Variance Via Covariance"
+          url: https://textbook.prob140.org/notebooks-md/13_00_Variance_Via_Covariance.html
     - date: Fri 3/9
       content: "Lab 8"
       assignmentName: "Lab 8"
       assignmentURL:
     links:
-      - name:
-        url:
+      - name: "Ch 12: Standard Deviation"
+        url: https://textbook.prob140.org/notebooks-md/12_00_Standard_Deviation.html
+      - name: "Ch 13: Variance Via Covariance"
+        url: https://textbook.prob140.org/notebooks-md/13_00_Variance_Via_Covariance.html
 
   - weekNum: 9
     weekName: Continuous Distributions
