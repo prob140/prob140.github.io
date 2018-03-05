@@ -270,11 +270,11 @@ weeks:
     - date: Wed 3/7
       content: Lecture 13
       title: "Covariance and its Uses"
-    - date: Thu 3/8
-      content: "Discussion"
       readings:
         - name: "Ch 13: Variance Via Covariance"
           url: https://textbook.prob140.org/notebooks-md/13_00_Variance_Via_Covariance.html
+    - date: Thu 3/8
+      content: "Discussion"
     - date: Fri 3/9
       content: "Lab 8"
       assignmentName: "Lab 8"
