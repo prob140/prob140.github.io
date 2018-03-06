@@ -263,6 +263,36 @@ table#calendar tr:hover td:not(.weeknum){
   background: rgba(148, 182, 211, 0.6);
 }
 
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    /*display: inline-block;W
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 240px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -120px;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
 /*
  * Custom type
  *
