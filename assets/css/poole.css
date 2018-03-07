@@ -302,6 +302,7 @@ table#calendar tr:hover td:not(.weeknum){
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  color: white;
 }
 
 
