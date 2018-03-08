@@ -275,17 +275,24 @@ weeks:
       readings:
         - name: "Ch 13: Variance Via Covariance"
           url: https://textbook.prob140.org/notebooks-md/13_00_Variance_Via_Covariance.html
+      assignmentName: HW 8
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw08.ipynb
     - date: Thu 3/8
       content: "Discussion"
     - date: Fri 3/9
       content: "Lab 8"
+      title: Decisions Based on Ranks
       assignmentName: "Lab 8"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_08.ipynb
     links:
       - name: "Ch 12: Standard Deviation"
         url: https://textbook.prob140.org/notebooks-md/12_00_Standard_Deviation.html
       - name: "Ch 13: Variance Via Covariance"
         url: https://textbook.prob140.org/notebooks-md/13_00_Variance_Via_Covariance.html
+      - name: "HW 8"
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw08.ipynb
+      - name: "Lab 8"
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_08.ipynb
 
   - weekNum: 9
     weekName: Continuous Distributions
