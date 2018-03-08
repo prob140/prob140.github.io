@@ -263,6 +263,8 @@ weeks:
       title: "SD: Tail Bounds, Least Squares"
       assignmentName:
       readings:
+        - name: Week 8 Prep Guide
+          url: /prep/prep08
         - name: "Ch 12: Standard Deviation"
           url: https://textbook.prob140.org/notebooks-md/12_00_Standard_Deviation.html
     - date: Tue 3/6

@@ -4,11 +4,6 @@
 ---
 
 
-
-
-
-
-
     
 ## Week 3 Preparation Guide ##
 
