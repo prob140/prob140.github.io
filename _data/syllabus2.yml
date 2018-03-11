@@ -301,12 +301,18 @@ weeks:
     - date: Mon 3/12
       content: Lecture 14
       title: "Central Limit Theorem"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Ch 14: The Central Limit Theorem"
+          url: https://textbook.prob140.org/notebooks-md/14_00_The_Central_Limit_Theorem.html
     - date: Tue 3/13
       content: "HW 8 Due"
     - date: Wed 3/14
       content: Lecture 15
       title: "Probability Densities"
+      readings:
+        - name: "Ch 15: Continuous Distributions"
+          url: https://textbook.prob140.org/notebooks-md/15_00_Continuous_Distributions.html
     - date: Thu 3/15
       content: "Discussion"
     - date: Fri 3/16
@@ -314,8 +320,10 @@ weeks:
       assignmentName: "Lab 9"
       assignmentURL:
     links:
-      - name:
-        url:
+      - name: "Ch 14: The Central Limit Theorem"
+        url: https://textbook.prob140.org/notebooks-md/14_00_The_Central_Limit_Theorem.html
+      - name: "Ch 15: Continuous Distributions"
+        url: https://textbook.prob140.org/notebooks-md/15_00_Continuous_Distributions.html
 
   - weekNum: 10
     weekName: Working with Continuous Distributions
