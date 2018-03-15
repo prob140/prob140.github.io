@@ -310,6 +310,8 @@ weeks:
     - date: Wed 3/14
       content: Lecture 15
       title: "Probability Densities"
+      assignmentName: HW 9
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw09.ipynb
       readings:
         - name: "Ch 15: Continuous Distributions"
           url: https://textbook.prob140.org/notebooks-md/15_00_Continuous_Distributions.html
@@ -317,13 +319,18 @@ weeks:
       content: "Discussion"
     - date: Fri 3/16
       content: "Lab 9"
+      title: "Simulation and the CDF"
       assignmentName: "Lab 9"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_09.ipynb
     links:
       - name: "Ch 14: The Central Limit Theorem"
         url: https://textbook.prob140.org/notebooks-md/14_00_The_Central_Limit_Theorem.html
       - name: "Ch 15: Continuous Distributions"
         url: https://textbook.prob140.org/notebooks-md/15_00_Continuous_Distributions.html
+      - name: HW 9
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw09.ipynb
+      - name: Lab 9
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_09.ipynb
 
   - weekNum: 10
     weekName: Working with Continuous Distributions
