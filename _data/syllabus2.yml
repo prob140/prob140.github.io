@@ -303,6 +303,8 @@ weeks:
       title: "Central Limit Theorem"
       assignmentName:
       readings:
+        - name: Week 9 Prep Guide
+          url: /prep/prep09
         - name: "Ch 14: The Central Limit Theorem"
           url: https://textbook.prob140.org/notebooks-md/14_00_The_Central_Limit_Theorem.html
     - date: Tue 3/13
