@@ -341,19 +341,28 @@ weeks:
     - date: Mon 3/19
       content: Lecture 16
       title: "Transformations"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Ch 16: Transformations"
+          url: https://textbook.prob140.org/notebooks-md/16_00_Transformations.html
     - date: Tue 3/20
       content: "HW 9 Due"
     - date: Wed 3/21
       content: Lecture 17
       title: "Joint Densities; the Beta Family"
+      readings:
+        - name: "Ch 17: Joint Densities"
+          url: https://textbook.prob140.org/notebooks-md/17_00_Joint_Densities.html
+
     - date: Thu 3/22
       content: "Discussion"
     - date: Fri 3/23
       content: "No lab"
     links:
-      - name:
-        url:
+      - name: "Ch 16: Transformations"
+        url: https://textbook.prob140.org/notebooks-md/16_00_Transformations.html
+      - name: "Ch 17: Joint Densities"
+        url: https://textbook.prob140.org/notebooks-md/17_00_Joint_Densities.html
 
   - weekNum: 11
     weekName: The Normal and Gamma Families
