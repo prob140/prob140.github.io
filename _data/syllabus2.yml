@@ -343,6 +343,8 @@ weeks:
       title: "Transformations"
       assignmentName:
       readings:
+        - name: Week 10 Prep Guide
+          url: prep/prep10
         - name: "Ch 16: Transformations"
           url: https://textbook.prob140.org/notebooks-md/16_00_Transformations.html
     - date: Tue 3/20

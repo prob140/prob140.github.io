@@ -11,3 +11,4 @@ title: Preparation Guides
 * [Midterm](/prep/midterm)
 * [Week 8](/prep/prep08)
 * [Week 9](/prep/prep09)
+* [Week 10](/prep/prep10)
