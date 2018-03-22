@@ -355,7 +355,8 @@ weeks:
       readings:
         - name: "Ch 17: Joint Densities"
           url: https://textbook.prob140.org/notebooks-md/17_00_Joint_Densities.html
-
+      assignmentName: HW 10
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw10.ipynb
     - date: Thu 3/22
       content: "Discussion"
     - date: Fri 3/23
@@ -365,6 +366,8 @@ weeks:
         url: https://textbook.prob140.org/notebooks-md/16_00_Transformations.html
       - name: "Ch 17: Joint Densities"
         url: https://textbook.prob140.org/notebooks-md/17_00_Joint_Densities.html
+      - name: HW 10
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw10.ipynb
 
   - weekNum: 11
     weekName: The Normal and Gamma Families
