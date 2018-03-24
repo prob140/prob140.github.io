@@ -303,6 +303,8 @@ weeks:
       title: "Central Limit Theorem"
       assignmentName:
       readings:
+        - name: Week 9 Prep Guide
+          url: /prep/prep09
         - name: "Ch 14: The Central Limit Theorem"
           url: https://textbook.prob140.org/notebooks-md/14_00_The_Central_Limit_Theorem.html
     - date: Tue 3/13
@@ -310,6 +312,8 @@ weeks:
     - date: Wed 3/14
       content: Lecture 15
       title: "Probability Densities"
+      assignmentName: HW 9
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw09.ipynb
       readings:
         - name: "Ch 15: Continuous Distributions"
           url: https://textbook.prob140.org/notebooks-md/15_00_Continuous_Distributions.html
@@ -317,13 +321,18 @@ weeks:
       content: "Discussion"
     - date: Fri 3/16
       content: "Lab 9"
+      title: "Simulation and the CDF"
       assignmentName: "Lab 9"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_09.ipynb
     links:
       - name: "Ch 14: The Central Limit Theorem"
         url: https://textbook.prob140.org/notebooks-md/14_00_The_Central_Limit_Theorem.html
       - name: "Ch 15: Continuous Distributions"
         url: https://textbook.prob140.org/notebooks-md/15_00_Continuous_Distributions.html
+      - name: HW 9
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw09.ipynb
+      - name: Lab 9
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_09.ipynb
 
   - weekNum: 10
     weekName: Working with Continuous Distributions
@@ -332,19 +341,33 @@ weeks:
     - date: Mon 3/19
       content: Lecture 16
       title: "Transformations"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: Week 10 Prep Guide
+          url: prep/prep10
+        - name: "Ch 16: Transformations"
+          url: https://textbook.prob140.org/notebooks-md/16_00_Transformations.html
     - date: Tue 3/20
       content: "HW 9 Due"
     - date: Wed 3/21
       content: Lecture 17
       title: "Joint Densities; the Beta Family"
+      readings:
+        - name: "Ch 17: Joint Densities"
+          url: https://textbook.prob140.org/notebooks-md/17_00_Joint_Densities.html
+      assignmentName: HW 10
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw10.ipynb
     - date: Thu 3/22
       content: "Discussion"
     - date: Fri 3/23
       content: "No lab"
     links:
-      - name:
-        url:
+      - name: "Ch 16: Transformations"
+        url: https://textbook.prob140.org/notebooks-md/16_00_Transformations.html
+      - name: "Ch 17: Joint Densities"
+        url: https://textbook.prob140.org/notebooks-md/17_00_Joint_Densities.html
+      - name: HW 10
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw10.ipynb
 
   - weekNum: 11
     weekName: The Normal and Gamma Families
