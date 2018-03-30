@@ -16,5 +16,5 @@ title: Resources
 
 ## Python
 - [datascience Reference](http://data8.org/datascience/tables.html)
-- [prob140 Reference](https://probability.gitlab.io/prob140/)
+- [prob140 Reference](http://prob140.org/prob140/)
 - [Data 8 Midterm Reference](/assets/data8-fa17-midterm-guide.pdf)
