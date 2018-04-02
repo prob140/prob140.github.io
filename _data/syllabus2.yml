@@ -375,13 +375,13 @@ weeks:
     basic:
     - date: Mon 4/2
       content: Lecture 18
-      title: "Independent Normals; Maximum Likelihood"
-      assignmentName: 
+      title: Independent <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465539/">Normal</a> and Gamma Variables
+      assignmentName:
     - date: Tue 4/3
       content: "HW 10 Due"
     - date: Wed 4/4
       content: Lecture 19
-      title: "Sums and the Gamma Family"
+      title: "Moment Generating Functions; Chernoff Bound"
     - date: Thu 4/5
       content: "Discussion"
     - date: Fri 4/6
@@ -398,13 +398,13 @@ weeks:
     basic:
     - date: Mon 4/9
       content: Lecture 20
-      title: "Moment Generating Functions; Chernoff Bound"
+      title: "MLE, Posterior Distributions, and MAP Estimates"
       assignmentName: 
     - date: Tue 4/10
       content: "HW 11 Due"
     - date: Wed 4/11
       content: Lecture 21
-      title: "Prior and Posterior Distributions; Beta-Binomial"
+      title: "Beta-Binomial"
     - date: Thu 4/12
       content: "Discussion"
     - date: Fri 4/13
