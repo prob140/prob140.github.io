@@ -377,11 +377,17 @@ weeks:
       content: Lecture 18
       title: Independent <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465539/">Normal</a> and Gamma Variables
       assignmentName:
+      readings:
+        - name: "Ch 18: The Normal and Gamma Families"
+          url: https://textbook.prob140.org/notebooks-md/18_00_The_Normal_and_Gamma_Families.html
     - date: Tue 4/3
       content: "HW 10 Due"
     - date: Wed 4/4
       content: Lecture 19
       title: "Moment Generating Functions; Chernoff Bound"
+      readings:
+        - name: "Ch 19: Distributions of Sums"
+          url: https://textbook.prob140.org/notebooks-md/19_00_Distributions_of_Sums.html
     - date: Thu 4/5
       content: "Discussion"
     - date: Fri 4/6
@@ -389,9 +395,10 @@ weeks:
       assignmentName: "Lab 10"
       assignmentURL:
     links:
-      - name:
-        url:
-
+      - name: "Ch 18: The Normal and Gamma Families"
+        url: https://textbook.prob140.org/notebooks-md/18_00_The_Normal_and_Gamma_Families.html
+      - name: "Ch 19: Distributions of Sums"
+        url: https://textbook.prob140.org/notebooks-md/19_00_Distributions_of_Sums.html
   - weekNum: 12
     weekName: An Approach to Prediction
     weekDuration: 4/9-4/13
@@ -399,12 +406,18 @@ weeks:
     - date: Mon 4/9
       content: Lecture 20
       title: "MLE, Posterior Distributions, and MAP Estimates"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Ch 20: Approaches to Estimation"
+          url: https://textbook.prob140.org/notebooks-md/20_00_Approaches_to_Estimation.html
     - date: Tue 4/10
       content: "HW 11 Due"
     - date: Wed 4/11
       content: Lecture 21
       title: "Beta-Binomial"
+      readings:
+        - name: "Ch 21: The Beta and the Binomial"
+          url: https://textbook.prob140.org/notebooks-md/21_00_The_Beta_and_the_Binomial.html
     - date: Thu 4/12
       content: "Discussion"
     - date: Fri 4/13
@@ -412,9 +425,10 @@ weeks:
       assignmentName: "Lab 11"
       assignmentURL:
     links:
-      - name:
-        url:
-
+      - name: "Ch 20: Approaches to Estimation"
+        url: https://textbook.prob140.org/notebooks-md/20_00_Approaches_to_Estimation.html
+      - name: "Ch 21: The Beta and the Binomial"
+        url: https://textbook.prob140.org/notebooks-md/21_00_The_Beta_and_the_Binomial.html
   - weekNum: 13
     weekName: Least Squares Prediction
     weekDuration: 4/16-4/20
