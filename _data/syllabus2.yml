@@ -378,6 +378,8 @@ weeks:
       title: Independent <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465539/">Normal</a> and Gamma Variables
       assignmentName:
       readings:
+        - name: "Week 11 Prep Guide"
+          url: /prep/prep11
         - name: "Ch 18: The Normal and Gamma Families"
           url: https://textbook.prob140.org/notebooks-md/18_00_The_Normal_and_Gamma_Families.html
     - date: Tue 4/3
