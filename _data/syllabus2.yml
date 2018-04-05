@@ -390,7 +390,7 @@ weeks:
       readings:
         - name: "Ch 19: Distributions of Sums"
           url: https://textbook.prob140.org/notebooks-md/19_00_Distributions_of_Sums.html
-      asssignmentName: "HW 11"
+      assignmentName: "HW 11"
       assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw11.ipynb
     - date: Thu 4/5
       content: "Discussion"
