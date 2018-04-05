@@ -390,17 +390,24 @@ weeks:
       readings:
         - name: "Ch 19: Distributions of Sums"
           url: https://textbook.prob140.org/notebooks-md/19_00_Distributions_of_Sums.html
+      asssignmentName: "HW 11"
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw11
     - date: Thu 4/5
       content: "Discussion"
     - date: Fri 4/6
       content: "Lab 10"
+      title: Introduction to Jointly Normal Vectors
       assignmentName: "Lab 10"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_10.ipynb
     links:
       - name: "Ch 18: The Normal and Gamma Families"
         url: https://textbook.prob140.org/notebooks-md/18_00_The_Normal_and_Gamma_Families.html
       - name: "Ch 19: Distributions of Sums"
         url: https://textbook.prob140.org/notebooks-md/19_00_Distributions_of_Sums.html
+      - name: "HW 11"
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw11
+      - name: "Lab 10"
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_10.ipynb
   - weekNum: 12
     weekName: An Approach to Prediction
     weekDuration: 4/9-4/13
