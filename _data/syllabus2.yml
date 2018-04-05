@@ -391,7 +391,7 @@ weeks:
         - name: "Ch 19: Distributions of Sums"
           url: https://textbook.prob140.org/notebooks-md/19_00_Distributions_of_Sums.html
       asssignmentName: "HW 11"
-      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw11
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw11.ipynb
     - date: Thu 4/5
       content: "Discussion"
     - date: Fri 4/6
@@ -405,7 +405,7 @@ weeks:
       - name: "Ch 19: Distributions of Sums"
         url: https://textbook.prob140.org/notebooks-md/19_00_Distributions_of_Sums.html
       - name: "HW 11"
-        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw11
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw11.ipynb
       - name: "Lab 10"
         url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_10.ipynb
   - weekNum: 12
