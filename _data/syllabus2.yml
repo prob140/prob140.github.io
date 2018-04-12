@@ -419,11 +419,15 @@ weeks:
       readings:
         - name: "Ch 20: Approaches to Estimation"
           url: https://textbook.prob140.org/notebooks-md/20_00_Approaches_to_Estimation.html
+        - name: "Week 12 Prep Guide"
+          url: /prep/prep12
     - date: Tue 4/10
       content: "HW 11 Due"
     - date: Wed 4/11
       content: Lecture 21
       title: "Beta-Binomial"
+      assignmentName: "HW 11"
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw12.ipynb
       readings:
         - name: "Ch 21: The Beta and the Binomial"
           url: https://textbook.prob140.org/notebooks-md/21_00_The_Beta_and_the_Binomial.html
@@ -432,12 +436,16 @@ weeks:
     - date: Fri 4/13
       content: "Lab 11"
       assignmentName: "Lab 11"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_11.ipynb
     links:
       - name: "Ch 20: Approaches to Estimation"
         url: https://textbook.prob140.org/notebooks-md/20_00_Approaches_to_Estimation.html
       - name: "Ch 21: The Beta and the Binomial"
         url: https://textbook.prob140.org/notebooks-md/21_00_The_Beta_and_the_Binomial.html
+      - name: "HW 12"
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw12.ipynb
+      - name: "Lab 11"
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_11.ipynb
   - weekNum: 13
     weekName: Least Squares Prediction
     weekDuration: 4/16-4/20
