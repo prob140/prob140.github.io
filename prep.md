@@ -13,3 +13,4 @@ title: Preparation Guides
 * [Week 9](/prep/prep09)
 * [Week 10](/prep/prep10)
 * [Week 11](/prep/prep11)
+* [Week 12](/prep/prep12)
