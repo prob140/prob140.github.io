@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Week 12 Preparation Guide

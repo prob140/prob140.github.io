@@ -426,7 +426,7 @@ weeks:
     - date: Wed 4/11
       content: Lecture 21
       title: "Beta-Binomial"
-      assignmentName: "HW 11"
+      assignmentName: "HW 12"
       assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw12.ipynb
       readings:
         - name: "Ch 21: The Beta and the Binomial"
