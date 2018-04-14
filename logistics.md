@@ -7,6 +7,8 @@ title: Prob 140 Course Information, Spring 2018
 You must enroll in the lecture, one discussion section, and one lab. See the [Academic Guide](http://classes.berkeley.edu/content/2018-spring-stat-140-001-lec-001) for details. You can attend only the discussion section and lab in which you are enrolled.
 
 ### Prerequisites ###
+**Students interested in Fall 2018 enrollment, please see the [About](http://prob140.org/about/) page for Fall prerequisites.**
+
 - [Data 8](http://data8.org/fa17/) (Stat/CS/Info C8). The basics of probability are in Sections 8.3 through 9.3 as well as Chapters 12 and 17 of the Fall 2017 version of the Data 8 textbook. We’ll also touch on all of the inference covered in Data 8, in one way or another. You should remind yourself of Python and the datascience library.
 
 In Spring 2018 we will accept the following alternatives to Data 8, consistent with the Data 8 "grandfathering" alternatives proposed during the transition towards a new Data Science major.
