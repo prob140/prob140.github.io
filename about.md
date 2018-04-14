@@ -36,7 +36,7 @@ Prob 140 is restricted to undergraduates who:
 - Have taken or are concurrently taking linear algebra in Math 54 or EE 16A or Math 110, or have taken an equivalent linear algebra course at another college
 - Have a passing grade in Data 8 (P is fine if the course was taken P/NP); the EdX MOOC Data 8X does not satisfy this requirement
 
-**Enrollment Note:** Starting in Spring 2018, Prob 140 will be part of a pilot program in which CalCentral will check prerequisites automatically. As I understand it, students who satisfy the prerequisites above will be able to enroll in the usual way if there is space. Others will be placed on the waiting list.
+**Fall 2018 Enrollment Note:** Starting in April 2018, Prob 140 will be part of a pilot program in which CalCentral will check prerequisites automatically. As I understand it, students who satisfy the prerequisites above will be able to enroll in the usual way if there is space. Others will be placed on the waiting list.
 
 If there is space in the class after the Spring enrollment period, we will enroll waitlisted undergraduates who have not taken Data 8 but have passing grades in
 - DS 100, or
