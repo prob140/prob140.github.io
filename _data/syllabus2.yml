@@ -417,10 +417,10 @@ weeks:
       title: "MLE, Posterior Distributions, and MAP Estimates"
       assignmentName:
       readings:
-        - name: "Ch 20: Approaches to Estimation"
-          url: https://textbook.prob140.org/notebooks-md/20_00_Approaches_to_Estimation.html
         - name: "Week 12 Prep Guide"
           url: /prep/prep12
+        - name: "Ch 20: Approaches to Estimation"
+          url: https://textbook.prob140.org/notebooks-md/20_00_Approaches_to_Estimation.html
     - date: Tue 4/10
       content: "HW 11 Due"
     - date: Wed 4/11
@@ -453,12 +453,18 @@ weeks:
     - date: Mon 4/16
       content: Lecture 22
       title: "Best Predictor"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: "Ch 22: Prediction"
+          url: https://textbook.prob140.org/notebooks-md/22_00_Prediction.html
     - date: Tue 4/17
       content: "HW 12 Due"
     - date: Wed 4/18
       content: Lecture 23
       title: "Best Linear Predictor"
+      readings:
+        - name: "Ch 23: Jointly Normal Random Variables"
+          url: https://textbook.prob140.org/notebooks-md/23_00_Multivariate_Normal_RVs.html
     - date: Thu 4/19
       content: "Discussion"
     - date: Fri 4/20
@@ -466,9 +472,10 @@ weeks:
       assignmentName: "Lab 12"
       assignmentURL:
     links:
-      - name:
-        url:
-
+      - name: "Ch 22: Prediction"
+        url: https://textbook.prob140.org/notebooks-md/22_00_Prediction.html
+      - name: "Ch 23: Jointly Normal Random Variables"
+        url: https://textbook.prob140.org/notebooks-md/23_00_Multivariate_Normal_RVs.html
   - weekNum: 14
     weekName: Regression
     weekDuration: 4/23-4/27
