@@ -436,6 +436,7 @@ weeks:
     - date: Fri 4/13
       content: "Lab 11"
       assignmentName: "Lab 11"
+      title: Chinese Restaurant Process, Part I
       assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_11.ipynb
     links:
       - name: "Ch 20: Approaches to Estimation"
@@ -465,17 +466,24 @@ weeks:
       readings:
         - name: "Ch 23: Jointly Normal Random Variables"
           url: https://textbook.prob140.org/notebooks-md/23_00_Multivariate_Normal_RVs.html
+      assignmentName: HW 13
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw13.ipynb
     - date: Thu 4/19
       content: "Discussion"
     - date: Fri 4/20
       content: "Lab 12"
       assignmentName: "Lab 12"
-      assignmentURL:
+      assignmentURL: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_12.ipynb
+      title: Chinese Restaurant Process, Part II
     links:
       - name: "Ch 22: Prediction"
         url: https://textbook.prob140.org/notebooks-md/22_00_Prediction.html
       - name: "Ch 23: Jointly Normal Random Variables"
         url: https://textbook.prob140.org/notebooks-md/23_00_Multivariate_Normal_RVs.html
+      - name: HW 13
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw13.ipynb
+      - name: Lab 12
+        url: http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_12.ipynb
   - weekNum: 14
     weekName: Regression
     weekDuration: 4/23-4/27
