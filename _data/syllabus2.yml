@@ -453,7 +453,7 @@ weeks:
     basic:
     - date: Mon 4/16
       content: Lecture 22
-      title: "Best Predictor"
+      title: "Prediction and Error"
       assignmentName:
       readings:
         - name: "Ch 22: Prediction"
@@ -462,7 +462,7 @@ weeks:
       content: "HW 12 Due"
     - date: Wed 4/18
       content: Lecture 23
-      title: "Best Linear Predictor"
+      title: "Multivariate Normal Distribution"
       readings:
         - name: "Ch 23: Jointly Normal Random Variables"
           url: https://textbook.prob140.org/notebooks-md/23_00_Multivariate_Normal_RVs.html
@@ -490,13 +490,13 @@ weeks:
     basic:
     - date: Mon 4/23
       content: Lecture 24
-      title: "Multivariate Normal"
+      title: "Correlation and Simple Regression"
       assignmentName: 
     - date: Tue 4/24
       content: "HW 13 Due"
     - date: Wed 4/25
       content: Lecture 25
-      title: "Correlation and Regression"
+      title: "Multiple Regression"
     - date: Thu 4/26
       content: "Discussion"
     - date: Fri 4/27
