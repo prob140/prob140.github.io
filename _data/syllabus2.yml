@@ -510,8 +510,10 @@ weeks:
     - date: Fri 4/27
       content: "Review Session"
     links:
-      - name:
-        url:
+      - name: "Ch 24: Simple Linear Regression"
+        url: https://textbook.prob140.org/notebooks-md/24_00_Simple_Linear_Regression.html
+      - name: "Ch 25: Multiple Regression"
+        url: https://textbook.prob140.org/notebooks-md/25_00_Multiple_Regression.html
 
   - weekNum: 15
     basic:
