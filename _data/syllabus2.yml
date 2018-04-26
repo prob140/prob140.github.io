@@ -491,12 +491,20 @@ weeks:
     - date: Mon 4/23
       content: Lecture 24
       title: "Correlation and Simple Regression"
-      assignmentName: 
+      assignmentName:
+      readings:
+        - name: Prep 14 Prep Guide
+          url: /prep/prep14
+        - name: "Ch 24: Simple Linear Regression"
+          url: https://textbook.prob140.org/notebooks-md/24_00_Simple_Linear_Regression.html
     - date: Tue 4/24
       content: "HW 13 Due"
     - date: Wed 4/25
       content: Lecture 25
       title: "Multiple Regression"
+      readings:
+        - name: "Ch 25: Multiple Regression"
+          url: https://textbook.prob140.org/notebooks-md/25_00_Multiple_Regression.html
     - date: Thu 4/26
       content: "Discussion"
     - date: Fri 4/27
