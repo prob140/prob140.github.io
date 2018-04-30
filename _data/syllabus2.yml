@@ -514,9 +514,14 @@ weeks:
         url: https://textbook.prob140.org/notebooks-md/24_00_Simple_Linear_Regression.html
       - name: "Ch 25: Multiple Regression"
         url: https://textbook.prob140.org/notebooks-md/25_00_Multiple_Regression.html
+      - name: Final Exam Prep
+        url: /final_practice
 
   - weekNum: 15
     basic:
     - date: Fri 5/11
       content: FINAL EXAM (3-6)
+      readings:
+        - name: Final Exam Prep
+          url: /final_practice
 
