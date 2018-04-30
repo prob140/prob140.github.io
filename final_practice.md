@@ -7,6 +7,7 @@ The Final Exam will be held on Friday 5/11 from 3-6 PM.
 
 This page contains some useful materials to help you study.
 
+* [Scope of final](/final_contents)
 * [Professor Adhikari's Problem Solving FAQ](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)
 * [Prob 140 Spring 2017 Final](/assets/final_sp_17.pdf)
 * Pitman problem guides compiled in previous semesters:
