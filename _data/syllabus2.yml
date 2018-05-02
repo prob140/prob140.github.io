@@ -456,6 +456,8 @@ weeks:
       title: "Prediction and Error"
       assignmentName:
       readings:
+        - name: "Week 13 Prep Guide"
+          url: /prep/prep13
         - name: "Ch 22: Prediction"
           url: https://textbook.prob140.org/notebooks-md/22_00_Prediction.html
     - date: Tue 4/17
