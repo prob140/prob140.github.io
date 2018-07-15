@@ -260,7 +260,7 @@ th {
 }
 
 table#calendar tr:hover td:not(.weeknum){
-  background: rgba(148, 182, 211, 0.6);
+  background: #FFD600;
 }
 
 /* Tooltip container */
