@@ -4,22 +4,23 @@ title: Prob 140 Course Information, Spring 2018
 ---
 #### A. Adhikari ####
 
-You must enroll in the lecture, one discussion section, and one lab. See the [Academic Guide](http://classes.berkeley.edu/content/2018-spring-stat-140-001-lec-001) for details. You can attend only the discussion section and lab in which you are enrolled.
+You must enroll in the lecture, one discussion section, and one lab. See the [Academic Guide](https://classes.berkeley.edu/content/2018-fall-stat-140-001-lec-001) for details. You can attend only the discussion section and lab in which you are enrolled.
 
 ### Prerequisites ###
-**Students interested in Fall 2018 enrollment, please see the [About](http://prob140.org/about/) page for Fall prerequisites.**
+**Students interested in Fall 2018 enrollment, please see the [About](http://prob140.org/about/) page for details.**
 
-- [Data 8](http://data8.org/fa17/) (Stat/CS/Info C8). The basics of probability are in Sections 8.3 through 9.3 as well as Chapters 12 and 17 of the Fall 2017 version of the Data 8 textbook. We’ll also touch on all of the inference covered in Data 8, in one way or another. You should remind yourself of Python and the datascience library.
+- [Data 8](http://data8.org/sp18/) (Stat/CS/Info C8). We will revisit all of the inference covered in Data 8. The basics of probability are in Section 9.5 as well as Chapters 14 and 18 of the Spring 2018 version of the [Data 8 textbook](https://www.inferentialthinking.com/chapters/intro). You should also remind yourself of Python and the datascience library.
 
-In Spring 2018 we will accept the following alternatives to Data 8, consistent with the Data 8 "grandfathering" alternatives proposed during the transition towards a new Data Science major.
+In Fall 2018 we will accept the following alternatives to Data 8, consistent with the Data 8 "grandfathering" alternatives proposed during the transition towards a new Data Science major.
     - DS 100 (Stat/CS C100), or
-    - Stat 133 and CS 61A, or
-    - Stat 20 (or 21) and CS 61A
+    - Stat 20 (or 21 or 131A) and CS 61A
+
+If you are satisfying the Data 8 prerequisite in one of the above two alternate ways, it is your responsibility to familiarize yourself with the content of Data 8.
 
 - A year of calculus at the level of Math 1A-1B or higher. Math 53 is ideal; you can take it simultaneously with Prob 140 but you should have taken 1A-1B earlier. We will post examples for you to work on before the start of term. As students have noticed, what’s required is a kind of mathematical maturity rather than knowing lots of computational formulas. You will rarely have to work out complicated integrals or derivatives by hand, but you will constantly work with abstraction – functions, domains, ranges, inverses, limits, and so on – as well as bounds, approximations, orders of magnitude, and so on.
 - Linear algebra, as in Math 54, EE 16A, or Math 110, or an equivalent linear algebra course taken at another college. This requirement can be fulfilled concurrently with Prob 140.
 
-Enrollment is restricted to undergraduates, and all of the prerequisites will be enforced. If you have taken more advanced courses but not the ones above, please take a more advanced probability course or study Prob 140 materials independently on the course website.
+Enrollment is restricted to undergraduates and all of the prerequisites are enforced. If you have taken more advanced courses but not the ones above, please take a more advanced probability course or study Prob 140 materials independently on the course website.
 
 ### Texts ###
 #### Required: ####
@@ -45,15 +46,15 @@ The material in Prob 140 builds on itself week after week. Work regularly so tha
 Students have found these methods to be useful. For their advice, see the [About](http://prob140.org/about/) page.
 
 ### The Required Components of Your Work ###
-- **Weekly homework** which you will turn in on Gradescope. Some of the homework will be done in Jupyter Notebooks. Homework will be posted on Wednesday evening and will be due by 8 p.m. on Tuesday of the following week. In some weeks there may be deviations from this due to exams or holidays; we'll let you know.
-- **Weekly lab** typically involving both math and computing. Labs will be graded for correctness as well as completion. After the first week, labs will be posted on Wednesday evening and will be due by 8 p.m. on Friday of the same week. How long it will take you to complete each lab will depend on your fluency with the material. Part of discussion section content will be pertinent to lab; we recommend that you at least familiarize yourself with the lab after attending section on Thursday, and preferably get started on the work. Lab sessions are on Fridays in Room 330 Evans. You may attend only the session in which you are enrolled.
-- **Quizzes** four times during the term, **in the lab** in which you are enrolled. No computers involved.
-    - Quiz 1: Friday 2/2 (Week 3)
-    - Quiz 2: Friday 2/16 (Week 5)
-    - Quiz 3: Friday 3/16 (Week 9)
-    - Quiz 4: Friday 4/13 (Week 12)
-- **Midterm in class on Wednesday February 28**. No substitutes except as required by university rules. No computers involved.
-- **Final Exam on Friday May 11, 3 p.m. to 6 p.m., Exam Group 19**. Room to be announced. No substitutes except as required by university rules. No computers involved. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
+- **Weekly homework** which you will turn in on Gradescope. Some of the homework will be done in Jupyter Notebooks. Homework will be posted on Monday and will be due by 8 p.m. on Tuesday of the following week. In some weeks there may be deviations from this due to exams or holidays; we'll let you know.
+- **Weekly lab** typically involving both math and computing. **You may attend only the lab in which you are enrolled.** Labs will be posted on Monday and will be due by noon on Saturday of the same week. **Do not expect to complete the entire lab during your 2-hour lab session.** Labs have mathematical as well as computational components. How long it will take you to complete each lab will depend on your fluency with both of these aspects. Part of discussion section content will be pertinent to lab; we recommend that you familiarize yourself with the lab at the latest after attending section on Thursday, and preferably get started earlier in the week. Labs will be graded for correctness as well as completion. 
+- **Quizzes** four times during the term, **in the discussion section in which you are enrolled**. No computers involved.
+    - Quiz 1: Thursday 9/6 (Week 3)
+    - Quiz 2: Thursday 9/20 (Week 5)
+    - Quiz 3: Thursday 10/25 (Week 10)
+    - Quiz 4: Thursday 11/15 (Week 13)
+- **Midterm in class on Wednesday October 10**, in Week 7. No substitutes except as required by university rules. No computers involved.
+- **Final Exam on Friday December 14, 3 p.m. to 6 p.m., Exam Group 19**. Room to be announced. No substitutes except as required by university rules. No computers involved. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
 
 Data science is not a solitary activity; please expect to participate in lectures, discussion section, and lab. Lectures will not be webcast. The online text will contain what is covered, but it might have different examples. And of course it will not contain the discussions generated by questions asked in class.
 
@@ -64,10 +65,10 @@ In the calculation of your overall score, we will drop
 - your lowest quiz score
 
 Course grades will be assigned using the following weighted components:
-- Homework 15%
+- Homework 10%
 - Labs 20%
 - Quizzes 15%
-- Midterm 20%
+- Midterm 25%
 - Final 30%
 
 ### Collaboration and Integrity ###
