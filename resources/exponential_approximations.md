@@ -9,11 +9,14 @@ title: Exponential Approximations
 ### Exponential Function ###
 
 For all $x$,
+
 $$
 e^x ~~ = ~~ \lim_{n \to \infty} \big{(} 1 + \frac{x}{n} \big{)}^n
 ~~ = ~~ \sum_{k = 0}^\infty \frac{x^k}{k!}
 $$
+
 The expansion as a sum implies that 
+
 $$
 e^x ~~ \sim ~~ 1 + x ~~~~~~~~ \text{for small } x
 $$
@@ -23,6 +26,7 @@ You can see this in the figure. Around $x = 0$, the blue graph of $e^x$ and the 
 
 ### Log Function ###
 The figure also shows that 
+
 $$
 \log(x) ~~ \sim ~~ -1 + x ~~~~~~~~ \text{for } x \text{ near } 1
 $$
