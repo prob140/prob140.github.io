@@ -20,3 +20,6 @@ title: Resources
 - [prob140 Reference](http://prob140.org/prob140/)
 - [Data 8 Midterm Reference](/assets/data8-fa17-midterm-guide.pdf)
 - [Prob 140 Final Code Reference](/assets/final_reference_code.pdf)
+
+## Useful Pages
+- [Exponential Approximation](/resources/exponential_approximations)

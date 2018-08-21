@@ -3,27 +3,25 @@ layout: page
 title: Week 1 Preparation Guide
 ---
 
-Please do the required reading before attempting problems. Not only does it contain the material you need for the week's work, and more examples than in the lectures, it will remind you of the details that you have to keep in mind when attempting problems. Homework will go faster if you read first.
+Please do the required reading before attempting problems. Not only does it contain the material you need for the week's work, and more examples than in the lectures, it will remind you of the details that you have to keep in mind when attempting problems. You will solve problems faster if you read first.
 
-## Reading ##
-
-**Required:** Textbook Chapters 1 and 2
+### Reading ###
+**Required:** Textbook [Chapter 1](http://prob140.org/textbook/chapters/Chapter_01/00_Fundamentals), [Chapter 2](http://prob140.org/textbook/chapters/Chapter_02/00_Calculating_Chances)
 
 **Highly recommended:** Pitman Sections 1.3, 1.4 (through page 39), 1.6 (pages 60-65)
 
-**Recommended as a useful light read:** Theory Meets Data Chapter 4.
+**Recommended as a useful light read:** Theory Meets Data Chapter 4
 
-## Practice Problems ##
+### Practice Problems ###
+The goal of practice is for you to figure out how to get started on a solution and see it through to the end. To achieve this, you have to be prepared to go over the background reading and examples and then mess around with the ideas **yourself** to come up with steps that will lead to a solution. It will not be achieved if you just read solutions created by others.
 
-Pitman x.y.z means Exercise z of Section x.y and x.rev.z means Exercise z of the Review Exercises at the end of Chapter x.
+Each Review Set has two parts: The Basics and Additional Practice. Please do all the problems on the Basics list below. Then do as many as you can from the Additional Practice list. You might not have time to get to them all. That's OK – if you have been practising coming up with solutions yourself, you should be able to tackle new problems on tests. 
 
-- Pitman 1.3.2, 1.3.10, 1.4.8, 1.6.5, 1.rev.8, 1.rev.16
-- The multiplication rule says that $P(A_1A_2) = P(A_1)P(A_2 \vert A_1)$. Use induction to show that for events $A_1, A_2, \ldots, A_n$, 
-$$
-P(A_1A_2 \ldots A_n) ~ = ~ P(A_1)P(A_2 \vert A_1)P(A_3 \vert A_1A_2) \cdots P(A_n \vert A_1A_2 \ldots A_{n-1})
-$$
-- Recall from Data 8 that the *probability distribution* of a random quantity consists of the set of all possible values of the quantity along with the probabilities of all those values. We'll define "random quantity" more formally next week; for now, it's fine to rely on your understanding from Data 8. Find the probability distribution of the minimum of $n$ numbers drawn at random with replacement from the set $1, 2, 3, \ldots, N$.
+Review Set 1 is based on the material of Chapters 1 through 5. 
+- The Basics: 2, 5, 6, 8, 9
+- Additional Practice: 13, 16, 17, 18, 20, 23, 28, 29, 36
 
-## Discussion Section ##
+### Discussion Section ###
+Sections will cover problems from the Review Sets, selected partly to help with the week's lab and homework. 
 
-All sections will start with a warm-up and will continue with a selection of problems from the practice list, chosen partly to help with the week's lab and homework. This week's selection is the last three problems on the practice list.
+Review Set 1 Exercises 1, 3, 21, 33, 38

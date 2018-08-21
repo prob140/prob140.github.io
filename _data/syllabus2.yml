@@ -1,12 +1,12 @@
 weeks:
   - weekNum: 1
     weekName: Introduction
-    weekDuration: 1/15-1/19
+    weekDuration: 8/22-8/24
     basic:
     - date: Wed 8/22
       content: "Lecture 1: Probability: Axioms, Rules, Approximation"
       assignments:
-        - name: Prep 1
+        - name: Week 1 Guide
           url: /prep/prep01
         - name: "Lab 1: Birthday Attack (Due 8/25)"
           url:
@@ -15,84 +15,33 @@ weeks:
     - date: Thu 8/23
       content: "Discussion"
     - date: Fri 8/24
-      content: "Lab 1"
+      content: "Lab"
     links:
       - name: "Ch 1: Fundamentals"
-        url: "https://textbook.prob140.org/notebooks-md/1_00_Fundamentals.html"
+        url: http://prob140.org/textbook/chapters/Chapter_01/00_Fundamentals
       - name: "Ch 2: Calculating Chances"
-        url: "https://textbook.prob140.org/notebooks-md/2_00_Calculating_Chances.html"
+        url: http://prob140.org/textbook/chapters/Chapter_02/00_Calculating_Chances
       - name: "HW 1"
-        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw01a.ipynb"
+        url:
       - name: "Lab 1"
-        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_01.ipynb"
+        url:
 
   - weekNum: 2
     weekName: Working with Random Variables
-    weekDuration: 1/22-1/26
+    weekDuration: 8/27-8/31
     basic:
     - date: Mon 8/27
       content: "Lecture 2: Random Variables: Distributions, Conditioning, Equality"
       assignments:
         - name: "Week 2 Guide"
-          url: /prep/prep02
-        - name: "HW 2 (Due 9/4)"
           url:
         - name: "Lab 2: Five-Card Poker (Due 9/1)"
+          url:
+        - name: "HW 2 (Due 9/4)"
           url:
     - date: Wed 8/29
       content: "Lecture 3: Symmetry and Collections of Events"
     - date: Thu 1/25
       content: "Discussion"
     - date: Fri 1/26
-      content: "Lab 2"
-    links:
-      - name: "Ch 3: Random Variables"
-        url: https://textbook.prob140.org/notebooks-md/3_00_Random_Variables.html
-      - name: "Ch 4: Relations Between Variables"
-        url: https://textbook.prob140.org/notebooks-md/4_00_Relations_Between_Variables.html
-      - name: "Ch 5: Collections of Events"
-        url: https://textbook.prob140.org/notebooks-md/5_00_Collections_of_Events.html
-      - name: "HW 2"
-        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw02.ipynb"
-      - name: "Lab 2"
-        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_02.ipynb"
-
-  - weekNum: 3
-    weekName: Random Counts
-    weekDuration: 1/29-2/2
-    basic:
-    - date: Mon 1/29
-      content: Lecture 4
-      title: "Binomial and Related Counts; the Poisson Limit"
-      assignmentName:
-      readings:
-        - name: "Week 3 Guide"
-          url: /prep/prep03
-        - name: "Ch 6: Random Counts"
-          url: https://textbook.prob140.org/notebooks-md/6_00_Random_Counts.html
-    - date: Tue 1/30
-      content: "HW 2 Due"
-    - date: Wed 1/31
-      content: Lecture 5
-      title: "Independence and Poissonization"
-      readings:
-        - name: "Ch 7: Poissonization"
-          url: https://textbook.prob140.org/notebooks-md/7_00_Poissonization.html
-      assignmentName: "HW 3"
-      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw03.ipynb"
-    - date: Thu 2/1
-      content: "Discussion"
-    - date: Fri 2/2
-      content: "Lab 3"
-      title: "Total Variation"
-      assignmentName: "Lab 3"
-      assignmentURL: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_03.ipynb"
-    links:
-      - name: "Ch 6: Random Counts"
-        url: https://textbook.prob140.org/notebooks-md/6_00_Random_Counts.html
-      - name: "Ch 7: Poissonization"
-        url: https://textbook.prob140.org/notebooks-md/7_00_Poissonization.
-      - name: "HW 3"
-        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=hw/hw03.ipynb"
-      - name: "Lab 3"
-        url: "http://prob140.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=gh-pages&subPath=lab/Lab_03.ipynb"
+      content: "Lab"
