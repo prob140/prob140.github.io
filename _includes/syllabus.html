@@ -1,6 +1,6 @@
 <table id="calendar">
 <tbody>
-<tr><th>Week</th><th>Date</th><th>Activity</th><th>Content</th><th>Readings</th> <th> Assignment </th></tr>
+<tr><th>Week</th><th>Date</th><th>Content</th><th>Prep & Assignments</th></tr>
 {% for org_hash in site.data.syllabus2.weeks %}
   {% capture row_index %}{% cycle 'odd', 'even' %}{% endcapture %}
   <tr class="{{row_index}}"> <td class="weeknum" rowspan="{{org_hash.basic.size}}">{{org_hash.weekNum}}</td>
@@ -8,15 +8,11 @@
 	<td> {{day.date}}</td>
 	<td> {% if day.contentURL %} <a href="{{day.contentURL}}"> {{day.content}}</a>
 		 {% else %} {{day.content}} {% endif %} </td>
-	<td>{{day.title}}</td>
 	<td>
-	{% for reading in day.readings %}
-	<a href="{{reading.url}}">{{reading.name}} </a> <br />
+	{% for assignment in day.assignments %}
+	<a href="{{assignment.url}}">{{assignment.name}} </a> <br />
 	{% endfor %}
 	</td>
-	<td>  {% if day.assignmentURL %} <a href="{{day.assignmentURL}}"> {{day.assignmentName}}</a>
-		 {% else %} {{day.assignmentName}} {% endif %} </td>
-	</tr>
 	<tr class="{{row_index}}">
   {% endfor %}
   </tr>

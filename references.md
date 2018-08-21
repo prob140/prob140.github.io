@@ -13,8 +13,10 @@ title: Resources
 - [Textbook](https://textbook.prob140.org/)
 - [*Probability* by Jim Pitman](http://springer.com/us/book/9780387979748)
 - [*Theory meets Data*](/assets/tmd_11_18_2017.pdf)
+- [Distributions Summary](/assets/final_reference.pdf)
 
 ## Python
 - [datascience Reference](http://data8.org/datascience/tables.html)
 - [prob140 Reference](http://prob140.org/prob140/)
 - [Data 8 Midterm Reference](/assets/data8-fa17-midterm-guide.pdf)
+- [Prob 140 Final Code Reference](/assets/final_reference_code.pdf)
