@@ -7,7 +7,7 @@ title: Acknowledgments
 
 #### August 2018 ####
 
-The development of Prob 140 has been a team effort by facutly and students.
+The development of Prob 140 has been a team effort by faculty and students.
 
 Dibya Ghosh and Jason Zhang have been central to course development, including course infrastructure, the prob140 Python library, the building and features of the interactive online textbook, computational and pedagogical aspects of several labs, quizzes, and overall pedagogy. They were also the Lead UGSIs (Undergraduate Student Instructors) in the initial offerings of the course. 
 
