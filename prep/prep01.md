@@ -17,11 +17,11 @@ The goal of practice is for you to figure out how to get started on a solution a
 
 Each Review Set has two parts: The Basics and Additional Practice. Please do all the problems on the Basics list below. Then do as many as you can from the Additional Practice list. You might not have time to get to them all. That's OK – if you have been practising coming up with solutions yourself, you should be able to tackle new problems on tests. 
 
-Review Set 1 is based on the material of Chapters 1 through 5. 
+[Review Set 1](http://prob140.org/textbook/chapters/Chapter_05/05_Review_Problems_Set_1) is based on the material of Chapters 1 through 5. 
 - The Basics: 2, 5, 6, 8, 9
 - Additional Practice: 13, 16, 17, 18, 20, 23, 28, 29, 36
 
 ### Discussion Section ###
 Sections will cover problems from the Review Sets, selected partly to help with the week's lab and homework. 
 
-Review Set 1 Exercises 1, 3, 21, 33, 38
+[Review Set 1](http://prob140.org/textbook/chapters/Chapter_05/05_Review_Problems_Set_1) Exercises 1, 3, 21, 33, 38
