@@ -9,9 +9,9 @@ weeks:
         - name: Week 1 Guide
           url: /prep/prep01
         - name: "Lab 1: Birthday Attack (Due 8/25)"
-          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa18&branch=master&subPath=lab/Lab01.ipynb
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab01.ipynb
         - name: HW 1 (Due 8/28)
-          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa18&branch=master&subPath=hw/hw01.ipynb
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw01.ipynb
     - date: Thu 8/23
       content: "Discussion"
     - date: Fri 8/24
@@ -22,9 +22,9 @@ weeks:
       - name: "Ch 2: Calculating Chances"
         url: http://prob140.org/textbook/chapters/Chapter_02/00_Calculating_Chances
       - name: "HW 1"
-        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa18&branch=master&subPath=hw/hw01.ipynb
+        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw01.ipynb
       - name: "Lab 1"
-        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa18&branch=master&subPath=lab/Lab01.ipynb
+        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab01.ipynb
 
   - weekNum: 2
     weekName: Working with Random Variables
