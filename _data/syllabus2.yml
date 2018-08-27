@@ -45,3 +45,34 @@ weeks:
       content: "Discussion"
     - date: Fri 8/31
       content: "Lab"
+    links:
+      - name: "Ch 3: Random Variables"
+        url: http://prob140.org/textbook/chapters/Chapter_03/00_Random_Variables
+      - name: "Ch 4: Relations Between Variables"
+        url: http://prob140.org/textbook/chapters/Chapter_04/00_Relations_Between_Variables
+      - name: "Ch 5: Collections of Events"
+        url: http://prob140.org/textbook/chapters/Chapter_05/00_Collections_of_Events
+      - name: "HW 2"
+        url: 
+      - name: "Lab 2"
+        url: 
+
+  - weekNum: 3
+    weekName: Random Counts
+    weekDuration: 9/3-9/7
+    basic:
+    - date: Mon 9/3
+      content: "Lecture 4: Binomial and Related Counts; the Poisson Limit"
+      assignments:
+        - name: "Week 3 Guide"
+          url:
+        - name: "Lab 3: Total Variation (Due 9/8)"
+          url:
+        - name: "HW 3 (Due 9/11)"
+          url:
+    - date: Wed 9/5
+      content: "Lecture 5: Independence and Poissonization"
+    - date: Thu 9/6
+      content: "Discussion"
+    - date: Fri 9/7
+      content: "Lab"
