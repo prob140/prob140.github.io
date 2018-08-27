@@ -34,7 +34,7 @@ weeks:
       content: "Lecture 2: Random Variables: Distributions, Conditioning, Equality"
       assignments:
         - name: "Week 2 Guide"
-          url:
+          url: /prep/prep02
         - name: "Lab 2: Five-Card Poker (Due 9/1)"
           url:
         - name: "HW 2 (Due 9/4)"
@@ -62,17 +62,17 @@ weeks:
     weekDuration: 9/3-9/7
     basic:
     - date: Mon 9/3
-      content: "Lecture 4: Binomial and Related Counts; the Poisson Limit"
+      content: "No Lecture (Labor Day): "
       assignments:
         - name: "Week 3 Guide"
           url:
-        - name: "Lab 3: Total Variation (Due 9/8)"
+        - name: "Lab 3: (Due 9/8)"
           url:
         - name: "HW 3 (Due 9/11)"
           url:
     - date: Wed 9/5
-      content: "Lecture 5: Independence and Poissonization"
+      content: "Lecture 4: Binomial and related counts; a Poisson limit"
     - date: Thu 9/6
-      content: "Discussion"
+      content: "Quiz 1"
     - date: Fri 9/7
       content: "Lab"
