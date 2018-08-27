@@ -8,10 +8,10 @@ weeks:
       assignments:
         - name: Week 1 Guide
           url: /prep/prep01
-        - name: "Lab 1: Birthday Attack (Due 8/25)"
-          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab01.ipynb
         - name: HW 1 (Due 8/28)
           url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw01.ipynb
+        - name: "Lab 1: Birthday Attack (Due 8/25)"
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab01.ipynb
     - date: Thu 8/23
       content: "Discussion"
     - date: Fri 8/24
@@ -35,10 +35,10 @@ weeks:
       assignments:
         - name: "Week 2 Guide"
           url: /prep/prep02
-        - name: "Lab 2: Five-Card Poker (Due 9/1)"
-          url:
         - name: "HW 2 (Due 9/4)"
-          url:
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw02.ipynb
+        - name: "Lab 2: Five-Card Poker (Due 9/1)"
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab02.ipynb
     - date: Wed 8/29
       content: "Lecture 3: Symmetry and Collections of Events"
     - date: Thu 8/30
@@ -53,9 +53,9 @@ weeks:
       - name: "Ch 5: Collections of Events"
         url: http://prob140.org/textbook/chapters/Chapter_05/00_Collections_of_Events
       - name: "HW 2"
-        url: 
+        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw02.ipynb
       - name: "Lab 2"
-        url: 
+        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab02.ipynb
 
   - weekNum: 3
     weekName: Random Counts
