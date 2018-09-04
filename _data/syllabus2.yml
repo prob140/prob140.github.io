@@ -65,17 +65,24 @@ weeks:
       content: "No Lecture (Labor Day): "
       assignments:
         - name: "Week 3 Guide"
-          url:
-        - name: "Lab 3: (Due 9/8 noon)"
-          url:
+          url: /prep/prep03
+        - name: "Lab 3: Total Variation (Due 9/8 noon)"
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab03.ipynb
         - name: "HW 3 (Due 9/11)"
-          url:
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw03.ipynb
     - date: Wed 9/5
       content: "Lecture 4: Binomial and related counts; a Poisson limit"
     - date: Thu 9/6
       content: "QUIZ 1"
     - date: Fri 9/7
       content: "Lab"
+    links:
+      - name: "Ch 6: Random Counts"
+        url: http://prob140.org/textbook/chapters/Chapter_06/00_Random_Counts
+      - name: "Lab 3: Total Variation (Due 9/8 noon)"
+        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab03.ipynb
+      - name: "HW 3 (Due 9/11)"
+        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw03.ipynb
 
   - weekNum: 4
     weekName: Expectation
