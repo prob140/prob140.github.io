@@ -17,7 +17,7 @@ Each Review Set has two parts: The Basics and Additional Practice. Please do all
 
 This is a short week, so the list below is short as well.
 
-Review Set 2 is based on the material of Chapters 6 through 8. Those chapters build on the previous ones, so you have to be familiar with the previous chapters as well.
+[Review Set 2](http://prob140.org/textbook/chapters/Chapter_08/04_Review_Problems_Set_2) is based on the material of Chapters 6 through 8. Those chapters build on the previous ones, so you have to be familiar with the previous chapters as well.
 
 - The Basics: 1, 2ab, 3, 9
 - Additional Practice: 11, 13, 16, 19
@@ -25,7 +25,7 @@ Review Set 2 is based on the material of Chapters 6 through 8. Those chapters bu
 ### Discussion Section ###
 Sections will cover problems from the Review Sets, selected partly to help with the week's lab and homework. 
 
-Because of the quiz in the first half of section, the only problems covered will be Review Set 2 Exercises 8 and 5, and also 11 if there is time.
+Because of the quiz in the first half of section, the only problems covered will be [Review Set 2](http://prob140.org/textbook/chapters/Chapter_08/04_Review_Problems_Set_2) Exercises 8 and 5, and also 11 if there is time.
 
 
 ```python
