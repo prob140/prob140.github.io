@@ -92,17 +92,27 @@ weeks:
       content: "Lecture 5: Independence and Poissonization"
       assignments:
         - name: "Week 4 Guide"
-          url:
-        - name: "Lab 4: (Due 9/15 noon)"
-          url:
+          url: /prep/prep04
+        - name: "Lab 4: Expectations of Discrete Order Statistics (Due 9/15 noon)"
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab04.ipynb
         - name: "HW 4 (Due 9/18)"
-          url:
+          url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw04.ipynb
     - date: Wed 9/12
       content: "Lecture 6: Expectation and Additivity"
     - date: Thu 9/13
       content: "Discussion"
     - date: Fri 9/14
       content: "Lab"
+    links:
+      - name: "Ch 7: Poissonization"
+        url: http://prob140.org/textbook/chapters/Chapter_07/00_Poissonization
+      - name: "Ch 8: Expectation"
+        url: http://prob140.org/textbook/chapters/Chapter_08/00_Expectation
+      - name: "Lab 4: Expectations of Discrete Order Statistics (Due 9/15 noon)"
+        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab04.ipynb
+      - name: HW 4 (Due 9/18)
+        url: http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw04.ipynb
+
 
   - weekNum: 5
     weekName: Markov Chains
