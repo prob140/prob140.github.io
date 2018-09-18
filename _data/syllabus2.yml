@@ -122,17 +122,26 @@ weeks:
       content: "Lecture 7: Expectation by conditioning"
       assignments:
         - name: "Week 5 Guide"
-          url:
-        - name: "Lab 5: (Due 9/22 noon)"
-          url:
+          url: /prep/prep05
+        - name: "Lab 5: Uniform and Size Biased Permutations (Due 9/22 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab05.ipynb
         - name: "HW 5 (Due 9/25)"
-          url:
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw05.ipynb
     - date: Wed 9/19
       content: "Lecture 8: Long run behavior of Markov Chains"
     - date: Thu 9/20
       content: "QUIZ 2"
     - date: Fri 9/21
       content: "Lab"
+    links:
+      - name: "Ch 9: Conditioning Revisited"
+        url: http://prob140.org/textbook/chapters/Chapter_09/00_Conditioning_Revisited
+      - name: "Ch 10: Markov Chains"
+        url: http://prob140.org/textbook/chapters/Chapter_10/00_Markov_Chains
+      - name: "Lab 5: Uniform and Size Biased Permutations (Due 9/22 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab05.ipynb
+      - name: HW 5 (Due 9/25)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw05.ipynb
 
   - weekNum: 6
     weekName: Reversing Markov Chains
