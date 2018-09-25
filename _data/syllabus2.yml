@@ -151,17 +151,24 @@ weeks:
       content: "Lecture 9: Reversibility"
       assignments:
         - name: "Week 6 Guide"
-          url:
-        - name: "Lab 6: (Due 9/22 noon)"
-          url:
-        - name: "HW 6 (Due 9/25)"
-          url:
+          url: /prep/prep06
+        - name: "Lab 6: Code Breaking by MCMC (Due 9/29 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab06.ipynb
+        - name: "HW 6 (Due 10/2)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw06.ipynb
     - date: Wed 9/26
       content: "Lecture 10: Markov Chain Monte Carlo"
     - date: Thu 9/27
       content: "Discussion"
     - date: Fri 9/28
       content: "Lab"
+    links:
+      - name: "Ch 11: Reversing Markov Chains"
+        url: http://prob140.org/textbook/chapters/Chapter_11/00_Reversing_Markov_Chains
+      - name: "Lab 6: Code Breaking by MCMC (Due 9/29 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab06.ipynb
+      - name: HW 6 (Due 10/2)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw06.ipynb
 
   - weekNum: 7
     weekName: Midterm Week
