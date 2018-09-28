@@ -167,8 +167,10 @@ weeks:
         url: http://prob140.org/textbook/chapters/Chapter_11/00_Reversing_Markov_Chains
       - name: "Lab 6: Code Breaking by MCMC (Due 9/29 noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab06.ipynb
-      - name: HW 6 (Due 10/2)
+      - name: "HW 6 (Due 10/2)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw06.ipynb
+      - name: "Midterm Prep"
+        url: /prep/midterm
 
   - weekNum: 7
     weekName: Midterm Week
@@ -178,7 +180,7 @@ weeks:
       content: "Lecture 11: Midterm Review"
       assignments:
         - name: "Midterm Prep"
-          url:
+          url: /prep/midterm
     - date: Wed 10/3
       content: "MIDTERM (in class)"
     - date: Thu 10/4
