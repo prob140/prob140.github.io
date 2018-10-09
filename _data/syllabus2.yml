@@ -196,17 +196,26 @@ weeks:
       content: "Lecture 12: SD: tail bounds, least squares"
       assignments:
         - name: "Week 8 Guide"
-          url:
+          url: /prep/prep08
         - name: "Lab 7: (Due 10/13 noon)"
-          url:
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab07.ipynb
         - name: "HW 7 (Due 10/16)"
-          url:
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw07.ipynb
     - date: Wed 10/10
       content: "Lecture 13: Covariance and its uses"
     - date: Thu 10/11
       content: "Discussion"
     - date: Fri 10/12
       content: "Lab"
+    links:
+      - name: "Ch 12: Standard Deviation"
+        url: http://prob140.org/textbook/chapters/Chapter_12/00_Standard_Deviation
+      - name: "Ch 13: Variance via Covariance"
+        url: http://prob140.org/textbook/chapters/Chapter_13/00_Variance_Via_Covariance
+      - name: "Lab 7: Decisions Based on Ranks (Due 10/13 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab07.ipynb
+      - name: "HW 7 (Due 10/16)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw07.ipynb
 
   - weekNum: 9
     weekName: Continuous Distributions
