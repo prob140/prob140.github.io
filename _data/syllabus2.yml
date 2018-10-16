@@ -197,7 +197,7 @@ weeks:
       assignments:
         - name: "Week 8 Guide"
           url: /prep/prep08
-        - name: "Lab 7: (Due 10/13 noon)"
+        - name: "Lab 7: Decisions Based on Ranks (Due 10/13 noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab07.ipynb
         - name: "HW 7 (Due 10/16)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw07.ipynb
