@@ -225,17 +225,26 @@ weeks:
       content: "Lecture 14: Central Limit Theorem"
       assignments:
         - name: "Week 9 Guide"
-          url:
-        - name: "Lab 8: (Due 10/20 noon)"
-          url:
+          url: /prep/prep09
+        - name: "Lab 8: Simulation and the CDF (Due 10/20 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab08.ipynb
         - name: "HW 8 (Due 10/23)"
-          url:
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw08.ipynb
     - date: Wed 10/17
       content: "Lecture 15: Probability densities"
     - date: Thu 10/18
       content: "Discussion"
     - date: Fri 10/19
       content: "Lab"
+    links:
+      - name: "Ch 14: The Central Limit Theorem"
+        url: http://prob140.org/textbook/chapters/Chapter_14/00_The_Central_Limit_Theorem
+      - name: "Ch 15: Continuous Distributions"
+        url: http://prob140.org/textbook/chapters/Chapter_15/00_Continuous_Distributions
+      - name: "Lab 8: Simulation and the CDF (Due 10/20 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab08.ipynb
+      - name: "HW 8 (Due 10/23)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw08.ipynb
 
   - weekNum: 10
     weekName: Working with Continuous Distributions
