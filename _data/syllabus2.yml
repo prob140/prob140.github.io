@@ -289,11 +289,11 @@ weeks:
           url:
         - name: "HW 10 (Due 11/6)"
           url:
-    - date: Wed 10/24
+    - date: Wed 10/31
       content: "Lecture 19: Moment generating functions; Chernoff bound"
-    - date: Thu 10/25
+    - date: Thu 11/1
       content: "Discussion"
-    - date: Fri 10/26
+    - date: Fri 11/2
       content: "Lab"
 
   - weekNum: 12
@@ -313,7 +313,7 @@ weeks:
       content: "Lecture 21: The beta and the binomial"
     - date: Thu 11/8
       content: "Discussion"
-    - date: Fri 11/8
+    - date: Fri 11/9
       content: "Lab"
 
   - weekNum: 13
@@ -388,16 +388,16 @@ weeks:
 
   - weekNum: 17
     weekName: Finals Week
-    weekDuration: 12/10-12/17
+    weekDuration: 12/10-12/14
     basic:
-    - date: Mon 12/3
+    - date: Mon 12/10
       content: ""
       assignments:
-    - date: Wed 12/5
+    - date: Wed 12/12
       content: ""
-    - date: Thu 12/6
+    - date: Thu 12/13
       content: ""
-    - date: Fri 12/7
+    - date: Fri 12/14
       content: "FINAL EXAM 3pm-6pm"
 
 
