@@ -26,6 +26,7 @@ title: Resources
 - [*Probability* by Jim Pitman](http://springer.com/us/book/9780387979748)
 - [*Theory meets Data*](/assets/tmd_11_18_2017.pdf)
 - [Distributions Summary](/assets/final_reference.pdf)
+- [Problem Solving FAQ (Stat 134)](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)
 
 ## Python
 - [datascience Reference](http://data8.org/datascience/tables.html)
