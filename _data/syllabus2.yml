@@ -254,17 +254,27 @@ weeks:
       content: "Lecture 16: Transformations"
       assignments:
         - name: "Week 10 Guide"
-          url:
-        - name: "Lab 9: (Due 10/27 noon)"
-          url:
+          url: prep/prep10
+        - name: "Lab 9: Densities and SymPy(Due 10/27 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab09.ipynb
         - name: "HW 9 (Due 10/30)"
-          url:
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw09.ipynb
     - date: Wed 10/24
       content: "Lecture 17: Joint densities; the beta family"
     - date: Thu 10/25
       content: "QUIZ 3"
     - date: Fri 10/26
       content: "Lab"
+    links:
+      - name: "Ch 16: Transformations"
+        url: http://prob140.org/textbook/chapters/Chapter_16/00_Transformations
+      - name: "Ch 17: Joint Densities"
+        url: http://prob140.org/textbook/chapters/Chapter_17/00_Joint_Densities
+      - name: "Lab 9: Densities and SymPy(Due 10/27 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab09.ipynb
+      - name: "HW 9 (Due 10/30)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw09.ipynb
+
 
   - weekNum: 11
     weekName: The Normal and Gamma Families
