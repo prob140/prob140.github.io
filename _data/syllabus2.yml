@@ -291,6 +291,7 @@ weeks:
           url:
     - date: Wed 10/31
       content: "Lecture 19: Moment generating functions; Chernoff bound"
+      contentURL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465539/
     - date: Thu 11/1
       content: "Discussion"
     - date: Fri 11/2
