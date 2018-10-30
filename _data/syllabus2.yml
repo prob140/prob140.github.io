@@ -303,7 +303,7 @@ weeks:
         url: http://prob140.org/textbook/chapters/Chapter_19/00_Distributions_of_Sums
       - name: "Lab 10: Chinese Restaurant Process 1 (Due 11/3 noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab10.ipynb
-      - name: "HW 10 (Due 10/30)"
+      - name: "HW 10 (Due 11/6)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw10.ipynb
 
   - weekNum: 12
