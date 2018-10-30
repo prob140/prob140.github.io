@@ -284,17 +284,26 @@ weeks:
       content: "Lecture 18: Independent normal and gamma variables"
       assignments:
         - name: "Week 11 Guide"
-          url:
-        - name: "Lab 10: (Due 11/3 noon)"
-          url:
+          url: prep/prep11
+        - name: "Lab 10: Chinese Restaurant Process 1 (Due 11/3 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab10.ipynb
         - name: "HW 10 (Due 11/6)"
-          url:
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw10.ipynb
     - date: Wed 10/31
       content: "Lecture 19: Moment generating functions; Chernoff bound"
     - date: Thu 11/1
       content: "Discussion"
     - date: Fri 11/2
       content: "Lab"
+    links:
+      - name: "Ch 18: The Normal and Gamma Families"
+        url: http://prob140.org/textbook/chapters/Chapter_18/00_The_Normal_and_Gamma_Families
+      - name: "Ch 19: Distributions of Sums"
+        url: http://prob140.org/textbook/chapters/Chapter_19/00_Distributions_of_Sums
+      - name: "Lab 10: Chinese Restaurant Process 1 (Due 11/3 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab10.ipynb
+      - name: "HW 10 (Due 10/30)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw10.ipynb
 
   - weekNum: 12
     weekName: An Approach to Prediction
