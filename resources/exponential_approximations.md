@@ -1,28 +1,31 @@
 ---
 layout: page
-title: Exponential Approximations
+title: Exponential and Log Functions
 ---
 
-![png](exponential.png "Exp, Log, and Two Tangents")
+![png](exponential.png)
 
-
-### Exponential Function ###
 ### Limits and Approximations ###
 
 For all $x$,
+
 $$
 e^x ~~ = ~~ \lim_{n \to \infty} \big{(} 1 + \frac{x}{n} \big{)}^n
 ~~ = ~~ \sum_{k = 0}^\infty \frac{x^k}{k!}
 $$
+
 The expansion as a sum implies that 
+
 $$
 e^x ~~ \sim ~~ 1 + x ~~~~~~~~ \text{for small } x
 $$
+
 Here the symbol $\sim$ means that the ratio of the two sides goes to 1 as $x$ goes to 0. 
 
 You can see this approximation in the figure. Around $x = 0$, the blue graph of $e^x$ and the red graph of $1+x$ are almost indistinguishable.
 
 Take $\log$ on both sides to see that
+
 $$
 \log(1+x) ~~ \sim x ~~~~~~~~ \text{for small } x
 $$
