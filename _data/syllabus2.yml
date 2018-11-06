@@ -314,17 +314,26 @@ weeks:
       content: "Lecture 20: MLE, posterior distributions, and MAP estimates"
       assignments:
         - name: "Week 12 Guide"
-          url:
-        - name: "Lab 11: (Due 11/10 noon)"
-          url:
+          url: prep/prep12
+        - name: "Lab 11: Chinese Restaurant Process 2 (Due 11/10 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab11.ipynb
         - name: "HW 11 (Due 11/13)"
-          url:
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw11.ipynb
     - date: Wed 11/7
       content: "Lecture 21: The beta and the binomial"
     - date: Thu 11/8
       content: "Discussion"
     - date: Fri 11/9
       content: "Lab"
+    links:
+      - name: "Ch 20: Approaches to Estimation"
+        url: http://prob140.org/textbook/chapters/Chapter_20/00_Approaches_to_Estimation
+      - name: "Ch 21: The Beta and the Binomial"
+        url: http://prob140.org/textbook/chapters/Chapter_21/00_The_Beta_and_the_Binomial
+      - name: "Lab 11: Chinese Restaurant Process 2 (Due 11/10 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab11.ipynb
+      - name: "HW 11 (Due 11/13)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw11.ipynb
 
   - weekNum: 13
     weekName: Least Squares Prediction
