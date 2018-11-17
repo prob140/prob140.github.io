@@ -344,7 +344,7 @@ weeks:
       assignments:
         - name: "Week 13 Guide"
           url: prep/prep13
-        - name: "Lab 12: Introduction to Jointly Normal Vectors (Due 11/17 noon)"
+        - name: "Lab 12: Introduction to Jointly Normal Vectors (Due 11/19 4PM)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab12.ipynb
         - name: "HW 12 (Due 11/20)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw12.ipynb
@@ -357,7 +357,7 @@ weeks:
     links:
       - name: "Ch 22: Prediction"
         url: http://prob140.org/textbook/chapters/Chapter_22/00_Prediction
-      - name: "Lab 12: Introduction to Jointly Normal Vectors (Due 11/17 noon)"
+      - name: "Lab 12: Introduction to Jointly Normal Vectors (Due 11/19 4PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab12.ipynb
       - name: "HW 12 (Due 11/20)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw12.ipynb
