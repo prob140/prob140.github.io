@@ -404,7 +404,7 @@ weeks:
       content: "Lecture 25: Multiple regression"
       assignments:
         - name: "Final Prep"
-          url:
+          url: /prep/final_prep
     - date: Wed 12/5
       content: "Ch 25 Exercises and Review"
     - date: Thu 12/6
