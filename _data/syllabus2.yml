@@ -346,7 +346,7 @@ weeks:
           url: prep/prep13
         - name: "Lab 12: Introduction to Jointly Normal Vectors (Due 11/19 4PM)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab12.ipynb
-        - name: "HW 12 (Due 11/20)"
+        - name: "HW 12 (Due 11/21)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw12.ipynb
     - date: Wed 11/14
       content: "Lecture 22: Prediction and Error"
@@ -359,7 +359,7 @@ weeks:
         url: http://prob140.org/textbook/chapters/Chapter_22/00_Prediction
       - name: "Lab 12: Introduction to Jointly Normal Vectors (Due 11/19 4PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=lab/Lab12.ipynb
-      - name: "HW 12 (Due 11/20)"
+      - name: "HW 12 (Due 11/21)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw12.ipynb
 
   - weekNum: 14
@@ -367,11 +367,11 @@ weeks:
     weekDuration: 11/19-11/23
     basic:
     - date: Mon 11/19
-      content: "Lecture 23: Multivariate normal distribution"
+      content: "NO CLASS"
       assignments:
         - name: "Week 14 Guide"
           url:
-        - name: "HW 13 (Due Fri 11/30)"
+        - name: "HW 13 (Due 11/27)"
           url:
     - date: Wed 11/21
       content: "HOLIDAY"
@@ -385,12 +385,12 @@ weeks:
     weekDuration: 11/26-11/30
     basic:
     - date: Mon 11/26
-      content: "Lecture 24: Correlation and simple regression"
+      content: "Lecture 23: Multivariate normal distribution "
       assignments:
         - name: "Week 15 Guide"
           url:
     - date: Wed 11/28
-      content: "Lecture 25: Multiple regression"
+      content: "Lecture 24: Correlation and simple regression"
     - date: Thu 11/29
       content: "Discussion"
     - date: Fri 11/30
@@ -401,12 +401,12 @@ weeks:
     weekDuration: 12/3-12/7
     basic:
     - date: Mon 12/3
-      content: "Review Lecture"
+      content: "Lecture 25: Multiple regression"
       assignments:
         - name: "Final Prep"
           url:
     - date: Wed 12/5
-      content: ""
+      content: "Ch 25 Exercises and Review"
     - date: Thu 12/6
       content: ""
     - date: Fri 12/7
