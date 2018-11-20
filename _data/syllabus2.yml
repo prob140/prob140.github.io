@@ -370,15 +370,22 @@ weeks:
       content: "NO CLASS"
       assignments:
         - name: "Week 14 Guide"
-          url:
+          url: prep/prep14
         - name: "HW 13 (Due 11/27)"
-          url:
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw13.ipynb
     - date: Wed 11/21
       content: "HOLIDAY"
     - date: Thu 11/22
       content: "HOLIDAY"
     - date: Fri 11/23
       content: "HOLIDAY"
+    links:
+      - name: "HW 13 (Due 11/27)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials&branch=master&subPath=hw/hw13.ipynb
+      - name: "Week 14 Guide"
+        url: prep/prep14
+      - name: "Final Prep"
+        url: /prep/final_prep
 
   - weekNum: 15
     weekName: Regression
