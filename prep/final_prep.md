@@ -8,6 +8,7 @@ compilation of resources for the Final Exam.
 
 ## General Resources
 
+- [Scope of Final](/prep/final_content)
 - [Professor Adhikari's Problem Solving FAQ (Stat 134)](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)
 
 ## Practice Problems
