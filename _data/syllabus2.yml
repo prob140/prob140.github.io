@@ -395,13 +395,18 @@ weeks:
       content: "Lecture 23: Multivariate normal distribution "
       assignments:
         - name: "Week 15 Guide"
-          url:
+          url: prep/prep15
     - date: Wed 11/28
       content: "Lecture 24: Correlation and simple regression"
     - date: Thu 11/29
       content: "Discussion"
     - date: Fri 11/30
       content: "Review Lab"
+    links:
+      - name: "Week 15 Guide"
+        url: prep/prep15
+      - name: "Final Prep"
+        url: /prep/final_prep
 
   - weekNum: 16
     weekName: RRR Week
