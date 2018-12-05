@@ -14,6 +14,7 @@ compilation of resources for the Final Exam.
 ## Practice Problems
 
 - [Review Problems from prep guides](/prep)
+- [Spring 2017 Final Exam](/assets/final_sp_17.pdf)
 
 
 ## Reference Sheets
