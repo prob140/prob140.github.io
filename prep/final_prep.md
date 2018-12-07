@@ -20,9 +20,8 @@ compilation of resources for the Final Exam.
 
 ## Reference Sheets
 
-We will hand out two reference sheets during the final. Here are the ones from
-last semester which will be updated slightly for this semester:
+These reference sheets will be handed out during the final exam:
 
-- [Prob 140 Distribution Reference Sheet](/assets/final_reference.pdf)
-- [Prob 140 Code Reference](/assets/final_reference_code.pdf)
+- [Prob 140 Distribution Reference Sheet](/assets/final_reference_fa18.pdf)
+- [Prob 140 Code Reference](/assets/final_reference_code_fa18.pdf)
 
