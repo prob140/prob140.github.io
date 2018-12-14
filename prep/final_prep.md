@@ -10,6 +10,7 @@ compilation of resources for the Final Exam.
 
 - [Scope of Final](/prep/final_content)
 - [Professor Adhikari's Problem Solving FAQ (Stat 134)](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)
+- [VLSB 2050 seat map](/assets/2050VLSBSeatMap.pdf)
 
 ## Practice Problems
 
@@ -24,4 +25,3 @@ These reference sheets will be handed out during the final exam:
 
 - [Prob 140 Distribution Reference Sheet](/assets/final_reference_fa18.pdf)
 - [Prob 140 Code Reference](/assets/final_reference_code_fa18.pdf)
-
