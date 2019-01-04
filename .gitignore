@@ -1,4 +1,7 @@
-# Ignore docs files
+# Ignore docs file
+vendor
+nohup.out
+.bundle
 _gh_pages
 _site
 .ruby-version
