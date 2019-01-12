@@ -31,9 +31,9 @@ It is your responsibility to familiarize yourself with the content of Data 8.
 - [Introduction to Probability](http://athenasc.com/probbook.html) by Dimitri Bertsekas and John Tsitsiklis
 
 ### How to Study ###
-Prob 140 is not designed for remote learning. Please come prepared to participate in lectures and discussion sections. We aim to give useful lectures and select useful exercises for the discussion sections. Discussion section content is designed to provide practice relevant to homework, lab, and exams. Don't miss out.
+Prob 140 is not designed for remote learning. Nor does it contain a lot of routine plug-and-chug. Please attend lectures and discussion sections because those always include conversations about problem solving. We aim to give useful lectures and select useful exercises for the sections. Section content is designed to provide practice relevant to homework, lab, and exams. Don't miss out.
 
-Each lecture contains a lot of detailed material. It's not reasonable for you to expect that you will simply remember it all when you start doing your homework. The assignments are created under the assumption that you will have read the text (yes, really) and done many of the review problems *before* you attempt the assignments. This is standard in upper division math and stat classes.
+Each lecture contains a lot of detailed material. It is not reasonable for you to expect that you will simply remember it all when you start doing your homework. The assignments are created under the assumption that you will have read the text (yes, really) and done many of the review problems *before* you attempt the assignments. This is standard in upper division math and stat classes.
 
 You will be able to follow the text much faster if you have attended lecture. You will be able to do your assignments much faster and more independently if you have done the preparatory work beforehand.
 
@@ -45,14 +45,14 @@ Students have found these methods to be useful. For their advice, see the [About
 
 ### The Required Components of Your Work ###
 - **Weekly homework**, typically involving both math and computing, which you will do in Jupyter notebooks and on paper and then turn in on Gradescope. Homework will be posted each Tuesday and will be **due by noon on Tuesday** of the following week. In some weeks there may be deviations from this due to exams or holidays; we'll let you know. Homework is graded based on correctness. As there is plenty of support available and you have a week to do the work, we expect that you will get the problems pretty much wholly right.
-- **Weekly lab**, typically involving both math and computing, which you will also do in Juypter notebooks and on paper and then turn in on Gradescope. **You may attend only the lab in which you are enrolled.** Labs will be posted each Tuesday and will be **due by noon on Saturday** of the same week. How long it will take you to complete each lab will depend on your fluency with both the mathematical and computational aspects of the content. Part of discussion section content will be pertinent to lab. We recommend that you familiarize yourself with the lab at the latest after attending section on Wednesday and preferably earlier in the week. Labs will be graded for correctness as well as completion. 
+- **Weekly lab**, typically involving both math and computing, which you will also do in Juypter notebooks and on paper and then turn in on Gradescope. Labs will be posted each Tuesday and will be **due by noon on Saturday** of the same week. How long it will take you to complete each lab will depend on your fluency with both the mathematical and computational aspects of the content. Part of discussion section content will be pertinent to lab. We recommend that you familiarize yourself with the lab at the latest after attending section on Wednesday and preferably earlier in the week. Labs will be graded for correctness as well as completion. 
 - **Quizzes** four times during the term, **in the discussion section in which you are enrolled**. No computers involved. Dates will be posted before the first day of class.
     - Quiz 1: TBA
     - Quiz 2: TBA
     - Quiz 3: TBA
     - Quiz 4: TBA
 - **Midterm in class**, date TBA. No substitutes except as required by university rules. No computers involved.
-- **Final Exam on Friday May 17, 11:30 a.m. to 2:30 p.m., Exam Group 18**. Room to be announced. No computers involved, though you will have to read code. No substitutes except as required by university rules. No computers involved. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
+- **Final Exam on Friday May 17, 11:30 a.m. to 2:30 p.m., Exam Group 18**. Room to be announced. No substitutes except as required by university rules. No computers involved, though you will have to read code. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
 
 Data science is not a solitary activity; please expect to participate in lectures, discussion section, and lab. Lectures will not be webcast. The online text will contain what is covered but it might have different examples. And of course it will not contain the discussions generated by questions asked in class.
 
