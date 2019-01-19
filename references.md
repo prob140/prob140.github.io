@@ -6,8 +6,8 @@ title: Resources
 
 ### Mathematics Prerequisites
 - Summation Notation - [Here](http://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf) is a terrific summary by Prof. [James Aspnes](http://www.cs.yale.edu/homes/aspnes/) of the Yale CS department.
-- Exponential Approximations - [Exponential Approximation](/resources/exponential_approximations)
-- Mathematical Induction [Here](https://www.cs.cmu.edu/~adamchik/21-127/lectures/induction_1_print.pdf) is a clear and concise exposition, with several examples, by Prof. [Victor Adamchik](http://www.cs.cmu.edu/~adamchik/) of the CS department at Carnegie Mellon.
+- Exponential and Log Functions - [Graphs and Approximations](/resources/exponential_approximations)
+- Mathematical Induction - [Here](https://www.cs.cmu.edu/~adamchik/21-127/lectures/induction_1_print.pdf) is a clear and concise exposition, with several examples, by Prof. [Victor Adamchik](http://www.cs.cmu.edu/~adamchik/) of the CS department at Carnegie Mellon.
 - Double Integrals - [Here](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/lecture-16-double-integral) is a beautiful lecture by Prof. [Denis Auroux](https://math.berkeley.edu/~auroux/) of the Berkeley Math department, recorded when he was at MIT. If you have studied double integrals before, you can start at around 15:30. 
 - **[Exercises](/assets/prereq.pdf)**
 
