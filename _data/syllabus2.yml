@@ -89,7 +89,7 @@ weeks:
     weekDuration: 3/4-3/8
     basic:
     - date: Tue 3/5
-      content: "Lecture 12: SD and Tail Bounds"
+      content: "Lecture 12: SD and tail bounds"
     - date: Wed 3/6
       content: "Discussion"
     - date: Thu 3/7
@@ -163,7 +163,7 @@ weeks:
     - date: Wed 4/10
       content: "QUIZ 3"
     - date: Thu 4/11
-      content: "Lecture 21: Beta Family; Posterior Distributions; MAP Estimates"
+      content: "Lecture 21: Beta family; posterior distributions; MAP estimates"
     - date: Fri 4/12
       content: "Discussion; Supplementary Sections"
     links:
@@ -173,11 +173,11 @@ weeks:
     weekDuration: 4/15-4/19
     basic:
     - date: Tue 4/16
-      content: "Lecture 22: The Beta and the Binomial"
+      content: "Lecture 22: The beta and the binomial"
     - date: Wed 4/17
       content: "Discussion"
     - date: Thu 4/18
-      content: "Lecture 23: Prediction and Error"
+      content: "Lecture 23: Prediction and error"
     - date: Fri 4/19
       content: "Discussion; Supplementary Sections"
     links:
@@ -187,11 +187,11 @@ weeks:
     weekDuration: 4/22-4/26
     basic:
     - date: Tue 4/23
-      content: "Lecture 24: Random Vectors; the Multivariate Normal"
+      content: "Lecture 24: Random vectors; the multivariate normal"
     - date: Wed 4/24
       content: "QUIZ 4"
     - date: Thu 4/25
-      content: "Lecture 25: Properties of the Multivariate Normal; the Bivariate Case"
+      content: "Lecture 25: Properties of the multivariate normal; the bivariate case"
     - date: Fri 4/26
       content: "Discussion; Supplementary Sections"
     links:
@@ -202,11 +202,11 @@ weeks:
     weekDuration: 4/29-5/3
     basic:
     - date: Tue 4/30
-      content: "Lecture 26: Correlation and Simple Regression"
+      content: "Lecture 26: Correlation and simple regression"
     - date: Wed 5/1
       content: "Discussion"
     - date: Thu 5/2
-      content: "Lecture 27: Multiple Regression"
+      content: "Lecture 27: Multiple regression"
     - date: Fri 5/3
       content: "Discussion"
     links:
@@ -236,6 +236,6 @@ weeks:
     - date: Thu 5/16
       content: 
     - date: Fri 5/17
-      content: "FINAL EXAM (11:30AM-2:30PM)"
+      content: "FINAL EXAM (11:30 a.m. to 2:30 p.m.)"
     links:
 
