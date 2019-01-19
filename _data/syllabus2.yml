@@ -4,11 +4,11 @@ weeks:
     weekDuration: 1/22-1/25
     basic:
     - date: Tue 1/22
-      content: "Lecture 1: Probability: Axioms, Rules, Approximation"
+      content: "Lecture 1: Probability — axioms, rules, approximation"
     - date: Wed 1/23
       content: "Discussion"
     - date: Thu 1/24
-      content: "Lecture 2: Random Variables: Distributions, Conditioning, Equality"
+      content: "Lecture 2: Random variables — distributions, conditioning, equality"
     - date: Fri 1/25
       content: "Discussion; Supplementary Sections"
     links:
@@ -18,11 +18,11 @@ weeks:
     weekDuration: 1/28-2/1
     basic:
     - date: Tue 1/29
-      content: "Lecture 3: Symmetry and Collections of Events"
+      content: "Lecture 3: Symmetry and collections of events"
     - date: Wed 1/30
       content: "Discussion"
     - date: Thu 1/31
-      content: "Lecture 4: Binomial and Related Counts; a Poisson Limit"
+      content: "Lecture 4: Binomial and related counts; a Poisson limit"
     - date: Fri 2/1
       content: "Discussion; Supplementary Sections"
     links:
@@ -36,7 +36,7 @@ weeks:
     - date: Wed 2/6
       content: "QUIZ 1"
     - date: Thu 2/7
-      content: "Lecture 6: Expectation and Additivity"
+      content: "Lecture 6: Expectation and additivity"
     - date: Fri 2/8
       content: "Discussion; Supplementary Sections"
     links:
@@ -47,11 +47,11 @@ weeks:
     weekDuration: 2/11-2/15
     basic:
     - date: Tue 2/12
-      content: "Lecture 7: Expectation by Conditioning"
+      content: "Lecture 7: Expectation by conditioning"
     - date: Wed 2/13
       content: "Discussion"
     - date: Thu 2/14
-      content: "Lecture 8: Long Run Behavior of Markov Chains"
+      content: "Lecture 8: Long run behavior of Markov Chains"
     - date: Fri 2/15
       content: "Discussion; Supplementary Sections"
     links:
@@ -75,7 +75,7 @@ weeks:
     weekDuration: 2/25-3/1
     basic:
     - date: Tue 2/26
-      content: "Lecture 11: Midterm Review"
+      content: "Lecture 11: Midterm review"
     - date: Wed 2/27
       content: "Discussion"
     - date: Thu 2/28
@@ -89,11 +89,11 @@ weeks:
     weekDuration: 3/4-3/8
     basic:
     - date: Tue 3/5
-      content: "Lecture 12: SD: Tail Bounds"
+      content: "Lecture 12: SD and Tail Bounds"
     - date: Wed 3/6
       content: "Discussion"
     - date: Thu 3/7
-      content: "Lecture 13: Covariance and its Uses"
+      content: "Lecture 13: Covariance and its uses"
     - date: Fri 3/8
       content: "Discussion; Supplementary Sections"
     links:
@@ -107,7 +107,7 @@ weeks:
     - date: Wed 3/13
       content: "Discussion"
     - date: Thu 3/14
-      content: "Lecture 15: Probability Densities"
+      content: "Lecture 15: Probability densities"
     - date: Fri 3/15
       content: "Discussion; Supplementary Sections"
     links:
@@ -121,7 +121,7 @@ weeks:
     - date: Wed 3/20
       content: "QUIZ 2"
     - date: Thu 3/21
-      content: "Lecture 17: Joint Densities"
+      content: "Lecture 17: Joint densities"
     - date: Fri 3/22
       content: "Discussion; Supplementary Sections"
     links:
@@ -131,13 +131,13 @@ weeks:
     weekDuration: 3/25-3/31
     basic:
     - date: Tue 3/26
-      content: "HOLIDAY"
+      content: "Holiday"
     - date: Wed 3/27
-      content: "HOLIDAY"
+      content: "Holiday"
     - date: Thu 3/28
-      content: "HOLIDAY"
+      content: "Holiday"
     - date: Fri 3/29
-      content: "HOLIDAY"
+      content: "Holiday"
     links:
 
   - weekNum: 11
@@ -145,11 +145,11 @@ weeks:
     weekDuration: 4/1-4/5
     basic:
     - date: Tue 4/2
-      content: "Lecture 18: Independent Normal and Gamma variables; Moment Generating Functions"
+      content: "Lecture 18: Independent normal and gamma variables; moment generating functions"
     - date: Wed 4/3
       content: "Discussion"
     - date: Thu 4/4
-      content: "Lecture 19: CLT Revisited; Chernoff Bound"
+      content: "Lecture 19: CLT revisited; Chernoff bound"
     - date: Fri 4/5
       content: "Discussion; Supplementary Sections"
     links:
