@@ -1,1 +1,241 @@
 weeks:
+  - weekNum: 1
+    weekName: Week 1
+    weekDuration: 1/22-1/25
+    basic:
+    - date: Tue 1/22
+      content: "Lecture 1: Probability: Axioms, Rules, Approximation"
+    - date: Wed 1/23
+      content: "Discussion"
+    - date: Thu 1/24
+      content: "Lecture 2: Random Variables: Distributions, Conditioning, Equality"
+    - date: Fri 1/25
+      content: "Discussion"
+    links:
+
+  - weekNum: 2
+    weekName: Week 2
+    weekDuration: 1/28-2/1
+    basic:
+    - date: Tue 1/29
+      content: "Lecture 3: Symmetry and Collections of Events"
+    - date: Wed 1/30
+      content: "Discussion"
+    - date: Thu 1/31
+      content: "Lecture 4: Binomial and Related Counts; a Poisson Limit"
+    - date: Fri 2/1
+      content: "Discussion"
+    links:
+
+  - weekNum: 3
+    weekName: Week 3
+    weekDuration: 2/4-2/8
+    basic:
+    - date: Tue 2/5
+      content: "Lecture 5: Independence and Poissonization"
+    - date: Wed 2/6
+      content: "QUIZ 1"
+    - date: Thu 2/7
+      content: "Lecture 6: Expectation and Additivity"
+    - date: Fri 2/8
+      content: "Discussion"
+    links:
+
+
+  - weekNum: 4
+    weekName: Week 4
+    weekDuration: 2/11-2/15
+    basic:
+    - date: Tue 2/12
+      content: "Lecture 7: Expectation by Conditioning"
+    - date: Wed 2/13
+      content: "Discussion"
+    - date: Thu 2/14
+      content: "Lecture 8: Long Run Behavior of Markov Chains"
+    - date: Fri 2/15
+      content: "Discussion"
+    links:
+
+  - weekNum: 5
+    weekName: Week 5
+    weekDuration: 2/18-2/22
+    basic:
+    - date: Tue 2/19
+      content: "Lecture 9: Balance"
+    - date: Wed 2/20
+      content: "QUIZ 1"
+    - date: Thu 2/21
+      content: "Lecture 10: Markov Chain Monte Carlo"
+    - date: Fri 2/22
+      content: "Discussion"
+    links:
+
+  - weekNum: 6
+    weekName: Week 6
+    weekDuration: 2/25-3/1
+    basic:
+    - date: Tue 2/26
+      content: "Lecture 11: Midterm Review"
+    - date: Wed 2/27
+      content: "Discussion"
+    - date: Thu 2/28
+      content: "MIDTERM (In class)"
+    - date: Fri 3/1
+      content:
+    links:
+
+  - weekNum: 7
+    weekName: Week 7
+    weekDuration: 3/4-3/8
+    basic:
+    - date: Tue 3/5
+      content: "Lecture 12: SD: Tail Bounds"
+    - date: Wed 3/6
+      content: "Discussion"
+    - date: Thu 3/7
+      content: "Lecture 13: Covariance and its Uses"
+    - date: Fri 3/8
+      content: "Discussion"
+    links:
+
+  - weekNum: 8
+    weekName: Week 8
+    weekDuration: 3/11-3/15
+    basic:
+    - date: Tue 3/12
+      content: "Lecture 14: Central Limit Theorem"
+    - date: Wed 3/13
+      content: "Discussion"
+    - date: Thu 3/14
+      content: "Lecture 15: Probability Densities"
+    - date: Fri 3/15
+      content: "Discussion"
+    links:
+
+  - weekNum: 9
+    weekName: Week 9
+    weekDuration: 3/18-3/22
+    basic:
+    - date: Tue 3/19
+      content: "Lecture 16: Transformations"
+    - date: Wed 3/20
+      content: "QUIZ 2"
+    - date: Thu 3/21
+      content: "Lecture 17: Joint Densities"
+    - date: Fri 3/22
+      content: "Discussion"
+    links:
+
+  - weekNum: 10
+    weekName: Spring Break
+    weekDuration: 3/25-3/31
+    basic:
+    - date: Tue 3/26
+      content: "HOLIDAY"
+    - date: Wed 3/27
+      content: "HOLIDAY"
+    - date: Thu 3/28
+      content: "HOLIDAY"
+    - date: Fri 3/29
+      content: "HOLIDAY"
+    links:
+
+  - weekNum: 11
+    weekName: Week 11
+    weekDuration: 4/1-4/5
+    basic:
+    - date: Tue 4/2
+      content: "Lecture 18: Independent Normal and Gamma variables; Moment Generating Functions"
+    - date: Wed 4/3
+      content: "Discussion"
+    - date: Thu 4/4
+      content: "Lecture 19: CLT Revisited; Chernoff Bound"
+    - date: Fri 4/5
+      content: "Discussion"
+    links:
+
+  - weekNum: 12
+    weekName: Week 12
+    weekDuration: 4/8-4/12
+    basic:
+    - date: Tue 4/9
+      content: "Lecture 20: MLE"
+    - date: Wed 4/10
+      content: "QUIZ 3"
+    - date: Thu 4/11
+      content: "Lecture 21: Beta Family; Posterior Distributions; MAP Estimates"
+    - date: Fri 4/12
+      content: "Discussion"
+    links:
+
+  - weekNum: 13
+    weekName: Week 13
+    weekDuration: 4/15-4/19
+    basic:
+    - date: Tue 4/16
+      content: "Lecture 22: The Beta and the Binomial"
+    - date: Wed 4/17
+      content: "Discussion"
+    - date: Thu 4/18
+      content: "Lecture 23: Prediction and Error"
+    - date: Fri 4/19
+      content: "Discussion"
+    links:
+
+  - weekNum: 14
+    weekName: Week 14
+    weekDuration: 4/22-4/26
+    basic:
+    - date: Tue 4/22
+      content: "Lecture 24: Random Vectors; the Multivariate Normal"
+    - date: Wed 4/23
+      content: "QUIZ 4"
+    - date: Thu 4/24
+      content: "Lecture 25: Properties of the Multivariate Normal; the Bivariate Case"
+    - date: Fri 4/25
+      content: "Discussion"
+    links:
+
+
+  - weekNum: 15
+    weekName: Week 15
+    weekDuration: 4/29-5/3
+    basic:
+    - date: Tue 4/30
+      content: "Lecture 26: Correlation and Simple Regression"
+    - date: Wed 5/1
+      content: "Discussion"
+    - date: Thu 5/2
+      content: "Lecture 27: Multiple Regression"
+    - date: Fri 5/3
+      content: "Discussion"
+    links:
+
+  - weekNum: 16
+    weekName: RRR Week
+    weekDuration: 5/6-5/10
+    basic:
+    - date: Tue 5/7
+      content: 
+    - date: Wed 5/8
+      content: 
+    - date: Thu 5/9
+      content: 
+    - date: Fri 5/10
+      content:
+    links:
+
+  - weekNum: 17
+    weekName: Finals Week
+    weekDuration: 5/13-5/17
+    basic:
+    - date: Tue 5/14
+      content: 
+    - date: Wed 5/15
+      content: 
+    - date: Thu 5/16
+      content: 
+    - date: Fri 5/17
+      content: "FINAL EXAM (11:30AM-2:30PM)"
+    links:
+
