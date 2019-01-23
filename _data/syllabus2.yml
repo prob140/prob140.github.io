@@ -5,6 +5,13 @@ weeks:
     basic:
     - date: Tue 1/22
       content: "Lecture 1: Probability — axioms, rules, approximation"
+      assignments:
+        - name: Week 1 Guide
+          url: /prep/prep01
+        - name: "Lab 1: Birthday Attack (Due 1/26 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_01.ipynb
+        - name: HW 1 (Due 1/29 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_01.ipynb
     - date: Wed 1/23
       content: "Discussion"
     - date: Thu 1/24
@@ -12,6 +19,12 @@ weeks:
     - date: Fri 1/25
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 1 Guide
+        url: /prep/prep01
+      - name: "Lab 1: Birthday Attack (Due 1/26 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_01.ipynb
+      - name: HW 1 (Due 1/29 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_01.ipynb
 
   - weekNum: 2
     weekName: Symmetry and Random Counts
