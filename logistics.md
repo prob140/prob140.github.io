@@ -4,8 +4,6 @@ title: Prob 140 Course Information, Spring 2019
 ---
 #### A. Adhikari ####
 
-#### THIS IS A DRAFT. THE FINAL VERSION WILL BE POSTED BEFORE THE FIRST DAY OF CLASS. ####
-
 You must enroll in the lecture and in a discussion section that meets twice weekly. See the [Academic Guide](https://classes.berkeley.edu/content/2019-spring-stat-140-001-lec-001) for details. You can attend only the discussion section in which you are enrolled. Note that portions of the discussion sections will be devoted to the weekly labs.
 
 You may also enroll in an optional Supplementary Section which will be held late on Friday afternoons, room and time TBA. This is for additional support with the weekly lab.
