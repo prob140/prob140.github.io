@@ -32,6 +32,9 @@ weeks:
     basic:
     - date: Tue 1/29
       content: "Lecture 3: Symmetry and collections of events"
+      assignments:
+        - name: Week 2 Guide
+          url: /prep/prep02
     - date: Wed 1/30
       content: "Discussion"
     - date: Thu 1/31
@@ -39,6 +42,8 @@ weeks:
     - date: Fri 2/1
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 2 Guide
+        url: /prep/prep02
 
   - weekNum: 3
     weekName: Poissonization; Expectation
