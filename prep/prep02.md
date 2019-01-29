@@ -36,3 +36,8 @@ In this week's sections you will develop solutions or solution guides to parts o
 [Review Set 1:](http://prob140.org/textbook/chapters/Chapter_05/05_Review_Problems_Set_1) 12, 14, 22, 27, 37
 
 [Review Set 2:](http://prob140.org/textbook/chapters/Chapter_08/04_Review_Problems_Set_2) 3, 5, 11, 19
+
+### Preparation for Quiz 1, Wednesday 2/6 (Week 3) ###
+Quiz questions are based on (but are not clones of) questions already available to you. Quizzes do not involve code.
+
+For Quiz 1, please study the logic and methods of calculation involved in the exercises in Homeworks 1 and 2, Review Set 1, and Exercises 1, 3, 5, 8, 9, 11, 13, 14, 16, 18, 19 of Review Set 2.
