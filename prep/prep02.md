@@ -31,7 +31,7 @@ In section you will work on practice problems and also on the week's lab if need
 
 The focus will be on approaches to problem-solving. So for example you might develop clear outlines for how to solve several problems, instead of finding the detailed answers to just a few.
 
-In this week's sections you will develop solutions or solution guides to parts of Lab 2 as well as the following, not necessarily in the order listed.
+**In Wednesday's section you will do Part 1 of Lab 2**. Exercises on Wednesday and Friday consist of the following, not necessarily in the order listed.
 
 [Review Set 1:](http://prob140.org/textbook/chapters/Chapter_05/05_Review_Problems_Set_1) 12, 14, 22, 27, 37
 
