@@ -35,6 +35,10 @@ weeks:
       assignments:
         - name: Week 2 Guide
           url: /prep/prep02
+        - name: "Lab 2: Total Variation (Due 2/2 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_02.ipynb
+        - name: HW 2 (Due 2/5 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_02.ipynb
     - date: Wed 1/30
       content: "Discussion"
     - date: Thu 1/31
@@ -44,6 +48,10 @@ weeks:
     links:
       - name: Week 2 Guide
         url: /prep/prep02
+      - name: "Lab 2: Total Variation (Due 2/2 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_02.ipynb
+      - name: HW 2 (Due 2/5 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_02.ipynb
 
   - weekNum: 3
     weekName: Poissonization; Expectation
