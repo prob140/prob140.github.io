@@ -21,9 +21,9 @@ weeks:
     links:
       - name: Week 1 Guide
         url: /prep/prep01
-      - name: "Lab 1: Birthday Attack (Due 1/26 noon)"
+      - name: "Lab 1: Birthday Attack (Due Sat 1/26 noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_01.ipynb
-      - name: HW 1 (Due 1/29 noon)
+      - name: HW 1 (Due Tue 1/29 noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_01.ipynb
 
   - weekNum: 2
@@ -35,9 +35,9 @@ weeks:
       assignments:
         - name: Week 2 Guide
           url: /prep/prep02
-        - name: "Lab 2: Total Variation (Due 2/2 noon)"
+        - name: "Lab 2: Total Variation (Due Sat 2/2 noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_02.ipynb
-        - name: HW 2 (Due 2/5 noon)
+        - name: HW 2 (Due Tue 2/5 noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_02.ipynb
     - date: Wed 1/30
       content: "Discussion"
@@ -48,9 +48,9 @@ weeks:
     links:
       - name: Week 2 Guide
         url: /prep/prep02
-      - name: "Lab 2: Total Variation (Due 2/2 noon)"
+      - name: "Lab 2: Total Variation (Due Sat 2/2 noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_02.ipynb
-      - name: HW 2 (Due 2/5 noon)
+      - name: HW 2 (Due Tue 2/5 noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_02.ipynb
 
   - weekNum: 3
