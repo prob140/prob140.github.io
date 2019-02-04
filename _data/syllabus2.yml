@@ -59,6 +59,9 @@ weeks:
     basic:
     - date: Tue 2/5
       content: "Lecture 5: Independence and Poissonization"
+      assignments:
+        - name: Week 3 Guide
+          url: /prep/prep03
     - date: Wed 2/6
       content: "QUIZ 1"
     - date: Thu 2/7
@@ -66,7 +69,8 @@ weeks:
     - date: Fri 2/8
       content: "Discussion; Supplementary Sections"
     links:
-
+      - name: Week 3 Guide
+        url: /prep/prep03
 
   - weekNum: 4
     weekName: Conditioning and Markov Chains
