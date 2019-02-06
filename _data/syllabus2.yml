@@ -62,6 +62,10 @@ weeks:
       assignments:
         - name: Week 3 Guide
           url: /prep/prep03
+        - name: "Lab 3: Expectations of Discrete Order Statistics (Due Sat 2/9 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_03.ipynb
+        - name: HW 3 (Due Tue 2/12 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_03.ipynb
     - date: Wed 2/6
       content: "QUIZ 1"
     - date: Thu 2/7
@@ -71,6 +75,10 @@ weeks:
     links:
       - name: Week 3 Guide
         url: /prep/prep03
+      - name: "Lab 3: Expectations of Discrete Order Statistics (Due Sat 2/9 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_03.ipynb
+      - name: HW 3 (Due Tue 2/12 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_03.ipynb
 
   - weekNum: 4
     weekName: Conditioning and Markov Chains
