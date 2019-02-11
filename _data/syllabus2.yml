@@ -86,6 +86,9 @@ weeks:
     basic:
     - date: Tue 2/12
       content: "Lecture 7: Expectation by conditioning"
+      assignments:
+        - name: Week 4 Guide
+          url: /prep/prep04
     - date: Wed 2/13
       content: "Discussion"
     - date: Thu 2/14
@@ -93,6 +96,8 @@ weeks:
     - date: Fri 2/15
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 4 Guide
+        url: /prep/prep04
 
   - weekNum: 5
     weekName: MCMC
