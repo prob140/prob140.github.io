@@ -89,6 +89,10 @@ weeks:
       assignments:
         - name: Week 4 Guide
           url: /prep/prep04
+        - name: "Lab 4: Success Runs and Other Patterns (Due Sun 2/17 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_04.ipynb
+        - name: HW 4 (Due Tue 2/19 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_04.ipynb
     - date: Wed 2/13
       content: "Discussion"
     - date: Thu 2/14
@@ -98,6 +102,10 @@ weeks:
     links:
       - name: Week 4 Guide
         url: /prep/prep04
+      - name: "Lab 4: Success Runs and Other Patterns (Due Sun 2/17 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_04.ipynb
+      - name: HW 4 (Due Tue 2/19 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_04.ipynb
 
   - weekNum: 5
     weekName: MCMC
