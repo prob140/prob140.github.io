@@ -116,8 +116,12 @@ weeks:
       assignments:
         - name: Week 5 Guide
           url: /prep/prep05
-        - name: Midterm prep
+        - name: Midterm Prep
           url: midterm_practice
+        - name: "Lab 5: Codebreaking by MCMC (Due Sat 2/23 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_05.ipynb
+        - name: HW 5 (Due Tue 2/26 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_05.ipynb
     - date: Wed 2/20
       content: "Discussion"
     - date: Thu 2/21
@@ -127,8 +131,12 @@ weeks:
     links:
       - name: Week 5 Guide
         url: /prep/prep05
-      - name: Midterm prep
+      - name: Midterm Prep
         url: midterm_practice
+      - name: "Lab 5: Codebreaking by MCMC (Due Sat 2/23 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_05.ipynb
+      - name: HW 5 (Due Tue 2/26 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_05.ipynb
 
   - weekNum: 6
     weekName: Midterm Week
