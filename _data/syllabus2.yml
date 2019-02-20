@@ -113,6 +113,11 @@ weeks:
     basic:
     - date: Tue 2/19
       content: "Lecture 9: Balance"
+      assignments:
+        - name: Week 5 Guide
+          url: /prep/prep05
+        - name: Midterm prep
+          url: midterm_practice
     - date: Wed 2/20
       content: "Discussion"
     - date: Thu 2/21
@@ -120,6 +125,10 @@ weeks:
     - date: Fri 2/22
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 5 Guide
+        url: /prep/prep05
+      - name: Midterm prep
+        url: midterm_practice
 
   - weekNum: 6
     weekName: Midterm Week
