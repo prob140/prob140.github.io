@@ -158,6 +158,9 @@ weeks:
     basic:
     - date: Tue 3/5
       content: "Lecture 12: SD and tail bounds"
+      assignments:
+        - name: Week 7 Guide
+          url: /prep/prep07
     - date: Wed 3/6
       content: "Discussion"
     - date: Thu 3/7
@@ -165,6 +168,8 @@ weeks:
     - date: Fri 3/8
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 7 Guide
+        url: /prep/prep07
 
   - weekNum: 8
     weekName: Continuous Distributions
