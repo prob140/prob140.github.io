@@ -161,6 +161,10 @@ weeks:
       assignments:
         - name: Week 7 Guide
           url: /prep/prep07
+        - name: "Lab 6: Decisions Based on Ranks (Due Sat 3/9 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_06.ipynb
+        - name: HW 6 (Due Tue 3/12 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_06.ipynb
     - date: Wed 3/6
       content: "Discussion"
     - date: Thu 3/7
@@ -170,6 +174,11 @@ weeks:
     links:
       - name: Week 7 Guide
         url: /prep/prep07
+      - name: "Lab 6: Decisions Based on Ranks (Due Sat 3/9 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_06.ipynb
+      - name: HW 6 (Due Tue 3/12 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_06.ipynb
+
 
   - weekNum: 8
     weekName: Continuous Distributions
