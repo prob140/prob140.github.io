@@ -186,6 +186,9 @@ weeks:
     basic:
     - date: Tue 3/12
       content: "Lecture 14: Central Limit Theorem"
+      assignments:
+        - name: Week 8 Guide
+          url: /prep/prep08
     - date: Wed 3/13
       content: "Discussion"
     - date: Thu 3/14
@@ -193,6 +196,9 @@ weeks:
     - date: Fri 3/15
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 8 Guide
+        url: /prep/prep08
+
 
   - weekNum: 9
     weekName: Working with Continuous Distributions
@@ -207,6 +213,7 @@ weeks:
     - date: Fri 3/22
       content: "Discussion; Supplementary Sections"
     links:
+
 
   - weekNum: 10
     weekName: Spring Break
