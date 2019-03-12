@@ -8,9 +8,9 @@ Please do the required reading before attempting problems. Not only does it cont
 ### Reading ###
 The course follows the textbook in sequence. So you will always know which chapters are going to be covered: start where you left off in the previous week, and compare the [home page calendar](http://prob140.org/) with the [Table of Contents](http://prob140.org/textbook/chapters/README) to see where to stop.
 
-Lectures will cover Chapters 12 and 13 this week.
+Lectures will cover Chapters 14 and 15 this week.
 
-**Highly Recommended:** Pitman Section 3.3 (pages 185-195) and 6.4 (pages 430-431, 441-443)
+**Highly Recommended:** Pitman Sections 3.3 (pages 193-197), 4.1, and 4.2 (pages 278-282)
 
 
 ### Practice Problems ###
