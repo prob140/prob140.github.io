@@ -189,6 +189,10 @@ weeks:
       assignments:
         - name: Week 8 Guide
           url: /prep/prep08
+        - name: "Lab 7: Simulation and the CDF (Due Sat 3/16 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_07.ipynb
+        - name: HW 7 (Due Tue 3/19 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_07.ipynb
     - date: Wed 3/13
       content: "Discussion"
     - date: Thu 3/14
@@ -198,6 +202,10 @@ weeks:
     links:
       - name: Week 8 Guide
         url: /prep/prep08
+      - name: "Lab 7: Simulation and the CDF (Due Sat 3/16 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_07.ipynb
+      - name: HW 7 (Due Tue 3/19 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_07.ipynb
 
 
   - weekNum: 9
