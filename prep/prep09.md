@@ -21,7 +21,7 @@ Each Review Set has two parts: The Basics and Additional Practice. Please do all
 
 [Review Set 4](http://prob140.org/textbook/chapters/Chapter_18/05_Review_Problems_Set_4) is based on the material of Chapters 16 through 18. Those chapters build on the previous ones, so you have to be familiar with the previous chapters as well.
 
-- The Basics: 1, 4, 6
+- The Basics: 1, 2, 4, 6
 - Additional Practice: 11, 13b, 17, 19
 
 
@@ -30,6 +30,8 @@ In section you will work on practice problems and also on the week's lab if need
 
 The focus will be on approaches to problem-solving. So for example you might develop clear outlines for how to solve several problems, instead of finding the detailed answers to just a few.
 
-[Review Set 4](http://prob140.org/textbook/chapters/Chapter_18/05_Review_Problems_Set_4) 1, 2, 3, 5, 13a, 14, and also Lab 8.
+There is a quiz in section this week, so the list of exercises is shorter than usual.
+
+[Review Set 4](http://prob140.org/textbook/chapters/Chapter_18/05_Review_Problems_Set_4) 3, 5, 13a, 14, and also Lab 8.
 
 ### Happy Spring Break! ###
