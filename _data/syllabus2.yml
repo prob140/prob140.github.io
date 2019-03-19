@@ -214,13 +214,18 @@ weeks:
     basic:
     - date: Tue 3/19
       content: "Lecture 16: Transformations"
+      assignments:
+        - name: Week 9 Guide
+          url: /prep/prep09
     - date: Wed 3/20
       content: "QUIZ 2"
     - date: Thu 3/21
       content: "Lecture 17: Joint densities"
     - date: Fri 3/22
-      content: "Discussion; Supplementary Sections"
+      content: "Discussion"
     links:
+      - name: Week 9 Guide
+        url: /prep/prep09
 
 
   - weekNum: 10
