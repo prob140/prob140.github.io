@@ -217,6 +217,10 @@ weeks:
       assignments:
         - name: Week 9 Guide
           url: /prep/prep09
+        - name: "Lab 8: Densities and SymPy (Due Sun 3/24 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_08.ipynb
+        - name: HW 8 (Due Tue 4/2 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_08.ipynb
     - date: Wed 3/20
       content: "QUIZ 2"
     - date: Thu 3/21
@@ -226,6 +230,10 @@ weeks:
     links:
       - name: Week 9 Guide
         url: /prep/prep09
+      - name: "Lab 8: Densities and SymPy (Due Sun 3/24 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_08.ipynb
+      - name: HW 8 (Due Tue 4/2 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_08.ipynb
 
 
   - weekNum: 10
