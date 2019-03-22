@@ -225,6 +225,9 @@ weeks:
       content: "QUIZ 2"
     - date: Thu 3/21
       content: "Lecture 17: Joint densities"
+      assignments:
+        - name: Lecture 17 Demo
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=demos/Lec_03_21_demo.ipynb
     - date: Fri 3/22
       content: "Discussion"
     links:
@@ -234,7 +237,8 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_08.ipynb
       - name: HW 8 (Due Tue 4/2 noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_08.ipynb
-
+      - name: Lecture 17 Demo
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=demos/Lec_03_21_demo.ipynb
 
   - weekNum: 10
     weekName: Spring Break
