@@ -260,6 +260,11 @@ weeks:
     basic:
     - date: Tue 4/2
       content: "Lecture 18: Independent normal and gamma variables; moment generating functions"
+      assignments:
+        - name: Week 11 Guide
+          url: /prep/prep11
+        - name: HW 9 (Due Tue 4/9 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_09.ipynb
     - date: Wed 4/3
       content: "Discussion"
     - date: Thu 4/4
@@ -267,6 +272,10 @@ weeks:
     - date: Fri 4/5
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 11 Guide
+        url: /prep/prep11
+      - name: HW 9 (Due Tue 4/9 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_09.ipynb
 
   - weekNum: 12
     weekName: MLE, MAP, and the Beta Family
