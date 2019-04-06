@@ -265,6 +265,8 @@ weeks:
           url: /prep/prep11
         - name: HW 9 (Due Tue 4/9 noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_09.ipynb
+        - name: "Lab 9: Poisson Process (Due Sat 4/13 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/3
       content: "Discussion"
     - date: Thu 4/4
@@ -276,6 +278,8 @@ weeks:
         url: /prep/prep11
       - name: HW 9 (Due Tue 4/9 noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_09.ipynb
+      - name: "Lab 9: Poisson Process (Due Sat 4/13 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_09.ipynb
 
   - weekNum: 12
     weekName: MLE, MAP, and the Beta Family
@@ -283,6 +287,9 @@ weeks:
     basic:
     - date: Tue 4/9
       content: "Lecture 20: MLE"
+      assignments:
+        - name: "Lab 9: Poisson Process (Due Sat 4/13 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/10
       content: "QUIZ 3"
     - date: Thu 4/11
@@ -290,6 +297,8 @@ weeks:
     - date: Fri 4/12
       content: "Discussion; Supplementary Sections"
     links:
+      - name: "Lab 9: Poisson Process (Due Sat 4/13 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_09.ipynb
 
   - weekNum: 13
     weekName: Beta-Binomial and Prediction
