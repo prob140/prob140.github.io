@@ -288,6 +288,10 @@ weeks:
     - date: Tue 4/9
       content: "Lecture 20: MLE"
       assignments:
+        - name: Week 12 Guide
+          url: /prep/prep12
+        - name: HW 10 (Due Tue 4/16 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_10.ipynb
         - name: "Lab 9: Poisson Process (Due Sat 4/13 noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/10
@@ -297,8 +301,13 @@ weeks:
     - date: Fri 4/12
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 12 Guide
+        url: /prep/prep12
+      - name: HW 10 (Due Tue 4/16 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_10.ipynb
       - name: "Lab 9: Poisson Process (Due Sat 4/13 noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_09.ipynb
+
 
   - weekNum: 13
     weekName: Beta-Binomial and Prediction
