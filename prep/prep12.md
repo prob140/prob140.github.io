@@ -16,7 +16,7 @@ Lectures will cover Chapters 20 and 21 this week.
 ### Practice Problems ###
 The goal of practice is for you to figure out how to get started on a solution and see it through to the end. To achieve this, you have to be prepared to go over the background reading and examples and then mess around with the ideas **yourself** to come up with steps that will lead to a solution. It will not be achieved if you just read solutions created by others.
 
-[Further Review Exericses](http://prob140.org/textbook/chapters/Chapter_25/04_Further_Review_Exercises) consist of several problems on the material of Chapters 19 onwards. Those chapters build on the previous ones, so you have to be familiar with the previous chapters as well.
+[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/05_Further_Review_Exercises) consist of several problems on the material of Chapters 19 onwards. Those chapters build on the previous ones, so you have to be familiar with the previous chapters as well.
 
 Exercises 2, 5, 6 
 
@@ -27,4 +27,4 @@ The focus will be on approaches to problem-solving. So for example you might dev
 
 There is a quiz this week so this list is short. Some time in sections will be spent on the week's lab.
 
-[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/04_Further_Review_Exercises) 3, 7, 8
+[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/05_Further_Review_Exercises) 3, 7, 8
