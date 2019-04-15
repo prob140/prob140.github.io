@@ -315,6 +315,9 @@ weeks:
     basic:
     - date: Tue 4/16
       content: "Lecture 22: The beta and the binomial"
+      assignments:
+        - name: Week 13 Guide
+          url: /prep/prep13
     - date: Wed 4/17
       content: "Discussion"
     - date: Thu 4/18
@@ -322,6 +325,8 @@ weeks:
     - date: Fri 4/19
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 13 Guide
+        url: /prep/prep13
 
   - weekNum: 14
     weekName: Multivariate Normal Distribution
