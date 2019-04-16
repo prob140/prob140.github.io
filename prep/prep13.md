@@ -21,7 +21,7 @@ In section you will work on practice problems and also on the week's lab if need
 
 The focus will be on approaches to problem-solving. So for example you might develop clear outlines for how to solve several problems, instead of finding the detailed answers to just a few.
 
-[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/04_Further_Review_Exercises) 9, 13, 14, 16, and (on Wednesday) some time spent on lab.
+[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/05_Further_Review_Exercises) 9, 13, 14, 16, and (on Wednesday) some time spent on lab.
 
 ### Prep for Quiz 4 (Wednesday 4/24) ###
 Topic: Relations between the normal, gamma, and beta families, including their relations with the binomial, geometric, and Poisson families.
