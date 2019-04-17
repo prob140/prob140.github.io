@@ -318,6 +318,10 @@ weeks:
       assignments:
         - name: Week 13 Guide
           url: /prep/prep13
+        - name: HW 11 (Due Tue 4/23 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_11.ipynb
+        - name: "Lab 10: Chinese Restaurant Process (Due Sat 4/20 noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_10.ipynb
     - date: Wed 4/17
       content: "Discussion"
     - date: Thu 4/18
@@ -327,6 +331,10 @@ weeks:
     links:
       - name: Week 13 Guide
         url: /prep/prep13
+      - name: HW 11 (Due Tue 4/23 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_11.ipynb
+      - name: "Lab 10: Chinese Restaurant Process (Due Sat 4/20 noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=lab/Lab_10.ipynb
 
   - weekNum: 14
     weekName: Multivariate Normal Distribution
