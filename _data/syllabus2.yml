@@ -343,6 +343,8 @@ weeks:
     - date: Tue 4/23
       content: "Lecture 24: Random vectors; the multivariate normal"
       assignments:
+        - name: Week 14 Guide
+          url: /prep/prep14
         - name: HW 12 (Due Tue 4/30 noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_12.ipynb
         - name: "Lab 11: Introduction to Jointly Normal Vectors (Due Sat 4/27 noon)"
@@ -354,6 +356,8 @@ weeks:
     - date: Fri 4/26
       content: "Discussion; Supplementary Sections"
     links:
+      - name: Week 14 Guide
+        url: /prep/prep14
       - name: HW 12 (Due Tue 4/30 noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_12.ipynb
       - name: "Lab 11: Introduction to Jointly Normal Vectors (Due Sat 4/27 noon)"
