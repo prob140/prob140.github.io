@@ -370,6 +370,11 @@ weeks:
     basic:
     - date: Tue 4/30
       content: "Lecture 26: Correlation and simple regression"
+      assignments:
+        - name: Week 15 Guide
+          url: /prep/prep15
+        - name: HW 13 (Due Sun 5/5 noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_13.ipynb
     - date: Wed 5/1
       content: "Discussion"
     - date: Thu 5/2
@@ -377,6 +382,10 @@ weeks:
     - date: Fri 5/3
       content: "Discussion"
     links:
+      - name: Week 15 Guide
+        url: /prep/prep15
+      - name: HW 13 (Due Sun 5/5 noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp19&branch=master&subPath=hw/Homework_13.ipynb
 
   - weekNum: 16
     weekName: RRR Week
