@@ -3,7 +3,7 @@ layout: page
 title: Spring 2019 Final Exam Resources
 ---
 
-The Final Exam will be held on Friday 5/17 from 11:30-2:30 PM.
+The Final Exam will be held on Friday 5/17 from 11:30 AM - 2:30 PM.
 
 This page contains some useful materials to help you study.
 
