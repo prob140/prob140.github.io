@@ -393,6 +393,9 @@ weeks:
     basic:
     - date: Tue 5/7
       content: 
+      assignments:
+        - name: Final Prep
+          url: final_practice
     - date: Wed 5/8
       content: 
     - date: Thu 5/9
@@ -400,6 +403,8 @@ weeks:
     - date: Fri 5/10
       content:
     links:
+      - name: Final Prep
+        url: final_practice
 
   - weekNum: 17
     weekName: Finals Week
