@@ -59,7 +59,7 @@ weeks:
       content: "Discussion"
 
   - weekNum: 4
-    weekName: Conditioning and Markov Chains
+    weekName: Expectation
     weekDuration: 9/16-9/20
     basic:
     - date: Tue 9/17
@@ -79,7 +79,7 @@ weeks:
       content: "Discussion"
 
   - weekNum: 5
-    weekName: MCMC
+    weekName: Conditioning and Markov Chains
     weekDuration: 9/23-9/27
     basic:
     - date: Tue 9/24
@@ -99,7 +99,7 @@ weeks:
       content: "Discussion"
 
   - weekNum: 6
-    weekName: Midterm Week
+    weekName: MCMC
     weekDuration: 9/30-10/4
     basic:
     - date: Tue 10/1
