@@ -137,7 +137,7 @@ weeks:
     - date: Thu 10/10
       content: "MIDTERM"
     - date: Fri 10/11
-      content: "Discussion"
+      content: "Day off: no Discussion"
     links:
 
   - weekNum: 8
@@ -316,7 +316,7 @@ weeks:
           - name:
             url:
       - date: Wed 11/27
-        content: "HOLIDAY"
+        content: "Non-instructional Day: no Discussion"
       - date: Thu 11/28
         content: "HOLIDAY"
       - date: Fri 11/29
