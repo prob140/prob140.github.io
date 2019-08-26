@@ -12,12 +12,11 @@ title: Resources
 - **[Exercises](/assets/prereq_math_sp19.pdf)**
 
 ### Inference Prerequisites
-- Data 8 - [Course Website](http://data8.org/sp18/) and [Textbook](http://inferentialthinking.com/)
+- Data 8 [Textbook](http://inferentialthinking.com/)
 
-### Probability References
+### Main Probability References
 - [Prob140 Textbook](https://textbook.prob140.org/)
 - [*Probability* by Jim Pitman](http://springer.com/us/book/9780387979748)
-- [*Theory meets Data*](/assets/tmd_11_18_2017.pdf)
 - [Problem Solving FAQ](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)  (from Professor Adhikari's Stat 134 class)
 - [Final Exam Reference](/assets/final_reference_fa18.pdf)
 
