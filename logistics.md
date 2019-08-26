@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Prob 140 Course Information, Spring 2019
+title: Prob 140 Course Information, Fall 2019
 ---
 #### A. Adhikari ####
 
-You must enroll in the lecture and in a discussion section that meets twice weekly. See the [Academic Guide](https://classes.berkeley.edu/content/2019-spring-stat-140-001-lec-001) for details. You can attend only the discussion section in which you are enrolled. Note that portions of the discussion sections will be devoted to the weekly labs.
+You must enroll in the lecture and in a discussion section that meets twice weekly. See the [Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-140-001-lec-001) for details. You can attend only the discussion section in which you are enrolled. Occasionally, portions of the discussion sections will be devoted to the weekly labs.
 
-You may also enroll in an optional Supplementary Section which will be held late on Friday afternoons, room and time TBA. This is for additional support with the weekly lab.
+You may also enroll in an optional Supplementary Section which will be held late on Thursday afternoons and possibly at other times TBA. This is for additional support with the weekly preparation and assignments.
 
 ### Enrollment and Prerequisites ###
-Please see the [Berkeley Academic Guide](https://classes.berkeley.edu/content/2019-spring-stat-140-001-lec-001) or the [About](http://prob140.org/about/) page for details, and note that enrollment is restricted to undergraduates.
+Please see the [Berkeley Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-140-001-lec-001) or the [About](http://prob140.org/about/) page for details, and note that enrollment is restricted to undergraduates.
 
 - We will revisit all of the inference covered in [Data 8](http://data8.org/fa18/) (Stat/CS/Info C8). The basics of probability are in Section 9.5 as well as Chapters 14 and 18 of the [Data 8 textbook](https://www.inferentialthinking.com/chapters/intro). You should also remind yourself of Python and the datascience library.
 
@@ -21,11 +21,10 @@ It is your responsibility to familiarize yourself with the content of Data 8.
 ### Texts ###
 #### Required: ####
 - [Probability for Data Science](http://prob140.org/textbook/chapters/README) by Ani Adhikari and Jim Pitman. 
-- [Probability](http://www.springer.com/us/book/9780387979748) by Jim Pitman, published by Springer NY. Available for Berkeley students on SpringerLink at no cost or low cost (for a printed version).
-- [Theory Meets Data](http://prob140.org/assets/tmd_11_18_2017.pdf) by Ani Adhikari (Dibya Ghosh, Editor), with contributions from students in the pilot offering of the Data 8 connector Stat 88, Probability and Mathematical Statistics in Data Science. 
+- [Probability](http://www.springer.com/us/book/9780387979748) by Jim Pitman, published by Springer NY. Available for Berkeley students on SpringerLink at no cost or low cost (for a printed version) provided you are logged on to AirBears2.
 
 #### Excellent references: ####
-- [Introduction to Probability](https://www.amazon.com/gp/product/1466575573/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466575573&linkCode=as2) by Joe Blitzstein and Jessica Hwang
+- [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
 - [Introduction to Probability](http://athenasc.com/probbook.html) by Dimitri Bertsekas and John Tsitsiklis
 
 ### How to Study ###
@@ -43,14 +42,13 @@ Students have found these methods to be useful. For their advice, see the [About
 
 ### The Required Components of Your Work ###
 - **Weekly homework**, typically involving both math and computing, which you will do in Jupyter notebooks and on paper and then turn in on Gradescope. Homework will be posted each Tuesday and will be **due by noon on Tuesday** of the following week. In some weeks there may be deviations from this due to exams or holidays; we'll let you know. Homework is graded based on correctness. As there is plenty of support available and you have a week to do the work, we expect that you will get the problems pretty much wholly right.
-- **Weekly lab**, typically involving both math and computing, which you will also do in Juypter notebooks and on paper and then turn in on Gradescope. Labs will be posted each Tuesday and will be **due by noon on Saturday** of the same week. How long it will take you to complete each lab will depend on your fluency with both the mathematical and computational aspects of the content. Part of discussion section content will be pertinent to lab. We recommend that you familiarize yourself with the lab at the latest after attending section on Wednesday and preferably earlier in the week. Labs will be graded for correctness as well as completion. 
-- **Quizzes** four times during the term, **in the discussion section in which you are enrolled**. No computers involved. Dates will be posted before the first day of class.
-    - Quiz 1: Wednesday 2/6
-    - Quiz 2: Wednesday 3/20
-    - Quiz 3: Wednesday 4/10
-    - Quiz 4: Wednesday 4/24
-- **Midterm in class on Thursday February 28**. No substitutes except as required by university rules. No computers involved.
-- **Final Exam on Friday May 17, 11:30 a.m. to 2:30 p.m., Exam Group 18**. Room to be announced. No substitutes except as required by university rules. No computers involved, though you will have to read code. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
+- **Weekly lab**, typically involving both math and computing, which you will also do in Juypter notebooks and on paper and then turn in on Gradescope. Labs will be posted each Tuesday and will be **due by noon on Sunday** of the same week. How long it will take you to complete each lab will depend on your fluency with both the mathematical and computational aspects of the content. Part of discussion section content will be pertinent to lab. We recommend that you familiarize yourself with the lab at the latest after attending section on Wednesday and preferably earlier in the week. Labs will be graded for correctness as well as completion. 
+- **Quizzes** three times during the term, **in the discussion section in which you are enrolled**. No computers involved. Dates: 
+    - Quiz 1: Wednesday 9/11
+    - Quiz 2: Wednesday 10/30
+    - Quiz 3: Wednesday 11/20
+- **Midterm in class on Thursday October 10**. No substitutes except as required by university rules. No computers involved.
+- **Final Exam on Thursday December 19, 11:30 a.m. to 2:30 p.m., Exam Group 14**. Room to be announced. No substitutes except as required by university rules. No computers involved, though you will have to read code. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
 
 Data science is not a solitary activity; please expect to participate in lectures, discussion section, and lab. Lectures will not be webcast. The online text will contain what is covered but it might have different examples. And of course it will not contain the discussions generated by questions asked in class.
 
@@ -61,11 +59,11 @@ In the calculation of your overall score, we will drop
 - your lowest quiz score
 
 Course grades will be assigned using the following weighted components:
-- Homework 10%
+- Homework 12%
 - Labs 20%
-- Quizzes 15%
+- Quizzes 10%
 - Midterm 22%
-- Final 33%
+- Final 36%
 
 ### Collaboration and Integrity ###
 You are encouraged to discuss practice problems, homework, and labs with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up your all own assignments and code.
