@@ -6,17 +6,15 @@ weeks:
     - date: Thurs 8/29
       content: "Lecture 1: Probability — axioms, rules, approximation"
       assignments:
-        - name:
-          url:
-        - name:
-          url:
+        - name: HW 1 (Due 9/03 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_01.ipynb
     - date: Fri 8/30
       content: "Discussion"
     links:
-      - name:
-        url:
-      - name:
-        url:
+      - name: HW 1 (Due 9/03 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_01.ipynb
+      - name: Week 1 Guide
+        url: /prep/prep01
 
   - weekNum: 2
     weekName: Random variables and symmetry
