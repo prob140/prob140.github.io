@@ -23,18 +23,23 @@ weeks:
     - date: Tue 9/3
       content: "Lecture 2: Random variables - distributions, conditioning, equality"
       assignments:
-        - name:
-          url:
-        - name:
-          url:
-        - name:
-          url:
+      - name: Lab 1 (Due 9/08 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01.ipynb
+      - name: HW 2 (Due 9/10 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_02.ipynb
     - date: Wed 9/4
       content: "Discussion"
     - date: Thu 9/5
       content: "Lecture 3: Symmetry and collections of events"
     - date: Fri 9/6
       content: "Discussion"
+    links:
+      - name: Lab 1 (Due 9/08 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01.ipynb       
+      - name: HW 2 (Due 9/10 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_02.ipynb
+      - name: Week 2 Guide
+        url: /prep/prep02
 
   - weekNum: 3
     weekName: Random counts and Poissonization
