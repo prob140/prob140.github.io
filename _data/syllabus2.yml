@@ -24,7 +24,7 @@ weeks:
       content: "Lecture 2: Random variables - distributions, conditioning, equality"
       assignments:
       - name: Lab 1 (Due 9/08 at 12:00PM noon)
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01.ipynb
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01_fixed.ipynb
       - name: HW 2 (Due 9/10 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_02.ipynb
     - date: Wed 9/4
@@ -35,7 +35,7 @@ weeks:
       content: "Discussion"
     links:
       - name: Lab 1 (Due 9/08 at 12:00PM noon)
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01.ipynb       
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01_fixed.ipynb       
       - name: HW 2 (Due 9/10 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_02.ipynb
       - name: Week 2 Guide
