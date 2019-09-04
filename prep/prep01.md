@@ -17,9 +17,9 @@ But in Week 1 there was no "previous week", so I'll start you off.
 ### Practice Problems ###
 The goal of practice is for you to figure out how to get started on a solution and see it through to the end. To achieve this, you have to be prepared to go over the background reading and examples and then mess around with the ideas **yourself** to come up with steps that will lead to a solution. It will not be achieved if you just read solutions created by others.
 
-Each Review Set has two parts: The Basics and Additional Practice. Please do all the problems on the Basics list below. Then do as many as you can from the Additional Practice list. You might not have time to get to them all. That's OK – if you have been practising coming up with solutions yourself, you should be able to tackle new problems on tests. 
+Each Review Set has two parts: The Basics and Additional Practice. Please do all the problems on the Basics list below. Then do as many as you can from the Additional Practice list. You might not have time to get to them all. That's OK – if you have been practicing coming up with solutions yourself, you should be able to tackle new problems on tests. 
 
-[Review Set 1](http://prob140.org/textbook/chapters/Chapter_05/05_Review_Problems_Set_1) is based on the material of Chapters 1 through 5. 
+[Review Set 1](http://prob140.org/textbook/Chapter_05/05_Review_Problems_Set_1.html) is based on the material of Chapters 1 through 5. 
 - The Basics: 1, 2, 8, 9
 - Additional Practice: 13, 15, 18, 20
 
