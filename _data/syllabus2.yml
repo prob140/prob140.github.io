@@ -56,14 +56,17 @@ weeks:
           url:
         - name:
           url:
-        - name:
-          url:
+        - name: Week 3 Guide
+          url: /prep/prep03
     - date: Wed 9/11
       content: "QUIZ 1"
     - date: Thu 9/12
       content: "Lecture 5: Independence and Poissonization"
     - date: Fri 9/13
       content: "Discussion"
+    links:
+      - name: Week 3 Guide
+        url: /prep/prep03
 
   - weekNum: 4
     weekName: Expectation
