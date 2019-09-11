@@ -52,10 +52,10 @@ weeks:
     - date: Tue 9/10
       content: "Lecture 4: Binomial and related counts; a Poisson limit"
       assignments:
-        - name:
-          url:
-        - name:
-          url:
+        - name: Lab 2 (Due 9/15 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_02.ipynb  
+        - name: HW 3 (Due 9/17 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_03.ipynb
         - name: Week 3 Guide
           url: /prep/prep03
     - date: Wed 9/11
@@ -65,6 +65,10 @@ weeks:
     - date: Fri 9/13
       content: "Discussion"
     links:
+      - name: Lab 2 (Due 9/15 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_02.ipynb  
+      - name: HW 3 (Due 9/17 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_03.ipynb
       - name: Week 3 Guide
         url: /prep/prep03
 
