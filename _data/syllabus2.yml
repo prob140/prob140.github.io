@@ -6,17 +6,17 @@ weeks:
     - date: Thurs 8/29
       content: "Lecture 1: Probability — axioms, rules, approximation"
       assignments:
-        - name: HW 1 (Due 9/03 at 12:00PM noon)
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_01.ipynb
         - name: Week 1 Guide
           url: /prep/prep01
+        - name: HW 1 (Due 9/03 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_01.ipynb
     - date: Fri 8/30
       content: "Discussion"
     links:
-      - name: HW 1 (Due 9/03 at 12:00PM noon)
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_01.ipynb
       - name: Week 1 Guide
         url: /prep/prep01
+      - name: HW 1 (Due 9/03 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_01.ipynb
 
   - weekNum: 2
     weekName: Random variables and symmetry
@@ -25,12 +25,13 @@ weeks:
     - date: Tue 9/3
       content: "Lecture 2: Random variables - distributions, conditioning, equality"
       assignments:
+      - name: Week 2 Guide
+        url: /prep/prep02
       - name: Lab 1 (Due 9/08 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01_fixed.ipynb
       - name: HW 2 (Due 9/10 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_02.ipynb
-      - name: Week 2 Guide
-        url: /prep/prep02
+
     - date: Wed 9/4
       content: "Discussion"
     - date: Thu 9/5
@@ -38,12 +39,12 @@ weeks:
     - date: Fri 9/6
       content: "Discussion"
     links:
+      - name: Week 2 Guide
+        url: /prep/prep02
       - name: Lab 1 (Due 9/08 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01_fixed.ipynb       
       - name: HW 2 (Due 9/10 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_02.ipynb
-      - name: Week 2 Guide
-        url: /prep/prep02
 
   - weekNum: 3
     weekName: Random counts and Poissonization
@@ -52,12 +53,13 @@ weeks:
     - date: Tue 9/10
       content: "Lecture 4: Binomial and related counts; a Poisson limit"
       assignments:
+        - name: Week 3 Guide
+          url: /prep/prep03
         - name: Lab 2 (Due 9/15 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_02.ipynb  
         - name: HW 3 (Due 9/17 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_03.ipynb
-        - name: Week 3 Guide
-          url: /prep/prep03
+
     - date: Wed 9/11
       content: "QUIZ 1"
     - date: Thu 9/12
@@ -65,12 +67,13 @@ weeks:
     - date: Fri 9/13
       content: "Discussion"
     links:
+      - name: Week 3 Guide
+        url: /prep/prep03
       - name: Lab 2 (Due 9/15 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_02.ipynb  
       - name: HW 3 (Due 9/17 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_03.ipynb
-      - name: Week 3 Guide
-        url: /prep/prep03
+
 
   - weekNum: 4
     weekName: Expectation
@@ -79,8 +82,8 @@ weeks:
     - date: Tue 9/17
       content: "Lecture 6: Expectation and additivity"
       assignments:
-        - name:
-          url:
+        - name: Week 4 Guide
+          url: /prep/prep04
         - name:
           url:
         - name:
@@ -91,6 +94,9 @@ weeks:
       content: "Lecture 7: More properties of expectation"
     - date: Fri 9/20
       content: "Discussion"
+    links:
+        - name: Week 4 Guide
+          url: /prep/prep04
 
   - weekNum: 5
     weekName: Conditioning and Markov Chains
