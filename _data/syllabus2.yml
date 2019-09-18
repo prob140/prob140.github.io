@@ -84,10 +84,10 @@ weeks:
       assignments:
         - name: Week 4 Guide
           url: /prep/prep04
-        - name:
-          url:
-        - name:
-          url:
+        - name: Lab 3 (Due 9/22 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_03.ipynb  
+        - name: HW 4 (Due 9/24 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_04.ipynb
     - date: Wed 9/18
       content: "Discussion"
     - date: Thu 9/19
@@ -97,6 +97,10 @@ weeks:
     links:
         - name: Week 4 Guide
           url: /prep/prep04
+        - name: Lab 3 (Due 9/22 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_03.ipynb  
+        - name: HW 4 (Due 9/24 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_04.ipynb
 
   - weekNum: 5
     weekName: Conditioning and Markov Chains
