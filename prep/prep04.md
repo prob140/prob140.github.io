@@ -19,7 +19,7 @@ Each Review Set has two parts: The Basics and Additional Practice. Please do all
 
 This is a quiz week, so this set is short.
 
-[Review Set 2](http://prob140.org/textbook/chapters/Chapter_08/04_Review_Problems_Set_2) is based on the material of Chapters 6 through 8.
+[Review Set 2](http://prob140.org/textbook/Chapter_08/04_Review_Problems_Set_2.html) is based on the material of Chapters 6 through 8.
 
 - The Basics: 4, 10 (very helpful for homework)
 - Additional Practice: 12, 20, 29
@@ -32,4 +32,4 @@ The focus will be on approaches to problem-solving. So for example you might dev
 
 Sections will cover the approaches to as many as possible of the following.
 
-[Review Set 2:](http://prob140.org/textbook/chapters/Chapter_08/04_Review_Problems_Set_2) 6, 17, 18, 22, 23, 26, 27, 28
+[Review Set 2:](http://prob140.org/textbook/Chapter_08/04_Review_Problems_Set_2.html) 6, 17, 18, 22, 23, 26, 27, 28
