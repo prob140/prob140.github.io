@@ -121,6 +121,13 @@ weeks:
       content: "Lecture 9: Long run behavior of Markov Chains"
     - date: Fri 9/27
       content: "Discussion"
+    links:
+      - name: Week 5 Guide
+        url: /prep/prep05
+      - name: Lab 4 (Due 9/29 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_04.ipynb
+      - name: Homework 5 (Due 10/1 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_05.ipynb
 
   - weekNum: 6
     weekName: MCMC
