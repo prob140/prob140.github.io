@@ -136,11 +136,12 @@ weeks:
     - date: Tue 10/1
       content: "Lecture 10: Balance"
       assignments:
-        - name:
-          url:
-        - name:
-          url:
-        - name:
+        - name: Week 6 Guide
+          url: /prep/prep06
+        - name: Lab 5 (Due 10/6 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_05.ipynb
+        - name: Homework 6 (Due 10/8 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_06.ipynb
     - date: Wed 10/2
       content: "Discussion"
     - date: Thu 10/3
@@ -148,14 +149,12 @@ weeks:
     - date: Fri 10/4
       content: "Discussion"
     links:
-      - name:
-        url:
-      - name:
-        url:
-      - name:
-        url:
-      - name:
-        url:
+      - name: Week 6 Guide
+        url: /prep/prep06
+      - name: Lab 5 (Due 10/6 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_05.ipynb
+      - name: Homework 6 (Due 10/8 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_06.ipynb
 
   - weekNum: 7
     weekName: Midterm week
