@@ -138,6 +138,8 @@ weeks:
       assignments:
         - name: Week 6 Guide
           url: /prep/prep06
+        - name: Midterm Contents
+          url: /midterm_contents
         - name: Lab 5 (Due 10/6 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_05.ipynb
         - name: Homework 6 (Due 10/8 at 12:00PM noon)
@@ -151,6 +153,8 @@ weeks:
     links:
       - name: Week 6 Guide
         url: /prep/prep06
+      - name: Midterm Contents
+        url: /midterm_contents
       - name: Lab 5 (Due 10/6 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_05.ipynb
       - name: Homework 6 (Due 10/8 at 12:00PM noon)
@@ -169,6 +173,8 @@ weeks:
     - date: Fri 10/11
       content: "Day off: no Discussion"
     links:
+      - name: Midterm Contents
+        url: /midterm_contents
 
   - weekNum: 8
     weekName: Variance and Covariance
