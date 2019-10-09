@@ -161,27 +161,34 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_06.ipynb
 
   - weekNum: 7
-    weekName: Midterm week
+    weekName: Variance and Covariance
     weekDuration: 10/7-10/11
     basic:
     - date: Tue 10/8
-      content: "Lecture 12: Midterm Review"
+      content: "Lecture 12: SD and tail bounds"
+      assignments:
+        - name: Midterm Contents
+          url: /midterm_contents
+        - name: Homework 7 (Due 10/15 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_07.ipynb
     - date: Wed 10/9
       content: "Discussion"
     - date: Thu 10/10
-      content: "MIDTERM"
+      content: "TBA"
     - date: Fri 10/11
-      content: "Day off: no Discussion"
+      content: "Discussion"
     links:
       - name: Midterm Contents
         url: /midterm_contents
+      - name: Homework 7 (Due 10/15 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_07.ipynb
 
   - weekNum: 8
-    weekName: Variance and Covariance
+    weekName: Midterm Week
     weekDuration: 10/14-10/18
     basic:
     - date: Tue 10/15
-      content: "Lecture 13: SD and tail bounds"
+      content: "Lecture 13: Midterm Review"
       assignments:
         - name:
           url:
