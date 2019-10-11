@@ -169,7 +169,7 @@ weeks:
       assignments:
         - name: Midterm Contents
           url: /midterm_contents
-        - name: Homework 7 (Due 10/15 at 12:00PM noon)
+        - name: Homework 7 (Due 10/22 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_07.ipynb
     - date: Wed 10/9
       content: "Discussion"
@@ -180,7 +180,7 @@ weeks:
     links:
       - name: Midterm Contents
         url: /midterm_contents
-      - name: Homework 7 (Due 10/15 at 12:00PM noon)
+      - name: Homework 7 (Due 10/22 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_07.ipynb
 
   - weekNum: 8
