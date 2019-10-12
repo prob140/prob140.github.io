@@ -188,7 +188,7 @@ weeks:
     weekDuration: 10/14-10/18
     basic:
     - date: Tue 10/15
-      content: "Lecture 13: Midterm Review"
+      content: "Lecture 13: Covariance and its uses"
       assignments:
         - name:
           url:
@@ -199,7 +199,7 @@ weeks:
     - date: Wed 10/16
       content: "Discussion"
     - date: Thu 10/17
-      content: "Lecture 14: Covariance and its uses"
+      content: 
     - date: Fri 10/18
       content: "Discussion"
     links:
