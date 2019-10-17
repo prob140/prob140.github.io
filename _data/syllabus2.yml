@@ -216,7 +216,7 @@ weeks:
     weekDuration: 10/21-10/25
     basic:
       - date: Tue 10/22
-        content: 
+        content: Midterm (in class)
         assignments:
           - name:
             url:
