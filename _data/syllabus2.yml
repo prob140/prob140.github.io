@@ -174,7 +174,7 @@ weeks:
     - date: Wed 10/9
       content: "Discussion"
     - date: Thu 10/10
-      content: "TBA"
+      content: "No lecture: Class cancelled"
     - date: Fri 10/11
       content: "Discussion"
     links:
@@ -212,7 +212,7 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_06.ipynb
 
   - weekNum: 9
-    weekName: Central Limit Theorem; Continuous Distributions
+    weekName: Continuous Distributions
     weekDuration: 10/21-10/25
     basic:
       - date: Tue 10/22
@@ -225,7 +225,7 @@ weeks:
           - name:
             url:
       - date: Wed 10/23
-        content: "Discussion"
+        content: "Day off: No Discussion"
       - date: Thu 10/24
         content: "Lecture 16: Probability densities"
       - date: Fri 10/25
