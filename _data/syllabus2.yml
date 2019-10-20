@@ -252,7 +252,7 @@ weeks:
           - name:
             url:
       - date: Wed 10/30
-        content: "QUIZ 2"
+        content: "Discussion"
       - date: Thu 10/31
         content: "Lecture 18: Joint densities"
       - date: Fri 11/1
@@ -279,7 +279,7 @@ weeks:
           - name:
             url:
       - date: Wed 11/6
-        content: "Discussion"
+        content: "QUIZ 2"
       - date: Thu 11/7
         content: "Lecture 20: Moment generating functions; CLT revisited; Chernoff bound"
       - date: Fri 11/8
