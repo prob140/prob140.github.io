@@ -218,7 +218,7 @@ weeks:
       - date: Tue 10/22
         content: Midterm (in class)
         assignments:
-          - name: Homework 8 (Due 10/30 at 12:00PM noon)
+          - name: Homework 8 (Due 10/29 at 12:00PM noon)
             url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_08.ipynb
           - name: Lab 7 (Due 10/27 at 12:00PM noon)
             url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_07.ipynb
@@ -229,7 +229,7 @@ weeks:
       - date: Fri 10/25
         content: "Discussion"
     links:
-      - name: Homework 8 (Due 10/30 at 12:00PM noon)
+      - name: Homework 8 (Due 10/29 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_08.ipynb
       - name: Lab 7 (Due 10/27 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_07.ipynb
