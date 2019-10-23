@@ -218,12 +218,10 @@ weeks:
       - date: Tue 10/22
         content: Midterm (in class)
         assignments:
-          - name:
-            url:
-          - name:
-            url:
-          - name:
-            url:
+          - name: Homework 8 (Due 10/30 at 12:00PM noon)
+            url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_08.ipynb
+          - name: Lab 7 (Due 10/27 at 12:00PM noon)
+            url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_07.ipynb
       - date: Wed 10/23
         content: "Day off: No Discussion"
       - date: Thu 10/24
@@ -231,12 +229,10 @@ weeks:
       - date: Fri 10/25
         content: "Discussion"
     links:
-      - name:
-        url:
-      - name:
-        url:
-      - name:
-        url:
+      - name: Homework 8 (Due 10/30 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_08.ipynb
+      - name: Lab 7 (Due 10/27 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_07.ipynb
 
   - weekNum: 10
     weekName: Working with continuous distributions
