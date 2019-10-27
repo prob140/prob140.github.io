@@ -27,7 +27,7 @@ weeks:
       assignments:
       - name: Week 2 Guide
         url: /prep/prep02
-      - name: Lab 1 (Due 9/08 at 12:00PM noon)
+      - name: "Lab 1: Simple Random Samples (Due 9/08 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01_fixed.ipynb
       - name: HW 2 (Due 9/10 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_02.ipynb
@@ -41,7 +41,7 @@ weeks:
     links:
       - name: Week 2 Guide
         url: /prep/prep02
-      - name: Lab 1 (Due 9/08 at 12:00PM noon)
+      - name: "Lab 1: Simple Random Samples (Due 9/08 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_01_fixed.ipynb       
       - name: HW 2 (Due 9/10 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_02.ipynb
@@ -55,7 +55,7 @@ weeks:
       assignments:
         - name: Week 3 Guide
           url: /prep/prep03
-        - name: Lab 2 (Due 9/15 at 12:00PM noon)
+        - name: "Lab 2: Total Variation (Due 9/15 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_02.ipynb  
         - name: HW 3 (Due 9/17 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_03.ipynb
@@ -69,7 +69,7 @@ weeks:
     links:
       - name: Week 3 Guide
         url: /prep/prep03
-      - name: Lab 2 (Due 9/15 at 12:00PM noon)
+      - name: "Lab 2: Total Variation (Due 9/15 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_02.ipynb  
       - name: HW 3 (Due 9/17 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_03.ipynb
@@ -84,7 +84,7 @@ weeks:
       assignments:
         - name: Week 4 Guide
           url: /prep/prep04
-        - name: Lab 3 (Due 9/22 at 12:00PM noon)
+        - name: "Lab 3: Expectation of Discrete Order Statistics (Due 9/22 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_03.ipynb  
         - name: HW 4 (Due 9/24 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_04.ipynb
@@ -97,7 +97,7 @@ weeks:
     links:
         - name: Week 4 Guide
           url: /prep/prep04
-        - name: Lab 3 (Due 9/22 at 12:00PM noon)
+        - name: "Lab 3: Expectation of Discrete Order Statistics (Due 9/22 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_03.ipynb  
         - name: HW 4 (Due 9/24 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_04.ipynb
@@ -111,7 +111,7 @@ weeks:
       assignments:
         - name: Week 5 Guide
           url: /prep/prep05
-        - name: Lab 4 (Due 9/29 at 12:00PM noon)
+        - name: "Lab 4: Success Runs and Other Patterns (Due 9/29 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_04.ipynb
         - name: Homework 5 (Due 10/1 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_05.ipynb
@@ -124,7 +124,7 @@ weeks:
     links:
       - name: Week 5 Guide
         url: /prep/prep05
-      - name: Lab 4 (Due 9/29 at 12:00PM noon)
+      - name: "Lab 4: Success Runs and Other Patterns (Due 9/29 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_04.ipynb
       - name: Homework 5 (Due 10/1 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_05.ipynb
@@ -140,7 +140,7 @@ weeks:
           url: /prep/prep06
         - name: Midterm Contents
           url: /midterm_contents
-        - name: Lab 5 (Due 10/6 at 12:00PM noon)
+        - name: "Lab 5: Codebreaking by MCMC (Due 10/6 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_05.ipynb
         - name: Homework 6 (Due 10/8 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_06.ipynb
@@ -155,7 +155,7 @@ weeks:
         url: /prep/prep06
       - name: Midterm Contents
         url: /midterm_contents
-      - name: Lab 5 (Due 10/6 at 12:00PM noon)
+      - name: "Lab 5: Codebreaking by MCMC (Due 10/6 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_05.ipynb
       - name: Homework 6 (Due 10/8 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_06.ipynb
@@ -194,7 +194,7 @@ weeks:
           url: /prep/prep08
         - name: Homework 7 (Due 10/22 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_07.ipynb
-        - name: Lab 6 (Due 10/20 at 12:00PM noon)
+        - name: "Lab 6: Decisions Based on Ranks (Due 10/20 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_06.ipynb
 
     - date: Wed 10/16
@@ -208,7 +208,7 @@ weeks:
         url: /prep/prep08
       - name: Homework 7 (Due 10/22 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_07.ipynb
-      - name: Lab 6 (Due 10/20 at 12:00PM noon)
+      - name: "Lab 6: Decisions Based on Ranks (Due 10/20 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_06.ipynb
 
   - weekNum: 9
@@ -220,7 +220,7 @@ weeks:
         assignments:
           - name: Homework 8 (Due 10/29 at 12:00PM noon)
             url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_08.ipynb
-          - name: Lab 7 (Due 10/27 at 12:00PM noon)
+          - name: "Lab 7: Simulation and the CDF (Due 10/27 at 12:00PM noon)"
             url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_07.ipynb
       - date: Wed 10/23
         content: "Day off: No Discussion"
@@ -231,7 +231,7 @@ weeks:
     links:
       - name: Homework 8 (Due 10/29 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_08.ipynb
-      - name: Lab 7 (Due 10/27 at 12:00PM noon)
+      - name: "Lab 7: Simulation and the CDF (Due 10/27 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_07.ipynb
 
   - weekNum: 10
