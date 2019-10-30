@@ -241,8 +241,10 @@ weeks:
       - date: Tue 10/29
         content: "Lecture 17: Transformations"
         assignments:
-          - name:
-            url: 
+          - name: Week 10 Guide
+            url: /prep/prep10
+          - name: Homework 9 (Due 11/05 at 12:00PM noon)
+            url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_09.ipynb 
           - name: "Lab 8: Densities and SymPy (Due 11/03 at 12:00PM noon)"
             url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_08.ipynb
       - date: Wed 10/30
@@ -252,8 +254,10 @@ weeks:
       - date: Fri 11/1
         content: "Discussion"
     links:
-      - name:
-        url: 
+      - name: Week 10 Guide
+        url: /prep/prep10
+      - name: Homework 9 (Due 11/05 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_09.ipynb 
       - name: "Lab 8: Densities and SymPy (Due 11/03 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_08.ipynb
 
