@@ -242,11 +242,11 @@ weeks:
         content: "Lecture 17: Transformations"
         assignments:
           - name:
-            url:
-          - name:
-            url:
-          - name:
-            url:
+            url: 
+          - name: Homework 9 (Due 11/05 at 12:00PM noon)
+            url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_09.ipynb
+          - name: "Lab 8: Densities and SymPy (Due 11/03 at 12:00PM noon)"
+            url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_08.ipynb
       - date: Wed 10/30
         content: "Discussion"
       - date: Thu 10/31
@@ -255,11 +255,11 @@ weeks:
         content: "Discussion"
     links:
       - name:
-        url:
-      - name:
-        url:
-      - name:
-        url:
+        url: 
+      - name: Homework 9 (Due 11/05 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_09.ipynb
+      - name: "Lab 8: Densities and SymPy (Due 11/03 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_08.ipynb
 
   - weekNum: 11
     weekName: The Normal and Gamma Families
