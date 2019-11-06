@@ -268,12 +268,12 @@ weeks:
       - date: Tue 11/5
         content: "Lecture 19: Independent normal and gamma variables"
         assignments:
-          - name:
-            url:
-          - name:
-            url:
-          - name:
-            url:
+        - name: Week 11 Guide
+          url: /prep/prep11
+        - name: Homework 10 (Due 11/12 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_10.ipynb 
+        - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_09.ipynb
       - date: Wed 11/6
         content: "QUIZ 2"
       - date: Thu 11/7
@@ -281,12 +281,12 @@ weeks:
       - date: Fri 11/8
         content: "Discussion"
     links:
-      - name:
-        url:
-      - name:
-        url:
-      - name:
-        url:
+      - name: Week 11 Guide
+        url: /prep/prep11
+      - name: Homework 10 (Due 11/12 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_10.ipynb 
+      - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_09.ipynb
 
   - weekNum: 12
     weekName: MLE, MAP, and the Beta Family
