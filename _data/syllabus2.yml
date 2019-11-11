@@ -218,6 +218,8 @@ weeks:
       - date: Tue 10/22
         content: Midterm (in class)
         assignments:
+          - name: Week 9 Guide
+            url: /prep/prep09
           - name: Homework 8 (Due 10/29 at 12:00PM noon)
             url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_08.ipynb
           - name: "Lab 7: Simulation and the CDF (Due 10/27 at 12:00PM noon)"
@@ -229,6 +231,8 @@ weeks:
       - date: Fri 10/25
         content: "Discussion"
     links:
+      - name: Week 9 Guide
+        url: /prep/prep09
       - name: Homework 8 (Due 10/29 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_08.ipynb
       - name: "Lab 7: Simulation and the CDF (Due 10/27 at 12:00PM noon)"
