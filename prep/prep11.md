@@ -18,6 +18,8 @@ The goal of practice is for you to figure out how to get started on a solution a
 
 Each Review Set has two parts: The Basics and Additional Practice. Please do all the problems on the Basics list below. Then do as many as you can from the Additional Practice list. You might not have time to get to them all. That's OK – if you have been practising coming up with solutions yourself, you should be able to tackle new problems on tests. 
 
+Please do all of the problems in Review Set 4 that you have not already done.
+
 
 ### Sections ###
 In section you will work on practice problems and also on the week's lab if needed. The proportion of time spent on the two activities will depend on the relative demands of the lab and the week's theory.
