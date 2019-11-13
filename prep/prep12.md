@@ -18,13 +18,11 @@ The goal of practice is for you to figure out how to get started on a solution a
 
 [Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/05_Further_Review_Exercises) consist of several problems on the material of Chapters 19 onwards. Those chapters build on the previous ones, so you have to be familiar with the previous chapters as well.
 
-Exercises 2, 5, 6 
+Exercises 1, 5, 6 
 
 ### Sections ###
 In section you will work on practice problems and also on the week's lab if needed. The proportion of time spent on the two activities will depend on the relative demands of the lab and the week's theory.
 
 The focus will be on approaches to problem-solving. So for example you might develop clear outlines for how to solve several problems, instead of finding the detailed answers to just a few.
 
-There is a quiz this week so this list is short. Some time in sections will be spent on the week's lab.
-
-[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/05_Further_Review_Exercises) 3, 7, 8
+[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/05_Further_Review_Exercises) 2, 3, 7, 8

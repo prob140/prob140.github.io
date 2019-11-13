@@ -299,12 +299,12 @@ weeks:
       - date: Tue 11/12
         content: "Lecture 21: MLE"
         assignments:
-          - name:
-            url:
-          - name:
-            url:
-          - name:
-            url:
+        - name: Week 12 Guide
+          url: /prep/prep12
+        - name: Homework 11 (Due 11/19 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_11.ipynb 
+        - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_09.ipynb
       - date: Wed 11/13
         content: "Discussion"
       - date: Thu 11/14
@@ -312,12 +312,12 @@ weeks:
       - date: Fri 11/15
         content: "Discussion"
     links:
-      - name:
-        url:
-      - name:
-        url:
-      - name:
-        url:
+      - name: Week 12 Guide
+        url: /prep/prep12
+      - name: Homework 11 (Due 11/19 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_11.ipynb 
+      - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_09.ipynb
 
   - weekNum: 13
     weekName: Beta-Binomial and Prediction
