@@ -16,7 +16,7 @@ Lectures will cover Chapters 20 and 21 this week.
 ### Practice Problems ###
 The goal of practice is for you to figure out how to get started on a solution and see it through to the end. To achieve this, you have to be prepared to go over the background reading and examples and then mess around with the ideas **yourself** to come up with steps that will lead to a solution. It will not be achieved if you just read solutions created by others.
 
-[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/05_Further_Review_Exercises) consist of several problems on the material of Chapters 19 onwards. Those chapters build on the previous ones, so you have to be familiar with the previous chapters as well.
+[Further Review Exercises](http://prob140.org/textbook/Chapter_25/05_Further_Review_Exercises.html) consist of several problems on the material of Chapters 19 onwards. Those chapters build on the previous ones, so you have to be familiar with the previous chapters as well.
 
 Exercises 1, 5, 6 
 
@@ -25,4 +25,12 @@ In section you will work on practice problems and also on the week's lab if need
 
 The focus will be on approaches to problem-solving. So for example you might develop clear outlines for how to solve several problems, instead of finding the detailed answers to just a few.
 
-[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/05_Further_Review_Exercises) 2, 3, 7, 8
+[Further Review Exercises](http://prob140.org/textbook/Chapter_25/05_Further_Review_Exercises.html) 2, 3, 7, 8
+
+### Scope for Quiz 3 ###
+
+Quiz 3 will be in section on Wednesday 11/20. 
+
+The scope of Quiz 3 will be Chapters 15-18 (inclusive). Please study the logic and methods of calculation involved in the exercises in Homeworks 9 and 10, Lab 8, and the exercises in Review Set 4. 
+
+Problems will not be clones of exercises in homework or review sets but will be closely related to them. Quizzes will not involve reading or writing code.
