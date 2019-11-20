@@ -326,12 +326,12 @@ weeks:
       - date: Tue 11/19
         content: "Lecture 23: The beta and the binomial"
         assignments:
-          - name:
-            url:
-          - name:
-            url:
-          - name:
-            url:
+        - name: Week 13 Guide
+          url: /prep/prep13
+        - name: Homework 12 (Due 11/26 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_12.ipynb 
+        - name: "Lab 10: Chinese Restaurant Process (Due 11/24 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_10.ipynb
       - date: Wed 11/20
         content: "QUIZ 3"
       - date: Thu 11/21
@@ -339,12 +339,12 @@ weeks:
       - date: Fri 11/22
         content: "Discussion"
     links:
-      - name:
-        url:
-      - name:
-        url:
-      - name:
-        url:
+      - name: Week 13 Guide
+        url: /prep/prep13
+      - name: Homework 12 (Due 11/26 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_12.ipynb 
+      - name: "Lab 10: Chinese Restaurant Process (Due 11/24 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_10.ipynb
 
   - weekNum: 14
     weekName: Multivariate Normal Distribution
