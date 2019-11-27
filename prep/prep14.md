@@ -6,7 +6,7 @@ title: Week 14 Preparation Guide
 Please do the required reading before attempting problems. Not only does it contain the material you need for the week's work, and more examples than in the lectures, it will remind you of the details that you have to keep in mind when attempting problems. You will solve problems faster if you read first.
 
 ### Reading ###
-The course follows the textbook in sequence. So you will always know which chapters are going to be covered: start where you left off in the previous week, and compare the [home page calendar](http://prob140.org/) with the [Table of Contents](http://prob140.org/textbook/chapters/README) to see where to stop.
+The course follows the textbook in sequence. So you will always know which chapters are going to be covered: start where you left off in the previous week, and compare the [home page calendar](http://prob140.org/) with the [Table of Contents](http://prob140.org/textbook/README) to see where to stop.
 
 Lectures will cover Chapters 23 and parts of 24 this week.
 
@@ -23,4 +23,4 @@ In section you will work on practice problems and also on the week's lab if need
 
 The focus will be on approaches to problem-solving. So for example you might develop clear outlines for how to solve several problems, instead of finding the detailed answers to just a few.
 
-[Further Review Exercises](http://prob140.org/textbook/chapters/Chapter_25/04_Further_Review_Exercises) 18, 24, 25. Wednesday's section will introduce the lab after the quiz.
+No sections this week.
