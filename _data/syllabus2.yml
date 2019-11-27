@@ -353,12 +353,14 @@ weeks:
       - date: Tue 11/26
         content: "Lecture 25: Random vectors; the multivariate normal"
         assignments:
-          - name:
-            url:
-          - name:
-            url:
-          - name:
-            url:
+        - name: Week 14 Guide
+          url: /prep/prep14
+        - name: Homework 13 (Due 12/03 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_13.ipynb 
+        - name: "Lab 11: Introduction to Jointly Normal Vectors (Due 12/06 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_11.ipynb
+        - name: Homework 14 (Due 12/08 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_14.ipynb
       - date: Wed 11/27
         content: "Non-instructional Day: no Discussion"
       - date: Thu 11/28
@@ -366,12 +368,15 @@ weeks:
       - date: Fri 11/29
         content: "HOLIDAY"
     links:
-      - name:
-        url:
-      - name:
-        url:
-      - name:
-        url:
+      - name: Week 14 Guide
+        url: /prep/prep14
+      - name: Homework 13 (Due 12/03 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_13.ipynb 
+      - name: "Lab 11: Introduction to Jointly Normal Vectors (Due 12/06 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_11.ipynb
+      - name: Homework 14 (Due 12/08 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_14.ipynb
+
 
 
   - weekNum: 15
@@ -381,10 +386,10 @@ weeks:
     - date: Tue 12/3
       content: "Lecture 26: Correlation and simple regression"
       assignments:
-        - name:
-          url:
-        - name:
-          url:
+        - name: Homework 14 (Due 12/08 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_14.ipynb 
+        - name: "Lab 11: Introduction to Jointly Normal Vectors (Due 12/06 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_11.ipynb
     - date: Wed 12/4
       content: "Discussion"
     - date: Thu 12/5
@@ -392,10 +397,10 @@ weeks:
     - date: Fri 12/6
       content: "Discussion"
     links:
-      - name:
-        url:
-      - name:
-        url:
+        - name: Homework 14 (Due 12/08 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=hw/Homework_14.ipynb 
+        - name: "Lab 11: Introduction to Jointly Normal Vectors (Due 12/06 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_11.ipynb
 
   - weekNum: 16
     weekName: RRR Week
