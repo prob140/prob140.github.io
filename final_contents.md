@@ -3,7 +3,7 @@ layout: page
 title: Final Exam Contents
 ---
 
-### Prob 140 Spring 2019 ###
+### Prob 140 Fall 2019 ###
 ### A. Adhikari ###
 
 # Material for Final Exam #
@@ -11,7 +11,7 @@ title: Final Exam Contents
 ## General Concepts and Methods ##
 
 ### Probability ###
-- Chapter 1, Lab 1: Spaces, events, basic counting, exponential approximation
+- Chapter 1: Spaces, events, basic counting, exponential approximation
 - Chapter 2: Addition and multiplication rules; conditioning and updating
 - Chapter 5: Unions and intersections of several events
 - Section 9.1: Probabilities by conditioning and recursion (discrete)
@@ -31,7 +31,7 @@ title: Final Exam Contents
 
 ### Expectation ###
 - Chapter 8: The crucial properties (discrete case) including method of indicators and expectations of functions
-- Lab 3: Tail sum formula and applications; see also geometric distribution
+- 8.1, Lab 3: Tail sum formula and applications
 - Section 12.3, 19.4: Bounds: Markov, Chebyshev, Chernoff
 - Section 9.2, 9.3: Expectation by conditioning
 - Section 15.3, 17.1: Expectation using densities and joint densities
@@ -41,9 +41,9 @@ title: Final Exam Contents
 - Chapter 12: Intro, linear transformations
 - Chapter 13: Covariance; variance of a sum
 - Lab 6: Application of mean and variance of simple random sample sum
-- Homework 11: Correlation and its properties
+- Homework 13: Correlation and its properties
 - Sections 22.2, 22.3: Variance by conditioning, mixtures
-- Sections 23.1, 25.1: Mean and covariance for random vectors
+- Section 23.1: Mean and covariance for random vectors
 
 ### Estimation and Prediction ###
 - Section 8.2: Unbiased estimates
@@ -51,16 +51,16 @@ title: Final Exam Contents
 - Section 20.1: Maximum likelihood estimate
 - Section 20.2: Posterior density, MAP estimate
 - Sections 12.2, 22.1, 22.4: Expectation and conditional expectation as least squares predictors
-- Sections 24.2, 25.2: Least squares linear predictor
+- Section 24.2: Least squares linear predictor
 
 ## Special Distributions ##
 
 ### Random Counts ###
 - Sections 8.1, 12.1: Uniform on 1, 2, ..., n
 - Sections 6.1, 6.2, Chapter 7, 13.2, 14.3, Chapter 21: Bernoulli, binomial and multinomial
-- Sections 6.3, 8.2, 13.3, 13.4, Lab 2: Hypergeometric
+- Sections 6.3, 8.2, 13.3, 13.4, Lab 1: Hypergeometric
 - Section 6.4, 6.5, Chapter 7, Sections 8.1, 8.3, 12.1, 19.2 and related homework, Lab 9: Poisson
-- Homework 3, Lab 4, Lab 9, Sections 9.3, 22.3: Geometric
+- Lab 4, Lab 9, Sections 9.3, 22.3: Geometric
 
 ### Uniform $(a, b)$ ###
 - Section 15.3, 19.1: Density, expectation, variance, CDF, density of sum
@@ -80,7 +80,7 @@ title: Final Exam Contents
 
 ### Gamma ###
 - Section 15.4: Exponential
-- Homework 8: Gamma function, gamma density, mean, variance
+- Homework 9: Gamma function, gamma density, mean, variance
 - Sections 18.3, 18.4: Gamma and chi squared
 - Sections 19.2: Sums of independent gammas with the same rate
 - Lab 9: Waiting times in a Poisson process
