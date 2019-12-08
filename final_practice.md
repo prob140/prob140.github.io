@@ -19,7 +19,7 @@ This page contains some useful materials to help you study.
 
 Reference sheets that will be passed out during the final:
 
-* [Reference Sheet 1](/assets/final_reference_fa18.pdf)
-* [Reference Sheet 2](/assets/final_reference_code_fa18.pdf)
+* [Reference Sheet 1](/assets/final_reference_fa19.pdf)
+* [Reference Sheet 2](/assets/final_reference_code_fa19.pdf)
 
 Check Piazza for the most up-to-date RRR week schedule.
