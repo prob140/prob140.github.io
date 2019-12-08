@@ -10,7 +10,7 @@ This page contains some useful materials to help you study.
 * [Scope of final](/final_contents)
 * [Professor Adhikari's Problem Solving FAQ](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)
 * [A list of HW problems corresponding to certain distributions](https://docs.google.com/spreadsheets/d/1R-IhQbtbXT_OtiRDh3wARBphbqLd1QEbxAnDeGVCVRk/edit?usp=sharing)
-- You're welcome to organize or filter as you wish.
+    * You're welcome to organize or filter as you wish.
 * [A fill-in-the-blank worksheet about the relationships between distributions](/assets/distribution_relationships.pdf)
 * [Spring 2019 Final Exam](/assets/final_sp19.pdf)
 * [Fall 2018 Final Exam](/assets/final_fa18.pdf)
