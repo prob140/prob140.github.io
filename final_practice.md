@@ -13,8 +13,9 @@ This page contains some useful materials to help you study.
     * Please note that this list is not complete.
     * You're welcome to make a copy of the spreadsheet and organize or filter as you wish.
 * [A fill-in-the-blank worksheet about the relationships between distributions](/assets/distribution_relationships.pdf)
-* [Spring 2019 Final Exam](/assets/final_sp19.pdf)
-* [Fall 2018 Final Exam](/assets/final_fa18.pdf)
+* [Spring 2019 Final Exam](https://drive.google.com/file/d/1lb8YNeS9kmJgxZHC3z_8XTLRAn67yg8L/view?usp=sharing)
+* [Fall 2018 Final Exam](https://drive.google.com/file/d/1GpT8M0ejrTwLaB4alQtqizVYi9P5c0Hk/view?usp=sharing)
+* [Fall 2019 Midterm](https://drive.google.com/file/d/1kMS-PteRk8hllaq3FKtXeGXJH7aK-Vd9/view?usp=sharing)
 
 
 Reference sheets that will be passed out during the final:
