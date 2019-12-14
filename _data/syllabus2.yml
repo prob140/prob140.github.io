@@ -408,7 +408,12 @@ weeks:
     basic:
     - date: Tue 12/10
       content: "Final review"
+      assignments:
+        - name: Final Practice
+          url: /final_practice
     links:
+        - name: Final Practice
+          url: /final_practice
 
   - weekNum: 17
     weekName: Finals Week
