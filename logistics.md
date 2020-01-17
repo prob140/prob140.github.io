@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prob 140 Course Information, Fall 2019
+title: Prob 140 Course Information, Spring 2020
 ---
 #### A. Adhikari ####
 
