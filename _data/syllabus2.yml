@@ -393,7 +393,7 @@ weeks:
     weekName: RRR Week
     weekDuration: 5/4-5/8
     basic:
-#    - date: Tue 5/5
+    - date: Tue 5/5
 #      content:
 #      assignments:
 #        # - name: Final Practice
