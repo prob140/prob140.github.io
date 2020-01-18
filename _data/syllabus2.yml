@@ -318,7 +318,7 @@ weeks:
       # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa19&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/15
-      content: "Discussion"
+      content: "QUIZ 3"
     - date: Thu 4/16
       content: "Lecture 23: The beta and the binomial"
     - date: Fri 4/17
