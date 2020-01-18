@@ -4,12 +4,12 @@ title: Prob 140 Course Information, Spring 2020
 ---
 #### A. Adhikari ####
 
-You must enroll in the lecture and in a discussion section that meets twice weekly. See the [Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-140-001-lec-001) for details. You can attend only the discussion section in which you are enrolled. Occasionally, portions of the discussion sections will be devoted to the weekly labs.
+You must enroll in the lecture and in a discussion section that meets twice weekly. See the [Academic Guide](https://classes.berkeley.edu/content/2020-spring-stat-140-001-lec-001) for details. You can attend only the discussion section in which you are enrolled. Occasionally, portions of the discussion sections will be devoted to the weekly labs.
 
 You may also enroll in an optional Supplementary Section which will be held late on Thursday afternoons and possibly at other times TBA. This is for additional support with the weekly preparation and assignments.
 
 ### Enrollment and Prerequisites ###
-Please see the [Berkeley Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-140-001-lec-001) or the [About](http://prob140.org/about/) page for details, and note that enrollment is restricted to undergraduates.
+Prerequisites are enforced by CalCentral. Please see the [Berkeley Academic Guide]https://classes.berkeley.edu/content/2020-spring-stat-140-001-lec-001) or the [About](http://prob140.org/about/) page for details, and note that enrollment is restricted to undergraduates.
 
 - We will revisit all of the inference covered in [Data 8](http://data8.org/fa18/) (Stat/CS/Info C8). The basics of probability are in Section 9.5 as well as Chapters 14 and 18 of the [Data 8 textbook](https://www.inferentialthinking.com/chapters/intro). You should also remind yourself of Python and the datascience library.
 
@@ -20,12 +20,13 @@ It is your responsibility to familiarize yourself with the content of Data 8.
 
 ### Texts ###
 #### Required: ####
-- [Probability for Data Science](http://prob140.org/textbook/chapters/README) by Ani Adhikari and Jim Pitman. 
+- [Probability for Data Science](http://prob140.org/textbook/README) by Ani Adhikari and Jim Pitman. 
 - [Probability](http://www.springer.com/us/book/9780387979748) by Jim Pitman, published by Springer NY. Available for Berkeley students on SpringerLink at no cost or low cost (for a printed version) provided you are logged on to AirBears2.
 
 #### Excellent references: ####
 - [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
 - [Introduction to Probability](http://athenasc.com/probbook.html) by Dimitri Bertsekas and John Tsitsiklis
+- [Theory Meets Data](http://stat88.org/textbook/notebooks/intro), the Stat 88 textbook written by Prof. Adhikari, covers some of the basic concepts of Prob 140 at a more elementary level
 
 ### How to Study ###
 Prob 140 is not designed for remote learning. Nor does it contain a lot of routine plug-and-chug. Please attend lectures and discussion sections because those always include conversations about problem solving. We aim to give useful lectures and select useful exercises for the sections. Section content is designed to provide practice relevant to homework, lab, and exams. Don't miss out.
@@ -41,9 +42,8 @@ The material in Prob 140 builds on itself week after week. Work regularly so tha
 Students have found these methods to be useful. For their advice, see the [About](http://prob140.org/about/) page.
 
 ### The Required Components of Your Work ###
-- **Please note that late assignments will not be accepted.**
-- **Weekly homework**, typically involving both math and computing, which you will do in Jupyter notebooks and on paper and then turn in on Gradescope. Homework will be posted each Tuesday and will be **due by noon on Tuesday** of the following week. In some weeks there may be deviations from this due to exams or holidays; we'll let you know. Homework is graded based on correctness. As there is plenty of support available and you have a week to do the work, we expect that you will get the problems pretty much wholly right.
-- **Weekly lab**, typically involving both math and computing, which you will also do in Juypter notebooks and on paper and then turn in on Gradescope. Labs will be posted each Tuesday and will be **due by noon on Sunday** of the same week. How long it will take you to complete each lab will depend on your fluency with both the mathematical and computational aspects of the content. Part of discussion section content will be pertinent to lab. We recommend that you familiarize yourself with the lab at the latest after attending section on Wednesday and preferably earlier in the week. Labs will be graded for correctness as well as completion. 
+- **Weekly homework**, typically involving both math and computing, which you will do in Jupyter notebooks and on paper and then turn in on Gradescope. Homework will be posted each Tuesday and will be **due by noon on Tuesday** of the following week. In some weeks there may be deviations from this due to exams or holidays; we'll let you know. **Late homework will not be accepted.** Homework is graded based on correctness. As there is plenty of support available and you have a week to do the work, we expect that you will get the problems pretty much wholly right.
+- **Weekly lab**, typically involving both math and computing, which you will also do in Juypter notebooks and on paper and then turn in on Gradescope. Labs will be posted each Tuesday and will be **due by noon on Sunday** of the same week. **Late labs will not be accepted.** How long it will take you to complete each lab will depend on your fluency with both the mathematical and computational aspects of the content. Part of discussion section content will be pertinent to lab. We recommend that you familiarize yourself with the lab at the latest after attending section on Wednesday and preferably earlier in the week. Labs will be graded for correctness as well as completion. 
 - **Quizzes** three times during the term, **in the discussion section in which you are enrolled**. No computers involved. Dates: 
     - Quiz 1: Wednesday 2/5
     - Quiz 2: Wednesday 4/1
@@ -60,8 +60,8 @@ In the calculation of your overall score, we will drop
 - your lowest quiz score
 
 Course grades will be assigned using the following weighted components:
-- Homework 20%
-- Labs 10%
+- Homework 15%
+- Labs 15%
 - Quizzes 10%
 - Midterm 25%
 - Final 35%
@@ -71,6 +71,6 @@ You are encouraged to discuss practice problems, homework, and labs with your fe
 
 Copying assignments from others is not only dishonest, it also doesn’t help anyone. Each exercise requires its own combination of ideas, and each student needs practice in coming up with those combinations, or else they will be at a loss when trying to use probability theory in their future work. From a purely practical perspective, all students must work independently on Prob 140 quizzes and exams – no collaboration allowed. If a test is the first time a student works independently, then the test is not likely to go well.
 
-Prob 140 materials including exams and solutions are the intellectual property of the course developers. From the campus statement on [Academic Integrity](https://teaching.berkeley.edu/statements-course-policies): "... students may not circulate or post materials (handouts, exams, syllabi,–any class materials) from their classes without the written permission of the instructor."
+Prob 140 materials including exams and solutions are the intellectual property of the course developers. From the campus statement on [Academic Integrity](https://teaching.berkeley.edu/statements-course-policies): "... students may not circulate or post materials (handouts, exams, syllabi,–any class materials) from their classes without the written permission of the instructor." 
 
 I am extremely tough with dishonest students and I hope that I will not be put in that situation in Prob 140. I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
