@@ -6,10 +6,8 @@ title: Prob 140 Course Information, Spring 2020
 
 You must enroll in the lecture and in a discussion section that meets twice weekly. See the [Academic Guide](https://classes.berkeley.edu/content/2020-spring-stat-140-001-lec-001) for details. You can attend only the discussion section in which you are enrolled. Occasionally, portions of the discussion sections will be devoted to the weekly labs.
 
-You may also enroll in an optional Supplementary Section which will be held late on Thursday afternoons and possibly at other times TBA. This is for additional support with the weekly preparation and assignments.
-
 ### Enrollment and Prerequisites ###
-Prerequisites are enforced by CalCentral. Please see the [Berkeley Academic Guide]https://classes.berkeley.edu/content/2020-spring-stat-140-001-lec-001) or the [About](http://prob140.org/about/) page for details, and note that enrollment is restricted to undergraduates.
+Prerequisites are enforced by CalCentral. Please see the [Berkeley Academic Guide](https://classes.berkeley.edu/content/2020-spring-stat-140-001-lec-001) or the [About](http://prob140.org/about/) page for details, and note that enrollment is restricted to undergraduates.
 
 - We will revisit all of the inference covered in [Data 8](http://data8.org/fa18/) (Stat/CS/Info C8). The basics of probability are in Section 9.5 as well as Chapters 14 and 18 of the [Data 8 textbook](https://www.inferentialthinking.com/chapters/intro). You should also remind yourself of Python and the datascience library.
 
