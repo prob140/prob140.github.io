@@ -11,7 +11,7 @@ title: Resources
 - Double Integrals - [Here](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/lecture-16-double-integrals/) is a beautiful lecture by Prof. [Denis Auroux](http://people.math.harvard.edu/~auroux/) of Harvard (and formerly of Berkeley), recorded when he was at MIT. If you have studied double integrals before, you can start at around 15:30. 
 - **[Exercises](/assets/prereq_math_sp19.pdf)** ([Solutions](/assets/prereq_math_sp19_sol.pdf))
 
-### Inference Prerequisites
+### Inference and Python Prerequisites
 - Data 8 [Textbook](https://www.inferentialthinking.com/chapters/intro)
 
 ### Main Probability References
