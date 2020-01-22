@@ -8,7 +8,7 @@ weeks:
       assignments:
         - name: Week 1 Guide
           url: /prep/sp20prep01
-        - name: "Lab 1: Simple Random Samples (Due 9/08 at 12:00PM noon)"
+        - name: "Lab 1: Simple Random Samples (Due 1/26 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_01.ipynb
         - name: HW 1 (Due 1/28 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_01.ipynb
@@ -21,9 +21,9 @@ weeks:
     links:
       - name: Week 1 Guide
         url: /prep/sp20prep01
-      - name: "Lab 1: Simple Random Samples (Due 9/08 at 12:00PM noon)"
+      - name: "Lab 1: Simple Random Samples (Due 1/26 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_01.ipynb
-      - name: HW 1 (Due 9/03 at 12:00PM noon)
+      - name: HW 1 (Due 1/28 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_01.ipynb
 
   - weekNum: 2
