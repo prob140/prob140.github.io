@@ -6,7 +6,7 @@ weeks:
     - date: Tues 1/21
       content: "Lecture 1: Probability — axioms, rules, approximation"
       assignments:
-        - name: Week 1 Guide
+        - name: Weeks 1 & 2 Guide
           url: /prep/sp20prep01
         - name: "Lab 1: Simple Random Samples (Due 1/26 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_01.ipynb
@@ -19,7 +19,7 @@ weeks:
     - date: Fri 1/24
       content: "Discussion"
     links:
-      - name: Week 1 Guide
+      - name: Weeks 1 & 2 Guide
         url: /prep/sp20prep01
       - name: "Lab 1: Simple Random Samples (Due 1/26 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_01.ipynb
