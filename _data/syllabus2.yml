@@ -7,7 +7,7 @@ weeks:
       content: "Lecture 1: Probability — axioms, rules, approximation"
       assignments:
         # - name: Week 1 Guide
-        #   url: /prep/prep01
+        #   url: /prep/sp20prep01
         # - name: HW 1 (Due 1/28 at 12:00PM noon)
         #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_01.ipynb
     - date: Wed 1/22
