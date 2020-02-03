@@ -33,10 +33,12 @@ weeks:
     - date: Tue 1/28
       content: "Lecture 3: Symmetry and collections of events"
       assignments:
-      # - name: Week 2 Guide
-      #   url: /prep/prep02
-      # - name: HW 2 (Due 9/10 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_02.ipynb
+        - name: Weeks 1 & 2 Guide
+          url: /prep/sp20prep01
+        - name: "Lab 2:Total Variation (Due 2/2 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_02.ipynb
+        - name: HW 2 (Due 2/4 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_02.ipynb
 
     - date: Wed 1/29
       content: "Discussion"
@@ -45,12 +47,12 @@ weeks:
     - date: Fri 1/31
       content: "Discussion"
     links:
-      # - name: Week 2 Guide
-      #   url: /prep/prep02
-      # - name: "Lab 1: Simple Random Samples (Due 9/08 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_01_fixed.ipynb       
-      # - name: HW 2 (Due 9/10 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_02.ipynb
+      - name: Weeks 1 & 2 Guide
+        url: /prep/sp20prep01
+      - name: "Lab 2:Total Variation (Due 2/2 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_02.ipynb
+      - name: HW 2 (Due 2/4 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_02.ipynb
 
   - weekNum: 3
     weekName: Poissonization and Expectation
