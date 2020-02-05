@@ -61,12 +61,12 @@ weeks:
     - date: Tue 2/4
       content: "Lecture 5: Independence and Poissonization"
       assignments:
-        # - name: Week 3 Guide
-        #   url: /prep/prep03
-        # - name: "Lab 2: Total Variation (Due 9/15 at 12:00PM noon)"
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_02.ipynb  
-        # - name: HW 3 (Due 9/17 at 12:00PM noon)
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_03.ipynb
+        - name: Weeks 3 & 4 Guide
+          url: /prep/sp20prep02
+        - name: "Lab 3: Expectation of Discrete Order Statistics (Due 2/9 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_03.ipynb  
+        - name: HW 3 (Due 2/11 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_03.ipynb
 
     - date: Wed 2/5
       content: "QUIZ 1"
@@ -75,12 +75,12 @@ weeks:
     - date: Fri 2/7
       content: "Discussion"
     links:
-      # - name: Week 3 Guide
-      #   url: /prep/prep03
-      # - name: "Lab 2: Total Variation (Due 9/15 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_02.ipynb  
-      # - name: HW 3 (Due 9/17 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_03.ipynb
+      - name: Weeks 3 & 4 Guide
+        url: /prep/sp20prep02
+      - name: "Lab 3: Expectation of Discrete Order Statistics (Due 2/9 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_03.ipynb  
+      - name: HW 3 (Due 2/11 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_03.ipynb
 
 
   - weekNum: 4
