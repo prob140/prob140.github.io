@@ -94,8 +94,8 @@ weeks:
           url: /prep/sp20prep02
         - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb  
-        - name: HW 4 (Due 2/18 at 12:00PM noon)
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_04.ipynb
+        # - name: HW 4 (Due 2/18 at 12:00PM noon)
+        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_04.ipynb
     - date: Wed 2/12
       content: "Discussion"
     - date: Thu 2/13
@@ -107,8 +107,8 @@ weeks:
           url: /prep/sp20prep02
         - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb  
-        - name: HW 4 (Due 2/18 at 12:00PM noon)
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_04.ipynb
+        # - name: HW 4 (Due 2/18 at 12:00PM noon)
+        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_04.ipynb
 
   - weekNum: 5
     weekName: Markov Chains
