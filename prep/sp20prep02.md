@@ -15,7 +15,7 @@ The course follows the textbook in sequence. So you will always know which chapt
 **Additional Reading:** Pitman Section 2.1, 2.4, 2.5
 
 #### Week 4 ####
-**Required Reading:** Lectures will continue to cover Chapter 8. If we had to pick one chapter as the most important in the course, it would be this one.
+**Required Reading:** Textbook Chapters 8 and 9  
 
 **Additional Reading:** Pitman Section 3.2
 
