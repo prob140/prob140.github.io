@@ -117,8 +117,8 @@ weeks:
     - date: Tue 2/18
       content: "Lecture 9: Long run behavior of Markov Chains"
       assignments:
-        # - name: Week 5 Guide
-        #   url: /prep/prep05
+        - name: Weeks 5 & 6 Guide
+          url: /prep/sp20prep03
         - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb  
         - name: Homework 5 (Due 2/25 at 12:00PM noon)
@@ -130,8 +130,8 @@ weeks:
     - date: Fri 2/21
       content: "Discussion"
     links:
-      # - name: Week 5 Guide
-      #   url: /prep/prep05
+      - name: Weeks 5 & 6 Guide
+        url: /prep/sp20prep03
       - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb  
       - name: Homework 5 (Due 2/25 at 12:00PM noon)
