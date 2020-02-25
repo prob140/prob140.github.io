@@ -3,14 +3,12 @@ layout: page
 title: Material for the Midterm
 ---
 
-### Prob140 Fall 2019 ###
+### Prob140 Spring 2020 ###
 ### A. Adhikari ###
 
-The midterm is during the lecture time on Thursday October 10. This is a summary of the material for the exam, grouped by main topic. The general techniques are in the sections Probability, Distribution, and Expectation. The next two sections consist of applications. 
+The midterm is during the lecture time on Tuesday March 3. This is a summary of the material for the exam, grouped by main topic. The general techniques are in the sections Probability, Distribution, and Expectation. The next two sections consist of applications. 
 
-The labs relevant to the midterm are listed below by topic. Please also review all your homework, quizzes, and all the practice problems in the weekly Prep Guides.
-
-Homework 6, due Tuesday October 8, consists of last semester's midterm.
+The labs relevant to the midterm are listed below by topic. Please also review all your homework, Quiz 1, and all the practice problems in the weekly Prep Guides.
 
 
 ### Probability ###
