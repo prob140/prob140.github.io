@@ -144,14 +144,12 @@ weeks:
     - date: Tue 2/25
       content: "Lecture 11: Markov Chain Monte Carlo"
       assignments:
-        # - name: Week 6 Guide
-        #   url: /prep/prep06
-        # - name: Midterm Contents
-        #   url: /midterm_contents
-        # - name: "Lab 5: Codebreaking by MCMC (Due 10/6 at 12:00PM noon)"
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_05.ipynb
-        # - name: Homework 6 (Due 10/8 at 12:00PM noon)
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_06.ipynb
+        - name: Weeks 5 & 6 Guide
+          url: /prep/sp20prep03
+        - name: Midterm Contents
+          url: /midterm_contents
+        - name: "Lab 5: Codebreaking by MCMC (Due 3/1 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_05.ipynb
     - date: Wed 2/26
       content: "Discussion"
     - date: Thu 2/27
@@ -159,14 +157,12 @@ weeks:
     - date: Fri 2/28
       content: "Discussion"
     links:
-      # - name: Week 6 Guide
-      #   url: /prep/prep06
-      # - name: Midterm Contents
-      #   url: /midterm_contents
-      # - name: "Lab 5: Codebreaking by MCMC (Due 10/6 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_05.ipynb
-      # - name: Homework 6 (Due 10/8 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_06.ipynb
+      - name: Weeks 5 & 6 Guide
+        url: /prep/sp20prep03
+      - name: Midterm Contents
+        url: /midterm_contents
+      - name: "Lab 5: Codebreaking by MCMC (Due 3/1 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_05.ipynb
 
   - weekNum: 7
     weekName: Midterm and Variance
