@@ -171,10 +171,8 @@ weeks:
     - date: Tue 3/3
       content: "MIDTERM"
       assignments:
-        # - name: Midterm Contents
-        #   url: /midterm_contents
-        # - name: Homework 7 (Due 10/22 at 12:00PM noon)
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_07.ipynb
+        - name: Homework 6 (Due 3/10 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_06.ipynb
     - date: Wed 3/4
       content: "No Discussion"
     - date: Thu 3/5
@@ -182,10 +180,8 @@ weeks:
     - date: Fri 10/11
       content: "Discussion"
     links:
-      # - name: Midterm Contents
-      #   url: /midterm_contents
-      # - name: Homework 7 (Due 10/22 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_07.ipynb
+      - name: Homework 6 (Due 3/10 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_06.ipynb
 
   - weekNum: 8
     weekName: Covariance; Central Limit Theorem
