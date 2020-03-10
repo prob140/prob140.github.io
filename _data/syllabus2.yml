@@ -194,7 +194,9 @@ weeks:
     - date: Tue 3/10
       content: "Covariance and its uses
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_01.ipynb'' target='_blank'>(Part 1)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_02.ipynb'' target='_blank'>(Part 2)</a>"
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_02.ipynb'' target='_blank'>(Part 2)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_03.ipynb'' target='_blank'>(Part 3)</a>"
+
       assignments:
         # - name: Week 8 Guide
         #   url: /prep/prep08
