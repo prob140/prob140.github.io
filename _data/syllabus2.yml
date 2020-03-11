@@ -199,12 +199,12 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_04.ipynb'' target='_blank'>(Part 4)</a>
       "
       assignments:
-        # - name: Week 8 Guide
-        #   url: /prep/prep08
-        # - name: Homework 7 (Due 10/22 at 12:00PM noon)
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_07.ipynb
-        # - name: "Lab 6: Decisions Based on Ranks (Due 10/20 at 12:00PM noon)"
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_06.ipynb
+        - name: Weeks 7-9 Guide
+          url: /prep/sp20prep04
+        - name: Homework 7 (Due 3/17 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_07.ipynb
+        - name: "Lab 6: Decisions Based on Ranks (Due 3/15 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_06.ipynb
 
     - date: Wed 3/11
       content: "Discussion"
@@ -213,12 +213,12 @@ weeks:
     - date: Fri 3/13
       content: "Discussion"
     links:
-      # - name: Week 8 Guide
-      #   url: /prep/prep08
-      # - name: Homework 7 (Due 10/22 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_07.ipynb
-      # - name: "Lab 6: Decisions Based on Ranks (Due 10/20 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_06.ipynb
+      - name: Weeks 7-9 Guide
+        url: /prep/sp20prep04
+      - name: Homework 7 (Due 3/17 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_07.ipynb
+      - name: "Lab 6: Decisions Based on Ranks (Due 3/15 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_06.ipynb
 
   - weekNum: 9
     weekName: Continuous Distributions
