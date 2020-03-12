@@ -209,7 +209,10 @@ weeks:
     - date: Wed 3/11
       content: "Discussion"
     - date: Thu 3/12
-      content: "Lecture 15: Central Limit Theorem"
+      content: "Central Limit Theorem <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_05.ipynb'' target='_blank'>(Part 5)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_06.ipynb'' target='_blank'>(Part 6)</a>
+      "
     - date: Fri 3/13
       content: "Discussion"
     links:
