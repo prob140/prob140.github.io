@@ -201,9 +201,9 @@ weeks:
       assignments:
         - name: Weeks 7-9 Guide
           url: /prep/sp20prep04
-        - name: Homework 7 (Due 3/17 at 12:00PM noon)
+        - name: Homework 7 (Due 3/20 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_07.ipynb
-        - name: "Lab 6: Decisions Based on Ranks (Due 3/15 at 12:00PM noon)"
+        - name: "Lab 6: Decisions Based on Ranks (Due 3/20 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_06.ipynb
 
     - date: Wed 3/11
@@ -220,9 +220,9 @@ weeks:
     links:
       - name: Weeks 7-9 Guide
         url: /prep/sp20prep04
-      - name: Homework 7 (Due 3/17 at 12:00PM noon)
+      - name: Homework 7 (Due 3/20 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_07.ipynb
-      - name: "Lab 6: Decisions Based on Ranks (Due 3/15 at 12:00PM noon)"
+      - name: "Lab 6: Decisions Based on Ranks (Due 3/20 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_06.ipynb
 
   - weekNum: 9
