@@ -230,7 +230,9 @@ weeks:
     weekDuration: 3/16-3/20
     basic:
     - date: Tue 3/17
-      content: "Lecture 16: Probability densities"
+      content: "Probability densities  <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_01.ipynb'' target='_blank'>(Part 1)</a> 
+      "
       assignments:
         # - name: Week 9 Guide
         #   url: /prep/prep09
