@@ -246,7 +246,11 @@ weeks:
     - date: Wed 3/18
       content: "Discussion"
     - date: Thu 3/19
-      content: "Lecture 17: Transformations"
+      content: "Transformations <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_05.ipynb'' target='_blank'>(Part 5)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_06.ipynb'' target='_blank'>(Part 6)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_07.ipynb'' target='_blank'>(Part 7)</a> 
+      "
     - date: Fri 3/20
       content: "Discussion"
     links:
