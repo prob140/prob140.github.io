@@ -237,12 +237,12 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_04.ipynb'' target='_blank'>(Part 4)</a> 
       "
       assignments:
-        # - name: Week 9 Guide
-        #   url: /prep/prep09
-        # - name: Homework 8 (Due 10/29 at 12:00PM noon)
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_08.ipynb
-        # - name: "Lab 7: Simulation and the CDF (Due 10/27 at 12:00PM noon)"
-        #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_07.ipynb
+        - name: Weeks 7-9 Guide
+          url: /prep/sp20prep04
+        - name: Homework 8 (Due 3/31 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_08.ipynb
+        - name: "Lab 7: Densities and SymPy (Due 4/5 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_07.ipynb
     - date: Wed 3/18
       content: "Discussion"
     - date: Thu 3/19
@@ -254,12 +254,12 @@ weeks:
     - date: Fri 3/20
       content: "Discussion"
     links:
-      # - name: Week 9 Guide
-      #   url: /prep/prep09
-      # - name: Homework 8 (Due 10/29 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_08.ipynb
-      # - name: "Lab 7: Simulation and the CDF (Due 10/27 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_07.ipynb
+      - name: Weeks 7-9 Guide
+        url: /prep/sp20prep04
+      - name: Homework 8 (Due 3/31 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_08.ipynb
+      - name: "Lab 7: Densities and SymPy (Due 4/5 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_07.ipynb
 
   - weekNum:
     weekName: Spring Break
