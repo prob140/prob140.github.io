@@ -282,20 +282,25 @@ weeks:
     weekDuration: 3/30-4/3
     basic:
     - date: Tue 3/31
-      content: "Lecture 18: Joint densities"
+      content: "Joint densities <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_01.ipynb'' target='_blank'>(Part 1)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_02.ipynb'' target='_blank'>(Part 2)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_03.ipynb'' target='_blank'>(Part 3)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_04.ipynb'' target='_blank'>(Part 4)</a> 
+      "
       assignments:
-      # - name: Week 11 Guide
+      # - name: Week 11 Guide 
       #   url: /prep/prep11
       # - name: Homework 10 (Due 11/12 at 12:00PM noon)
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_10.ipynb
       # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/1
-      content: "QUIZ 2"
+      content: "Problem Solving Sessions"
     - date: Thu 4/2
       content: "Lecture 19: Independent normal and gamma variables"
     - date: Fri 4/3
-      content: "Discussion"
+      content: "Problem Solving Sessions"
     links:
       # - name: Week 11 Guide
       #   url: /prep/prep11
@@ -317,11 +322,11 @@ weeks:
       # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/8
-      content: "Discussion"
+      content: "Problem Solving Sessions"
     - date: Thu 4/9
       content: "Lecture 21: MLE; the beta family"
     - date: Fri 4/10
-      content: "Discussion"
+      content: "Problem Solving Sessions"
     links:
   - weekNum: 12
     weekName: MAP and Beta-Binomial
@@ -337,11 +342,11 @@ weeks:
       # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/15
-      content: "QUIZ 3"
+      content: "Problem Solving Sessions"
     - date: Thu 4/16
       content: "Lecture 23: The beta and the binomial"
     - date: Fri 4/17
-      content: "Discussion"
+      content: "Problem Solving Sessions"
     links:
       # - name: Week 12 Guide
       #   url: /prep/prep12
@@ -364,11 +369,11 @@ weeks:
       # - name: "Lab 10: Chinese Restaurant Process (Due 11/24 at 12:00PM noon)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_10.ipynb
     - date: Wed 4/22
-      content: "Discussion"
+      content: "Problem Solving Sessions"
     - date: Thu 4/23
       content: "Lecture 25: Random vectors; multivariate normal"
     - date: Fri 4/24
-      content: "Discussion"
+      content: "Problem Solving Sessions"
     links:
       # - name: Week 13 Guide
       #   url: /prep/prep13
@@ -393,11 +398,11 @@ weeks:
       # - name: Homework 14 (Due 12/08 at 12:00PM noon)
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_14.ipynb
     - date: Wed 4/29
-      content: "Discussion"
+      content: "Problem Solving Sessions"
     - date: Thu 4/30
       content: "Lecture 27: Multiple regression"
     - date: Fri 5/1
-      content: "Discussion"
+      content: "Problem Solving Sessions"
     links:
       # - name: Week 14 Guide
       #   url: /prep/prep14
