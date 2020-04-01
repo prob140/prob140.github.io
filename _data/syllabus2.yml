@@ -298,7 +298,9 @@ weeks:
         - name: "Week 10 Checkpoint"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/CP_April_02.ipynb
     - date: Wed 4/1
-      content: "Problem Solving Sessions"
+      content: "Problem Solving Sessions <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Apr_01_PS.ipynb'' target='_blank'>(Videos)</a>
+      "
     - date: Thu 4/2
       content: "Lecture 19: Independent normal and gamma variables"
     - date: Fri 4/3
