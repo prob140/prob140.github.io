@@ -293,12 +293,10 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_07.ipynb'' target='_blank'>(Part 7)</a> 
       "
       assignments:
-      # - name: Week 11 Guide 
-      #   url: /prep/prep11
-      # - name: Homework 10 (Due 11/12 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_10.ipynb
-      # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
+        - name: Homework 9 (Due 4/7 at 12:00PM noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_09.ipynb
+        - name: "Week 10 Checkpoint"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/CP_April_02.ipynb
     - date: Wed 4/1
       content: "Problem Solving Sessions"
     - date: Thu 4/2
@@ -306,12 +304,10 @@ weeks:
     - date: Fri 4/3
       content: "Problem Solving Sessions"
     links:
-      # - name: Week 11 Guide
-      #   url: /prep/prep11
-      # - name: Homework 10 (Due 11/12 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_10.ipynb 
-      # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
+    - name: Homework 9 (Due 4/7 at 12:00PM noon)
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_09.ipynb
+    - name: "Week 10 Checkpoint (Due 4/2 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/CP_April_02.ipynb
   - weekNum: 11
     weekName: MGFs, MLE, and the Beta Family
     weekDuration: 4/6-4/10
