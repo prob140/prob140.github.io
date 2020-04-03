@@ -303,7 +303,9 @@ weeks:
       "
     - date: Thu 4/2
       content: "Independent normal and gamma variables <br/>
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_09.ipynb'' target='_blank'>(Part 9)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_08.ipynb'' target='_blank'>(Part 8)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_09.ipynb'' target='_blank'>(Part 9)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_10.ipynb'' target='_blank'>(Part 10)</a> 
       "
     - date: Fri 4/3
       content: "Problem Solving Sessions"
