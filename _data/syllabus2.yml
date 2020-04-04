@@ -308,7 +308,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_10.ipynb'' target='_blank'>(Part 10)</a> 
       "
     - date: Fri 4/3
-      content: "Problem Solving Sessions"
+      content: "Problem Solving Sessions <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Apr_03_PS.ipynb'' target='_blank'>(Videos)</a>
+      "
     links:
     - name: Homework 9 (Due 4/7 at 12:00PM noon)
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_09.ipynb
