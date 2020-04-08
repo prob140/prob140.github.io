@@ -64,7 +64,7 @@ weeks:
         - name: Weeks 3 & 4 Guide
           url: /prep/sp20prep02
         - name: "Lab 3: Expectation of Discrete Order Statistics (Due 2/9 at 12:00PM noon)"
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_03.ipynb  
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_03.ipynb
         - name: HW 3 (Due 2/11 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_03.ipynb
 
@@ -78,7 +78,7 @@ weeks:
       - name: Weeks 3 & 4 Guide
         url: /prep/sp20prep02
       - name: "Lab 3: Expectation of Discrete Order Statistics (Due 2/9 at 12:00PM noon)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_03.ipynb  
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_03.ipynb
       - name: HW 3 (Due 2/11 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_03.ipynb
 
@@ -93,7 +93,7 @@ weeks:
         - name: Weeks 3 & 4 Guide
           url: /prep/sp20prep02
         - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb  
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb
         - name: HW 4 (Due 2/18 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_04_final.ipynb
     - date: Wed 2/12
@@ -106,7 +106,7 @@ weeks:
         - name: Weeks 3 & 4 Guide
           url: /prep/sp20prep02
         - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb  
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb
         - name: HW 4 (Due 2/18 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_04_final.ipynb
 
@@ -120,7 +120,7 @@ weeks:
         - name: Weeks 5 & 6 Guide
           url: /prep/sp20prep03
         - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb  
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb
         - name: Homework 5 (Due 2/25 at 12:00PM noon)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_05.ipynb
     - date: Wed 2/19
@@ -133,7 +133,7 @@ weeks:
       - name: Weeks 5 & 6 Guide
         url: /prep/sp20prep03
       - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb  
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_04.ipynb
       - name: Homework 5 (Due 2/25 at 12:00PM noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_05.ipynb
 
@@ -193,7 +193,7 @@ weeks:
     basic:
     - date: Tue 3/10
       content: "Covariance and its uses <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_01.ipynb'' target='_blank'>(Part 1)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_01.ipynb'' target='_blank'>(Part 1)</a>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_02.ipynb'' target='_blank'>(Part 2)</a>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_03.ipynb'' target='_blank'>(Part 3)</a>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_04.ipynb'' target='_blank'>(Part 4)</a>
@@ -210,7 +210,7 @@ weeks:
       content: "Discussion"
     - date: Thu 3/12
       content: "Central Limit Theorem <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_05.ipynb'' target='_blank'>(Part 5)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_05.ipynb'' target='_blank'>(Part 5)</a>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_06.ipynb'' target='_blank'>(Part 6)</a>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_07.ipynb'' target='_blank'>(Part 7)</a>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week08/Week_08_Part_08.ipynb'' target='_blank'>(Part 8)</a>
@@ -231,10 +231,10 @@ weeks:
     basic:
     - date: Tue 3/17
       content: "Probability densities  <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_01.ipynb'' target='_blank'>(Part 1)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_02.ipynb'' target='_blank'>(Part 2)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_03.ipynb'' target='_blank'>(Part 3)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_04.ipynb'' target='_blank'>(Part 4)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_01.ipynb'' target='_blank'>(Part 1)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_02.ipynb'' target='_blank'>(Part 2)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_03.ipynb'' target='_blank'>(Part 3)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_04.ipynb'' target='_blank'>(Part 4)</a>
       "
       assignments:
         - name: Weeks 7-9 Guide
@@ -247,9 +247,9 @@ weeks:
       content: "Discussion"
     - date: Thu 3/19
       content: "Transformations <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_05.ipynb'' target='_blank'>(Part 5)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_06.ipynb'' target='_blank'>(Part 6)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_07.ipynb'' target='_blank'>(Part 7)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_05.ipynb'' target='_blank'>(Part 5)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_06.ipynb'' target='_blank'>(Part 6)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week09/Week_09_Part_07.ipynb'' target='_blank'>(Part 7)</a>
       "
     - date: Fri 3/20
       content: "Discussion"
@@ -273,7 +273,7 @@ weeks:
       # - name: Week 10 Guide
       #   url: /prep/prep10
       # - name: Homework 9 (Due 11/05 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_09.ipynb 
+      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_09.ipynb
       # - name: "Lab 8: Densities and SymPy (Due 11/03 at 12:00PM noon)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
 
@@ -283,14 +283,14 @@ weeks:
     basic:
     - date: Tue 3/31
       content: "Joint densities <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_01.ipynb'' target='_blank'>(Part 1)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_02.ipynb'' target='_blank'>(Part 2)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_03.ipynb'' target='_blank'>(Part 3)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_04.ipynb'' target='_blank'>(Part 4)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_01.ipynb'' target='_blank'>(Part 1)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_02.ipynb'' target='_blank'>(Part 2)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_03.ipynb'' target='_blank'>(Part 3)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_04.ipynb'' target='_blank'>(Part 4)</a>
       <br/>
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_05.ipynb'' target='_blank'>(Part 5)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_06.ipynb'' target='_blank'>(Part 6)</a> 
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_07.ipynb'' target='_blank'>(Part 7)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_05.ipynb'' target='_blank'>(Part 5)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_06.ipynb'' target='_blank'>(Part 6)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_07.ipynb'' target='_blank'>(Part 7)</a>
       "
       assignments:
         - name: Homework 9 (Due 4/7 at 12:00PM noon)
@@ -303,9 +303,9 @@ weeks:
       "
     - date: Thu 4/2
       content: "Independent normal and gamma variables <br/>
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_08.ipynb'' target='_blank'>(Part 8)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_08.ipynb'' target='_blank'>(Part 8)</a>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_09.ipynb'' target='_blank'>(Part 9)</a>
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_10.ipynb'' target='_blank'>(Part 10)</a> 
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_10.ipynb'' target='_blank'>(Part 10)</a>
       "
     - date: Fri 4/3
       content: "Problem Solving Sessions <br />
@@ -323,12 +323,8 @@ weeks:
     - date: Tue 4/7
       content: "Lecture 20: Moment generating functions; Chernoff bound"
       assignments:
-      # - name: Week 12 Guide
-      #   url: /prep/prep12
-      # - name: Homework 11 (Due 11/19 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_11.ipynb
-      # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
+        - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
     - date: Wed 4/8
       content: "Problem Solving Sessions"
     - date: Thu 4/9
@@ -336,6 +332,8 @@ weeks:
     - date: Fri 4/10
       content: "Problem Solving Sessions"
     links:
+    - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
   - weekNum: 12
     weekName: MAP and Beta-Binomial
     weekDuration: 4/13-4/17
@@ -359,7 +357,7 @@ weeks:
       # - name: Week 12 Guide
       #   url: /prep/prep12
       # - name: Homework 11 (Due 11/19 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_11.ipynb 
+      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_11.ipynb
       # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
 
@@ -386,7 +384,7 @@ weeks:
       # - name: Week 13 Guide
       #   url: /prep/prep13
       # - name: Homework 12 (Due 11/26 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_12.ipynb 
+      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_12.ipynb
       # - name: "Lab 10: Chinese Restaurant Process (Due 11/24 at 12:00PM noon)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_10.ipynb
 
@@ -415,7 +413,7 @@ weeks:
       # - name: Week 14 Guide
       #   url: /prep/prep14
       # - name: Homework 13 (Due 12/03 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_13.ipynb 
+      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_13.ipynb
       # - name: "Lab 11: Introduction to Jointly Normal Vectors (Due 12/06 at 11:59PM)"
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_11.ipynb
       # - name: Homework 14 (Due 12/08 at 12:00PM noon)
