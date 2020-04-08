@@ -317,29 +317,32 @@ weeks:
     - name: "Week 10 Checkpoint (Due 4/2 at 11:59PM)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/CP_April_02.ipynb
   - weekNum: 11
-    weekName: MGFs, MLE, and the Beta Family
+    weekName: MGFs, MLE, and MAP
     weekDuration: 4/6-4/10
     basic:
     - date: Tue 4/7
-      content: "Lecture 20: Moment generating functions; Chernoff bound"
+      content: "Moment generating functions; Chernoff bound <br/>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Week_11_Part_01.ipynb'' target='_blank'>(Part 1)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Week_11_Part_02.ipynb'' target='_blank'>(Part 2)</a> 
+      "
       assignments:
         - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
     - date: Wed 4/8
       content: "Problem Solving Sessions"
     - date: Thu 4/9
-      content: "Lecture 21: MLE; the beta family"
+      content: "MLE and MAP"
     - date: Fri 4/10
       content: "Problem Solving Sessions"
     links:
     - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
   - weekNum: 12
-    weekName: MAP and Beta-Binomial
+    weekName: Beta-Binomial and Prediction
     weekDuration: 4/13-4/17
     basic:
     - date: Tue 4/14
-      content: "Lecture 22: Conditioning; MAP estimates"
+      content: "The Beta and the Binomial"
       assignments:
       # - name: Week 12 Guide
       #   url: /prep/prep12
@@ -350,7 +353,7 @@ weeks:
     - date: Wed 4/15
       content: "Problem Solving Sessions"
     - date: Thu 4/16
-      content: "Lecture 23: The beta and the binomial"
+      content: "Prediction and error"
     - date: Fri 4/17
       content: "Problem Solving Sessions"
     links:
@@ -362,11 +365,11 @@ weeks:
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
 
   - weekNum: 13
-    weekName: Prediction and the multivariate normal
+    weekName: The multivariate normal and correlation
     weekDuration: 4/20-4/24
     basic:
     - date: Tue 4/21
-      content: "Lecture 24: Prediction and error"
+      content: "Random vectors; multivariate normal"
       assignments:
       # - name: Week 13 Guide
       #   url: /prep/prep13
@@ -377,7 +380,7 @@ weeks:
     - date: Wed 4/22
       content: "Problem Solving Sessions"
     - date: Thu 4/23
-      content: "Lecture 25: Random vectors; multivariate normal"
+      content: "Correlation and simple regression"
     - date: Fri 4/24
       content: "Problem Solving Sessions"
     links:
@@ -389,11 +392,11 @@ weeks:
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_10.ipynb
 
   - weekNum: 14
-    weekName: Correlation and regression
+    weekName: Regression
     weekDuration: 4/27-5/1
     basic:
     - date: Tue 4/28
-      content: "Lecture 26: Correlation and simple regression"
+      content: "Multiple regression"
       assignments:
       # - name: Week 14 Guide
       #   url: /prep/prep14
@@ -406,7 +409,7 @@ weeks:
     - date: Wed 4/29
       content: "Problem Solving Sessions"
     - date: Thu 4/30
-      content: "Lecture 27: Multiple regression"
+      content: "Multiple regression"
     - date: Fri 5/1
       content: "Problem Solving Sessions"
     links:
