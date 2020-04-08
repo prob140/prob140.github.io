@@ -330,8 +330,8 @@ weeks:
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
         - name: "Homework 10 (Due 4/14 at 12:00PM noon)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_10.ipynb
-        - name: "Lab 9: Poisson Process (Due 4/19 at 12:00PM noon)"
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
+        - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
     - date: Wed 4/8
       content: "Problem Solving Sessions"
     - date: Thu 4/9
@@ -343,8 +343,8 @@ weeks:
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
     - name: "Homework 10 (Due 4/14 at 12:00PM noon)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_10.ipynb
-    - name: "Lab 9: Poisson Process (Due 4/19 at 12:00PM noon)"
-      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
+    - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
   - weekNum: 12
     weekName: Beta-Binomial and Prediction
     weekDuration: 4/13-4/17
