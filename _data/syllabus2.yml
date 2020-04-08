@@ -326,8 +326,8 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Week_11_Part_02.ipynb'' target='_blank'>(Part 2)</a> 
       "
       assignments:
-#        - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
+        - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
     - date: Wed 4/8
       content: "Problem Solving Sessions"
     - date: Thu 4/9
@@ -335,8 +335,8 @@ weeks:
     - date: Fri 4/10
       content: "Problem Solving Sessions"
     links:
-#    - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
-#      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
+    - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
   - weekNum: 12
     weekName: Beta-Binomial and Prediction
     weekDuration: 4/13-4/17
