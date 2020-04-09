@@ -334,7 +334,7 @@ weeks:
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
     - date: Wed 4/8
       content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Apr_08_PS.ipynb'' target='_blank'>(Videos)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Apr_08_PS.ipynb'' target='_blank'>(Videos)</a>
       "
     - date: Thu 4/9
       content: "MLE and MAP"
