@@ -338,7 +338,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/April_08_PS.ipynb'' target='_blank'>(Videos)</a>
       "
     - date: Thu 4/9
-      content: "MLE and MAP"
+      content: "MLE and MAP <br/>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Week_11_Part_04.ipynb'' target='_blank'>(Part 4)</a>
+      "
     - date: Fri 4/10
       content: "Problem Solving Sessions"
     links:
