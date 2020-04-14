@@ -356,7 +356,10 @@ weeks:
     weekDuration: 4/13-4/17
     basic:
     - date: Tue 4/14
-      content: "The Beta and the Binomial"
+      content: "The Beta and the Binomial <br/>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_01.ipynb'' target='_blank'>(Part 1)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_02.ipynb'' target='_blank'>(Part 2)</a>
+      "
       assignments:
       # - name: Week 12 Guide
       #   url: /prep/prep12
