@@ -365,12 +365,10 @@ weeks:
       assignments:
       - name: "Week 12 Checkpoint (Due 4/16 at 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_12_Checkpoint.ipynb
-      # - name: Week 12 Guide
-      #   url: /prep/prep12
-      # - name: Homework 11 (Due 11/19 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_11.ipynb
-      # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
+      - name: "Homework 11 (Due 4/21 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_11.ipynb
+      - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
     - date: Wed 4/15
       content: "Problem Solving Sessions"
     - date: Thu 4/16
@@ -380,12 +378,10 @@ weeks:
     links:
     - name: "Week 12 Checkpoint (Due 4/16 at 11:59PM)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_12_Checkpoint.ipynb
-      # - name: Week 12 Guide
-      #   url: /prep/prep12
-      # - name: Homework 11 (Due 11/19 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_11.ipynb
-      # - name: "Lab 9: Poisson Process (Due 11/17 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
+    - name: "Homework 11 (Due 4/21 at 12:00PM noon)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_11.ipynb
+    - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
 
   - weekNum: 13
     weekName: The multivariate normal and correlation
