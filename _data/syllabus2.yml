@@ -363,6 +363,8 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_02.ipynb'' target='_blank'>(Part 2)</a>
       "
       assignments:
+        - name: "Week 12 Checkpoint (Due 4/16 at 11:59PM)"
+            url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_12_Checkpoint.ipynb
       # - name: Week 12 Guide
       #   url: /prep/prep12
       # - name: Homework 11 (Due 11/19 at 12:00PM noon)
@@ -376,6 +378,8 @@ weeks:
     - date: Fri 4/17
       content: "Problem Solving Sessions"
     links:
+      - name: "Week 12 Checkpoint (Due 4/16 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_12_Checkpoint.ipynb
       # - name: Week 12 Guide
       #   url: /prep/prep12
       # - name: Homework 11 (Due 11/19 at 12:00PM noon)
