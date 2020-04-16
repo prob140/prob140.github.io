@@ -372,7 +372,11 @@ weeks:
     - date: Wed 4/15
       content: "Problem Solving Sessions"
     - date: Thu 4/16
-      content: "Prediction and error"
+      content: "Prediction and error <br/>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_03.ipynb'' target='_blank'>(Part 3)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_04.ipynb'' target='_blank'>(Part 4)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_05.ipynb'' target='_blank'>(Part 5)</a>
+      "
     - date: Fri 4/17
       content: "Problem Solving Sessions"
     links:
