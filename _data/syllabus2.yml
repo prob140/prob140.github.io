@@ -370,7 +370,9 @@ weeks:
       - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
     - date: Wed 4/15
-      content: "Problem Solving Sessions"
+      content: "Problem Solving Sessions <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_15a_PS.ipynb'' target='_blank'>(Videos)</a>
+      "
     - date: Thu 4/16
       content: "Prediction and error <br/>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_03.ipynb'' target='_blank'>(Part 3)</a>
