@@ -372,6 +372,7 @@ weeks:
     - date: Wed 4/15
       content: "Problem Solving Sessions <br />
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_15a_PS.ipynb'' target='_blank'>(Videos)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_15b_PS.ipynb'' target='_blank'>(Videos Part 2)</a>
       "
     - date: Thu 4/16
       content: "Prediction and error <br/>
@@ -380,7 +381,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_05.ipynb'' target='_blank'>(Part 5)</a>
       "
     - date: Fri 4/17
-      content: "Problem Solving Sessions"
+      content: "Problem Solving Sessions <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_17_PS.ipynb'' target='_blank'>(Videos)</a>
+      "
     links:
     - name: "Week 12 Checkpoint (Due 4/16 at 11:59PM)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_12_Checkpoint.ipynb
