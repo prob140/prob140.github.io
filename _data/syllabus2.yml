@@ -404,12 +404,10 @@ weeks:
       assignments:
       - name: "Week 13 Checkpoint (Due 4/23 at 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_13_Checkpoint.ipynb
-      # - name: Week 13 Guide
-      #   url: /prep/prep13
-      # - name: Homework 12 (Due 11/26 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_12.ipynb
-      # - name: "Lab 10: Chinese Restaurant Process (Due 11/24 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_10.ipynb
+      - name: Homework 12 (Due 4/28 at 12:00PM noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_12.ipynb
+      - name: "Lab 9: Introduction to Jointly Normal Vectors (Due 5/3 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_9.ipynb
     - date: Wed 4/22
       content: "Problem Solving Sessions"
     - date: Thu 4/23
@@ -419,12 +417,10 @@ weeks:
     links:
     - name: "Week 13 Checkpoint (Due 4/23 at 11:59PM)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_13_Checkpoint.ipynb
-      # - name: Week 13 Guide
-      #   url: /prep/prep13
-      # - name: Homework 12 (Due 11/26 at 12:00PM noon)
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_12.ipynb
-      # - name: "Lab 10: Chinese Restaurant Process (Due 11/24 at 12:00PM noon)"
-      #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_10.ipynb
+    - name: Homework 12 (Due 4/28 at 12:00PM noon)
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_12.ipynb
+    - name: "Lab 9: Introduction to Jointly Normal Vectors (Due 5/3 at 12:00PM noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_9.ipynb
 
   - weekNum: 14
     weekName: Regression
