@@ -397,7 +397,10 @@ weeks:
     weekDuration: 4/20-4/24
     basic:
     - date: Tue 4/21
-      content: "Random vectors; multivariate normal"
+      content: "Random vectors; multivariate normal <br/>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Week_13_Part_01.ipynb'' target='_blank'>(Part 1)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Week_13_Part_01.ipynb'' target='_blank'>(Part 2)</a>
+      "
       assignments:
       # - name: Week 13 Guide
       #   url: /prep/prep13
