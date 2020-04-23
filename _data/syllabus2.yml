@@ -409,7 +409,9 @@ weeks:
       - name: "Lab 9: Introduction to Jointly Normal Vectors (Due 5/3 at 12:00PM noon, Extra Credit if submitted by 4/26 at 12:00PM noon)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/22
-      content: "Problem Solving Sessions"
+      content: "Problem Solving Sessions <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Apr_22_PS.ipynb'' target='_blank'>(Videos)</a>
+      "
     - date: Thu 4/23
       content: "Correlation and simple regression"
     - date: Fri 4/24
