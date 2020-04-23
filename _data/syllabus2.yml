@@ -413,7 +413,11 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Apr_22_PS.ipynb'' target='_blank'>(Videos)</a>
       "
     - date: Thu 4/23
-      content: "Correlation and simple regression"
+      content: "Correlation and simple regression <br/>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Week_13_Part_03.ipynb'' target='_blank'>(Part 3)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Week_13_Part_04.ipynb'' target='_blank'>(Part 4)</a>
+
+      "
     - date: Fri 4/24
       content: "Problem Solving Sessions"
     links:
