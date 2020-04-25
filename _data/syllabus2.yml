@@ -419,7 +419,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Week_13_Part_05.ipynb'' target='_blank'>(Part 5)</a>
       "
     - date: Fri 4/24
-      content: "Problem Solving Sessions"
+      content: "Problem Solving Sessions <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Apr_24_PS.ipynb'' target='_blank'>(Videos)</a>
+      "
     links:
     - name: "Week 13 Checkpoint (Due 4/23 at 11:59PM)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_13_Checkpoint.ipynb
