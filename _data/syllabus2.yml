@@ -437,6 +437,9 @@ weeks:
     - date: Tue 4/28
       content: "Multiple regression"
       assignments:
+      - name:  Scope of Final Assessments Parts I and II 
+        url: /final_contents
+        
       # - name: Week 14 Guide
       #   url: /prep/prep14
       # - name: Homework 13 (Due 12/03 at 12:00PM noon)
@@ -452,6 +455,8 @@ weeks:
     - date: Fri 5/1
       content: "Problem Solving Sessions"
     links:
+      - name:  Scope of Final Assessments Parts I and II 
+        url: /final_contents
       # - name: Week 14 Guide
       #   url: /prep/prep14
       # - name: Homework 13 (Due 12/03 at 12:00PM noon)
