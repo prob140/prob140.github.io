@@ -435,7 +435,11 @@ weeks:
     weekDuration: 4/27-5/1
     basic:
     - date: Tue 4/28
-      content: "Multiple regression"
+      content: "Multiple regression <br/>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/Week_14_Part_01.ipynb'' target='_blank'>(Part 1)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/Week_14_Part_02.ipynb'' target='_blank'>(Part 2)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/Week_14_Part_03.ipynb'' target='_blank'>(Part 3)</a>
+      "
       assignments:
       - name:  Scope of Final Assessments Parts I and II 
         url: /final_contents
@@ -451,11 +455,11 @@ weeks:
       # - name: Homework 14 (Due 12/08 at 12:00PM noon)
       #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_14.ipynb
     - date: Wed 4/29
-      content: "Problem Solving Sessions"
+      content: "Topical Review Sessions"
     - date: Thu 4/30
-      content: "Multiple regression"
+      content: "Multiple regression <br/>"
     - date: Fri 5/1
-      content: "Problem Solving Sessions"
+      content: ""
     links:
       - name:  Scope of Final Assessments Parts I and II 
         url: /final_contents
