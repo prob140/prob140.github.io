@@ -457,7 +457,11 @@ weeks:
     - date: Wed 4/29
       content: "Topical Review Sessions"
     - date: Thu 4/30
-      content: "Multiple regression <br/>"
+      content: "Multiple regression <br/>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/Week_14_Part_04.ipynb'' target='_blank'>(Part 4)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/Week_14_Part_05.ipynb'' target='_blank'>(Part 5)</a>
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/Week_14_Part_06.ipynb'' target='_blank'>(Part 6)</a>
+      "
     - date: Fri 5/1
       content: ""
     links:
