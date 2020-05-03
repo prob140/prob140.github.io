@@ -463,7 +463,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/Week_14_Part_06.ipynb'' target='_blank'>(Part 6)</a>
       "
     - date: Fri 5/1
-      content: ""
+      content: "Problem Solving Videos <br />
+      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/May_1_PS.ipynb'' target='_blank'>(Videos)</a>
+      "
     links:
       - name:  Scope of Final Assessments Parts I and II 
         url: /final_contents
