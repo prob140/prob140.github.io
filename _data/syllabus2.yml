@@ -500,3 +500,7 @@ weeks:
     - date: Fri 5/15
       content: "FINAL EXAM (7PM to 10PM)"
     links:
+      - name:  Scope of Final Assessments Parts I and II 
+        url: /final_contents
+      - name: Final Assessment Part II Resources
+        url: /final_practice
