@@ -298,9 +298,9 @@ weeks:
         - name: "Week 10 Checkpoint"
           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/CP_April_02.ipynb
     - date: Wed 4/1
-      content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Apr_01_PS.ipynb'' target='_blank'>(Videos)</a>
-      "
+      # content: "Problem Solving Sessions <br />
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Apr_01_PS.ipynb'' target='_blank'>(Videos)</a>
+      # "
     - date: Thu 4/2
       content: "Independent normal and gamma variables <br/>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_08.ipynb'' target='_blank'>(Part 8)</a>
@@ -308,9 +308,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Week_10_Part_10.ipynb'' target='_blank'>(Part 10)</a>
       "
     - date: Fri 4/3
-      content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Apr_03_PS.ipynb'' target='_blank'>(Videos)</a>
-      "
+      # content: "Problem Solving Sessions <br />
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week10/Apr_03_PS.ipynb'' target='_blank'>(Videos)</a>
+      # "
     links:
     - name: Homework 9 (Due 4/7 at 12:00PM noon)
       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_09.ipynb
@@ -334,18 +334,18 @@ weeks:
         - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
     - date: Wed 4/8
-      content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/April_08_PS.ipynb'' target='_blank'>(Videos)</a>
-      "
+      # content: "Problem Solving Sessions <br />
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/April_08_PS.ipynb'' target='_blank'>(Videos)</a>
+      # "
     - date: Thu 4/9
       content: "MLE and MAP <br/>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Week_11_Part_04.ipynb'' target='_blank'>(Part 4)</a>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Week_11_Part_05.ipynb'' target='_blank'>(Part 5)</a>
       "
     - date: Fri 4/10
-      content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Apr_10_PS.ipynb'' target='_blank'>(Videos)</a>
-      "
+      # content: "Problem Solving Sessions <br />
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week11/Apr_10_PS.ipynb'' target='_blank'>(Videos)</a>
+      # "
     links:
     - name: "Week 11 Checkpoint (Due 4/9 at 11:59PM)"
       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_11_Checkpoint.ipynb
@@ -370,10 +370,10 @@ weeks:
       - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_08.ipynb
     - date: Wed 4/15
-      content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_15a_PS.ipynb'' target='_blank'>(Videos)</a>
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_15b_PS.ipynb'' target='_blank'>(Videos Part 2)</a>
-      "
+      # content: "Problem Solving Sessions <br />
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_15a_PS.ipynb'' target='_blank'>(Videos)</a>
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_15b_PS.ipynb'' target='_blank'>(Videos Part 2)</a>
+      # "
     - date: Thu 4/16
       content: "Prediction and error <br/>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_03.ipynb'' target='_blank'>(Part 3)</a>
@@ -381,9 +381,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Week_12_Part_05.ipynb'' target='_blank'>(Part 5)</a>
       "
     - date: Fri 4/17
-      content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_17_PS.ipynb'' target='_blank'>(Videos)</a>
-      "
+      # content: "Problem Solving Sessions <br />
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week12/Apr_17_PS.ipynb'' target='_blank'>(Videos)</a>
+      # "
     links:
     - name: "Week 12 Checkpoint (Due 4/16 at 11:59PM)"
       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_12_Checkpoint.ipynb
@@ -409,9 +409,9 @@ weeks:
       - name: "Lab 9: Introduction to Jointly Normal Vectors (Due 5/3 at 12:00PM noon, Extra Credit if submitted by 4/26 at 12:00PM noon)"
         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_09.ipynb
     - date: Wed 4/22
-      content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Apr_22_PS.ipynb'' target='_blank'>(Videos)</a>
-      "
+      # content: "Problem Solving Sessions <br />
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Apr_22_PS.ipynb'' target='_blank'>(Videos)</a>
+      # "
     - date: Thu 4/23
       content: "Correlation and simple regression <br/>
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Week_13_Part_03.ipynb'' target='_blank'>(Part 3)</a>
@@ -419,9 +419,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Week_13_Part_05.ipynb'' target='_blank'>(Part 5)</a>
       "
     - date: Fri 4/24
-      content: "Problem Solving Sessions <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Apr_24_PS.ipynb'' target='_blank'>(Videos)</a>
-      "
+      # content: "Problem Solving Sessions <br />
+      # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week13/Apr_24_PS.ipynb'' target='_blank'>(Videos)</a>
+      # "
     links:
     - name: "Week 13 Checkpoint (Due 4/23 at 11:59PM)"
       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=checkpoints/Week_13_Checkpoint.ipynb
@@ -463,9 +463,9 @@ weeks:
       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/Week_14_Part_06.ipynb'' target='_blank'>(Part 6)</a>
       "
     - date: Fri 5/1
-      content: "Problem Solving Videos <br />
-      <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/May_1_PS.ipynb'' target='_blank'>(Videos)</a>
-      "
+    #   content: "Problem Solving Videos <br />
+    #   <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=content/week14/May_1_PS.ipynb'' target='_blank'>(Videos)</a>
+    #   "
     links:
       - name:  Scope of Final Assessments Parts I and II 
         # url: /final_contents
