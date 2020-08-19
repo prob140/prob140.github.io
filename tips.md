@@ -7,7 +7,7 @@ In Prob 140 you will be learning probability based on your knowledge of math. Yo
 
 The programming prerequisite is Data 8, nothing more. The code will not be long or complicated. But you'll have to figure out what to code and what its logic should be, based on the math.
 
-**The key to success in Prob 140 is math.** Students who have greater mathematical fluency have an easier time. They can focus more on the probabilistic concepts because the math and hence the course takes them less time.
+**The key to success in Prob 140 is logical clarity and math.** Students who have greater mathematical fluency have an easier time. They can focus more on the probabilistic concepts because the math and hence the course takes them less time.
 
 Students don't always know what faculty mean by terms like "mathematical maturity" or "math fluency". I've tried to explain what I mean by math fluency in Prob 140 and Stat 134, the upper division probability courses that I have taught, [here](/fluency.md). You'll see that it's less about the set of results that you know and more about how you understand what you do know and how you approach math.
 
@@ -23,15 +23,15 @@ For many students, Prob 140 is their first time doing math at the upper division
 ### Tips from Students ###
 Tips from the teaching team aren't very different from those in any other class, and are consistent with student recommendations.
 
-- Read/watch the textbook carefully; don't skip the reading, and especially don't double-speed through the "talking" and focus only when you see what looks like a formula. Hardly any exercises involve obvious direct plugging into formulas. You need the "talking" to figure out how to put things together.
-- Do some of the practice, with staff or on with other students, before attempting homework. This typically leads to less total time being spent, not more.
-- Try not to fall behind. The course keeps building on itself. We'll offer some "catch up" sessions but please try to follow the Study Guide as much as possible.
+- Read/watch the textbook carefully; don't skip the reading, and especially don't double-speed through the "talking" to focus only when you see what looks like a formula. Hardly any exercises involve obvious direct plugging into formulas. You need the "talking" to figure out how to put things together.
+- Do some of the practice, with staff or with other students, before attempting homework. This typically leads to less total time being spent, not more.
+- Try not to fall behind. The course keeps building on itself. We'll offer some "catch up" sessions but please try to follow the weekly Study Guide as much as possible.
 
-Each term, the course evaluation form ends with the question, "What advice would you give to another student who is considering taking this course?" I always post typical answers from the previous semester so that the advice reaches the right people. Students know this, so Spring 2020 responses include:
+Each term, the official course evaluation form ends with the question, "What advice would you give to another student who is considering taking this course?" I always post typical answers from the previous semester so that the advice reaches the right people. Students know I do this, so Spring 2020 responses include:
 
 - "Hi future students! :) you're gonna have to put in a lot of effort into this class but I think it's worth it in the end!"
 
-I normally show the entire set on the first day of class, but in this unusual semester I might not do that. So let's start with the 5 responses that recommend against the class and then look at a selection of the approx 100 others. Spring 2020 was a weird semester for response rate as it was for everything else in the world.
+I normally show the entire set on the first day of class, but in this unusual semester I might not take the time for that. So let's start with the 5 responses that recommend against the class and then look at a selection of the approx 100 others. Spring 2020 was a weird semester for response rate as it was for everything else in the world.
 
 - "If you're not prepared to spend at least 20 hours a week ... you should consider dropping it."
 - "don't take it, but if you do please start your homeworks and labs early !!!"
@@ -70,8 +70,8 @@ Now for a selection of the rest. Staff and former students will tell you that th
 
 
 ### Alternatives ###
-If you think this might not be for you this semester, the About [LINK NEEDED] page lists other upper division probability classes you can take. They're all terrific. Be aware though that none of them is an easy ride. For example, student recommendations about Stat 134 often include tips to join the adjunct class at the Student Learning Center, which in effect is advice to spend more time on practice.
+If you think this might not be for you this semester, the [About](/about.md) page lists other upper division probability classes you can take. They're all terrific. Be aware though that none of them is an easy ride. For example, student recommendations about Stat 134 often include tips to join the adjunct class at the Student Learning Center, which in effect is advice to spend more time on practice.
 
-Students who want to take 140 after strengthening their math beyond the prerequisites often ask what math class they should take as preparation. My answer almost invariably is that they should take any math class numbered in the 50s or higher. All math classes make you better at doing math.
+Students who want to take 140 after strengthening their math beyond the prerequisites often ask what math class they should take as preparation. Almost invariably my answer is that they should take any math class numbered in the 50s or higher. All math classes make you better at doing math.
 
 I think it's better to prepare by taking more math instead of lower division probability as in Stat 88. Math skills will have more general applicability and will help more with the second half of 140.
