@@ -11,6 +11,8 @@ links:
           url: /textbook
         - name: Resources
           url: /references
+        - name: Study Tips
+          url: /tips
         - name: Weekly Schedule
           url: /weekly
         - name: Acknowledgments
