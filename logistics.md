@@ -9,7 +9,7 @@ Welcome to a most unusual semester. We hope to make it a good one in Prob 140 in
 
 This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about.md) the class.
 
-Enrolled and waitlisted students should be sure to join our **Piazza** forum. We will open Piazza for questions about logistics and math prerequisites well before classes start. It will also contain information about Prof. Adhikari's pre-semester live sessions.
+Enrolled and waitlisted students will be added to our **Piazza** forum. We will open Piazza for questions about logistics and math prerequisites in the week before instruction starts. It will also contain information about Prof. Adhikari's pre-semester live session.
 
 Please expect to hear from us about a **reorganization of section times** to accommodate students in different time zones. This information will also be posted on Piazza.
 
@@ -37,7 +37,7 @@ But this is primarily a math class, so your main tools for working will be paper
 
 [*Probability for Data Science*](http://prob140.org/textbook) by Ani Adhikari and Jim Pitman.
 
-All of the course content apart from the assignments is in the textbook. This term, **short video segments are being distributed throughout the book**, as well as quick exercises that you can do to check your understanding.
+All of the course content apart from the assignments is in the textbook. This term, **short video segments will be distributed throughout the book**, as well as quick exercises that you can do to check your understanding.
 
 The videos will cover selected portions of the written text, typically those that require detailed calculation or discussion. There's more in the written text that you should read or at least skim. In fact, you can learn the material by studying only the written text, as many students have done in the past.
 
@@ -54,7 +54,7 @@ There are exercises at the end of each chapter. Do as many of them as you can. Y
 
 ## Study Guides ##
 
-Weekly content and assignments will be released on Mondays. You should use the weekly Study Guide to map out your work. It will provide you with a detailed outline of the week's main ideas with links to the textbook, a schedule that describes the focus of the instructor's live sessions and those held by the GSIs, a list of recommended practice problems, and so on.
+Typically, weekly content and assignments will be released on Mondays. You should use the weekly Study Guide to map out your work. It will provide you with a detailed outline of the week's main ideas with links to the textbook, a schedule that describes the focus of the instructor's live sessions and those held by the GSIs, a list of recommended practice problems, and so on.
 
 Each week's assignments are based on the material of that week, not of the previous week. The week's content, live sessions, practice problems, homework, and lab are carefully coordinated. The Study Guide is designed to help you distribute your work effectively over the week. Leaving it till the weekend is not a good idea.
 
@@ -66,15 +66,15 @@ A typical week will include the following live sessions, all of which are option
 
 All sessions below start on "Berkeley time", which in this case doesn't mean the time zone but our cherished practice of starting 10 minutes after the listed time.
 
-- Instructor's Hour, which is actually closer to 80 minutes, 12:30 p.m. to roughly 2 p.m. on Tuesdays and Thursdays. The Study Guide will show what you are supposed to have read or skimmed ahead of time. The sessions will consist of another look at the content (already available as video and text in the textbook) and Q&A about the details. You should bring questions for the instructor, and the instructor will have questions for you.
-- GSI's Hour, twice weekly on Wednesdays and Fridays at various times. These will be conversations on problem-solving, extensions of video walkthroughs of exercises that will be available ahead of time. Discussions will cover how to select appropriate methods, similarities and differences with other exercises, etc.
+- Prof. A's live session, 12:30 p.m. to roughly 2 p.m. on Tuesdays and Thursdays. The Study Guide will show what you are supposed to have read or skimmed ahead of time. The sessions will consist of another look at the content (already available as video and text in the textbook) and Q&A about the details. You should bring questions for Prof. A, and Prof. A will have questions for you.
+- GSI's live session, twice weekly on Wednesdays and Fridays at various times. These will be conversations on exercises, extensions of problem-solving videos that will typically be available ahead of time. Discussions will cover how to select appropriate methods, similarities and differences with other exercises, etc.
 - Homework parties, days and times TBA
 - Lab party, day and time TBA
-- Instructor, GSI, and tutor office hours, both open and one-on-one, days and times TBA
+- Instructor, GSI, and tutor office hours, both open and one-on-one, days and times TBA. One of Prof. A's hours (possibly 1.5 hours) will be on Thursdays at 9 p.m., to include students in time zones very different from Berkeley's.
 
-Starting after September 4 (the add/drop deadline) we will offer some weekly small-group tutoring sections for students who could use a bit of extra support. Availability and sign-up information will be provided. **Students who join these sections will be required to attend**.
+Starting in Week 3 or Week 4 (TBD) we will offer some weekly small-group tutoring sections for students who could use a bit of extra support. Availability and sign-up information will be provided. **Students who join these sections will be required to attend**.
 
-Informal conversation will be encouraged during all live sessions, so they will not be recorded.
+Student participation and informal conversation will be encouraged during all live sessions, so they will not be recorded.
 
 ## The Required Components of Your Work ##
 
@@ -87,6 +87,7 @@ All work must be submitted on Gradescope. Please follow all submission instructi
 Each week's assignments will be released on Monday as part of the week's course material. There might be some changes in release dates or due dates because of exams and holidays. We'll let you know.
 
 **Late assignments will not be accepted**. But if you have university accommodations for extended time on assignments, we will contact you during the first week of classes to make your arrangements.
+
 All assignments will be graded for correctness. There is plenty of support available while you work on them, so if you get started early and use the support you should be able to turn in work that you understand well and know to be correct. That's by far the most efficient way to succeed in the class.
 
 - **Checkpoint** consists of two straightforward exercises on the first half of the week's content. These will not involve computing and will be done on paper. The checkpoint assignment is due by 11:59 pm on Wednesday of the same week.
@@ -95,12 +96,12 @@ All assignments will be graded for correctness. There is plenty of support avail
 
 ### Exams ###
 
-- **Midterm 1** on Friday September 25, 8 a.m. to 9 a.m. and **Midterm 2** on Friday October 30, 8 a.m. to 9 a.m.. Other details about the midterms will be announced by September 1. You should expect that there will be numerous different versions of the exams.
-- **Final Exam** on Friday December 18, 8 a.m. to 11 a.m., Exam Group 17. This exam will be proctored remotely. Details will be announced by September 1.
+- **Midterm 1** on Friday September 25, 8 a.m. to 9 a.m. and **Midterm 2** on Friday October 30, 8 a.m. to 9 a.m.. Other details about the midterms will be announced by September 1. 
+- **Final Exam** on Friday December 18, 8 a.m. to 11 a.m., Exam Group 17. **This exam will be proctored remotely.** Details will be announced by September 1.
 
 The final exam is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam. If you have extended time accommodations for exams, please make sure that you have enough hours on the morning of Friday 12/18 for the 140 final.
 
-We are aware that there are students in different time zones and that some students have extended time accommodations. Please hold your questions until we announce the details. Thank you!
+We are aware that there are students in different time zones and that some students have extended time accommodations. You should expect that any alternate exam times will be as close as possible to the times announced above. Please hold further questions until we announce the details. Thank you!
  
 ## Grades ##
 
@@ -109,7 +110,7 @@ In the calculation of your overall score, we will drop:
 - your two lowest homework scores
 - your two lowest checkpoint scores 
 
-No labs will be dropped.
+No labs will be dropped. If you and your lab partner have unexpected difficulties over an extended period of time, for example due to illness, please make sure you talk with staff.
 
 Course grades will be based on your overall score in the class, calculated using the following weights:
 
