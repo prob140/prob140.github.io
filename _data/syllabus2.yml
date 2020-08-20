@@ -8,7 +8,7 @@ weeks:
       assignments:
         # - name: Weeks 1 & 2 Guide
           # url: /prep/sp20prep01
-        - name: "Lab 1: Simple Random Samples"
+        - name: "Lab 1: Birthday Attack"
           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_01.ipynb
         - name: Homework 1
           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_01.ipynb
@@ -18,7 +18,7 @@ weeks:
     links:
       # - name: Weeks 1 & 2 Guide
         # url: /prep/sp20prep01
-      - name: "Lab 1: Simple Random Samples"
+      - name: "Lab 1: Birthday Attack"
         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=lab/Lab_01.ipynb
       - name: Homework 1
         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp20&branch=master&subPath=hw/Homework_01.ipynb
