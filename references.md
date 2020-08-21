@@ -16,13 +16,9 @@ title: Resources
 - Data 8 [Textbook](https://www.inferentialthinking.com/chapters/intro)
 
 ### Main Probability References
-- [Prob 140 Textbook](http://prob140.org/textbook/README)
-- [*Probability* by Jim Pitman](http://springer.com/us/book/9780387979748); if you are on AirBears2 you can download a free PDF and order a low-cost paperback
+- [Prob 140 Textbook](http://prob140.org/textbook/content/README.html)
 - [Problem Solving FAQ](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)  (from Prof. Adhikari's Stat 134 class)
 - [Final Exam Reference](/assets/final_reference_fa18.pdf)
-
-### Elementary Probability Reference
-- [Theory Meets Data](http://stat88.org/textbook/notebooks/intro), Prof. Adhikari's Stat 88 textbook
 
 ### Python References
 - [prob140 library reference](http://prob140.org/prob140/)
