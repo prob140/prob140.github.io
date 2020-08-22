@@ -220,7 +220,7 @@ For now, you need the Limits and Approximations section but not the Bounds. Pref
     <summary>Answer EL4</summary>
     a) $e$
     b) $e^8$
-    c) $e^3 - \frac{5}{2}$
+    c) $e^3 - 4$
     d) $\frac{1}{2}(e^2 - 1)$
 </details>  
 
