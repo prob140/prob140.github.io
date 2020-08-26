@@ -6,16 +6,16 @@ weeks:
     - content: "Probability — axioms, rules, approximation <br> 
                 <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"
       assignments:
-        - name: "Lab 1: Birthday Attack"
+        - name: "Lab 1: Birthday Attack (Part A due 8/31 at 11:59PM)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_01.ipynb
-        - name: Homework 1
+        - name: Homework 1 (Due 8/31 at 11:59PM)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_01.ipynb
     links:
       - name: Week 1 Study Guide
         url: /guides/Week_01.pdf
-      - name: "Lab 1: Birthday Attack"
+      - name: "Lab 1: Birthday Attack (Part A due 8/31 at 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_01.ipynb
-      - name: Homework 1
+      - name: Homework 1 (Due 8/31 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_01.ipynb
 
 #   - weekNum: 2
