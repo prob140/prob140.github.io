@@ -18,33 +18,29 @@ weeks:
       - name: Homework 1 (Due 8/31 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_01.ipynb
 
-#   - weekNum: 2
-#     weekName: Symmetry and random counts
-#     weekDuration: 1/27-1/31
-#     basic:
-#     - date: Tue 1/28
-#       content: "Lecture 3: Symmetry and collections of events"
-#       assignments:
-#         - name: Weeks 1 & 2 Guide
-#           # url: /prep/sp20prep01
-#         - name: "Lab 2:Total Variation (Due 2/2 at 12:00PM noon)"
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_02.ipynb
-#         - name: HW 2 (Due 2/4 at 12:00PM noon)
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_02.ipynb
-
-#     - date: Wed 1/29
-#       content: "Discussion"
-#     - date: Thu 1/30
-#       content: "Lecture 4: Binomial and related counts; a Poisson limit"
-#     - date: Fri 1/31
-#       content: "Discussion"
-#     links:
-#       - name: Weeks 1 & 2 Guide
-#         # url: /prep/sp20prep01
-#       - name: "Lab 2:Total Variation (Due 2/2 at 12:00PM noon)"
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_02.ipynb
-#       - name: HW 2 (Due 2/4 at 12:00PM noon)
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_02.ipynb
+  - weekNum: 2
+    weekName: Symmetry and Random Counts
+    weekDuration: 8/31-9/6
+    basic:
+    - content: "Random variables - distributions, equality, conditioning <br>
+                Symmetry and collections of events <br> 
+                <a href='/guides/Week_02.pdf'> Week 2 Study Guide </a>"
+      assignments:
+        - name: "Week 2 Checkpoint (Due 9/2 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=checkpoint/Checkpoint_Week_02.ipynb
+        - name: "Lab 1: Birthday Attack (Part B due 9/8 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_01.ipynb
+        - name: Homework 2 (Due 9/8 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_02.ipynb
+    links:
+      - name: Week 2 Study Guide
+        url: /guides/Week_02.pdf
+      - name: "Week 2 Checkpoint (Due 9/2 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=checkpoint/Checkpoint_Week_02.ipynb
+      - name: "Lab 1: Birthday Attack (Part B due 9/8 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_01.ipynb
+      - name: Homework 2 (Due 9/8 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_02.ipynb
 
 #   - weekNum: 3
 #     weekName: Poissonization and Expectation
