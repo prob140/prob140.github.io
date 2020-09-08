@@ -47,7 +47,7 @@ weeks:
     weekDuration: 9/7-9/13
     basic:
     - content: "Binomial and related counts; a Poisson limit <br>
-                Independence and Poissonization <br>" 
+                Independence and Poissonization <br> 
                 <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
       assignments:
         - name: "Week 3 Checkpoint (Complete on Gradescope, Due 9/9 at 11:59PM)"
