@@ -42,34 +42,25 @@ weeks:
       - name: Homework 2 (Due 9/8 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_02.ipynb
 
-#   - weekNum: 3
-#     weekName: Poissonization and Expectation
-#     weekDuration: 2/3-2/7
-#     basic:
-#     - date: Tue 2/4
-#       content: "Lecture 5: Independence and Poissonization"
-#       assignments:
-#         - name: Weeks 3 & 4 Guide
-#           # url: /prep/sp20prep02
-#         - name: "Lab 3: Expectation of Discrete Order Statistics (Due 2/9 at 12:00PM noon)"
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_03.ipynb
-#         - name: HW 3 (Due 2/11 at 12:00PM noon)
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_03.ipynb
-
-#     - date: Wed 2/5
-#       content: "QUIZ 1"
-#     - date: Thu 2/6
-#       content: "Lecture 6: Expectation"
-#     - date: Fri 2/7
-#       content: "Discussion"
-#     links:
-#       - name: Weeks 3 & 4 Guide
-#         # url: /prep/sp20prep02
-#       - name: "Lab 3: Expectation of Discrete Order Statistics (Due 2/9 at 12:00PM noon)"
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_03.ipynb
-#       - name: HW 3 (Due 2/11 at 12:00PM noon)
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_03.ipynb
-
+  - weekNum: 3
+    weekName: Poissonization
+    weekDuration: 9/7-9/13
+    basic:
+    - content: "Binomial and related counts; a Poisson limit <br>
+                Independence and Poissonization <br> 
+                <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
+      assignments:
+        - name: "Week 3 Checkpoint (Complete on Gradescope, Due 9/9 at 11:59PM)"
+        - name: "Lab 2: Total Variation (Part A due 9/14 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_02.ipynb
+        - name: Homework 3 (Due 9/14 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_03.ipynb
+    links:
+      - name: "Week 3 Checkpoint (Complete on Gradescope, Due 9/9 at 11:59PM)"
+      - name: "Lab 2: Total Variation (Part A due 9/14 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_02.ipynb
+      - name: Homework 3 (Due 9/14 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_03.ipynb
 
 #   - weekNum: 4
 #     weekName: Expectation and conditioning
