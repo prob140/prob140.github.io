@@ -48,7 +48,7 @@ weeks:
     basic:
     - content: "Binomial and related counts; a Poisson limit <br>
                 Independence and Poissonization <br>" 
-                # <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
+                <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
       assignments:
         - name: "Week 3 Checkpoint (Complete on Gradescope, Due 9/9 at 11:59PM)"
         - name: "Lab 2: Total Variation (Part A due 9/14 at 11:59PM)"
@@ -56,8 +56,8 @@ weeks:
         - name: Homework 3 (Due 9/14 at 11:59PM)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_03.ipynb
     links:
-      # - name: Week 3 Study Guide
-      #   url: /guides/Week_03.pdf
+      - name: Week 3 Study Guide
+        url: /guides/Week_03.pdf
       - name: "Week 3 Checkpoint (Complete on Gradescope, Due 9/9 at 11:59PM)"
       - name: "Lab 2: Total Variation (Part A due 9/14 at 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_02.ipynb
