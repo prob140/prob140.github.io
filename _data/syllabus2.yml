@@ -64,6 +64,28 @@ weeks:
       - name: Homework 3 (Due 9/14 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_03.ipynb
 
+  - weekNum: 4
+    weekName: Expectation
+    weekDuration: 9/14-9/21
+    basic:
+    - content: "Expectation and Additivity <br>
+                More Properties of Expectation <br> 
+                <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
+      assignments:
+        - name: "Week 4 Checkpoint (Complete on Gradescope, Due 9/16 at 11:59PM)"
+        - name: "Lab 2: Total Variation (Part B due 9/21 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_02.ipynb
+        - name: Homework 4 (Due 9/21 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_04.ipynb
+    links:
+      - name: Week 4 Study Guide
+        url: /guides/Week_04.pdf
+      - name: "Week 4 Checkpoint (Complete on Gradescope, Due 9/16 at 11:59PM)"
+      - name: "Lab 2: Total Variation (Part B due 9/21 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_02.ipynb
+      - name: Homework 4 (Due 9/21 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_04.ipynb
+
 #   - weekNum: 4
 #     weekName: Expectation and conditioning
 #     weekDuration: 2/10-2/14
