@@ -66,10 +66,10 @@ weeks:
 
   - weekNum: 4
     weekName: Expectation
-    weekDuration: 9/14-9/21
+    weekDuration: 9/14-9/20
     basic:
-    - content: "Expectation and Additivity <br>
-                More Properties of Expectation <br> 
+    - content: "Expectation by Conditioning <br>
+                Long run behavior of Markov Chains <br> 
                 <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
       assignments:
         - name: "Week 4 Checkpoint (Complete on Gradescope, Due 9/16 at 11:59PM)"
@@ -86,32 +86,19 @@ weeks:
       - name: Homework 4 (Due 9/21 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_04.ipynb
 
-#   - weekNum: 4
-#     weekName: Expectation and conditioning
-#     weekDuration: 2/10-2/14
-#     basic:
-#     - date: Tue 2/11
-#       content: "Lecture 7: Expectation and additivity"
-#       assignments:
-#         - name: Weeks 3 & 4 Guide
-#           # url: /prep/sp20prep02
-#         - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_04.ipynb
-#         - name: HW 4 (Due 2/18 at 12:00PM noon)
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_04_final.ipynb
-#     - date: Wed 2/12
-#       content: "Discussion"
-#     - date: Thu 2/13
-#       content: "Lecture 8: Expectation by conditioning"
-#     - date: Fri 2/14
-#       content: "Discussion"
-#     links:
-#         - name: Weeks 3 & 4 Guide
-#           # url: /prep/sp20prep02
-#         - name: "Lab 4: Success Runs and Other Patterns (Due 2/23 at 12:00PM noon)"
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_04.ipynb
-#         - name: HW 4 (Due 2/18 at 12:00PM noon)
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_04_final.ipynb
+  - weekNum: 5
+    weekName: Conditioning and Markov Chains
+    weekDuration: 9/21-9/27
+    basic:
+    - content: "Expectation and Additivity <br>
+                More Properties of Expectation <br> 
+                <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
+      assignments:
+        - name: "Week 4 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
+    links:
+      - name: Week 5 Study Guide
+        url: /guides/Week_05.pdf
+      - name: "Week 4 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
 
 #   - weekNum: 5
 #     weekName: Markov Chains
