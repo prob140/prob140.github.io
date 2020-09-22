@@ -94,11 +94,11 @@ weeks:
                 More Properties of Expectation <br> 
                 <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
       assignments:
-        - name: "Week 4 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
+        - name: "Week 5 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
     links:
       - name: Week 5 Study Guide
         url: /guides/Week_05.pdf
-      - name: "Week 4 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
+      - name: "Week 5 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
 
 #   - weekNum: 5
 #     weekName: Markov Chains
