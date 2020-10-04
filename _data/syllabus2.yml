@@ -68,8 +68,8 @@ weeks:
     weekName: Expectation
     weekDuration: 9/14-9/20
     basic:
-    - content: "Expectation by Conditioning <br>
-                Long run behavior of Markov Chains <br> 
+    - content: "Expectation and Additivity <br>
+                More Properties of Expectation <br> 
                 <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
       assignments:
         - name: "Week 4 Checkpoint (Complete on Gradescope, Due 9/16 at 11:59PM)"
@@ -90,8 +90,8 @@ weeks:
     weekName: Conditioning and Markov Chains
     weekDuration: 9/21-9/27
     basic:
-    - content: "Expectation and Additivity <br>
-                More Properties of Expectation <br> 
+    - content: "Expectation by Conditioning <br>
+                Long run behavior of Markov Chains <br> 
                 <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
       assignments:
         - name: "Week 5 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
