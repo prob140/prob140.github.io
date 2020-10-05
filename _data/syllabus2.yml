@@ -122,33 +122,27 @@ weeks:
       - name: Homework 5 (Due 10/5 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_05.ipynb
 
-#   - weekNum: 6
-#     weekName: MCMC
-#     weekDuration: 2/24-2/28
-#     basic:
-#     - date: Tue 2/25
-#       content: "Lecture 11: Markov Chain Monte Carlo"
-#       assignments:
-#         - name: Weeks 5 & 6 Guide
-#           # url: /prep/sp20prep03
-#         - name: Midterm Contents
-#           # url: /midterm_contents
-#         - name: "Lab 5: Codebreaking by MCMC (Due 3/1 at 12:00PM noon)"
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_05.ipynb
-#     - date: Wed 2/26
-#       content: "Discussion"
-#     - date: Thu 2/27
-#       content: "Lecture 12: Examples as review"
-#     - date: Fri 2/28
-#       content: "Discussion"
-#     links:
-#       - name: Weeks 5 & 6 Guide
-#         # url: /prep/sp20prep03
-#       - name: Midterm Contents
-#         # url: /midterm_contents
-#       - name: "Lab 5: Codebreaking by MCMC (Due 3/1 at 12:00PM noon)"
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_05.ipynb
-
+  - weekNum: 7
+    weekName: Variance and Covariance
+    weekDuration: 10/5-10/11
+    basic:
+    - content: "SD and tail bounds <br>
+                Covariance and its uses <br> 
+                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
+      assignments:
+        - name: "Week 7 Checkpoint (Complete on Gradescope, Due 10/7 at 11:59PM)"
+        - name: "Lab 4: Decisions Based on Ranks (Part A due 10/12 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_04.ipynb
+        - name: Homework 6 (Due 10/12 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_06.ipynb
+    links:
+      - name: Week 7 Study Guide
+        url: /guides/Week_07.pdf
+      - name: "Week 7 Checkpoint (Complete on Gradescope, Due 10/7 at 11:59PM)"
+      - name: "Lab 4: Decisions Based on Ranks (Part A due 10/12 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_04.ipynb
+      - name: Homework 6 (Due 10/12 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_06.ipynb
 #   - weekNum: 7
 #     weekName: Midterm and Variance
 #     weekDuration: 3/2-3/6
