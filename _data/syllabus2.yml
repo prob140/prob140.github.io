@@ -143,28 +143,28 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_04.ipynb
       - name: Homework 6 (Due 10/12 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_06.ipynb
-#   - weekNum: 7
-#     weekName: Midterm and Variance
-#     weekDuration: 3/2-3/6
-#     basic:
-#     - date: Tue 3/3
-#       content: "MIDTERM"
-#       assignments:
-#         - name: Homework 6 (Due 3/10 at 12:00PM noon)
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_06.ipynb
-#         - name: Weeks 7-9 Guide
-#           # url: /prep/sp20prep04
-#     - date: Wed 3/4
-#       content: "No Discussion"
-#     - date: Thu 3/5
-#       content: "Lecture 13: SD, tail bounds"
-#     - date: Fri 10/11
-#       content: "Discussion"
-#     links:
-#       - name: Homework 6 (Due 3/10 at 12:00PM noon)
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_06.ipynb
-#       - name: Weeks 7-9 Guide
-#         # url: /prep/sp20prep04
+
+  - weekNum: 8
+    weekName: Central Limit Theorem and Continuous Random Variables
+    weekDuration: 10/12-10/18
+    basic:
+    - content: "Central Limit Theorem <br>
+                Probability Densities <br> 
+                <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
+      assignments:
+        - name: "Week 8 Checkpoint (Complete on Gradescope, Due 10/14 at 11:59PM)"
+        - name: "Lab 4: Decisions Based on Ranks (Part B due 10/19 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_04.ipynb
+        - name: Homework 7 (Due 10/19 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_07.ipynb
+    links:
+      - name: Week 8 Study Guide
+        url: /guides/Week_08.pdf
+      - name: "Week 8 Checkpoint (Complete on Gradescope, Due 10/14 at 11:59PM)"
+      - name: "Lab 4: Decisions Based on Ranks (Part B due 10/19 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_04.ipynb
+      - name: Homework 7 (Due 10/19 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_07.ipynb
 
 #   - weekNum: 8
 #     weekName: Covariance; Central Limit Theorem
