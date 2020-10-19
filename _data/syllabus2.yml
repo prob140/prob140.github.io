@@ -166,6 +166,27 @@ weeks:
       - name: Homework 7 (Due 10/19 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_07.ipynb
 
+  - weekNum: 8
+    weekName: Transformations and Joint Densities
+    weekDuration: 10/19-10/25
+    basic:
+    - content: "Transformations <br>
+                Joint Densities <br> 
+                <a href='/guides/Week_09.pdf'> Week 9 Study Guide (Coming soon) </a>"
+      assignments:
+        - name: "Week 9 Checkpoint (Complete on Gradescope, Due 10/21 at 11:59PM)"
+        - name: "Lab 5: Densities and SymPy (Part A due 10/26 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_05.ipynb
+        - name: Homework 8 (Due 10/26 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_08.ipynb
+    links:
+      - name: Week 9 Study Guide (Coming soon) 
+        url: /guides/Week_09.pdf
+      - name: "Week 9 Checkpoint (Complete on Gradescope, Due 10/21 at 11:59PM)"
+      - name: "Lab 5: Densities and SymPy (Part A due 10/26 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_05.ipynb
+      - name: Homework 8 (Due 10/26 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_08.ipynb
 #   - weekNum: 8
 #     weekName: Covariance; Central Limit Theorem
 #     weekDuration: 3/9-3/13
