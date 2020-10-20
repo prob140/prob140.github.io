@@ -166,7 +166,7 @@ weeks:
       - name: Homework 7 (Due 10/19 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_07.ipynb
 
-  - weekNum: 8
+  - weekNum: 9
     weekName: Transformations and Joint Densities
     weekDuration: 10/19-10/25
     basic:
