@@ -172,7 +172,7 @@ weeks:
     basic:
     - content: "Transformations <br>
                 Joint Densities <br> 
-                <a href='/guides/Week_09.pdf'> Week 9 Study Guide (Coming soon) </a>"
+                <a href='/guides/Week_09.pdf'> Week 9 Study Guide </a>"
       assignments:
         - name: "Week 9 Checkpoint (Complete on Gradescope, Due 10/21 at 11:59PM)"
         - name: "Lab 5: Densities and SymPy (Part A due 10/26 at 11:59PM)"
@@ -180,7 +180,7 @@ weeks:
         - name: Homework 8 (Due 10/26 at 11:59PM)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_08.ipynb
     links:
-      - name: Week 9 Study Guide (Coming soon) 
+      - name: Week 9 Study Guide
         url: /guides/Week_09.pdf
       - name: "Week 9 Checkpoint (Complete on Gradescope, Due 10/21 at 11:59PM)"
       - name: "Lab 5: Densities and SymPy (Part A due 10/26 at 11:59PM)"
