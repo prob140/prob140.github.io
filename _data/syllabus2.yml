@@ -203,8 +203,8 @@ weeks:
       - name: Week 10 Study Guide
         url: /guides/Week_10.pdf
       - name: "Week 10 Checkpoint (Complete on Gradescope, Due 10/28 at 11:59PM)"
-        - name: "Lab 5: Densities and SymPy (Part B due 11/4 at 11:59PM)"
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_05.ipynb
+      - name: "Lab 5: Densities and SymPy (Part B due 11/4 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_05.ipynb
 
 
 
