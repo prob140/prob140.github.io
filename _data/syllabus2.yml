@@ -206,47 +206,32 @@ weeks:
       - name: "Lab 5: Densities and SymPy (Part B due 11/4 at 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_05.ipynb
 
+  - weekNum: 11
+    weekName: Chernoff Bounds, MLE, and MAP
+    weekDuration: 10/2-10/8
+    basic:
+    - content: "Chernoff Bounds <br>
+                MLE and MAP Estimation <br> 
+                <a href='/guides/Week_11.pdf'> Week 11 Study Guide (Coming soon) </a>"
+      assignments:
+        - name: "Week 11 Checkpoint (Complete on Gradescope, Due 11/5 at 11:59PM)"
+        - name: "Lab 6: Poisson Process (Part A due 11/9 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_06.ipynb
+        - name: Homework 9 (Due 11/9 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_09.ipynb
+    links:
+      - name: Week 11 Study Guide (Coming soon)
+        url: /guides/Week_11.pdf
+      - name: "Week 11 Checkpoint (Complete on Gradescope, Due 11/5 at 11:59PM)"
+      - name: "Lab 6: Poisson Process (Part A due 11/9 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_06.ipynb
+      - name: Homework 9 (Due 11/9 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_09.ipynb
 
 
-#   - weekNum: 10
-#     weekName: The Normal and Gamma Families
-#     weekDuration: 3/30-4/3
-#     basic:
-#     - date: Tue 3/31
-#       content: "Joint densities <br />
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_01.ipynb'' target='_blank'>(Part 1)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_02.ipynb'' target='_blank'>(Part 2)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_03.ipynb'' target='_blank'>(Part 3)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_04.ipynb'' target='_blank'>(Part 4)</a>
-#       <br/>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_05.ipynb'' target='_blank'>(Part 5)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_06.ipynb'' target='_blank'>(Part 6)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_07.ipynb'' target='_blank'>(Part 7)</a>
-#       "
-#       assignments:
-#         - name: Homework 9 (Due 4/7 at 12:00PM noon)
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_09.ipynb
-#         - name: "Week 10 Checkpoint"
-#           # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=checkpoints/CP_April_02.ipynb
-#     - date: Wed 4/1
-#       # content: "Problem Solving Sessions <br />
-#       # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Apr_01_PS.ipynb'' target='_blank'>(Videos)</a>
-#       # "
-#     - date: Thu 4/2
-#       content: "Independent normal and gamma variables <br/>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_08.ipynb'' target='_blank'>(Part 8)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_09.ipynb'' target='_blank'>(Part 9)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Week_10_Part_10.ipynb'' target='_blank'>(Part 10)</a>
-#       "
-#     - date: Fri 4/3
-#       # content: "Problem Solving Sessions <br />
-#       # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week10/Apr_03_PS.ipynb'' target='_blank'>(Videos)</a>
-#       # "
-#     links:
-#     - name: Homework 9 (Due 4/7 at 12:00PM noon)
-#       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_09.ipynb
-#     - name: "Week 10 Checkpoint (Due 4/2 at 11:59PM)"
-#       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=checkpoints/CP_April_02.ipynb
+
+
+
 #   - weekNum: 11
 #     weekName: MGFs, MLE, and MAP
 #     weekDuration: 4/6-4/10
