@@ -212,7 +212,7 @@ weeks:
     basic:
     - content: "Chernoff Bounds <br>
                 MLE and MAP Estimation <br> 
-                <a href='/guides/Week_11.pdf'> Week 11 Study Guide (Coming soon) </a>"
+                <a href='/guides/Week_11.pdf'> Week 11 Study Guide </a>"
       assignments:
         - name: "Week 11 Checkpoint (Complete on Gradescope, Due 11/5 at 11:59PM)"
         - name: "Lab 6: Poisson Process (Part A due 11/9 at 11:59PM)"
@@ -220,7 +220,7 @@ weeks:
         - name: Homework 9 (Due 11/9 at 11:59PM)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_09.ipynb
     links:
-      - name: Week 11 Study Guide (Coming soon)
+      - name: Week 11 Study Guide
         url: /guides/Week_11.pdf
       - name: "Week 11 Checkpoint (Complete on Gradescope, Due 11/5 at 11:59PM)"
       - name: "Lab 6: Poisson Process (Part A due 11/9 at 11:59PM)"
