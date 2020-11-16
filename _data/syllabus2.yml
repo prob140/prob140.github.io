@@ -229,7 +229,7 @@ weeks:
 
   - weekNum: 12
     weekName: Prediction
-    weekDuration: 10/2-10/8
+    weekDuration: 11/9-11/15
     basic:
     - content: "Prediction and Error <br>
                 Error Variance <br> 
@@ -246,43 +246,29 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_06.ipynb
       - name: Homework 10 (Due 11/16 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_10.ipynb
-#     weekName: Beta-Binomial and Prediction
-#     weekDuration: 4/13-4/17
-#     basic:
-#     - date: Tue 4/14
-#       content: "The Beta and the Binomial <br/>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week12/Week_12_Part_01.ipynb'' target='_blank'>(Part 1)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week12/Week_12_Part_02.ipynb'' target='_blank'>(Part 2)</a>
-#       "
-#       assignments:
-#       - name: "Week 12 Checkpoint (Due 4/16 at 11:59PM)"
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=checkpoints/Week_12_Checkpoint.ipynb
-#       - name: "Homework 11 (Due 4/21 at 12:00PM noon)"
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_11.ipynb
-#       - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
-#         # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_08.ipynb
-#     - date: Wed 4/15
-#       # content: "Problem Solving Sessions <br />
-#       # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week12/Apr_15a_PS.ipynb'' target='_blank'>(Videos)</a>
-#       # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week12/Apr_15b_PS.ipynb'' target='_blank'>(Videos Part 2)</a>
-#       # "
-#     - date: Thu 4/16
-#       content: "Prediction and error <br/>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week12/Week_12_Part_03.ipynb'' target='_blank'>(Part 3)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week12/Week_12_Part_04.ipynb'' target='_blank'>(Part 4)</a>
-#       <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week12/Week_12_Part_05.ipynb'' target='_blank'>(Part 5)</a>
-#       "
-#     - date: Fri 4/17
-#       # content: "Problem Solving Sessions <br />
-#       # <a href='http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=content/week12/Apr_17_PS.ipynb'' target='_blank'>(Videos)</a>
-#       # "
-#     links:
-#     - name: "Week 12 Checkpoint (Due 4/16 at 11:59PM)"
-#       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=checkpoints/Week_12_Checkpoint.ipynb
-#     - name: "Homework 11 (Due 4/21 at 12:00PM noon)"
-#       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_11.ipynb
-#     - name: "Lab 8: Poisson Process (Due 4/19 at 12:00PM noon)"
-#       # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_08.ipynb
+
+  - weekNum: 13
+    weekName: The Multivariate Normal
+    weekDuration: 11/16-11/22
+    basic:
+    - content: "Random Vectors & Multivariate Normal <br>
+                The Multivariate Normal <br> 
+                <a href='/guides/Week_13.pdf'> Week 13 Study Guide </a>"
+      assignments:
+        - name: "Week 13 Checkpoint (Complete on Gradescope, Due 11/18 at 11:59PM)"
+        - name: "Lab 7: Constructing the Bivariate Normal (due 11/23 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_07.ipynb
+        - name: Homework 11 (Due 11/23 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_11.ipynb
+    links:
+      - name: Week 13 Study Guide
+        url: /guides/Week_13.pdf
+      - name: "Week 13 Checkpoint (Complete on Gradescope, Due 11/18 at 11:59PM)"
+      - name: "Lab 7: Constructing the Bivariate Normal (due 11/23 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_07.ipynb
+      - name: Homework 11 (Due 11/23 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_11.ipynb
+
 
 #   - weekNum: 13
 #     weekName: The multivariate normal and correlation
