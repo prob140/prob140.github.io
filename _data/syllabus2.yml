@@ -269,7 +269,17 @@ weeks:
       - name: Homework 11 (Due 11/23 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_11.ipynb
 
-
+  - weekNum: 14
+    weekName: Simple Regression
+    weekDuration: 11/23-11/29
+    basic:
+    - content: "Simple Regression <br>
+                <a href='/guides/Week_14.pdf'> Week 14 Study Guide </a>"
+      assignments:
+        - name: "None; enjoy the break!"
+    links:
+      - name: Week 14 Study Guide
+        url: /guides/Week_14.pdf
 #   - weekNum: 13
 #     weekName: The multivariate normal and correlation
 #     weekDuration: 4/20-4/24
