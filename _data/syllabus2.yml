@@ -287,7 +287,7 @@ weeks:
   basic:
   - content: "Multiple Regression I <br>
               Mulitple Regression II <br> 
-              <a href='/guides/Week_14.pdf'> Week 14 Study Guide (Coming Soon) </a>"
+              <a href='/guides/Week_15.pdf'> Week 15 Study Guide (Coming Soon) </a>"
     assignments:
       - name: "Week 13 Checkpoint (Complete on Gradescope, Due 11/18 at 11:59PM)"
       - name: "Lab 7: Constructing the Bivariate Normal (due 11/23 at 11:59PM)"
@@ -295,8 +295,8 @@ weeks:
       - name: Homework 12 (Due 12/7 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_12.ipynb
   links:
-    - name: Week 14 Study Guide (Coming Soon)
-      url: /guides/Week_14.pdf
+    - name: Week 15 Study Guide (Coming Soon)
+      url: /guides/Week_15.pdf
     - name: Homework 12 (Due 12/7 at 11:59PM)
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_12.ipynb
 #   - weekNum: 13
