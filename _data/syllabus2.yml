@@ -303,6 +303,8 @@ weeks:
   - weekNum: 16
     weekName: RRR Week
     weekDuration: 12/7-12/13
+    basic:
+    - content: "RRR Week Review Sessions (schedule on Piazza)"
     links:
       - name: Final Exam Scope
       url: /final_contents
