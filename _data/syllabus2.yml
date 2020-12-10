@@ -305,9 +305,13 @@ weeks:
     weekDuration: 12/7-12/13
     basic:
     - content: "RRR Week Review Sessions (schedule on Piazza)"
+      assignments:
+        - name: Final Exam Scope
+          url: /final_contents
     links:
       - name: Final Exam Scope
-      url: /final_contents
+        url: /final_contents
+        
 #   - weekNum: 13
 #     weekName: The multivariate normal and correlation
 #     weekDuration: 4/20-4/24
