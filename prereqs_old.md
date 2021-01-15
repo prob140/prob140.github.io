@@ -1,9 +1,11 @@
+---
+layout: page
+title: Prob 140 Math Prerequisites
+---
 
-# Data 140 Math Prerequisites #
+### A. Adhikari, Fall 2020 ###
 
-### A. Adhikari ###
-
-**The [course](http://prob140.org/textbook/content/README.html) assumes fluency with all of the math below.** These concepts, results, and methods will be used without explanation. If you've forgotten some of it, please review the relevant materialss. The more confident you are with this math content, the faster you will be able to grasp the material of the course.
+**The [course](http://prob140.org/textbook/README.html) assumes fluency with all of the math below.** The concepts, results, and methods will be used without explanation. If you've forgotten some of it, please review the relevant materialss. The more confident you are with this math content, the faster you will be able to grasp the material of the course.
 
 **Please do the exercises.** They are based on calculations that come up frequently. 
 
@@ -18,13 +20,15 @@ Being able to **assess your own work** is an important mathematical skill and wi
 - After going through the above, try the exercise again a couple of times. 
 - If it still doesn't work out, post on Piazza explaining the reasoning that you used and which of the above steps you took to troubleshoot.
 
-## Chapters 1-9, 12-14 ##
+**If you have persistent trouble** with these prereqs, you might want to try the course in a future term after strengthening your math, or try a different probability course this term. Or you have to be ready to spend a considerable amount of time learning the math and the probability simultaneously in this course this term. It's possible but not easy.
+
+## Chapters 1-9 ##
 
 ### <span style="color: darkblue">Basic Counting</span> ###
 
 The number of finite sequences and subsets that can be created out of a finite set of objects:
 
-**Review:** [Notation and Fundamental Properties](http://stat88.org/textbook/notebooks/Chapter_03/00_Random_Counts.html). If the math doesn't render, please reload the page.
+**Review:** [Notation and Fundamental Properties](http://stat88.org/textbook/notebooks/Chapter_03/00_Random_Counts.html) If the math doesn't render, please reload the page.
 
 Notice the distinction between *sequences* (orderings, or "arrangements in a line") and *subsets* (unordered collections). You have to decide which is appropriate, by looking carefully at the context. In some probability calculations it won't matter which you decide to use, as long as you are consistent in the numerator and denominator of your proportions.
 
@@ -154,7 +158,7 @@ The method is always the same.
     The key step is $\sum_{i=1}^{n+1} i ~ = ~ \sum_{i=1}^n i ~+~ (n+1)$.
 </details> 
 
-**Exercise I2:** Apply I1 (no induction necessary) to find $\sum_{i=0}^{n-1} i$. This is the form in which the result first appears in the course, in [Chapter 1](http://prob140.org/textbook/Chapter_01/05_An_Exponential_Approximation.html) of the textbook.
+**Exercise I2:** Use I1 (no induction necessary) to find $\sum_{i=0}^{n-1} i$. This is the form in which the result first appears in the course, in [Chapter 1](http://prob140.org/textbook/Chapter_01/05_An_Exponential_Approximation.html) of the textbook.
 
 **Exercise I3:** Use I1 and properties of sums (no induction necessary) to find a simple expression for the sum of the first $n$ ***odd*** integers: $\sum_{i=1}^n (2i-1)$.
 
@@ -166,7 +170,9 @@ The method is always the same.
 
 You know that $\log(1) = 0$. What we're going to need, quite often, is an approximation for the log of a number that is very close to 1. A crude approximation is 0 because the number is close to 1. But we'll use a finer approximation based on the first couple of terms in a related Taylor expansion.
 
-**Review:** [Graphs and Relevant Properties](http://prob140.org/resources/exponential_approximations/). For now, you need the *Limits and Approximations* section but not the *Bounds*. Preferably, you should understand the approximations in relation to the graphs of $e^x$ and $\log(x)$.
+**Review:** [Graphs and Relevant Properties](http://prob140.org/resources/exponential_approximations/)
+
+For now, you need the Limits and Approximations section but not the Bounds. Preferably, you should understand the approximations in relation to the graphs of $e^x$ and $\log(x)$.
 
 - In [Chapter 1](http://prob140.org/textbook/Chapter_01/05_An_Exponential_Approximation.html) you'll need the approximations.
 - Starting with [Chapter 6](http://prob140.org/textbook/Chapter_06/05_Law_of_Small_Numbers.html#Poisson-Approximation-to-the-Binomial) you'll need the Taylor expansion of $e^x$.
@@ -228,7 +234,7 @@ We'll use the infinite series more frequently than the finite one, starting in [
 
 **a)** Find $S$.
 
-**b)** Fill in the blank with the appropriate factor: $ \sum_{i=3}^{\infty} p^i ~ = ~ \underline{~~~~~~~} \cdot S$. Hence find $ \sum_{i=3}^{\infty} p^i$.
+**b)** Fill in the blank with the appropriate factor: $\sum_{i=3}^{\infty} p^i ~ = ~ \underline{~~~~~~~} \cdot S$. Hence find $ \sum_{i=3}^{\infty} p^i$.
 
 **c)** Find $\sum_{i=0}^{\infty} p^{3i} $.
 
@@ -239,82 +245,5 @@ We'll use the infinite series more frequently than the finite one, starting in [
     c) $\frac{1}{1-p^3}$
 </details>  
 
-## Chapters 10-11##
+## Chapters 10-25: Math Prereq Guide Under Construction ##
 
-### <span style="color: darkblue">Basic Matrix Operations</span> ###
-
-That's all we'll need for these two chapters. Linear algebra will be used more significantly towards the end of the course.
-
-By the time you get to Chapter 10 you will have realized that probability is all about weighted averages. Matrix representation gives us a compact and powerful way to work with these. For example, suppose $\mathbf{x} = x_1, x_2, \ldots, x_n$ is a list of numbers and $\mathbf{w} = w_1, w_2, \ldots, w_n$ is a list of weights that add up to $1$. Then the dot product $\mathbf{w\cdot x}$ is the weighted average of $\mathbf{x}$ using $\mathbf{w}$ as the weights. 
-
-**Review:** It is important to visualize the sizes and shapes of the vectors and matrices involved. Prof. [Semyon Dyatlov](http://math.mit.edu/~dyatlov/) of MIT has a [nice summary](http://math.mit.edu/~dyatlov/54summer10/matalg.pdf) of the basic matrix operations, which I beleive was written when he taught Math 54 as a graduate student at Berkeley. Notice that he starts with just the sizes, before going into the algebra.
-
-**Exercise MO1:** Let $\mathbf{A}$ be $n \times m$ and let $\mathbf{v}$ be a vector.
-
-Fill in the first blank with either *row* or *column*, and the second with either $n$ or $m$.
-
-For $\mathbf{vA}$ to make sense, $\mathbf{v}$ must be a $\underline{~~~~~~~~~~~~~~~}$ vector of length $\underline{~~~~~~~~~~~~~~~}$.
-
-<details>
-    <summary>Answer MO1</summary>
-    row, $n$
-</details>  
-
-In the following exercises, assume the conditions of MO1 and that $\mathbf{vA}$ makes sense.
-
-**Exercise MO2:** Fill in the first blank with either *row* or *column*, and the second with either $n$ or $m$.
-
-$\mathbf{vA}$ is a $\underline{~~~~~~~~~~~~~~~}$ vector of length $\underline{~~~~~~~~~~~~~~~}$.
-
-<details>
-    <summary>Answer MO2</summary>
-    row, $m$
-</details>  
-
-**Notation** for MO3-MO5: Let $\mathbf{A}(i, j)$ be the $(i, j)$ element of $\mathbf{A}$, $\mathbf{A}(i, *)$ the $i$th row of $\mathbf{A}$, and $\mathbf{A}(*, j)$ the $j$th column of $\mathbf{A}$. Let $\mathbf{v}(j)$ be the $j$th element of $\mathbf{v}$.
-
-**Exercise MO3:** Write the $j$th element of $\mathbf{vA}$ using sigma notation.
-
-<details>
-    <summary>Answer MO3</summary>
-    $\sum_{i=1}^n \mathbf{v}(i)\mathbf{A}(i, j)$
-</details>
-
-**Exercise MO4:** True or false: The elements of $\mathbf{vA}$ are $\mathbf{v}\cdot\mathbf{A}(*, 1), \mathbf{v}\cdot\mathbf{A}(*, 2), \ldots, \mathbf{v}\cdot\mathbf{A}(*, m)$.
-
-<details>
-    <summary>Answer MO4</summary>
-    True
-</details>
-
-**Exercise MO5:** Now suppose $\mathbf{A}$ is $n \times n$ for $n \ge 5$. Fill in the first blank with the right coordinates and the second with a matrix:
-
-$\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$ is the $\underline{~~~~~~~~~~~~~~~~~}$ element of the matrix $\underline{~~~~~~~~~~~~~~~~~}$.
-
-<details>
-    <summary>Answer MO5</summary>
-    $(2, 5)$, $\mathbf{A}^2$
-</details>
-
-## Chapter 15 onwards ##
-
-### <span style="color: darkblue">Calculus</span> ###
-
-Here are two excellent resources for refreshing your memory.
-- Prof. Paulin's [Math 1A](https://math.berkeley.edu/~apaulin/Teaching.html) lectures; click on Complete Course Video Lectures
-- An excellent [single variable calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/syllabus/) course from MIT
-
-Topics worth remembering:
-- The [Fundamental Theorem](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/lecture-notes/lec19.pdf) of calculus, from the MIT course above
-- The [derivative of an inverse function](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/MIT18_01SCF10_Ses15a.pdf), from the same MIT course; a simple result that has a useful application in probability
-- A discussion of the [absolute convergence of integrals](https://web.math.princeton.edu/~nelson/104/ImproperIntegrals.pdf) from [Prof. Edward Nelson](https://web.math.princeton.edu/~nelson/) of Princeton
-- A [double integral](https://www.youtube.com/watch?v=YP_B0AapU0c) lecture video by [Denis Auroux](http://people.math.harvard.edu/~auroux/); examples are at 19:40 and 28:15
-
-## Chapter 23 onwards ##
-
-### <span style="color: darkblue">More Linear Algebra</span> ###
-
-Recall the Basic Matrix Operations, above. You will also need the following summaries of properties.
-
-- [Positive definite matrices](http://wwwf.imperial.ac.uk/~das01/MyWeb/M3S3/Handouts/Positive.pdf) by [Prof. David Stephens](http://wwwf.imperial.ac.uk/~das01/MyWeb/index.html) written when he was at Imperial College
-- [Dot Products](http://sites.math.washington.edu/~king/coursedir/m445w04/notes/vector/dotproduct.html) by [Prof. James King](https://math.washington.edu/people/james-r-king) of U. Washington at Seattle.

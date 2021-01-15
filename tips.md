@@ -1,72 +1,63 @@
 ---
 layout: page
-title: Study Tips
+title: Data 140: Study Tips from Staff and Students
 ---
 
-In Prob 140 you will be learning probability based on your knowledge of math. Your work will consist mostly of math, with some computing to enhance your understanding of the math and also to point to interesting mathematical avenues to explore.
+In Data 140 you will be learning probability based on your knowledge of math. Your work will consist mostly of math, with some computing to enhance your understanding of the math and also to point to interesting mathematical avenues to explore.
 
 The programming prerequisite is Data 8, nothing more. The code will not be long or complicated. But you'll have to figure out what to code and what its logic should be, based on the math.
 
-**The key to success in Prob 140 is logical clarity and math.** Students who have greater mathematical fluency have an easier time. They can focus more on the probabilistic concepts because the math and hence the course takes them less time.
+**The key to success in Data 140 is logical clarity and math.** Students who have greater mathematical fluency have an easier time. They can focus more on the probabilistic concepts because the math and hence the course takes them less time.
 
-Students don't always know what faculty mean by terms like "mathematical maturity" or "math fluency". I've tried to explain what I mean by math fluency in Prob 140 and Stat 134, the upper division probability courses that I have taught, [here](/fluency.md). You'll see that it's less about the set of results that you know and more about how you understand what you do know and how you approach math.
+Students don't always know what faculty mean by terms like "mathematical maturity" or "math fluency". I've tried to explain what I mean by math fluency in Data 140 and Stat 134, the upper division probability courses that I have taught, [here](/fluency.md). You'll see that it's less about the set of results that you know and more about how you understand what you do know and how you approach math.
 
-You don't need math beyond what's listed in the requirements. But you do need to be confident with all those requirements so you can use them at speed and follow the textbook. Or you should be prepared to spend time learning math while you learn the probability. Many students do the latter but it's very hard work.
+**You don't need math beyond what's listed in the requirements. But you do need to be confident with all those requirements so you can use them at speed and follow the textbook.** Or you should be prepared to spend time learning math while you learn the probability. Many students do the latter but it's very hard work.
 
 ### Math Background ###
 If you're worried that you don't have the necessary fluency, the [Math Prerequisites](/prereqs.md) page includes the math needed for different parts of the course, some concise reference materials, and some exercises for you to try. 
 
 Student experience is unsurprising – if you take the page seriously and study the prereqs before the sections in which they are needed, it will be easier for you to pick up the new probabilistic concepts and do your assignments. 
 
-For many students, Prob 140 is their first time doing math at the upper division level. There's a learning curve that can be quite steep at the start, especially because the course involves both math and computing. The staff and student tips below will help.
+For many students, Data 140 is their first time doing math at the upper division level. There's a learning curve that can be quite steep at the start, especially because the course involves both math and computing. The staff and student tips below will help.
 
 ### Tips from Students ###
-Tips from the teaching team aren't very different from those in any other class, and are consistent with student recommendations.
+Each term, the official course evaluation form ends with the question, "What advice would you give to another student who is considering taking this course?" I always post typical answers from the previous semester so that the advice reaches the right people. 
 
-- Read/watch the textbook carefully; don't skip the reading, and especially don't double-speed through the "talking" to focus only when you see what looks like a formula. Hardly any exercises involve obvious direct plugging into formulas. You need the "talking" to figure out how to put things together.
-- Do some of the practice, with staff or with other students, before attempting homework. This typically leads to less total time being spent, not more.
-- Try not to fall behind. The course keeps building on itself. We'll offer some "catch up" sessions but please try to follow the weekly Study Guide as much as possible.
+I normally show the entire set on the first day of class, but in this unusual semester I won't take the time for that. So let's start with the complete set of responses that recommend against taking the class.
 
-Each term, the official course evaluation form ends with the question, "What advice would you give to another student who is considering taking this course?" I always post typical answers from the previous semester so that the advice reaches the right people. Students know I do this, so Spring 2020 responses include:
+- "Don't."
+- "You will be destroyed."
+- "If you are not in the US, do NOT take this class until you can ensure you may attend live sessions."
+- "Do not take this class unless you are in a good timezone."
+- "If you have a decent mathematical background I think it will be a rewarding experience. Would 100% recommend. But with that said, if you don't, perhaps be mindful about what you're taking on."
 
-- "Hi future students! :) you're gonna have to put in a lot of effort into this class but I think it's worth it in the end!"
+Now for a selection of all the rest. The response rate was about 56%, without added incentives for submitting evaluations. 
 
-I normally show the entire set on the first day of class, but in this unusual semester I might not take the time for that. So let's start with the 5 responses that recommend against the class and then look at a selection of the approx 100 others. Spring 2020 was a weird semester for response rate as it was for everything else in the world.
+This one is long but it summarizes the vast majority of student opinion.
 
-- "If you're not prepared to spend at least 20 hours a week ... you should consider dropping it."
-- "don't take it, but if you do please start your homeworks and labs early !!!"
-- "One of the most time-consuming classes ... most people will tout that its worth it in the end but I do not see it that way."
-- "I deeply apologize for what you're about to go through."
-- "I really really despised STAT 140 with all of my heart and very being."
+- "To quote a review I read for CS61B that applies here as well: "once the bleeding stops, you'll realize you learned something." The course demands a lot of time and consistent effort on the part of the student and moves at an aggressive pace, but it is incredibly well–organized with plenty of resources to help students succeed. The textbook and lectures were highly effective in conveying the concepts, and discussions covered very relevant material and served as bridges between seeing the material in lecture and applying it to the homework. Office hours were an indispensable resource as well. It was a very painful class, but that pain is directly proportional to how consequential the material is to Data Science and how much the student gets out of it. It is well worth the investment, but only if you put the work in."
 
-Now for a selection of the rest. Staff and former students will tell you that they're similar to responses in past semesters apart from some comments about the online aspect.
+If you have the patience, here are some more, all telling it like it is. Staff and former students will confirm that they're similar to responses in past semesters.
 
-- "If we can do it at home being quarantined, you can too."
-- "Read the textbook, go to lectures, and start on hw/labs early :)) U GOT THIS"
-- "Actually read the textbook! If you get stuck on homework problems, go back to the textbook!"
-- "READ THE TEXTBOOK. THEN READ IT AGAIN. TRUST ME."
-- "Take the time to read the text book. Work through the examples to understand, which will help you with homework a lot."
-- "Read the book before going to lecture, even if you only have time to skim it."
-- "Literally every course eval is going to have this, but READ THE TEXTBOOK."
-- "I think it is slow enough and just fast enough to learn so much."
-- "Just don't slack, the class moves fast but as long as you consistently spend time on working through the material, you will be fine!!"
-- "Don't fall behind, pay attention during lectures, go to your sections. The moment you start slippling, you'll never recover without at least twice the effort it would have taken to stay afloat the first time."
-- "Keep up. [Expletive deleted] is hard."
-- "Make sure not to take a heavy course load with this class ..."
-- Please do the hw seriously, never copy."
-- "Don't be afraid to go to OH if you have questions, this is far better than spending 1h+ on a single question or to just copy an answer online."
-- "Start on your work early, ask for help on Piazza and OH."
-- "I think this class got me really comfortable asking questions on Piazza (even if I was the first one), because someone will respond within the day."
-- "There is so much support available that you should take advantage of if you're feeling overwhelmed ..."
-- "The TAs for this class are actually amazing."
-- "The TAs are brilliant, understanding, and kind."
-- "Find a good group to work with. This will help you learn better, enjoy your work sessions, and have resources in case you miss class or anything."
-- "Especially if classes are online again, try to find a group to study with so you can be held accountable – studying together over google hangouts may not be ideal, but it helps you not lose that personal aspect of the class." 
-- "It will be really rough at first ... HOWEVER I have to say this class is incredibly worth it."
-- "I am not someone that typically enjoys math, yet I genuinely enjoyed this course. The satisfaction when you finally figure out a problem or connect the dots between concepts is so motivating. So to sum up: be scared, but not too scared ... if you put in the work, you won't regret this class."  
-- "Don't give up, and surpass your limits here and now!!"
-- "Time spent in this class is time invested: this was one of the classes in which I grew most in Berkeley so far."
-- "Listen, you're in for a wild ride. You need to prepare for a high-intensity educational experience over the next 15 weeks but it will change you for the better."
+- "Stay on top of coursework, cramming at the last second is impossible. Go to discussions, exam questions are very similar. Do all the chapter exercises, exam questions are very similar to those."
+- "STAY ON TOP OF THE MATERIAL!"
+- "It's probably impossible to do well in this class if you don't stay up to date on the material – just go to lecture on time and do most of the recommended exercises, and all will be fine."
+- "Read. The. Textbook. Make sure to stay up to date with the course content or it'll start becoming incredibly difficult to catch up, and even get started on upcoming assignments."
+- "In most classes, the professor will have 'recommended reading' in the textbook and you will probably ignore them. There's no need to do that in this class because the textbook is actually incredible and will tell you everything you need to know if you read it carefully."
+- "Attend lectures, even if the textbook provides everything you need to know content–wise!"
+- "Go to lecture and discussion and OH!! Do the practice problems, they're a big reason why I did decently on exams."
+- "Attempt problem sets on your own before collaborating with others."
+- "Go to office hours and keep asking questions if you aren't sure about something! ALSO, GET A FRIEND. This class was incredibly tough (a lot more difficult than I expected) ... but after I found a friend to work with/struggle with, I felt A LOT better about how I was doing in the course."
+- "Take a lighter course load. Ask yourself if you're ready to put in the many hours and discipline this course requires ... This course is really cool, and when I understood a concept, it was one of my favorite feelings. However, it is hard, and it requires a lot of time and focus and energy."
+- "Go hard. It's one of the tougher courses at Cal."
+- "This course requires grit. If you're feeling ambitious, go for it. Focus on learning and understanding the material, not on getting an A. If you're really passionate about learning, grades will follow."
+- "You get from this course what you put in ... This class should definitely be your top priority for the semester. That being said, if you put in the required work, it will be worth your effort!"
+- "Take it. And if you do, don't be a lazy linguini. Put in the work and you'll get results promise."
+- "Prepare for hard work and frustration, but in the end, you will see how much you’ve improved."
+- "I am taking this course as a senior and I just want to say that I am so happy that I did. Most of my other classes are challenging but prob140 is one of the few ones that I felt like my intellectual capacity got expanded."
+- "Stay confident!"
+- "Don't underestimate the course, and don't underestimate yourself."
+
 
 
 ### Alternatives ###

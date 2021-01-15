@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Mathematical Fluency: Prob 140, Fall 2020"
+title: Data 140: Mathematical Fluency
 ---
 
 #### A. Adhikari ####
 
-Along with inference, Prob 140 requires calculus and linear algebra. But like other upper division probability courses it has an unwritten prerequisite of what I call mathematical fluency. 
+Along with inference, Data 140 requires calculus and linear algebra. But like other upper division probability courses it has an unwritten prerequisite of what I call mathematical fluency. 
 
 This document is an attempt to describe what I mean by math fluency in this course, and how you can develop it. Remember that nobody is born with all these skills. They develop with practice. 
 
@@ -15,7 +15,7 @@ Working with algebraic expressions, exponents, absolute values, inequalities: in
 ### Notation and proof ###
 Mathematics is a powerful language. Writing math will be a fundamental activity in the class. As with any language, fluency develops with use. so use it. Expect calculations to involve symbols representing mathematical objects just as computer programs involve names that represent computational objects. 
 
-Don't skip the readings, because careful reading (preferably writing as you read) is a great way to gain fluency along with learning the content. When we insist that you write correctly, don't dismiss it as "picky" any more than you'd dismiss a Python error message as picky. Fix it to write exactly what you mean, not kinda sorta what you mean.
+Don't skip the readings. Careful reading (preferably writing as you read) is a great way to gain fluency along with learning the content. When we insist that you write correctly, don't dismiss it as "picky" any more than you'd dismiss a Python error message as picky. Fix it to write exactly what you mean, not kinda sorta what you might mean.
 
 Try not to make artificial distinctions between "proofs" and other calculations. Every mathematical step requires justification a.k.a. proof. Students sometimes tell me that "proof" questions are those that involve symbols and start with "Show that," and that these are somehow harder than questions that start with "Find." But if I compare the problems "Find $E(X^2)$" and "Show that $E(X^2) = \mu^2 + \mu$" based on the same setting, the latter is clearly easier because it tells you the answer.
 
