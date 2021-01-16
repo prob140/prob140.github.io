@@ -135,10 +135,9 @@ Mathematical induction is a method that is sometimes helpful for proving math st
 - You have a guessed a math statement for each positive integer $n$, where the $n$th statement depends on $n$, and
 - for small $n$ (even just $n=1$) you can easily show that the statement is true.
 
-**Review:** A [concise and clear exposition](https://www.cs.cmu.edu/~adamchik/21-127/lectures/induction_1_print.pdf) from Prof. [Victor Adamchik](http://www.cs.cmu.edu/~adamchik/) of Carnegie Mellon's CS department
+**Review:** A [clear set of notes](http://www.math.utah.edu/mathcircle/notes/induction.pdf) from [Tom Davis](https://mathcircle.berkeley.edu/tom-davis) of the Berkeley Math Circle 
 
-- Read The Principle of Mathematical Induction on the first page. You don't need the "more formal notation".
-- Do the *First Example* under Induction Examples. It starts on the bottom of the second page.
+- Just go through Pages 1 and 2
 
 The method is always the same.
 
@@ -228,7 +227,7 @@ We'll use the infinite series more frequently than the finite one, starting in [
 
 **a)** Find $S$.
 
-**b)** Fill in the blank with the appropriate factor: $ \sum_{i=3}^{\infty} p^i ~ = ~ \underline{~~~~~~~} \cdot S$. Hence find $ \sum_{i=3}^{\infty} p^i$.
+**b)** Replace the $?$ with the appropriate factor: $ \sum_{i=3}^{\infty} p^i ~ = ~ ? \cdot S$. Hence find $ \sum_{i=3}^{\infty} p^i$.
 
 **c)** Find $\sum_{i=0}^{\infty} p^{3i} $.
 
@@ -253,7 +252,7 @@ By the time you get to Chapter 10 you will have realized that probability is all
 
 Fill in the first blank with either *row* or *column*, and the second with either $n$ or $m$.
 
-For $\mathbf{vA}$ to make sense, $\mathbf{v}$ must be a $\underline{~~~~~~~~~~~~~~~}$ vector of length $\underline{~~~~~~~~~~~~~~~}$.
+For $\mathbf{vA}$ to make sense, $\mathbf{v}$ must be a ________ vector of length __________.
 
 <details>
     <summary>Answer MO1</summary>
@@ -264,7 +263,7 @@ In the following exercises, assume the conditions of MO1 and that $\mathbf{vA}$ 
 
 **Exercise MO2:** Fill in the first blank with either *row* or *column*, and the second with either $n$ or $m$.
 
-$\mathbf{vA}$ is a $\underline{~~~~~~~~~~~~~~~}$ vector of length $\underline{~~~~~~~~~~~~~~~}$.
+$\mathbf{vA}$ is a ________ vector of length _________.
 
 <details>
     <summary>Answer MO2</summary>
@@ -289,7 +288,7 @@ $\mathbf{vA}$ is a $\underline{~~~~~~~~~~~~~~~}$ vector of length $\underline{~~
 
 **Exercise MO5:** Now suppose $\mathbf{A}$ is $n \times n$ for $n \ge 5$. Fill in the first blank with the right coordinates and the second with a matrix:
 
-$\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$ is the $\underline{~~~~~~~~~~~~~~~~~}$ element of the matrix $\underline{~~~~~~~~~~~~~~~~~}$.
+$\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$ is the _______ element of the matrix _______.
 
 <details>
     <summary>Answer MO5</summary>
