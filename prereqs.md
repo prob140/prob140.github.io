@@ -252,7 +252,7 @@ By the time you get to Chapter 10 you will have realized that probability is all
 
 Fill in the first blank with either *row* or *column*, and the second with either $n$ or $m$.
 
-For $\mathbf{vA}$ to make sense, $\mathbf{v}$ must be a ________ vector of length __________.
+For $\mathbf{vA}$ to make sense, $\mathbf{v}$ must be a ___ vector of length ___.
 
 <details>
     <summary>Answer MO1</summary>
@@ -263,14 +263,14 @@ In the following exercises, assume the conditions of MO1 and that $\mathbf{vA}$ 
 
 **Exercise MO2:** Fill in the first blank with either *row* or *column*, and the second with either $n$ or $m$.
 
-$\mathbf{vA}$ is a ________ vector of length _________.
+$\mathbf{vA}$ is a ___ vector of length ___.
 
 <details>
     <summary>Answer MO2</summary>
     row, $m$
 </details>  
 
-**Notation** for MO3-MO5: Let $\mathbf{A}(i, j)$ be the $(i, j)$ element of $\mathbf{A}$, $\mathbf{A}(i, *)$ the $i$th row of $\mathbf{A}$, and $\mathbf{A}(*, j)$ the $j$th column of $\mathbf{A}$. Let $\mathbf{v}(j)$ be the $j$th element of $\mathbf{v}$.
+**Notation** for MO3-MO5: Let $\mathbf{A}(i, j)$ be the $(i, j)$ element of $\mathbf{A}$, $\mathbf{A}(i, \*)$ the $i$th row of $\mathbf{A}$, and $\mathbf{A}(\*, j)$ the $j$th column of $\mathbf{A}$. Let $\mathbf{v}(j)$ be the $j$th element of $\mathbf{v}$.
 
 **Exercise MO3:** Write the $j$th element of $\mathbf{vA}$ using sigma notation.
 
@@ -279,7 +279,7 @@ $\mathbf{vA}$ is a ________ vector of length _________.
     $\sum_{i=1}^n \mathbf{v}(i)\mathbf{A}(i, j)$
 </details>
 
-**Exercise MO4:** True or false: The elements of $\mathbf{vA}$ are $\mathbf{v}\cdot\mathbf{A}(*, 1), \mathbf{v}\cdot\mathbf{A}(*, 2), \ldots, \mathbf{v}\cdot\mathbf{A}(*, m)$.
+**Exercise MO4:** True or false: The elements of $\mathbf{vA}$ are $\mathbf{v}\cdot\mathbf{A}(\*, 1), \mathbf{v}\cdot\mathbf{A}(\*, 2), \ldots, \mathbf{v}\cdot\mathbf{A}(\*, m)$.
 
 <details>
     <summary>Answer MO4</summary>
@@ -288,7 +288,7 @@ $\mathbf{vA}$ is a ________ vector of length _________.
 
 **Exercise MO5:** Now suppose $\mathbf{A}$ is $n \times n$ for $n \ge 5$. Fill in the first blank with the right coordinates and the second with a matrix:
 
-$\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$ is the _______ element of the matrix _______.
+$\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$ is the ___ element of the matrix ___.
 
 <details>
     <summary>Answer MO5</summary>
