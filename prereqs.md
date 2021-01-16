@@ -72,7 +72,7 @@ $$
 \sum_{i \in S} (x_i + y_i) ~ = ~ \sum_{i \in S} x_i + \sum_{i \in S} y_i
 $$
 - Section 2.3 has excellent advice.
-- In [Chapter 4](http://prob140.org/textbook/Chapter_04/01_Joint_Distributions.html) of the textbook you'll start working with double sums. The main idea is in Section 1.7 on Pages 4-5 of the Prof. Aspnes notes linked above; note the analogy with nested `for` loops. Useful properties are in the latter half of Section 2.2.
+- In [Chapter 4](http://prob140.org/textbook/content/Chapter_04/01_Joint_Distributions.html) of the textbook you'll start working with double sums. The main idea is in Section 1.7 on Pages 4-5 of the Prof. Aspnes notes linked above; note the analogy with nested `for` loops. Useful properties are in the latter half of Section 2.2.
 
 **Exercise S1:** Consider the sequence defined by $c_i =i$, for $i=1, 2, \ldots , 10$. If possible, find $\sum_{k=1}^{10} c_k$.  If this is not possible, explain why not.
 
@@ -153,7 +153,7 @@ The method is always the same.
     The key step is $\sum_{i=1}^{n+1} i ~ = ~ \sum_{i=1}^n i ~+~ (n+1)$.
 </details> 
 
-**Exercise I2:** Apply I1 (no induction necessary) to find $\sum_{i=0}^{n-1} i$. This is the form in which the result first appears in the course, in [Chapter 1](http://prob140.org/textbook/Chapter_01/05_An_Exponential_Approximation.html) of the textbook.
+**Exercise I2:** Apply I1 (no induction necessary) to find $\sum_{i=0}^{n-1} i$. This is the form in which the result first appears in the course, in [Chapter 1](http://prob140.org/textbook/content/Chapter_01/05_An_Exponential_Approximation.html) of the textbook.
 
 **Exercise I3:** Use I1 and properties of sums (no induction necessary) to find a simple expression for the sum of the first $n$ ***odd*** integers: $\sum_{i=1}^n (2i-1)$.
 
@@ -167,8 +167,8 @@ You know that $\log(1) = 0$. What we're going to need, quite often, is an approx
 
 **Review:** [Graphs and Relevant Properties](http://prob140.org/resources/exponential_approximations/). For now, you need the *Limits and Approximations* section but not the *Bounds*. Preferably, you should understand the approximations in relation to the graphs of $e^x$ and $\log(x)$.
 
-- In [Chapter 1](http://prob140.org/textbook/Chapter_01/05_An_Exponential_Approximation.html) you'll need the approximations.
-- Starting with [Chapter 6](http://prob140.org/textbook/Chapter_06/05_Law_of_Small_Numbers.html#Poisson-Approximation-to-the-Binomial) you'll need the Taylor expansion of $e^x$.
+- In [Chapter 1](http://prob140.org/textbook/content/Chapter_01/05_An_Exponential_Approximation.html) you'll need the approximations.
+- Starting with [Chapter 6](http://prob140.org/textbook/content/Chapter_06/06_Law_of_Small_Numbers.html#poisson-approximation-to-the-binomial) you'll need the Taylor expansion of $e^x$.
 
 **Exercise EL1:** About how big is 
 
@@ -219,7 +219,7 @@ You know that $\log(1) = 0$. What we're going to need, quite often, is an approx
 
 ### <span style="color: darkblue">Geometric Series</span> ###
 
-We'll use the infinite series more frequently than the finite one, starting in [Chapter 8](http://prob140.org/textbook/Chapter_08/01_Definition.html#Geometric) of the textbook. In fact the infinite series is easier to sum (provided you assume it's finite, which it's fine for you to do), and then you can derive the finite series sum from the infinite one, as in the notes linked below.
+We'll use the infinite series more frequently than the finite one, starting in [Chapter 8](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#geometric) of the textbook. In fact the infinite series is easier to sum (provided you assume it's finite, which it's fine for you to do), and then you can derive the finite series sum from the infinite one, as in the notes linked below.
 
 **Review:** The main results on Page 6 (Section 2.1) of [Prof. Aspnes notes](http://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf). Understand the derivation of the infinite sum. That way you'll never have to memorize the results.
 
@@ -252,7 +252,7 @@ By the time you get to Chapter 10 you will have realized that probability is all
 
 Fill in the first blank with either *row* or *column*, and the second with either $n$ or $m$.
 
-For $\mathbf{vA}$ to make sense, $\mathbf{v}$ must be a ___ vector of length ___.
+For $\mathbf{vA}$ to make sense, $\mathbf{v}$ must be a ______ vector of length ______.
 
 <details>
     <summary>Answer MO1</summary>
@@ -263,7 +263,7 @@ In the following exercises, assume the conditions of MO1 and that $\mathbf{vA}$ 
 
 **Exercise MO2:** Fill in the first blank with either *row* or *column*, and the second with either $n$ or $m$.
 
-$\mathbf{vA}$ is a ___ vector of length ___.
+$\mathbf{vA}$ is a ______ vector of length ______.
 
 <details>
     <summary>Answer MO2</summary>
@@ -288,7 +288,7 @@ $\mathbf{vA}$ is a ___ vector of length ___.
 
 **Exercise MO5:** Now suppose $\mathbf{A}$ is $n \times n$ for $n \ge 5$. Fill in the first blank with the right coordinates and the second with a matrix:
 
-$\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$ is the ___ element of the matrix ___.
+$\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$ is the ______ element of the matrix ______.
 
 <details>
     <summary>Answer MO5</summary>
