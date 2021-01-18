@@ -1,7 +1,7 @@
 weeks:
   - weekNum: 1
     weekName: Introduction
-    weekDuration: 1/12-1/24
+    weekDuration: 1/19-1/24
     basic:
     - content: "Probability — axioms, rules, approximation <br>
                 Random variables - distributions, equality, conditioning <br>" 
