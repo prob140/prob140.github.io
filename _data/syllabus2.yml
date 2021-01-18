@@ -190,6 +190,10 @@ weeks:
   #     - name: Homework 8 (Due 10/27 at 11:59PM)
   #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_08.ipynb
 
+  - weekNum: 9.5
+    weekName: Spring break
+    weekDuration: 3/22-3/28
+
   - weekNum: 10
     weekName: The Normal & Gamma Families and MGFs
     weekDuration: 3/29-4/4
@@ -286,6 +290,15 @@ weeks:
   #     - name: Week 14 Study Guide
   #       url: /guides/Week_14.pdf
 
+  - weekNum: 15
+    weekName: RRR Week 
+    weekDuration: 5/3-5/9
+
+  - weekNum: 15.5
+    weekName: Finals Week
+    weekDuration: 5/10-5/16
+    - content: "<b> Final Exam on 5/13 </b>"
+
   # - weekNum: 15
   #   weekName: Multiple Regression
   #   weekDuration: 11/30-12/6
@@ -317,4 +330,5 @@ weeks:
   #     - name: Final Exam Scope
   #       url: /final_contents
         
+
 
