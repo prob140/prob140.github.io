@@ -191,7 +191,7 @@ weeks:
   #     - name: Homework 8 (Due 10/27 at 11:59PM)
   #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=hw/Homework_08.ipynb
 
-  - weekNum: 9
+  - weekNum: 
     weekName: Spring break
     weekDuration: 3/22-3/28
 
@@ -296,7 +296,7 @@ weeks:
     weekName: RRR Week 
     weekDuration: 5/3-5/9
 
-  - weekNum: 15
+  - weekNum: 
     weekName: Finals Week
     weekDuration: 5/10-5/16
     basic:
