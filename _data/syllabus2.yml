@@ -297,6 +297,7 @@ weeks:
   - weekNum: 15.5
     weekName: Finals Week
     weekDuration: 5/10-5/16
+    basic:
     - content: "<b> Final Exam on 5/13 </b>"
 
   # - weekNum: 15
