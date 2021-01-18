@@ -95,7 +95,8 @@ weeks:
                 Long run behavior of Markov Chains <br>
                 <b> Midterm 1 on 2/19 </b>" 
   #               <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
-  #     assignments:
+      assignments:
+        "<b> Midterm 1 on 2/19 </b>"
   #       - name: "Week 5 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
   #   links:
   #     - name: Week 5 Study Guide
@@ -202,7 +203,8 @@ weeks:
                 Moment generating functions; CLT revisited; Chernoff bound <br>
                 <b> Midterm 2 on 4/2 </b>" 
   #               <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
-  #     assignments:
+      assignments:
+        - name: "<b> Midterm 2 on 4/2 </b>"
   #       - name: "Week 10 Checkpoint (Complete on Gradescope, Due 10/28 at 11:59PM)"
   #       - name: "Lab 5: Densities and SymPy (Part B due 11/4 at 11:59PM)"
   #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa20&branch=master&subPath=lab/Lab_05.ipynb
@@ -299,6 +301,8 @@ weeks:
     weekDuration: 5/10-5/16
     basic:
     - content: "<b> Final Exam on 5/13 </b>"
+      assignments: 
+        - name: "<b> Final Exam on 5/13 </b>"
 
   # - weekNum: 15
   #   weekName: Multiple Regression
