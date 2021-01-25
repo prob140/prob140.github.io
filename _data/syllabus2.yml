@@ -192,8 +192,10 @@ weeks:
   #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_08.ipynb
 
   - weekNum: 
-    weekName: Spring break
+    weekName: Spring Break
     weekDuration: 3/22-3/28
+    basic:
+    - content: "Spring Break"
 
   - weekNum: 10
     weekName: The Normal & Gamma Families and MGFs
@@ -295,6 +297,8 @@ weeks:
   - weekNum: 15
     weekName: RRR Week 
     weekDuration: 5/3-5/9
+    basic:
+    - content: "RRR Week"
 
   - weekNum: 
     weekName: Finals Week
