@@ -28,7 +28,6 @@ weeks:
                 <a href='/guides/Week_02.pdf'> Week 2 Study Guide </a>"
       assignments:
         - name: "Week 2 Checkpoint (Complete on Gradescope, Due 1/27 at 11:59PM)"
-          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=checkpoints/Checkpoint_Week_02.ipynb
         - name: "Lab 1: Birthday Attack (Part B due 2/1 at 11:59PM)"
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_01.ipynb
         - name: Homework 2 (Due 2/1 at 11:59PM)
@@ -36,8 +35,7 @@ weeks:
     links:
       - name: Week 2 Study Guide
         url: /guides/Week_02.pdf
-      - name: "Week 2 Checkpoint (Due 1/27 at 11:59PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=checkpoints/Checkpoint_Week_02.ipynb
+      - name: "Week 2 Checkpoint (Complete on Gradescope, Due 1/27 at 11:59PM)"
       - name: "Lab 1: Birthday Attack (Part B due 2/1 at 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_01.ipynb
       - name: Homework 2 (Due 2/1 at 11:59PM)
