@@ -125,7 +125,7 @@ Course grades will be based on your overall score in the class, calculated using
 
 ## Collaboration and Integrity ##
 
-You are encouraged to discuss practice problems, homework, and labs with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up your all own assignments and code by yourself; for labs, this can be in collaboration with your group.
+You are encouraged to discuss practice problems, homework, and labs with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your own assignments and code by yourself; for labs, this can be in collaboration with your group.
 
 Copying assignments from other sources is not only dishonest, it also doesn’t help anyone. Each exercise requires its own combination of ideas, and each student needs practice in coming up with those combinations, or else they will be at a loss when trying to use probability theory in their future work. From a purely practical perspective, all students must work independently on Data 140 exams – no collaboration allowed. If a test is the first time a student works independently, then the test is not likely to go well.
 
