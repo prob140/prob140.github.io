@@ -93,7 +93,7 @@ weeks:
     basic:
     - content: "Expectation by Conditioning <br>
                 Long run behavior of Markov Chains <br>
-                <b> Midterm 1 on 2/19 </b>
+                <b> Midterm 1 on 2/19 </b> <br>
                 <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
       assignments:
         - name: "<b> Midterm 1 on 2/19 </b>"
