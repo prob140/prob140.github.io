@@ -93,15 +93,17 @@ weeks:
     basic:
     - content: "Expectation by Conditioning <br>
                 Long run behavior of Markov Chains <br>
-                <b> Midterm 1 on 2/19 </b>" 
-  #               <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
+                <b> Midterm 1 on 2/19 </b>
+                <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
       assignments:
-        "<b> Midterm 1 on 2/19 </b>"
-  #       - name: "Week 5 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
-  #   links:
-  #     - name: Week 5 Study Guide
-  #       url: /guides/Week_05.pdf
-  #     - name: "Week 5 Checkpoint (Complete on Gradescope, Due 9/23 at 11:59PM)"
+        - name: "<b> Midterm 1 on 2/19 </b>"
+        - name: "Week 5 Checkpoint (Complete on Gradescope, Due 2/17 at 11:59PM)"
+          url: https://www.gradescope.com/courses/231443
+    links:
+      - name: Week 5 Study Guide
+        url: /guides/Week_05.pdf
+      - name: "Week 5 Checkpoint (Complete on Gradescope, Due 2/17 at 11:59PM)"
+        url: https://www.gradescope.com/courses/231443
 
   - weekNum: 6
     weekName: Markov Chain Monte Carlo
