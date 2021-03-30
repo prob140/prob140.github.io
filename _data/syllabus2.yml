@@ -213,7 +213,7 @@ weeks:
     basic:
     - content: "Independent normal and gamma variables <br>
                 Moment generating functions; CLT revisited; Chernoff bound <br>
-                <b> Midterm 2 on 4/2 </b> 
+                <b> Midterm 2 on 4/2 </br> 
                 <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
         - name: "<b> Midterm 2 on 4/2 </b>"
