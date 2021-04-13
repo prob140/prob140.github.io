@@ -213,7 +213,7 @@ weeks:
     basic:
     - content: "Independent normal and gamma variables <br>
                 Moment generating functions; CLT revisited; Chernoff bound <br>
-                <b> Midterm 2 on 4/2 </br> 
+                <b> Midterm 2 on 4/2 </b> <br> 
                 <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
         - name: "<b> Midterm 2 on 4/2 </b>"
@@ -254,20 +254,20 @@ weeks:
     weekDuration: 4/12-4/18
     basic:
     - content: "Prediction and Error <br>
-                Error Variance <br>" 
-  #               <a href='/guides/Week_12.pdf'> Week 12 Study Guide </a>"
-  #     assignments:
-  #       - name: "Lab 6: Poisson Process (Part B due 11/16 at 11:59PM)"
-  #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_06.ipynb
-  #       - name: Homework 10 (Due 11/16 at 11:59PM)
-  #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_10.ipynb
-  #   links:
-  #     - name: Week 12 Study Guide
-  #       url: /guides/Week_12.pdf
-  #     - name: "Lab 6: Poisson Process (Part B due 11/16 at 11:59PM)"
-  #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_06.ipynb
-  #     - name: Homework 10 (Due 11/16 at 11:59PM)
-  #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_10.ipynb
+                Error Variance <br> 
+                <a href='/guides/Week_12.pdf'> Week 12 Study Guide </a>"
+      assignments:
+        - name: "Lab 6: Poisson Process (Part B due 4/19 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_06.ipynb
+        - name: Homework 10 (Due 4/19 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_10.ipynb
+    links:
+      - name: Week 12 Study Guide
+        url: /guides/Week_12.pdf
+      - name: "Lab 6: Poisson Process (Part B due 4/19 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_06.ipynb
+      - name: Homework 10 (Due 4/19 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_10.ipynb
 
   - weekNum: 13
     weekName: Simple regression
