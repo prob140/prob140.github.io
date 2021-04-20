@@ -24,7 +24,7 @@ weeks:
     weekDuration: 1/25-1/31
     basic:
     - content: "Conditioning, symmetry, and independence <br>
-                Symmetry and collections of events <br> 
+                Symmetry and collections of events <br>
                 <a href='/guides/Week_02.pdf'> Week 2 Study Guide </a>"
       assignments:
         - name: "Week 2 Checkpoint (Complete on Gradescope, Due 1/27 at 11:59PM)"
@@ -158,7 +158,7 @@ weeks:
     weekDuration: 3/8-3/14
     basic:
     - content: "Central Limit Theorem <br>
-                Probability densities <br> 
+                Probability densities <br>
                 <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
       assignments:
         - name: "Week 8 Checkpoint (Complete on Gradescope, Due 3/10 at 11:59PM)"
@@ -201,7 +201,7 @@ weeks:
       - name: Homework 8 (Due 3/29 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_08.ipynb
 
-  - weekNum: 
+  - weekNum:
     weekName: Spring Break
     weekDuration: 3/22-3/28
     basic:
@@ -213,7 +213,7 @@ weeks:
     basic:
     - content: "Independent normal and gamma variables <br>
                 Moment generating functions; CLT revisited; Chernoff bound <br>
-                <b> Midterm 2 on 4/2 </b> <br> 
+                <b> Midterm 2 on 4/2 </b> <br>
                 <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
         - name: "<b> Midterm 2 on 4/2 </b>"
@@ -234,7 +234,7 @@ weeks:
     weekDuration: 4/5-4/11
     basic:
     - content: "MLE; Bayesian approach and MAP Estimates <br>
-                The beta and the binomial <br> 
+                The beta and the binomial <br>
                 <a href='/guides/Week_11.pdf'> Week 11 Study Guide </a>"
       assignments:
         - name: "Lab 6: Poisson Process (Part A due 4/12 at 11:59PM)"
@@ -254,7 +254,7 @@ weeks:
     weekDuration: 4/12-4/18
     basic:
     - content: "Prediction and Error <br>
-                Error Variance <br> 
+                Error Variance <br>
                 <a href='/guides/Week_12.pdf'> Week 12 Study Guide </a>"
       assignments:
         - name: "Lab 6: Poisson Process (Part B due 4/19 at 11:59PM)"
@@ -274,22 +274,22 @@ weeks:
     weekDuration: 4/19-4/25
     basic:
     - content: "Random vectors; multivariate normal <br>
-                Simple regression <br>" 
-  #               <a href='/guides/Week_13.pdf'> Week 13 Study Guide </a>"
-  #     assignments:
-  #       - name: "Week 13 Checkpoint (Complete on Gradescope, Due 11/18 at 11:59PM)"
-  #       - name: "Lab 7: Constructing the Bivariate Normal (due 11/23 at 11:59PM)"
-  #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_07.ipynb
-  #       - name: Homework 11 (Due 11/23 at 11:59PM)
-  #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_11.ipynb
-  #   links:
-  #     - name: Week 13 Study Guide
-  #       url: /guides/Week_13.pdf
-  #     - name: "Week 13 Checkpoint (Complete on Gradescope, Due 11/18 at 11:59PM)"
-  #     - name: "Lab 7: Constructing the Bivariate Normal (due 11/23 at 11:59PM)"
-  #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_07.ipynb
-  #     - name: Homework 11 (Due 11/23 at 11:59PM)
-  #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_11.ipynb
+                Simple regression <br>
+                <a href='/guides/Week_13.pdf'> Week 13 Study Guide </a>"
+      assignments:
+         - name: "Week 13 Checkpoint (Complete on Gradescope, Due 4/21 at 11:59PM)"
+         - name: "Lab 7: Constructing the Bivariate Normal (due 4/26 at 11:59PM)"
+           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_07.ipynb
+         - name: Homework 11 (Due 4/26 at 11:59PM)
+           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_11.ipynb
+    links:
+      - name: Week 13 Study Guide
+        url: /guides/Week_13.pdf
+      - name: "Week 13 Checkpoint (Complete on Gradescope, Due 4/21 at 11:59PM)"
+      - name: "Lab 7: Constructing the Bivariate Normal (due 4/26 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_07.ipynb
+      - name: Homework 11 (Due 4/26 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_11.ipynb
 
   - weekNum: 14
     weekName: Multiple regression
@@ -305,17 +305,17 @@ weeks:
   #       url: /guides/Week_14.pdf
 
   - weekNum: 15
-    weekName: RRR Week 
+    weekName: RRR Week
     weekDuration: 5/3-5/9
     basic:
     - content: "RRR Week"
 
-  - weekNum: 
+  - weekNum:
     weekName: Finals Week
     weekDuration: 5/10-5/16
     basic:
     - content: "<b> Final Exam on 5/13 </b>"
-      assignments: 
+      assignments:
         - name: "<b> Final Exam on 5/13 </b>"
 
   # - weekNum: 15
@@ -323,7 +323,7 @@ weeks:
   #   weekDuration: 11/30-12/6
   #   basic:
   #   - content: "Multiple Regression I <br>
-  #               Mulitple Regression II <br> 
+  #               Mulitple Regression II <br>
   #               <a href='/guides/Week_15.pdf'> Week 15 Study Guide (Coming Soon) </a>"
   #     assignments:
   #       - name: "Week 13 Checkpoint (Complete on Gradescope, Due 11/18 at 11:59PM)"
@@ -348,6 +348,3 @@ weeks:
   #   links:
   #     - name: Final Exam Scope
   #       url: /final_contents
-        
-
-
