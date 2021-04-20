@@ -238,7 +238,7 @@ We'll use the infinite series more frequently than the finite one, starting in [
     c) $\frac{1}{1-p^3}$
 </details>  
 
-## Chapters 10-11##
+## Chapters 10-11 ##
 
 ### <span style="color: darkblue">Basic Matrix Operations</span> ###
 
