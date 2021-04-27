@@ -297,12 +297,15 @@ weeks:
     basic:
     - content: "Multiple regression I <br>
                 Multiple regression II <br>"
-  #               <a href='/guides/Week_14.pdf'> Week 14 Study Guide </a>"
-  #     assignments:
-  #       - name: "None; enjoy the break!"
-  #   links:
-  #     - name: Week 14 Study Guide
-  #       url: /guides/Week_14.pdf
+                <a href='/guides/Week_14.pdf'> Week 14 Study Guide </a>"
+      assignments:
+        - name: Homework 12 (Due 5/3 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_12.ipynb
+    links:
+      - name: Week 14 Study Guide
+        url: /guides/Week_14.pdf
+      - name: Homework 12 (Due 5/3 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_12.ipynb
 
   - weekNum: 15
     weekName: RRR Week
