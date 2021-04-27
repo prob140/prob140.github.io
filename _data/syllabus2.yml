@@ -296,7 +296,7 @@ weeks:
     weekDuration: 4/26-5/2
     basic:
     - content: "Multiple regression I <br>
-                Multiple regression II <br>"
+                Multiple regression II <br>
                 <a href='/guides/Week_14.pdf'> Week 14 Study Guide </a>"
       assignments:
         - name: Homework 12 (Due 5/3 at 11:59PM)
