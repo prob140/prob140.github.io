@@ -4,8 +4,10 @@ title: Material for Final Exam
 ---
 
 <!-- #region -->
-### Prob 140 Fall 2020 ###
+### Data 140 Spring 2021 ###
 ### A. Adhikari ###
+
+# Material for Final Exam #
 
 ## General Concepts and Methods ##
 
@@ -58,7 +60,7 @@ title: Material for Final Exam
 - Sections 8.1, 12.1: Uniform on 1, 2, ..., n
 - Sections 6.1, 6.2, 6.3, 6.5, Chapter 7, 8.2, 8.5, 13.3, 14.3, Chapter 21: Bernoulli, binomial and multinomial
 - Sections 6.4, 8.5, 13.3, 13.4: Hypergeometric
-- Section 6.5, 6.6, Chapter 7, Sections 8.2, 8.3, 12.1, 19.2, Lab 6: Poisson
+- Section 6.5, 6.6, Lab 2, Chapter 7, Sections 8.2, 8.3, 12.1, 19.2, Lab 6: Poisson
 - Sections 8.2, 9.3, 22.4: Geometric
 
 ### Uniform $(a, b)$ ###
@@ -86,6 +88,7 @@ title: Material for Final Exam
 
 ### Omitted from the Final ###
 - Chapters 10, 11
+- Sections 14.1, 14.2
 - Section 12.4
 - Section 21.3
-- Section 25.1, 25.2, 25.3
+- Sections 25.1, 25.2, 25.3
