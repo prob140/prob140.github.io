@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Prob 140'
+title:            'Data 140'
 tagline:          'Probability for Data Science'
 description:      'Probability for Data Science <br /> Ani Adhikari <br />'
 url:              http://prob140.org

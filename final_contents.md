@@ -7,8 +7,6 @@ title: Material for Final Exam
 ### Data 140 Spring 2021 ###
 ### A. Adhikari ###
 
-# Material for Final Exam #
-
 ## General Concepts and Methods ##
 
 ### Probability ###
