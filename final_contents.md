@@ -35,7 +35,6 @@ title: Material for Final Exam
 - Section 12.3, 19.4: Bounds: Markov, Chebyshev, Chernoff
 - Section 9.2, 9.3: Expectation by conditioning
 - Section 15.3, 17.1: Expectation using densities and joint densities
-- Section 14.1: Probability generating function
 - Section 19.2: Moment generating function
 
 ### Variance ###
