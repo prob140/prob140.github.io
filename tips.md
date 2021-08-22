@@ -32,10 +32,12 @@ This response from Fall 2020 is long but it summarizes the vast majority of stud
 Students repeatedly advise reading the textbook. From Spring 2021: 
 
 > Stay on top of assignments, go to lecture, read the textbook.
+
 > Be prepared to spend a lot of time reading the textbook and getting in-depth on course concepts to truly master the material succeed in this class.
+
 > I think reading the textbook and watching the textbook videos really helps you understand the material.
 
-Excellent practical advice from Spring 2021:
+Excellent practical advice from a Spring 2021 student:
 
 > * Do not fall behind. Everything builds upon another. There is no point in asking "is midterm 2 cumulative?" because later topics builds on the foundations from starting topics.
 > * Do homework alone first before discussing with peers. It is crucial to understand how to approach problems BY YOURSELF!
@@ -44,6 +46,7 @@ Excellent practical advice from Spring 2021:
 A broader perspective from Spring 2021, reflective of many such comments over the semesters:
 
 > This is very important material to master as it is so fundamental to statistics. If there's one class that gives you exactly what you put into it, it's this one, so please make an effort to put a lot into it.
+
 > Take it! its fun but a lot of work. Be ready to spend a lot of time with the coursework but it will be rewarding.
 
 ### Alternatives ###
@@ -51,4 +54,4 @@ If you think this might not be for you this semester, the [About](/about.md) pag
 
 Students who want to take 140 after strengthening their math beyond the prerequisites often ask what math class they should take as preparation. Almost invariably my answer is that they should take any math class numbered in the 50s or higher. All math classes make you better at doing math.
 
-I think it's better to prepare by taking more math instead of lower division probability as in Stat 88. Math skills will have more general applicability and will help more with the second half of 140.
+I think it's better to prepare by taking more math instead of lower division probability as in Stat 88. Math skills will have more general applicability and will help more with the second half of 140. However, an increasing proportion of students are taking 140 after Stat 88, partly because Stat 88 satisifes requirements for the Data Science minor and also some majors.
