@@ -29,4 +29,4 @@ The original course logo by Biyonka Liang was the winning entry in a competition
 
 In Spring 2021 the course officially became Data 140 and took its rightful place in the sequence Data [8](http://data8.org/), [100](http://www.ds100.org/), [140](http://prob140.org/), and [102](https://data102.org/). The logo on the Spring 2021 homepage is by the inimitable Ryan Roggenkemper, designer of some memorable staff swag. It shows, perhaps too explicitly, the change from Prob to Data.
 
-We look forward to a new Data 140 course logo being designed by our creative students and staff this year. Thank you!
+We look forward to a new Data 140 course logo being designed by our creative students and staff. Thank you!
