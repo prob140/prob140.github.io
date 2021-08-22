@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data 140: Mathematical Fluency
+title: Math Fluency
 ---
 
 #### A. Adhikari ####
