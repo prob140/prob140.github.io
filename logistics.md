@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Course Information, Spring 2021
+title: Course Information, Fall 2021
 ---
 
-**A. Adhikari**
+**Swupnil Sahai**
 
 Welcome to Data 140! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about.md) the class.
 
-Enrolled and waitlisted students will be added to our **Piazza** forum. We will open Piazza for questions about logistics and math prerequisites in the week before instruction starts. 
+Enrolled and waitlisted students will be added to our **Ed** forum. We will open Ed for questions about logistics and math prerequisites before instruction starts.
 
 Please expect to hear from us about **assigning section times**. This information will also be posted on Piazza. Based on past experience we expect to assign all students to times when they can attend and that are reasonable for their time zone.
+
+Please expect to hear from us about **assigning section times**. This information will also be posted on Ed. Note that while section attendance is expected, it is not required. However, there will be **three quizzes during section** throughout the semester.
 
 
 ## Technology ##
@@ -33,9 +35,15 @@ The textbook is [*Probability for Data Science*](http://prob140.org/textbook) by
 
 There's more in the written text that you should read or at least skim. In fact, you can learn the material by studying only the written text, as many students have done in the past.
 
-**Prof. A's live sessions are versions of the textbook videos.** Sessions are partly driven by conversation that arises from students' questions and responses.
+**Prof. Sahai's live sessions are versions of the textbook videos.** Sessions are partly driven by conversation that arises from students' questions and responses.
 
-Students vary in how they use these resources. The most common ways among students who did well in Fall 2020:
+Students vary in how they use these resources. The most common ways among students who did well in past semesters:
+
+- Attend Prof. Sahai’s live sessions, and then go over the textbook, using the videos only if needed to clear something up. We strongly encourage all students to use this approach.
+- Go over the textbook and its videos, and then also attend the professor’s live sessions. This involves considerable repetition, but it helps in reinforcing ideas.
+- Attend irreguarly or hardly at all, but follow the textbook videos and go through the textbook carefully and regularly. This requires personal discipline.
+- Just read the textbook carefully and avoid videos and Zoom whenever possible. This is an efficient method for students who can follow written math pretty fluently, and requires personal discipline.
+
 
 - Attend irreguarly or hardly at all, but follow the textbook videos and go through the textbook carefully and regularly. This requires personal discipline.
 - First attend Prof. A's live sessions, then go over the textbook, using the videos only if needed to clear something up. This comes closest to the typical approach during the in-person era.
@@ -66,11 +74,11 @@ As past students have advised in [Study Tips](http://prob140.org/tips/), it is i
 
 A typical week will include the following live sessions. All sessions will start on "Berkeley time", which in this case doesn't mean the time zone but our cherished practice of starting 10 minutes after the listed time.
 
-- Prof. A's live session, 11:00 a.m. to roughly 12:30 p.m. on Tuesdays and Thursdays, will cover much of what's in the textbook videos and will also be driven by student participation.
-- GSIs' live sessions, twice weekly on Wednesdays and Fridays at various times, will be conversations about exercises. They will cover how to select appropriate methods, similarities and differences between exercises, etc. We expect to be able to assign all students to a discussion section that they say they can attend. So **you are expected to attend your discussion section** on Wednesdays and Fridays. 
-- Homework party, day and time TBA
-- Lab party, day and time TBA
-- Instructor, GSI, and tutor office hours, both open and one-on-one, days and times TBA. One of Prof. A's hours will be on Thursdays at 9 p.m., to include students in time zones very different from Berkeley's.
+- Prof. Sahai's live session, 12:30 pm to roughly 2:00 pm on Tuesdays and Thursdays, will cover much of what's in the textbook videos and will also be driven by student participation.
+- GSIs' live sessions, twice weekly on Wednesdays and Fridays at various times, will be conversations about exercises. They will cover how to select appropriate methods, similarities and differences between exercises, etc. We will assign all students to a discussion section, so **you are expected to attend your discussion section** on Wednesdays and Fridays. 
+- Homework party on Monday, from 12 - 2 pm in Moffitt 145.
+- Lab party on Friday, from 3 - 5 pm in Evans 458.
+- Instructor, GSI, and tutor office hours, both open and one-on-one, days and times TBA. One of Prof. Sahai will have one hour of OH immediately after each lecture on Tuesdays and Thursdays.
 
 A few weeks into the term, we will start "catch up" sessions, some small-group tutoring, etc. Details about these additional support programs will be posted on Piazza.
 
@@ -78,7 +86,7 @@ Student participation and informal conversation will be encouraged during all li
 
 ## The Required Components of Your Work ##
 
-**All dates, days, and times on this page are local to Berkeley**. By now you must be an expert at converting to your local day and time. 
+**All dates, days, and times on this page are local to Berkeley**.
 
 All work must be submitted on Gradescope. Please follow all submission instructions. Not doing so will result in no credit and no regrade request allowed for the work. It is your responsibility to make sure your submission is complete.
 
@@ -90,16 +98,19 @@ Each week's assignments will be released on Monday. There might be some changes 
 
 All assignments are graded for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. That is by far the most efficient way to succeed in the class.
 
-- **Checkpoint** consists of two straightforward exercises on the first half of the week's content. These will not involve computing and will be done on paper. The checkpoint assignment is due by 11:59 pm on Wednesday of the same week.
 - **Homework** typically involves both math and computing, which you will do in Jupyter notebooks and on paper. Homework is due by 11:59 pm on Monday of the following week.
-- **Lab** typically involves both math and computing, which you will do in Juypter notebooks and on paper. Some labs will be completed in one week and some in two, but there will be lab work due every week. Lab (or Part A if it is a two-week lab) is due by 11:59 on Monday of the following week. If the lab has a Part B, that will be due by 11:59 pm on Monday one week after Part A. **You may do your lab with up to two other students in the class, and are strongly encouraged to take this option.** Instructions for finding a lab group and submitting with your group will be provided.
+- **Lab** typically involves both math and computing, which you will do in Juypter notebooks and on paper. Some labs will be completed in one week and some in two, but there will be lab work due every week. Lab (or Part A if it is a two-week lab) is due by 11:59 on Monday of the following week. If the lab has a Part B, that will be due by 11:59 pm on Monday one week after Part A.
 
 ### Exams ###
 
-- **Midterm 1** on Friday February 19, 8 a.m. to 9 a.m. and **Midterm 2** on Friday April 2, 8 a.m. to 9 a.m.. Midterms will be unproctored. Details will be announced well before the exams.
-- **Final Exam** on Thursday May 13, 8 a.m. to 11 a.m., Exam Group 13. **This exam will be proctored remotely.** Details will be announced after the campus provides Spring proctoring guidance.
+- **Quizzes** three times during the term, **in the discussion section to which you are assigned.** No computers involved. The dates are, **tentatively:**
+    - Quiz 1: Wednesday, 9/8
+    - Quiz 2: Wednesday, 10/27
+    - Quiz 3: Wednesday, 11/17
+- **Midterm** on Thursday, October 7th, 7 pm to 9 pm. For students on campus, the exam will be held and proctored in Wheeler 150. For students taking the class remotely, the exam will be proctored online.
+- **Final Exam** on Friday, December 17th, 8 am to 11 am, Exam Group 17. The exam will be proctored in a to-be-determined location. For students taking the class remotely, the exam will be proctored online.
 
-Please make sure that you are not enrolled in a class that has a conflicting final exam. If you have extended time accommodations for exams, please make sure that you have enough hours on the morning and afternoon of Thursday 5/13 for the 140 final.
+Please make sure that you are not enrolled in a class that has a conflicting final exam. If you have extended time accommodations for exams, please make sure that you have enough hours on the morning and afternoon of Friday, 12/17 for the 140 final.
 
 We are aware that there are students in different time zones and that some students have extended time accommodations. Please expect alternate exam times to be as close as possible to the times announced above. Please hold further questions until we announce the details. Thank you!
  
@@ -108,20 +119,18 @@ We are aware that there are students in different time zones and that some stude
 In the calculation of your overall score, we will drop:
 
 - your two lowest homework scores
-- your two lowest checkpoint scores 
-
-No labs will be dropped. If your lab group has unexpected difficulties over an extended period of time, for example due to illness, please make sure you talk with staff.
+- your two lowest lab scores
+- your lowest quiz score
 
 Course grades will be based on your overall score in the class, calculated using the following weights:
 
-- Checkpoint 8%
-- Homework 22%
+- Homework 20%
 - Labs 15%
-- Midterm 1 10%
-- Midterm 2 15%
-- Final 30%
+- Quizzes 10%
+- Midterm 20%
+- Final 35%
 
-[Berkeleytime](https://www.berkeleytime.com/grades/0-14539-all-adhikari,-a) has grade distributions from past semesters. Fall 2020 will be included at some point.
+[Berkeleytime](https://www.berkeleytime.com/grades/0-14539-all-adhikari,-a) has grade distributions from past semesters. Spring 2021 will be included at some point.
 
 ## Collaboration and Integrity ##
 
