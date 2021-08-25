@@ -69,7 +69,7 @@ A typical week will include the following live sessions. All sessions will start
 - Prof. Sahai's live session, 12:30 pm to roughly 2:00 pm on Tuesdays and Thursdays, will cover much of what's in the textbook videos and will also be driven by student participation.
 - GSIs' live sessions, twice weekly on Wednesdays and Fridays at various times, will be conversations about exercises. They will cover how to select appropriate methods, similarities and differences between exercises, etc. We will assign all students to a discussion section, so **you are expected to attend your discussion section** on Wednesdays and Fridays. 
 - Homework party on Monday, from 12 - 2 pm in Moffitt 145.
-- Lab party on Friday, from 3 - 5 pm in Evans 458.
+- Lab party on Friday, from 3 - 6 pm in Evans 458.
 - Instructor, GSI, and tutor office hours, both open and one-on-one, days and times TBA. One of Prof. Sahai will have one hour of OH immediately after each lecture on Tuesdays and Thursdays.
 
 A few weeks into the term, we will start "catch up" sessions, some small-group tutoring, etc. Details about these additional support programs will be posted on Piazza.
@@ -104,7 +104,7 @@ All assignments are graded for correctness. There is plenty of support available
 
 Please make sure that you are not enrolled in a class that has a conflicting final exam. If you have extended time accommodations for exams, please make sure that you have enough hours on the morning and afternoon of Friday, 12/17 for the 140 final.
 
-We are aware that there are students in different time zones and that some students have extended time accommodations. Please expect alternate exam times to be as close as possible to the times announced above. Please hold further questions until we announce the details. Thank you!
+There may be alternate exams for students with extended time accommodations and students in different timezones. Those students should expect their exam to be on the listed day, as close to the listed time as possible depending on schedules, accommodations, and available resources.
  
 ## Grades ##
 
