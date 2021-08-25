@@ -132,5 +132,5 @@ Copying assignments from other sources is not only dishonest, it also doesn’t 
 
 Data/Prob 140 materials including exams and solutions are the intellectual property of the course developers. From the campus statement on [Academic Integrity](https://teaching.berkeley.edu/statements-course-policies): "... students may not circulate or post materials (handouts, exams, syllabi,–any class materials) from their classes without the written permission of the instructor."
 
-I am extremely tough with dishonest students and I hope that I will not be put in that situation in this class. I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
+We are extremely tough with dishonest students and we hope that we will not be put in that situation in this class. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
 
