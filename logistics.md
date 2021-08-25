@@ -17,8 +17,8 @@ Please expect to hear from us about **assigning section times**. This informatio
 You will need:
 
 - a laptop or desktop computer with a camera, and a browser such as Chrome or Safari for running Zoom and accessing Jupyterhub, Gradescope, etc.
-- Reliable wifi
-- A smartphone or tablet with a camera
+- reliable wifi
+- a smartphone or tablet with a camera
 
 If you think you might have difficulties with some of these, please let us know. You can apply for [help](https://technology.berkeley.edu/STEP) from campus.
 
@@ -37,16 +37,10 @@ There's more in the written text that you should read or at least skim. In fact,
 
 Students vary in how they use these resources. The most common ways among students who did well in past semesters:
 
-- Attend Prof. Sahai’s live sessions, and then go over the textbook, using the videos only if needed to clear something up. We strongly encourage all students to use this approach.
+- Attend Prof. Sahai’s live sessions, and then go over the textbook, using the videos only if needed to clear something up. This is the default approach for learning in this offering of the course.
 - Go over the textbook and its videos, and then also attend the professor’s live sessions. This involves considerable repetition, but it helps in reinforcing ideas.
 - Attend irreguarly or hardly at all, but follow the textbook videos and go through the textbook carefully and regularly. This requires personal discipline.
 - Just read the textbook carefully and avoid videos and Zoom whenever possible. This is an efficient method for students who can follow written math pretty fluently, and requires personal discipline.
-
-
-- Attend irreguarly or hardly at all, but follow the textbook videos and go through the textbook carefully and regularly. This requires personal discipline.
-- First attend Prof. A's live sessions, then go over the textbook, using the videos only if needed to clear something up. This comes closest to the typical approach during the in-person era.
-- Go over the textbook and its videos, and also attend the professor's live sessions. This involves considerable repetition but it helps in reinforcing ideas.
-- Just read the textbook carefully and avoid videos and Zoom whenever possible. This is an efficient method for students who can follow written math pretty fluently.
 
 Over the semester, all students become more fluent at reading math. Whichever you primarily use – video or written text – you will learn best by working out the calculations yourself as you watch or read, and by trying the Quick Check questions and some of the chapter exercises. Though it might seem as though this will take too long, you will find that it helps speed up your work on assignments. 
 
