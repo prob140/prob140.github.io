@@ -9,8 +9,6 @@ Welcome to Data 140! This page contains the nitty-gritty details of the class. P
 
 Enrolled and waitlisted students will be added to our **Ed** forum. We will open Ed for questions about logistics and math prerequisites before instruction starts.
 
-Please expect to hear from us about **assigning section times**. This information will also be posted on Piazza. Based on past experience we expect to assign all students to times when they can attend and that are reasonable for their time zone.
-
 Please expect to hear from us about **assigning section times**. This information will also be posted on Ed. Note that while section attendance is expected, it is not required. However, there will be **three quizzes during section** throughout the semester.
 
 
