@@ -95,7 +95,7 @@ All assignments are graded for correctness. There is plenty of support available
 
 ### Exams ###
 
-- **Quizzes** three times during the term, **in the discussion section to which you are assigned.** No computers involved. The dates are, **tentatively:**
+- **Quizzes** three times during the term, **in the discussion section to which you are assigned.** No computers involved. For students on campus, the quizzes will be held and proctored in discussion section. For students taking the class remotely, the quizzes will be proctored online during discussion section. The dates are, **tentatively:**
     - Quiz 1: Wednesday, 9/8
     - Quiz 2: Wednesday, 10/27
     - Quiz 3: Wednesday, 11/17
