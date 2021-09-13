@@ -63,24 +63,21 @@ weeks:
     weekDuration: 9/13-9/17
     basic:
     - content: "Expectation and Additivity <br>
-                More Properties of Expectation <br>"
-#                <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
+                More Properties of Expectation <br>
+                <b> Quiz 1 on 9/15 </b> <br>
+                <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
       assignments:
-#        - name: "Week 4 Checkpoint (Complete on Gradescope, Due 2/10 at 11:59PM)"
-#          url: https://www.gradescope.com/courses/231443
-#        - name: "Lab 2: Total Variation (Part B due 9/20 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_02.ipynb
-#        - name: Homework 4 (due 9/20 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_04.ipynb
-#    links:
-#      - name: Week 4 Study Guide
-#        url: /guides/Week_04.pdf
-#      - name: "Week 4 Checkpoint (Complete on Gradescope, Due 2/10 at 11:59PM)"
-#        url: https://www.gradescope.com/courses/231443
-#      - name: "Lab 2: Total Variation (Part B due 9/20 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_02.ipynb
-#      - name: Homework 4 (due 9/20 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_04.ipynb
+        - name: "Lab 2: Total Variation (Part B due 9/20 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_02.ipynb
+        - name: Homework 4 (Due 9/20 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_04.ipynb
+    links:
+      - name: Week 4 Study Guide
+        url: /guides/Week_04.pdf
+      - name: "Lab 2: Total Variation (Part B due 9/20 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_02.ipynb
+      - name: Homework 4 (Due 9/20 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_04.ipynb
 
   - weekNum: 5
     weekName: Conditioning and Markov Chains
