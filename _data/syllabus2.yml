@@ -105,32 +105,27 @@ weeks:
     weekDuration: 9/27-10/1
     basic:
     - content: "Balance <br>
-                Markov Chain Monte Carlo <br>"
-#                <a href='/guides/Week_06.pdf'> Week 6 Study Guide </a>"
+                Markov Chain Monte Carlo <br>
+                <a href='/guides/Week_06.pdf'> Week 6 Study Guide </a>"
       assignments:
-#        - name: "Week 6 Checkpoint (Complete on Gradescope, Due 2/24 at 11:59PM)"
-#          url: https://www.gradescope.com/courses/231443
-#        - name: "Lab 3: Codebreaking by MCMC (due 10/4 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_03.ipynb
-#        - name: Homework 5 (Due 10/4 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_05.ipynb
-#    links:
-#      - name: Week 6 Study Guide
-#        url: /guides/Week_06.pdf
-#      - name: "Week 6 Checkpoint (Complete on Gradescope, Due 2/24 at 11:59PM)"
-#        url: https://www.gradescope.com/courses/231443
-#      - name: "Lab 3: Codebreaking by MCMC (due 10/4 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_03.ipynb
-#      - name: Homework 5 (Due 10/4 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_05.ipynb
+        - name: "Lab 4: Codebreaking by MCMC (Due 10/4 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_04.ipynb
+        - name: Homework 6 (Due 10/4 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_06.ipynb
+    links:
+      - name: Week 6 Study Guide
+        url: /guides/Week_06.pdf
+      - name: "Lab 4: Codebreaking by MCMC (Due 10/4 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_04.ipynb
+      - name: Homework 6 (Due 10/4 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_06.ipynb
 
   - weekNum: 7
     weekName: Variance and Covariance
     weekDuration: 10/4-10/8
     basic:
     - content: "SD and tail bounds <br>
-                Covariance and its uses <br>"
-#                <b> Midterm on 10/7 </b> <br>"
+                <b> Midterm on 10/7 </b> <br>"
 #                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
       assignments:
 #        - name: "Week 7 Checkpoint (Complete on Gradescope, Due 3/3 at 11:59PM)"
@@ -153,7 +148,8 @@ weeks:
     weekName: Central Limit Theorem and Continuous Random Variables
     weekDuration: 10/11-10/15
     basic:
-    - content: "Central Limit Theorem <br>
+    - content: "Covariance and its uses <br>
+                Central Limit Theorem <br>
                 Probability densities <br>"
 #                <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
       assignments:
