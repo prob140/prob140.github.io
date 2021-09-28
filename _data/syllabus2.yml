@@ -125,6 +125,7 @@ weeks:
     weekDuration: 10/4-10/8
     basic:
     - content: "SD and tail bounds <br>
+                Covariance and its uses <br>
                 <b> Midterm on 10/7 </b> <br>"
 #                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
       assignments:
@@ -148,8 +149,7 @@ weeks:
     weekName: Central Limit Theorem and Continuous Random Variables
     weekDuration: 10/11-10/15
     basic:
-    - content: "Covariance and its uses <br>
-                Central Limit Theorem <br>
+    - content: "Central Limit Theorem <br>
                 Probability densities <br>"
 #                <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
       assignments:
