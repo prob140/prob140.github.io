@@ -126,20 +126,16 @@ weeks:
     basic:
     - content: "SD and tail bounds <br>
                 Covariance and its uses <br>
-                <b> Midterm on 10/7 </b> <br>"
-#                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
+                <b> Midterm on 10/7 </b> <br>
+                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
       assignments:
-#        - name: "Week 7 Checkpoint (Complete on Gradescope, Due 3/3 at 11:59PM)"
-#          url: https://www.gradescope.com/courses/231443
 #        - name: "Lab 4: Decisions Based on Ranks (Part A due 10/11 at 11:59PM)"
 #          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_04.ipynb
 #        - name: Homework 6 (Due 10/11 at 11:59PM)
 #          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_06.ipynb
-#    links:
-#      - name: Week 7 Study Guide
-#        url: /guides/Week_07.pdf
-#      - name: "Week 7 Checkpoint (Complete on Gradescope, Due 3/3 at 11:59PM)"
-#        url: https://www.gradescope.com/courses/231443
+    links:
+      - name: Week 7 Study Guide
+        url: /guides/Week_07.pdf
 #      - name: "Lab 4: Decisions Based on Ranks (Part A due 10/11 at 11:59PM)"
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_04.ipynb
 #      - name: Homework 6 (Due 10/11 at 11:59PM)
