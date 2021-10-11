@@ -146,22 +146,18 @@ weeks:
     weekDuration: 10/11-10/15
     basic:
     - content: "Central Limit Theorem <br>
-                Probability densities <br>"
-#                <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
+                Probability densities <br>
+                <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
       assignments:
-#        - name: "Week 8 Checkpoint (Complete on Gradescope, Due 3/10 at 11:59PM)"
-#          url: https://www.gradescope.com/courses/231443
-#        - name: "Lab 4: Decisions Based on Ranks (Part B due 10/18 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_04.ipynb
+        - name: "Lab 5: Decisions Based on Ranks (Part A and B due 10/19 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_05.ipynb
 #        - name: Homework 7 (Due 10/18 at 11:59PM)
 #          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_07.ipynb
-#    links:
-#      - name: Week 8 Study Guide
-#        url: /guides/Week_08.pdf
-#      - name: "Week 8 Checkpoint (Complete on Gradescope, Due 3/10 at 11:59PM)"
-#        url: https://www.gradescope.com/courses/231443
-#      - name: "Lab 4: Decisions Based on Ranks (Part B due 10/18 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_04.ipynb
+    links:
+      - name: Week 8 Study Guide
+        url: /guides/Week_08.pdf
+      - name: "Lab 5: Decisions Based on Ranks (Part A and B due 10/19 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_05.ipynb
 #      - name: Homework 7 (Due 10/18 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=hw/Homework_07.ipynb
 
@@ -194,8 +190,8 @@ weeks:
     weekDuration: 10/25-10/29
     basic:
     - content: "Independent normal and gamma variables <br>
-                Moment generating functions; CLT revisited; Chernoff bound <br>"
-#                <b> Midterm 2 on 4/2 </b> <br>
+                Moment generating functions; CLT revisited; Chernoff bound <br>
+                <b> Quiz 2 on 10/27 </b> <br>"
 #                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
 #        - name: "<b> Midterm 2 on 4/2 </b>"
