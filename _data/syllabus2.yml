@@ -187,19 +187,14 @@ weeks:
     basic:
     - content: "Independent normal and gamma variables <br>
                 Moment generating functions; CLT revisited; Chernoff bound <br>
-                <b> Quiz 2 on 10/27 </b> <br>"
-#                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
+                <b> Quiz 2 on 10/27 </b> <br>
+                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
-#        - name: "<b> Midterm 2 on 4/2 </b>"
-#        - name: "Week 10 Checkpoint (Complete on Gradescope, Due 3/31 at 11:59PM)"
-#          url: https://www.gradescope.com/courses/231443
-#        - name: "Lab 5: Densities and SymPy (Part B due 11/1 at 11:59PM)"
+#        - name: "Lab 6: Densities and SymPy (Part B due 11/1 at 11:59PM)"
 #          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_05.ipynb
-#    links:
-#      - name: Week 10 Study Guide
-#        url: /guides/Week_10.pdf
-#      - name: "Week 10 Checkpoint (Complete on Gradescope, Due 3/31 at 11:59PM)"
-#        url: https://www.gradescope.com/courses/231443
+    links:
+      - name: Week 10 Study Guide
+        url: /guides/Week_10.pdf
 #      - name: "Lab 5: Densities and SymPy (Part B due 11/1 at 11:59PM)"
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp21&branch=main&subPath=lab/Lab_05.ipynb
 
