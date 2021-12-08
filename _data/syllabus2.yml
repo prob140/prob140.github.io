@@ -289,11 +289,11 @@ weeks:
       assignments:
         - name: Homework 14 (Due 12/7 at 11:59PM)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_14.ipynb
-      links:
-       - name: Week 15 Study Guide
-         url: /guides/Week_15.pdf
-       - name: Homework 14 (Due 12/7 at 11:59PM)
-         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_14.ipynb
+    links:
+      - name: Week 15 Study Guide
+        url: /guides/Week_15.pdf
+      - name: Homework 14 (Due 12/7 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_14.ipynb
 
   - weekNum: 16
     weekName: RRR Week
