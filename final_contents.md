@@ -23,8 +23,8 @@ title: Material for Final Exam
 - Sections 5.3, 5.4: Random permutations and symmetry
 - Sections 15.1, 15.2: Density
 - Sections 6.1, 15.1, 16.3: CDF and inverse CDF
-- Chapter 16, Lab 5: Density of a transformation
-- Chapter 17, Lab 5: Joint, marginal, and conditional densities; independence
+- Chapter 16, Lab 6: Density of a transformation
+- Chapter 17, Lab 6: Joint, marginal, and conditional densities; independence
 - Chapters 14, 19: Distribution of sum
 - Section 14.3, 14.4, 15.3, 19.3: Central Limit Theorem
 
@@ -38,8 +38,8 @@ title: Material for Final Exam
 ### Variance ###
 - Chapter 12: Intro, linear transformations
 - Chapter 13: Covariance; variance of a sum
-- Lab 4: Application of mean and variance of simple random sample sum
-- Section 24.2, Homework 6: Correlation and its properties
+- Lab 5: Application of mean and variance of simple random sample sum
+- Section 24.2, Homework 7: Correlation and its properties
 - Sections 22.3, 22.4: Variance by conditioning, mixtures
 - Sections 23.1: Mean vector and covariance matrix of random vectors
 
@@ -57,7 +57,7 @@ title: Material for Final Exam
 - Sections 8.1, 12.1: Uniform on 1, 2, ..., n
 - Sections 6.1, 6.2, 6.3, 6.5, Chapter 7, 8.2, 8.5, 13.3, 14.3, Chapter 21: Bernoulli, binomial and multinomial
 - Sections 6.4, 8.5, 13.3, 13.4: Hypergeometric
-- Section 6.5, 6.6, Lab 2, Chapter 7, Sections 8.2, 8.3, 12.1, 19.2, Lab 6: Poisson
+- Section 6.5, 6.6, Lab 2, Chapter 7, Sections 8.2, 8.3, 12.1, 19.2, Lab 7: Poisson
 - Sections 8.2, 9.3, 22.4: Geometric
 
 ### Uniform $(a, b)$ ###
@@ -73,15 +73,15 @@ title: Material for Final Exam
 - Section 16.1: Normal densities
 - Sections 18.1, 18.2, 18.4: Independent normal variables, linear combinations, squares, Rayleigh, chi-squared
 - Section 19.3: Normal MGF, sums, CLT
-- Chapter 24, Lab 7: Bivariate normal, linear combinations, independence, regression
+- Chapter 24, Lab 8: Bivariate normal, linear combinations, independence, regression
 - Chapters 23, Section 25.4: Multivariate normal, linear combinations, independence, regression
 
 ### Gamma ###
 - Section 15.4: Exponential
-- Homework 8: Gamma function, gamma density, mean, variance
+- Homework 9: Gamma function, gamma density, mean, variance
 - Sections 18.3, 18.4: Gamma and chi-squared
 - Sections 19.2: Sums of independent gammas with the same rate
-- Lab 6: Waiting times in a Poisson process
+- Lab 7: Waiting times in a Poisson process
 
 ### Omitted from the Final ###
 - Chapters 10, 11
