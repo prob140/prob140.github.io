@@ -300,6 +300,12 @@ weeks:
     weekDuration: 12/6-12/10
     basic:
     - content: "RRR Week"
+      assignments:
+        - name: Final Exam Scope
+          url: /final_contents
+      links:
+        - name: Final Exam Scope
+          url: /final_contents
 
   - weekNum: 17
     weekName: Finals Week

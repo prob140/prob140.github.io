@@ -4,8 +4,8 @@ title: Material for Final Exam
 ---
 
 <!-- #region -->
-### Data 140 Spring 2021 ###
-### A. Adhikari ###
+### Data 140 Fall 2021 ###
+### Swupnil Sahai ###
 
 ## General Concepts and Methods ##
 
