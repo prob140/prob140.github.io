@@ -227,7 +227,8 @@ weeks:
     weekDuration: 4/11-4/15
     basic:
     - content: "Prediction and Error <br>
-                Error Variance <br>"
+                Error Variance <br>
+                <b> Quiz 3 on 4/13 </b> <br>"
 #                <a href='/guides/Week_12.pdf'> Week 12 Study Guide </a>"
       assignments:
 #        - name: "Lab 7: Poisson Process (Part B due 11/16 at 11:59PM)"
