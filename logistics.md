@@ -1,48 +1,48 @@
 ---
 layout: page
-title: Course Information, Fall 2021
+title: Course Information, Spring 2022
 ---
 
-**Swupnil Sahai**
+**Ani Adhikari**
 
 Welcome to Data 140! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about.md) the class.
 
 Enrolled and waitlisted students will be added to our **Ed** forum. We will open Ed for questions about logistics and math prerequisites before instruction starts.
 
-Please expect to hear from us about **assigning section times**. This information will also be posted on Ed. Note that while section attendance is expected, it is not required. However, there will be **three quizzes during section** throughout the semester.
+Please expect to hear from us by email about **assigning section times**. This information will also be posted on Ed. 
 
 
 ## Technology ##
 
-You will need:
+Data 140 is primarily a math class and sessions are expected to meet in person after the first two weeks of class. So your main tools for working will be paper-and-pencil or a tablet equivalent.
 
-- a laptop or desktop computer with a camera, and a browser such as Chrome or Safari for running Zoom and accessing Jupyterhub, Gradescope, etc.
+Assignments will be submitted online, and campus decisions about in-person instruction are subject to change. So you will also need:
+
+- a laptop or desktop computer with a camera, and a browser such as Chrome or Safari for running Zoom and accessing JupyterHub, Gradescope, etc.
 - reliable wifi
-- a smartphone or tablet with a camera
+- a smartphone or tablet with a camera (in case campus requires quizzes and exams to be online)
 
 If you think you might have difficulties with some of these, please let us know. You can apply for [help](https://technology.berkeley.edu/STEP) from campus.
 
-But this is primarily a math class, so your main tools for working will be paper and pencil or a tablet equivalent.
 
-
-## Videos and Text ##
+## Videos, Textbook, and Lectures ##
 
 The textbook is [*Probability for Data Science*](http://prob140.org/textbook) by Ani Adhikari and Jim Pitman.
 
-**Videos are embedded in the textbook**. They consist of explanations of selected portions of the written text, typically those that require detailed calculation or discussion. 
+**Videos are embedded in the textbook**. For access, use your CalNet credentials to open YouTube. The videos consist of explanations of selected portions of the written text, typically those that require detailed calculation or discussion. 
 
-There's more in the written text that you should read or at least skim. In fact, you can learn the material by studying only the written text, as many students have done in the past.
+There's more in the written text that you are expected to work through. In fact, you can learn the material by studying only the written text, as many students have done in the past.
 
-**Prof. Sahai's live sessions are versions of the textbook videos.** Sessions are partly driven by conversation that arises from students' questions and responses.
+Prof. Adhikari's lectures, whether in person or online, are versions of the textbook content and videos. They will follow the textbook sections in sequence according to the calendar on the [homepage](http://prob140.org/). Students are expected to attend. Lectures are partly driven by conversation that arises from students' questions and responses. 
 
-Students vary in how they use these resources. The most common ways among students who did well in past semesters:
+Lectures will not assume that you have already worked through the content of the lecture. However, many students have found it useful to at least skim the relevant sections before coming to lecture. The most common approaches among students who did well in past semesters:
 
-- Attend Prof. Sahai’s live sessions, and then go over the textbook, using the videos only if needed to clear something up. This is the default approach for learning in this offering of the course.
-- Go over the textbook and its videos, and then also attend the professor’s live sessions. This involves considerable repetition, but it helps in reinforcing ideas.
-- Attend irreguarly or hardly at all, but follow the textbook videos and go through the textbook carefully and regularly. This requires personal discipline.
-- Just read the textbook carefully and avoid videos and Zoom whenever possible. This is an efficient method for students who can follow written math pretty fluently, and requires personal discipline.
+- Go over the textbook and its videos, and then attend lectures. This helps reinforce ideas and works for many students.
+- Attend lectures and then work through the textbook, using the videos only if needed to clear something up. This also works for many students.
+- Attend lectures and work through the textbook carefully and regularly, skipping the embedded videos. This is an efficient method for students who can follow written math pretty fluently.
+- Attend lectures sporadically or hardly at all, but work through the textbook carefully and regularly, using the embedded videos when necessary. This requires significant personal discipline and abstract math skills, and is the least common approach among students who did well.
 
-Over the semester, all students become more fluent at reading math. Whichever you primarily use – video or written text – you will learn best by working out the calculations yourself as you watch or read, and by trying the Quick Check questions and some of the chapter exercises. Though it might seem as though this will take too long, you will find that it helps speed up your work on assignments. 
+Over the semester, all students become more [fluent](http://prob140.org/fluency/) at math. You will learn best by working out the calculations yourself as you watch or read, and by trying the Quick Check questions and some of the chapter exercises. Though it might seem as though this will take too long, you will find that a good grasp of the weekly content will speed up your work on assignments. 
 
 
 ## Helpful References ##
@@ -50,69 +50,70 @@ Over the semester, all students become more fluent at reading math. Whichever yo
 - [*Probability*](https://link-springer-com.libproxy.berkeley.edu/book/10.1007/978-1-4612-4374-8) by Jim Pitman, published by Springer NY. Available for Berkeley students on SpringerLink at no cost or low cost (for a printed version) if you log on via CalNet.
 - [*Introduction to Probability*](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
 - [*Introduction to Probability*](http://athenasc.com/probbook.html) by Dimitri Bertsekas and John Tsitsiklis
-- [*Theory Meets Data*](http://stat88.org/textbook/notebooks/intro), the Stat 88 textbook written by Prof. Adhikari, covers some of the basic concepts of Prob 140 at a more elementary level.
+- [*Theory Meets Data*](http://stat88.org/textbook/notebooks/intro), the Stat 88 textbook written by Prof. Adhikari, covers some of the basic concepts of Prob 140 at a more elementary level. Reload the page if the math doesn’t render.
 
 ## Study Guides ##
 
-The weekly Study Guide is intended to help you map out your work. It will provide you with an outline of the week's main ideas, connections to the textbook, a schedule that describes the focus of all the week's live sessions, and a list of recommended practice problems.
+The weekly Study Guide is intended to help you map out your work. It will provide you with an outline of the week's main ideas, connections to the textbook, and a schedule that describes the focus of all the week's sessions.
 
-The week's content, live sessions, practice problems, homework, and lab are carefully coordinated. **Each week's assignments are based on the material of that week, not of the previous week.** 
+The week's content, sessions, homework, and lab are carefully coordinated. **Each week's assignments are based on the material of that week, not of the previous week.** 
 
 The Study Guide is designed to help you distribute your work effectively over the week. It is only a guide; you are not required to follow it. You are welcome to follow a different study schedule if that suits you better. But leaving all the work till the weekend is not a good idea.
 
 
-## Live Sessions ##
-As past students have advised in [Study Tips](http://prob140.org/tips/), it is important to work regularly. This is not a bingeable class.
+## Attendance ##
+As past students have advised in [Study Tips](http://prob140.org/tips/), it is important to work regularly. This is not a bingeable class. 
 
-A typical week will include the following live sessions. All sessions will start on "Berkeley time", which in this case doesn't mean the time zone but our cherished practice of starting 10 minutes after the listed time.
+Attending all lectures and sections is an excellent way of working regularly. But we won't take attendance. Instead, we'll work hard to make each session effective for learning.
 
-- Prof. Sahai's live session, 12:30 pm to roughly 2:00 pm on Tuesdays and Thursdays, will cover much of what's in the textbook videos and will also be driven by student participation.
-- GSIs' live sessions, twice weekly on Wednesdays and Fridays at various times, will be conversations about exercises. They will cover how to select appropriate methods, similarities and differences between exercises, etc. We will assign all students to a discussion section, so **you are expected to attend your discussion section** on Wednesdays and Fridays. 
-- Homework party on Monday, from 12 - 2 pm in Moffitt 145.
-- Lab party on Friday, from 3 - 6 pm in Evans 458.
-- Instructor, GSI, and tutor office hours, both open and one-on-one, days and times TBA. One of Prof. Sahai will have one hour of OH immediately after each lecture on Tuesdays and Thursdays.
+A typical week will include the following sessions. All sessions will start at "Berkeley time" following our cherished practice of starting 10 minutes after the listed time.
 
-A few weeks into the term, we will start "catch up" sessions, some small-group tutoring, etc. Details about these additional support programs will be posted on Piazza.
+- Prof. Adhikari's lectures: 5 pm to 6:30 pm on Tuesdays and Thursdays in person in 155 Dwinelle (or on Zoom if required by campus policy). **You are expected to attend.** 
+- Sections led by GSIs: twice weekly on Wednesdays and Fridays at various times, in person in Evans (or on Zoom if required by campus policy). These will be conversations about exercises and may sometimes include portions of the weekly lab. They will cover how to select appropriate methods, similarities and differences between exercises, etc. We will assign all students to a discussion section based on an availability form that will be posted. **You are expected to attend your assigned discussion section** on Wednesdays and Fridays. 
+- Homework party on Monday, time TBA
+- Lab party on Friday, time TBA
+- Instructor, GSI, and tutor office hours, in open or queued one-on-one formats, days and times TBA. 
 
-Student participation and informal conversation will be encouraged during all live sessions, so they will not be recorded.
+A few weeks into the term, we will start "catch up" sessions. Details will be posted on Ed.
+
+Student participation and informal conversation will be encouraged during all lectures and sections. You are expected to attend and participate. To help make this possible, the class allows no time conflicts and you will be assigned a section that fits your schedule.
 
 ## The Required Components of Your Work ##
 
-**All dates, days, and times on this page are local to Berkeley**.
-
-All work must be submitted on Gradescope. Please follow all submission instructions. Not doing so will result in no credit and no regrade request allowed for the work. It is your responsibility to make sure your submission is complete.
-
 ### Weekly Assignments ###
 
-Each week's assignments will be released on Monday. There might be some changes in release dates or due dates because of exams and holidays. We'll let you know.
+There will be a homework assignment and a lab each week. Assignments will be released on Monday and will be due by 11:59 p.m. on the following Monday. There might be some changes in release dates or due dates because of exams and holidays. We'll let you know.
 
-**Late assignments will not be accepted**. But if you have university accommodations for extended time on assignments, we will contact you during the first week of classes to make your arrangements.
+**You are allowed one lab partner from among students in the class.** You may have different partners for different labs. Logistical details will be posted on Ed. 
 
-All assignments are graded for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. That is by far the most efficient way to succeed in the class.
+**Late assignments will not be accepted**. But if you have DSP accommodations for extended time on assignments, we will contact you about arrangements.
 
-- **Homework** typically involves both math and computing, which you will do in Jupyter notebooks and on paper. Homework is due by 11:59 pm on Monday of the following week.
-- **Lab** typically involves both math and computing, which you will do in Juypter notebooks and on paper. Some labs will be completed in one week and some in two, but there will be lab work due every week. Lab (or Part A if it is a two-week lab) is due by 11:59 on Monday of the following week. If the lab has a Part B, that will be due by 11:59 pm on Monday one week after Part A.
+All assignments will involve both math and computing. You will do them on paper and in Jupyter notebooks.
 
-### Exams ###
+All assignments must be submitted on Gradescope. Please follow all submission instructions. Not doing so will result in no credit and no regrade request allowed for the work. It is your responsibility to make sure your submission is complete.
 
-- **Quizzes** three times during the term, **in the discussion section to which you are assigned.** No computers involved. For students on campus, the quizzes will be held and proctored in discussion section. For students taking the class remotely, the quizzes will be proctored online during discussion section. The dates are, **tentatively:**
-    - Quiz 1: Wednesday, 9/15
-    - Quiz 2: Wednesday, 10/27
-    - Quiz 3: Wednesday, 11/17
-- **Midterm** on Thursday, October 7th, 7 pm to 9 pm. For students on campus, the exam will be held and proctored in Wheeler 150. For students taking the class remotely, the exam will be proctored online.
-- **Final Exam** on Friday, December 17th, 8 am to 11 am, Exam Group 17. The exam will be proctored in a to-be-determined location. For students taking the class remotely, the exam will be proctored online.
+All assignments will be graded for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. That is by far the most efficient way to succeed in the class.
 
-Please make sure that you are not enrolled in a class that has a conflicting final exam. If you have extended time accommodations for exams, please make sure that you have enough hours on the morning and afternoon of Friday, 12/17 for the 140 final.
+### Quizzes and Exams ###
+All of these are expected to be in person and proctored. However, if campus policies require a move online for some period, then quizzes and exams during that period will be proctored on Zoom.
 
-There may be alternate exams for students with extended time accommodations and students in different timezones. Those students should expect their exam to be on the listed day, as close to the listed time as possible depending on schedules, accommodations, and available resources.
+- **Quizzes** three times during the term, **in the discussion section to which you are assigned.** 
+    - Quiz 1: Wednesday 2/9
+    - Quiz 2: Wednesday 3/30
+    - Quiz 3: Wednesday 4/13
+- **Midterm** on Tuesday March 1 during the lecture period 
+- **Final Exam** on Friday, May 13, 11:30 a.m. to 2:30 p.m., Exam Group 18. Please make sure that you are not enrolled in a class that has a conflicting final exam. 
+
+There will be **no alternate quizzes or exams** except as required by university rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the midterm and the final.
+
  
 ## Grades ##
 
-In the calculation of your overall score, we will drop:
+It is highly recommended that you turn in all assignments even if you can only complete some of them partially. However, to give you some leeway in case of illness and emergencies, we will drop the following in the calculation of your overall score:
 
 - your two lowest homework scores
-- your two lowest lab scores
-- your lowest quiz score
+- your lowest lab score
+- your lowest quiz score 
 
 Course grades will be based on your overall score in the class, calculated using the following weights:
 
@@ -122,15 +123,14 @@ Course grades will be based on your overall score in the class, calculated using
 - Midterm 20%
 - Final 35%
 
-[Berkeleytime](https://www.berkeleytime.com/grades/0-14539-all-adhikari,-a) has grade distributions from past semesters. Spring 2021 will be included at some point.
+[Berkeleytime](https://www.berkeleytime.com/grades/0-14539-all-adhikari,-a) has grade distributions from past semesters, though these are difficult to interpret because of the P/NP options some semesters.
 
 ## Collaboration and Integrity ##
 
-You are encouraged to discuss practice problems, homework, and labs with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your own assignments and code by yourself; for labs, this can be in collaboration with your group.
+You are encouraged to discuss practice problems, homework, and labs with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your own assignments and code by yourself; for labs, this will be in collaboration with your lab partner if you have one.
 
 Copying assignments from other sources is not only dishonest, it also doesn’t help anyone. Each exercise requires its own combination of ideas, and each student needs practice in coming up with those combinations, or else they will be at a loss when trying to use probability theory in their future work. From a purely practical perspective, all students must work independently on Data 140 exams – no collaboration allowed. If a test is the first time a student works independently, then the test is not likely to go well.
 
-Data/Prob 140 materials including exams and solutions are the intellectual property of the course developers. From the campus statement on [Academic Integrity](https://teaching.berkeley.edu/statements-course-policies): "... students may not circulate or post materials (handouts, exams, syllabi,–any class materials) from their classes without the written permission of the instructor."
+Data/Stat/Prob 140 materials including solutions and exams are the intellectual property of the course developers. From the campus statement on [Academic Integrity](https://teaching.berkeley.edu/statements-course-policies): "... students may not circulate or post materials (handouts, exams, syllabi,–any class materials) from their classes without the written permission of the instructor."
 
-We are extremely tough with dishonest students and we hope that we will not be put in that situation in this class. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
-
+We are tough with dishonest students and we hope that we will not be put in that situation in this class. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
