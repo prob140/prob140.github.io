@@ -88,11 +88,9 @@ There will be a homework assignment and a lab each week. Assignments will be rel
 
 **Late assignments will not be accepted**. But if you have DSP accommodations for extended time on assignments, we will contact you about arrangements.
 
-All assignments will involve both math and computing. You will do them on paper and in Jupyter notebooks.
+All assignments will involve both math and computing. You will do them on paper and in Jupyter notebooks. Assignments must be submitted on Gradescope. Please follow all submission instructions. Not doing so will result in no credit and no regrade request allowed for the work. It is your responsibility to make sure your submission is complete.
 
-All assignments must be submitted on Gradescope. Please follow all submission instructions. Not doing so will result in no credit and no regrade request allowed for the work. It is your responsibility to make sure your submission is complete.
-
-All assignments will be graded for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. That is by far the most efficient way to succeed in the class.
+Assignments will be graded for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. That is by far the most efficient way to succeed in the class.
 
 ### Quizzes and Exams ###
 All of these are expected to be in person and proctored. However, if campus policies require a move online for some period, then quizzes and exams during that period will be proctored on Zoom.
