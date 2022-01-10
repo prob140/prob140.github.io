@@ -64,8 +64,8 @@ weeks:
     weekDuration: 2/7-2/11
     basic:
     - content: "Expectation and Additivity <br>
-                Expectation by Conditioning <br>
-                <b> Quiz 1 on 2/9 </b> <br>"
+                <b> Quiz 1 on 2/9 </b> <br>
+                Expectation by Conditioning <br>"
 #                <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
       assignments:
 #        - name: "Lab 2: Total Variation (Part B due 9/20 at 11:59PM)"
@@ -186,8 +186,8 @@ weeks:
     weekDuration: 3/28-4/1
     basic:
     - content: "Independent normal and gamma variables <br>
-                Moment generating functions and Chernoff bound <br>
-                <b> Quiz 2 on 3/30 </b> <br>"
+                <b> Quiz 2 on 3/30 </b> <br>
+                Moment generating functions and Chernoff bound <br>"
 #                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
 #        - name: "Lab 6: Densities and SymPy (Part B due 11/2 at 11:59PM)"
@@ -227,8 +227,8 @@ weeks:
     weekDuration: 4/11-4/15
     basic:
     - content: "Prediction and Error <br>
-                Error Variance <br>
-                <b> Quiz 3 on 4/13 </b> <br>"
+                <b> Quiz 3 on 4/13 </b> <br>
+                Error Variance <br>"
 #                <a href='/guides/Week_12.pdf'> Week 12 Study Guide </a>"
       assignments:
 #        - name: "Lab 7: Poisson Process (Part B due 11/16 at 11:59PM)"
