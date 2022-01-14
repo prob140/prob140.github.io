@@ -1,8 +1,4 @@
 
----
-layout: page
-title: Data 140 Math Prerequisites
----
 
 ### A. Adhikari ###
 
