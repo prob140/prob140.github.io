@@ -43,17 +43,17 @@ weeks:
                 Expectation <br>
                 <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
       assignments:
-#        - name: "Lab 2: Total Variation (Part A due 9/13 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_02.ipynb
-#        - name: Homework 3 (Due 9/13 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_03.ipynb
+        - name: "Lab 1: Total Variation (Part B due 2/1 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=lab/Lab_01.ipynb
+        - name: Homework 3 (Due 2/1 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=hw/Homework_03.ipynb
     links:
       - name: Week 3 Study Guide
         url: /guides/Week_03.pdf
-#      - name: "Lab 2: Total Variation (Part A due 9/13 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_02.ipynb
-#      - name: Homework 3 (Due 9/13 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_03.ipynb
+      - name: "Lab 1: Total Variation (Part B due 2/1 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=lab/Lab_01.ipynb
+      - name: Homework 3 (Due 2/1 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=hw/Homework_03.ipynb
 
   - weekNum: 4
     weekName: Expectation
