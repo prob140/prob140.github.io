@@ -122,8 +122,8 @@ weeks:
     weekDuration: 2/28-3/4
     basic:
     - content: "<b> Midterm on 3/1 </b> <br>
-                Covariance and its uses <br>"
-#                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
+                Covariance and its uses <br>
+                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
       assignments:
         - name: Midterm Scope
           url: /midterm_contents
@@ -134,8 +134,8 @@ weeks:
     links:
       - name: Midterm Scope
         url: /midterm_contents
-#      - name: Week 7 Study Guide
-#        url: /guides/Week_07.pdf
+      - name: Week 7 Study Guide
+        url: /guides/Week_07.pdf
 #      - name: "Lab 5: Decisions Based on Ranks (Part A and B due 10/19 at 11:59PM)"
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_05.ipynb
 #      - name: Homework 7 (Due 10/12 at 11:59PM)
