@@ -145,16 +145,15 @@ weeks:
                 Probability densities <br>
                 <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
       assignments:
-#        - name: "Lab 5: Decisions Based on Ranks (Part A and B due 10/19 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_05.ipynb
+        - name: "Lab 4: Densities and Transformations (Part A due 3/14 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=lab/Lab_04.ipynb
         - name: Homework 8 (Due 3/14 at 11:59PM)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=hw/Homework_08.ipynb
-        - name: "Lab will be released later today"
     links:
       - name: Week 8 Study Guide
         url: /guides/Week_08.pdf
-#      - name: "Lab 5: Decisions Based on Ranks (Part A and B due 10/19 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_05.ipynb
+      - name: "Lab 4: Densities and Transformations (Part A due 3/14 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=lab/Lab_04.ipynb
       - name: Homework 8 (Due 3/14 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=hw/Homework_08.ipynb
 
