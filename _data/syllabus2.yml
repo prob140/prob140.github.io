@@ -177,6 +177,11 @@ weeks:
 #      - name: Homework 9 (Due 10/26 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_09.ipynb
 
+  - weekName: Spring Break
+    weekDuration: 3/21-3/25
+    basic:
+    - content: "Spring Break <br>"
+  
   - weekNum: 10
     weekName: The Normal & Gamma Families and MGFs
     weekDuration: 3/28-4/1
