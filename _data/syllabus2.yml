@@ -162,20 +162,20 @@ weeks:
     weekDuration: 3/14-3/18
     basic:
     - content: "Transformations <br>
-                Joint Densities <br>"
-#                <a href='/guides/Week_09.pdf'> Week 9 Study Guide </a>"
+                Joint Densities <br>
+                <a href='/guides/Week_09.pdf'> Week 9 Study Guide </a>"
       assignments:
-#        - name: "Lab 6: Densities and SymPy (Part A due 10/26 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_06.ipynb
-#        - name: Homework 9 (Due 10/26 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_09.ipynb
+        - name: "Lab 4B: Densities and Transformations (Part B due 3/28 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=lab/Lab_04.ipynb
+        - name: Homework 9 (Due 3/28 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=hw/Homework_09.ipynb
     links:
-#      - name: Week 9 Study Guide
-#        url: /guides/Week_09.pdf
-#      - name: "Lab 6: Densities and SymPy (Part A due 10/26 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_06.ipynb
-#      - name: Homework 9 (Due 10/26 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_09.ipynb
+      - name: Week 9 Study Guide
+        url: /guides/Week_09.pdf
+      - name: "Lab 4B: Densities and Transformations (Part B due 3/28 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=lab/Lab_06.ipynb
+      - name: Homework 9 (Due 3/28 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=hw/Homework_09.ipynb
 
   - weekName: Spring Break
     weekDuration: 3/21-3/25
