@@ -188,20 +188,20 @@ weeks:
     basic:
     - content: "Independent normal and gamma variables <br>
                 <b> Quiz 2 on 3/30 </b> <br>
-                Moment generating functions and Chernoff bound <br>"
-#                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
+                Moment generating functions and Chernoff bound <br>
+                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
-#        - name: "Lab 6: Densities and SymPy (Part B due 11/2 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_06.ipynb
-#        - name: Homework 10 (Due 11/2 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_10.ipynb
+        - name: "Lab 5: Poisson Process (Part A Due 4/4 at 11:59PM)"
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=lab/Lab_05.ipynb
+        - name: Homework 10 (Due 4/4 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=hw/Homework_10.ipynb
     links:
-#      - name: Week 10 Study Guide
-#        url: /guides/Week_10.pdf
-#      - name: "Lab 6: Densities and SymPy (Part B due 11/2 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=lab/Lab_06.ipynb
-#      - name: Homework 10 (Due 11/2 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa21&branch=main&subPath=hw/Homework_10.ipynb
+      - name: Week 10 Study Guide
+        url: /guides/Week_10.pdf
+      - name: "Lab 5: Poisson Process (Part A Due 4/4 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=lab/Lab_05.ipynb
+      - name: Homework 10 (Due 4/4 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp22&branch=main&subPath=hw/Homework_10.ipynb
 
   - weekNum: 11
     weekName: MLE and MAP
