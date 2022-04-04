@@ -13,7 +13,7 @@ This document is an attempt to describe what I mean by math fluency in this cour
 Working with algebraic expressions, exponents, absolute values, inequalities: in 140, this is the equivalent of using basics like NumPy in a Python-based machine learning class. It's taken for granted. If you're rusty, the only way to become more fluent is to do lots of calculations yourself – not watch, read, copy, or memorize. For example, you could do a calculation while you are watching or reading it. Better still, you could pause the video and set aside the textbook, and work it out yourself.  
 
 ### Notation and proof ###
-Mathematics is a powerful language. Writing math will be a fundamental activity in the class. As with any language, fluency develops with use. so use it. Expect calculations to involve symbols representing mathematical objects just as computer programs involve names that represent computational objects. 
+Mathematics is a powerful language. Writing math will be a fundamental activity in the class. As with any language, fluency develops with use. So use it. Expect calculations to involve symbols representing mathematical objects just as computer programs involve names that represent computational objects. 
 
 Don't skip the readings. Careful reading (preferably writing as you read) is a great way to gain fluency along with learning the content. When we insist that you write correctly, don't dismiss it as "picky" any more than you'd dismiss a Python error message as picky. Fix it to write exactly what you mean, not kinda sorta what you might mean.
 
