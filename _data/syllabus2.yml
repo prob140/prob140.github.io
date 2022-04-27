@@ -282,11 +282,11 @@ weeks:
     basic:
     - content: "RRR Week"
       assignments:
-#        - name: Final Exam Scope
-#          url: /final_contents
+        - name: Final Exam Scope
+          url: /final_contents
       links:
-#        - name: Final Exam Scope
-#          url: /final_contents
+        - name: Final Exam Scope
+          url: /final_contents
 
   - weekNum: 16
     weekName: Finals Week
@@ -294,7 +294,7 @@ weeks:
     basic:
     - content: "<b> Final Exam </b>"
       assignments:
-#        - name: "<b> Final Exam on 5/13 </b>"
+        - name: "<b> Final Exam on 5/13 11:30 AM - 2:30 PM </b>"
 
   # - weekNum: 15
   #   weekName: Multiple Regression

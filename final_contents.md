@@ -4,88 +4,92 @@ title: Material for Final Exam
 ---
 
 <!-- #region -->
-### Data 140 Fall 2021 ###
-### Swupnil Sahai ###
+### Data 140 Spring 2022 ###
+### A. Adhikari ###
+
+# Material for Final Exam #
 
 ## General Concepts and Methods ##
 
 ### Probability ###
-- Chapter 1, Lab 1: Spaces, events, basic counting, exponential approximation
-- Chapter 2: Addition and multiplication rules; conditioning and updating
-- Chapter 5: Unions and intersections of several events
-- Section 9.1: Probabilities by conditioning and recursion (discrete)
-- Section 20.2: Probabilities by conditioning on a continuous variable
-- Sections 4.5, 20.2: Independence
+- [Chapter 1](http://prob140.org/textbook/content/Chapter_01/00_Fundamentals.html): Spaces, events, basic counting, exponential approximation
+- [Chapter 2](http://prob140.org/textbook/content/Chapter_02/00_Calculating_Chances.html): Addition and multiplication rules; conditioning and updating
+- [Chapter 5](http://prob140.org/textbook/content/Chapter_05/00_Collections_of_Events.html): Unions and intersections of several events
+- Section [9.1](http://prob140.org/textbook/content/Chapter_09/01_Probability_by_Conditioning.html): Probabilities by conditioning and recursion (discrete)
+- Section [20.2](http://prob140.org/textbook/content/Chapter_20/02_Independence_Revisited.html): Probabilities by conditioning on a continuous variable
+- Section [4.5](http://prob140.org/textbook/content/Chapter_04/05_Dependence_and_Independence.html), [20.2](http://prob140.org/textbook/content/Chapter_20/02_Independence_Revisited.html): Independence
 
 ### Distribution ###
-- Chapter 3: Intro; equality versus equality in distribution
-- Chapter 4, Lab 1: Joint, marginals, conditionals, independence (discrete case)
-- Sections 5.3, 5.4: Random permutations and symmetry
-- Sections 15.1, 15.2: Density
-- Sections 6.1, 15.1, 16.3: CDF and inverse CDF
-- Chapter 16, Lab 6: Density of a transformation
-- Chapter 17, Lab 6: Joint, marginal, and conditional densities; independence
-- Chapters 14, 19: Distribution of sum
-- Section 14.3, 14.4, 15.3, 19.3: Central Limit Theorem
+- [Chapter 3](http://prob140.org/textbook/content/Chapter_03/00_Random_Variables.html): Intro; equality versus equality in distribution
+- [Chapter 4](http://prob140.org/textbook/content/Chapter_04/00_Relations_Between_Variables.html), Lab 1: Joint, marginals, conditionals, independence (discrete case), total variation distance
+- Section [5.3](http://prob140.org/textbook/content/Chapter_05/03_The_Matching_Problem.html), [5.4](http://prob140.org/textbook/content/Chapter_05/04_Sampling_Without_Replacement.html): Random permutations and symmetry
+- Section [15.1](http://prob140.org/textbook/content/Chapter_15/01_Density_and_CDF.html), [15.2](http://prob140.org/textbook/content/Chapter_15/02_The_Meaning_of_Density.html), Lab 4: Density
+- Section [6.1](http://prob140.org/textbook/content/Chapter_06/01_Binomial_Distribution.html#cumulative-distribution-function-cdf), [15.1](http://prob140.org/textbook/content/Chapter_15/01_Density_and_CDF.html), [16.3](http://prob140.org/textbook/content/Chapter_16/03_Simulation_via_the_CDF.html), Lab 4: CDF and inverse CDF
+- [Chapter 16](http://prob140.org/textbook/content/Chapter_16/00_Transformations.html), Lab 4, Section [23.3](http://prob140.org/textbook/content/Chapter_23/03_Multivariate_Normal_Density.html), Lab 6: Density of a transformation
+- [Chapter 17](http://prob140.org/textbook/content/Chapter_17/00_Joint_Densities.html): Joint, marginal, and conditional densities; independence
+- [Chapter 14](http://prob140.org/textbook/content/Chapter_14/00_The_Central_Limit_Theorem.html), [Chapter 19](http://prob140.org/textbook/content/Chapter_19/00_Distributions_of_Sums.html): Distribution of sum
+- [Chapter 14](http://prob140.org/textbook/content/Chapter_14/00_The_Central_Limit_Theorem.html), Section [15.3](http://prob140.org/textbook/content/Chapter_15/03_Expectation.html#example-random-discs), [19.3](http://prob140.org/textbook/content/Chapter_19/03_MGFs_Normal_and_the_CLT.html#proof-of-the-central-limit-theorem): Central Limit Theorem
 
 ### Expectation ###
-- Chapter 8: The crucial properties (discrete case) including method of indicators, expectations of functions, tail sum formula (see also geometric distribution)
-- Section 12.3, 19.4: Bounds: Markov, Chebyshev, Chernoff
-- Section 9.2, 9.3: Expectation by conditioning
-- Section 15.3, 17.1: Expectation using densities and joint densities
-- Section 19.2: Moment generating function
+- [Chapter 8](http://prob140.org/textbook/content/Chapter_08/00_Expectation.html): The crucial properties (discrete case) including method of indicators, expectations of functions, tail sum formula (see also geometric distribution)
+- Section [12.3](http://prob140.org/textbook/content/Chapter_12/03_Bounds.html), [19.4](http://prob140.org/textbook/content/Chapter_19/04_Chernoff_Bound.html): Bounds: Markov, Chebyshev, Chernoff
+- Section [9.2](http://prob140.org/textbook/content/Chapter_09/02_Expectation_by_Conditioning.html), [9.3](http://prob140.org/textbook/content/Chapter_09/03_Expected_Waiting_Times.html): Expectation by conditioning
+- Section [15.3](http://prob140.org/textbook/content/Chapter_15/03_Expectation.html), [17.1](http://prob140.org/textbook/content/Chapter_17/01_Probabilities_and_Expectations.html), [20.2](http://prob140.org/textbook/content/Chapter_19/02_Moment_Generating_Functions.html): Expectation using densities and joint densities, and by conditioning on a continuous variable
+- Section [19.2](http://prob140.org/textbook/content/Chapter_19/02_Moment_Generating_Functions.html): Moment generating function
 
 ### Variance ###
-- Chapter 12: Intro, linear transformations
-- Chapter 13: Covariance; variance of a sum
-- Lab 5: Application of mean and variance of simple random sample sum
-- Section 24.2, Homework 7: Correlation and its properties
-- Sections 22.3, 22.4: Variance by conditioning, mixtures
-- Sections 23.1: Mean vector and covariance matrix of random vectors
+- [Chapter 12](http://prob140.org/textbook/content/Chapter_12/00_Standard_Deviation.html): Definition and basic properties; linear transformations
+- [Chapter 13](http://prob140.org/textbook/content/Chapter_13/00_Variance_Via_Covariance.html): Covariance; variance of a sum
+- Section [24.2](http://prob140.org/textbook/content/Chapter_24/02_Bivariate_Normal_Distribution.html), Homework 7: Correlation and its properties
+- Section [22.3](http://prob140.org/textbook/content/Chapter_22/03_Variance_by_Conditioning.html), [22.4](http://prob140.org/textbook/content/Chapter_22/04_Examples.html), Homework 10: Variance by conditioning, mixtures
+- Section [23.1](http://prob140.org/textbook/content/Chapter_23/01_Random_Vectors.html): Mean vector and covariance matrix of random vectors
 
 ### Estimation and Prediction ###
-- Section 8.4: Unbiased estimators
-- Sections 14.4, 14.5: IID sample mean; confidence interval for population mean
-- Section 20.1: Maximum likelihood estimate
-- Section 20.3: Posterior density, MAP estimate
-- Sections 12.2, 22.1, 22.2: Expectation and conditional expectation as least squares predictors
-- Sections 24.1, 25.4: Least squares linear predictor
+- Section [8.4](http://prob140.org/textbook/content/Chapter_08/04_Additivity.html#unbiased-estimator): Unbiased estimators
+- Section [14.5](http://prob140.org/textbook/content/Chapter_14/05_The_Sample_Mean.html), [14.6](http://prob140.org/textbook/content/Chapter_14/06_Confidence_Intervals.html): IID sample mean; confidence interval for population mean
+- Homework 8, Homework 13: Unbiased estimator of a population variance; independence of normal sample mean and sample variance
+- Section [20.1](http://prob140.org/textbook/content/Chapter_20/01_Maximum_Likelihood.html): Maximum likelihood estimate
+- Section [20.3](http://prob140.org/textbook/content/Chapter_20/03_Prior_and_Posterior.html#): Posterior density, MAP estimate
+- Section [12.2](http://prob140.org/textbook/content/Chapter_12/02_Prediction_and_Estimation.html), [22.1](http://prob140.org/textbook/content/Chapter_22/01_Conditional_Expectation_Projection.html), [22.2](http://prob140.org/textbook/content/Chapter_22/02_Least_Squares_Predictor.html): Expectation and conditional expectation as least squares predictors
+- Section [24.1](http://prob140.org/textbook/content/Chapter_24/01_Linear_Least_Squares.html), [25.4](http://prob140.org/textbook/content/Chapter_25/04_Multiple_Regression.html): Least squares linear predictor
 
 ## Special Distributions ##
 
 ### Random Counts ###
-- Sections 8.1, 12.1: Uniform on 1, 2, ..., n
-- Sections 6.1, 6.2, 6.3, 6.5, Chapter 7, 8.2, 8.5, 13.3, 14.3, Chapter 21: Bernoulli, binomial and multinomial
-- Sections 6.4, 8.5, 13.3, 13.4: Hypergeometric
-- Section 6.5, 6.6, Lab 2, Chapter 7, Sections 8.2, 8.3, 12.1, 19.2, Lab 7: Poisson
-- Sections 8.2, 9.3, 22.4: Geometric
+- Section [8.1](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#uniform-on-an-interval-of-integers), [12.1](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#uniform): Uniform on $1, 2, ..., n$
+- Section [8.2](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#bernoulli-and-indicators), [12.1](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#indicator), [13.4](http://prob140.org/textbook/content/Chapter_13/04_Symmetry_and_Indicators.html#indicators): Bernoulli (indicator)
+- Section [6.1](http://prob140.org/textbook/content/Chapter_06/01_Binomial_Distribution.html), [6.2](http://prob140.org/textbook/content/Chapter_06/02_Examples.html), [6.3](http://prob140.org/textbook/content/Chapter_06/03_Multinomial_Distribution.html), [6.5](http://prob140.org/textbook/content/Chapter_06/05_Odds_Ratios.html), Lab 1, [Chapter 7](http://prob140.org/textbook/content/Chapter_07/00_Poissonization.html), [8.5](http://prob140.org/textbook/content/Chapter_08/05_Method_of_Indicators.html#expectation-of-the-binomial), [13.3](http://prob140.org/textbook/content/Chapter_13/03_Sums_of_Independent_Variables.html#variance-of-the-binomial), [14.3](http://prob140.org/textbook/content/Chapter_14/03_Central_Limit_Theorem.html#approximating-the-binomial-n-p-distribution), [19.2](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#poisson), [Chapter 21](http://prob140.org/textbook/content/Chapter_21/00_The_Beta_and_the_Binomial.html): Binomial and multinomial
+- Section [5.4](http://prob140.org/textbook/content/Chapter_05/04_Sampling_Without_Replacement.html#counting-good-elements-in-a-simple-random-sample), [6.4](http://prob140.org/textbook/content/Chapter_06/04_The_Hypergeometric_Revisited.html), [8.5](http://prob140.org/textbook/content/Chapter_08/05_Method_of_Indicators.html#expectation-of-the-hypergeometric), [13.4](http://prob140.org/textbook/content/Chapter_13/04_Symmetry_and_Indicators.html#example-variance-of-the-hypergeometric): Hypergeometric
+- Section [5.3](http://prob140.org/textbook/content/Chapter_05/03_The_Matching_Problem.html#k-matches), [6.6](http://prob140.org/textbook/content/Chapter_06/06_Law_of_Small_Numbers.html), Lab 1, [Chapter 7](http://prob140.org/textbook/content/Chapter_07/00_Poissonization.html), Section [8.2](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#poisson), [8.3](http://prob140.org/textbook/content/Chapter_08/03_Expectations_of_Functions.html#e-x-x-1-for-a-poisson-variable-x), [12.1](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#poisson), [19.2](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#poisson), Lab 5: Poisson
+- Section [8.2](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#geometric), [9.3](http://prob140.org/textbook/content/Chapter_09/03_Expected_Waiting_Times.html), [22.4](http://prob140.org/textbook/content/Chapter_22/04_Examples.html#variance-of-the-geometric-distribution): Geometric
 
 ### Uniform $(a, b)$ ###
-- Section 15.3, 19.1: Density, expectation, variance, CDF, density of sum
+- Section [15.3](http://prob140.org/textbook/content/Chapter_15/03_Expectation.html#uniform-0-1): Density, expectation, variance, CDF
+- Section [16.3](http://prob140.org/textbook/content/Chapter_16/03_Simulation_via_the_CDF.html), Lab 4: Use in simulation
+- Section [19.1](http://prob140.org/textbook/content/Chapter_19/01_Convolution_Formula.html#sum-of-two-iid-uniform-0-1-random-variables): Density of sum
 
 ### Beta ###
-- Section 17.4: Integer parameters; uniform order statistics
-- Chapter 20, 21: Relation with binomial
+- Section [17.4](http://prob140.org/textbook/content/Chapter_17/04_Beta_Densities_with_Integer_Parameters.html): Integer parameters; uniform order statistics
+- [Chapter 20](http://prob140.org/textbook/content/Chapter_20/03_Prior_and_Posterior.html), [Chapter 21](http://prob140.org/textbook/content/Chapter_21/00_The_Beta_and_the_Binomial.html): Relation with binomial
 
 ### Normal ###
-- Section 14.3, 14.4: Normal cdf and inverse cdf; CLT
-- Sections 14.4, 14.5: Normal confidence intervals
-- Section 16.1: Normal densities
-- Sections 18.1, 18.2, 18.4: Independent normal variables, linear combinations, squares, Rayleigh, chi-squared
-- Section 19.3: Normal MGF, sums, CLT
-- Chapter 24, Lab 8: Bivariate normal, linear combinations, independence, regression
-- Chapters 23, Section 25.4: Multivariate normal, linear combinations, independence, regression
+- Section [14.3](http://prob140.org/textbook/content/Chapter_14/03_Central_Limit_Theorem.html), [14.4](http://prob140.org/textbook/content/Chapter_14/04_SciPy_and_Normal_Curves.html): CLT; Normal cdf and inverse cdf
+- Sections [14.6](http://prob140.org/textbook/content/Chapter_14/06_Confidence_Intervals.html): Normal confidence intervals
+- Section [16.1](http://prob140.org/textbook/content/Chapter_16/01_Linear_Transformations.html#the-normal-densities): Normal densities
+- Section [18.1](http://prob140.org/textbook/content/Chapter_18/01_Standard_Normal_Basics.html), [18.2](http://prob140.org/textbook/content/Chapter_18/02_Sums_of_Independent_Normal_Variables.html), [18.4](http://prob140.org/textbook/content/Chapter_18/04_Chi_Squared_Distributions.html): Independent normal variables, linear combinations, squares, Rayleigh, chi-squared
+- Section [19.3](http://prob140.org/textbook/content/Chapter_19/03_MGFs_Normal_and_the_CLT.html): Normal MGF, sums, CLT
+- Section [24.2](http://prob140.org/textbook/content/Chapter_24/02_Bivariate_Normal_Distribution.html), [24.3](http://prob140.org/textbook/content/Chapter_24/03_Regression_and_Bivariate_Normal.html), Lab 6: Bivariate normal, linear combinations, independence, regression
+- [Chapter 23](http://prob140.org/textbook/content/Chapter_23/00_Multivariate_Normal_RVs.html), Section [25.4](http://prob140.org/textbook/content/Chapter_25/04_Multiple_Regression.html): Multivariate normal, linear combinations, independence, regression
 
 ### Gamma ###
-- Section 15.4: Exponential
+- Section [15.4](http://prob140.org/textbook/content/Chapter_15/04_Exponential_Distribution.html), [16.1](http://prob140.org/textbook/content/Chapter_16/01_Linear_Transformations.html#linear-transformation-exponential-density): Exponential and scaling
 - Homework 9: Gamma function, gamma density, mean, variance
-- Sections 18.3, 18.4: Gamma and chi-squared
-- Sections 19.2: Sums of independent gammas with the same rate
-- Lab 7: Waiting times in a Poisson process
+- Section [18.3](http://prob140.org/textbook/content/Chapter_18/03_The_Gamma_Family.html), [18.4](http://prob140.org/textbook/content/Chapter_18/04_Chi_Squared_Distributions.html): Gamma and chi-squared
+- Section [19.2](http://prob140.org/textbook/content/Chapter_19/02_Moment_Generating_Functions.html#mgf-of-a-gamma-r-lambda-random-variable): Sums of independent gammas with the same rate
+- Lab 5: Waiting times of arrivals in a Poisson process
 
-### Omitted from the Final ###
+## Omitted from the Final ##
 - Chapters 10, 11
-- Sections 14.1, 14.2
 - Section 12.4
 - Section 21.3
 - Sections 25.1, 25.2, 25.3
