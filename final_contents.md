@@ -30,7 +30,7 @@ title: Material for Final Exam
 
 ### Expectation ###
 - [Chapter 8](http://prob140.org/textbook/content/Chapter_08/00_Expectation.html): The crucial properties (discrete case) including method of indicators, expectations of functions, tail sum formula (see also geometric distribution)
-- Section [12.3](http://prob140.org/textbook/content/Chapter_12/03_Bounds.html), [19.4](http://prob140.org/textbook/content/Chapter_19/04_Chernoff_Bound.html): Bounds: Markov, Chebyshev, Chernoff
+- Section [12.3](http://prob140.org/textbook/content/Chapter_12/03_Bounds.html), [19.4](http://prob140.org/textbook/content/Chapter_19/04_Chernoff_Bound.html): Tail bounds: Markov, Chebyshev, Chernoff
 - Section [9.2](http://prob140.org/textbook/content/Chapter_09/02_Expectation_by_Conditioning.html), [9.3](http://prob140.org/textbook/content/Chapter_09/03_Expected_Waiting_Times.html): Expectation by conditioning
 - Section [15.3](http://prob140.org/textbook/content/Chapter_15/03_Expectation.html), [17.1](http://prob140.org/textbook/content/Chapter_17/01_Probabilities_and_Expectations.html), [20.2](http://prob140.org/textbook/content/Chapter_19/02_Moment_Generating_Functions.html): Expectation using densities and joint densities, and by conditioning on a continuous variable
 - Section [19.2](http://prob140.org/textbook/content/Chapter_19/02_Moment_Generating_Functions.html): Moment generating function
