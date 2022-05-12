@@ -27,6 +27,7 @@ Prob 140 has always had outstandingly dedicated and creative staff teams. Apart 
 ![original logo](assets/icon256.png)
 The original course logo by Biyonka Liang was the winning entry in a competition among students and staff in the pilot offering. Though formally Stat 140, the course was called Prob 140 as in Biyonka's logo.
 
-In Spring 2021 the course officially became Data 140 and took its rightful place in the sequence Data [8](http://data8.org/), [100](http://www.ds100.org/), [140](http://prob140.org/), and [102](https://data102.org/). The logo on the current homepage is by the inimitable Ryan Roggenkemper, designer of some memorable staff swag. It shows, perhaps too explicitly, the change from Prob to Data.
+In Spring 2021 the course officially became Data 140 and took its rightful place in the sequence Data [8](http://data8.org/), [100](http://www.ds100.org/), [140](http://prob140.org/), and [102](https://data102.org/). The logo was modified accordingly by the inimitable Ryan Roggenkemper, designer of some memorable staff swag. 
+![Sp21 logo](assets/icon_sp21.png)
 
-We look forward to a new Data 140 course logo being designed by our creative students and staff. Thank you!
+The current logo was designed by Spring 2022 student Consuelo Ugarte, who annotated the design with a fundamental truth: "You can get really darn far with coinflips."
