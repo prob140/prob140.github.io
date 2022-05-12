@@ -24,7 +24,7 @@ The move to remote learning in 2020 was spearheaded by Alan Chuang, Katherine Ye
 Prob 140 has always had outstandingly dedicated and creative staff teams. Apart from those mentioned above, the initial offerings were fortunate to have the contributions of Priyanka Bhoj, Arvind Iyengar, Serena Jiang, Tara Mirmira, Xinyi Ren, and Henry Zhu. 
 
 ### The Logo ###
-The current logo was designed by Spring 2022 student Consuelo Ugarte, who annotated the design with a fundamental truth: "You can get really darn far with coinflips."
+The current logo was designed by Spring 2022 student Consuelo Ugarte, who accompanied the design with a fundamental truth gained from the class: "You can get really darn far with coinflips."
 
 The original course logo by Biyonka Liang was the winning entry in a competition among students and staff in the pilot offering. Though formally Stat 140, the course was called Prob 140 as in Biyonka's logo.
 ![original logo](assets/icon256.png)
