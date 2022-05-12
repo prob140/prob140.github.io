@@ -5,7 +5,7 @@ title: Acknowledgments, and the Logo
 
 #### A. Adhikari  ####
 
-#### January 2021 ####
+#### Spring 2022 ####
 
 The development of Prob 140 has been a team effort by faculty and students.
 
