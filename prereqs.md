@@ -26,7 +26,7 @@ Being able to **assess your own work** is an important mathematical skill and wi
 
 The number of finite sequences and subsets that can be created out of a finite set of objects:
 
-**Review:** [Notation and Fundamental Properties](http://stat88.org/textbook/notebooks/Chapter_03/00_Random_Counts.html). If the math doesn't render, please reload the page.
+**Review:** [Notation and Fundamental Properties](http://stat88.org/textbook/content/Chapter_03/00_Random_Counts.html). If the math doesn't render, please reload the page.
 
 Notice the distinction between *sequences* (orderings, or "arrangements in a line") and *subsets* (unordered collections). You have to decide which is appropriate, by looking carefully at the context. In some probability calculations it won't matter which you decide to use, as long as you are consistent in the numerator and denominator of your proportions.
 
