@@ -17,7 +17,7 @@ The course satisfies requirements for several undergraduate majors and minors.
 
 - **Statistics:** Data 140 is cross-listed as Data/Stat C140. For the Statistics major and minor, and for Statistics courses numbered 135 and above, Data 140 satisfies the same requirements as Stat 134 does. If a Statistics course currently requires Stat 134, then Data 140 will fulfill that requirement too. A letter grade of B- or better in Data 140 will satisfy the corresponding Stat 134 grade requirement for entry into the Statistics major.
 
-- **Other Majors:** Data 140 satisfies the statistics requirement for entry into the Economics major, and elective requirements for other majors including L&S CS. Students can petition others. Please direct your inquiries to the other major and include the link to the [course website](http://prob140.org/) if needed.
+- **Other Majors:** Data 140 satisfies the statistics requirement for entry into the Economics and Business majors, and elective requirements for other majors including L&S CS. Students can petition others. Please direct your inquiries to the other major and include the link to the [course website](http://prob140.org/) if needed.
 
 ### Prerequisites and Enrollment ###
 Data 140 is restricted to undergraduates who:
