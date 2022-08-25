@@ -4,19 +4,19 @@ weeks:
     weekDuration: 8/24-8/26
     basic:
     - content: "Probability: axioms, rules, approximation"
-#                <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"
+               <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"
       assignments:
-#        - name: "Lab 1: Birthday Attack (Due 9/6 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_01.ipynb
-#        - name: Homework 1 (Due 8/29 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_01.ipynb
+       - name: "Lab 1: Birthday Attack (Due 9/6 at 11:59PM)"
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_01.ipynb
+       - name: Homework 1 (Due 8/29 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_01.ipynb
     links:
-#      - name: Week 1 Study Guide
-#        url: /guides/Week_01.pdf
-#      - name: "Lab 1: Birthday Attack (Due 9/6 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_01.ipynb
-#      - name: Homework 1 (Due 8/29 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_01.ipynb
+     - name: Week 1 Study Guide
+       url: /guides/Week_01.pdf
+     - name: "Lab 1: Birthday Attack (Due 9/6 at 11:59PM)"
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_01.ipynb
+     - name: Homework 1 (Due 8/29 at 11:59PM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_01.ipynb
 
   - weekNum: 1
     weekName: Random Variables and Symmetry
