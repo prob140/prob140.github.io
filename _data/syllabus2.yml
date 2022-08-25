@@ -3,7 +3,7 @@ weeks:
     weekName: Introduction
     weekDuration: 8/24-8/26
     basic:
-    - content: "Probability: axioms, rules, approximation"
+    - content: "Probability: axioms, rules, approximation <br>
               <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"    
       assignments:
        - name: "Lab 1: Birthday Attack (Due 9/6 at 11:59PM)"
