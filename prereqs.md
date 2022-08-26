@@ -303,11 +303,11 @@ $\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$ is the ______ element of the m
 
 Here are two excellent resources for refreshing your memory.
 - Prof. Paulin's [Math 1A](https://math.berkeley.edu/~apaulin/Teaching.html) lectures; click on Complete Course Video Lectures
-- An excellent [single variable calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/syllabus/) course from MIT
+- An excellent [single variable calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/lecture-notes/) course from MIT
 
 Topics worth remembering:
-- The [Fundamental Theorem](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/lecture-notes/lec19.pdf) of calculus, from the MIT course above
-- The [derivative of an inverse function](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/MIT18_01SCF10_Ses15a.pdf), from the same MIT course; a simple result that has a useful application in probability
+- The [Fundamental Theorem](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/resources/lec20/) of calculus, from the MIT course above
+- The [derivative of an inverse function](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/resources/lec5/), from the same MIT course; a simple result that has a useful application in probability
 - A discussion of the [absolute convergence of integrals](https://web.math.princeton.edu/~nelson/104/ImproperIntegrals.pdf) from [Prof. Edward Nelson](https://web.math.princeton.edu/~nelson/) of Princeton
 - A [double integral](https://www.youtube.com/watch?v=YP_B0AapU0c) lecture video by [Denis Auroux](http://people.math.harvard.edu/~auroux/); examples are at 19:40 and 28:15
 
