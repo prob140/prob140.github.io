@@ -1,5 +1,5 @@
 weeks:
-  - weekNum: 0
+  - weekNum: 1
     weekName: Introduction
     weekDuration: 8/24-8/26
     basic:
@@ -18,23 +18,23 @@ weeks:
      - name: Homework 1 (Due 8/29 at 11:59PM)
        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_01.ipynb
 
-  - weekNum: 1
+  - weekNum: 2
     weekName: Random Variables and Symmetry
     weekDuration: 8/29-9/2
     basic:
     - content: "Random variables: distributions, equality, conditioning <br>
-                Symmetry and collections of events <br>"
-              #  <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"
+                Symmetry and collections of events <br>
+                <a href='/guides/Week_02.pdf'> Week 2 Study Guide </a>"
       assignments:
-#        - name: Homework 1 (Due 1/24 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_01.ipynb
+       - name: Homework 2 (Due 9/5 at 11:59AM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_02.ipynb
     links:
-#      - name: Week 1 Study Guide
-#        url: /guides/Week_01.pdf
-#      - name: Homework 1 (Due 1/24 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_01.ipynb
+     - name: Week 2 Study Guide
+       url: /guides/Week_02.pdf
+     - name: Homework 1 (Due 9/5 at 11:59AM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_02.ipynb
 
-  - weekNum: 2
+  - weekNum: 3
     weekName: Random Counts and Poissonization
     weekDuration: 9/5-9/9
     basic:
@@ -55,7 +55,7 @@ weeks:
 #      - name: Homework 2 (Due 1/31 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_02.ipynb
 
-  - weekNum: 3
+  - weekNum: 4
     weekName: Expectation
     weekDuration: 9/12-9/16
     basic:
@@ -75,7 +75,7 @@ weeks:
 #      - name: Homework 3 (Due 2/7 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_03.ipynb
 
-  - weekNum: 4
+  - weekNum: 5
     weekName: Conditioning and Markov Chains
     weekDuration: 9/19-9/23
     basic:
@@ -96,7 +96,7 @@ weeks:
 #      - name: Homework 4 (Due 2/14 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_04.ipynb
 
-  - weekNum: 5
+  - weekNum: 6
     weekName: Markov Chain Monte Carlo
     weekDuration: 9/26-9/30
     basic:
@@ -117,7 +117,7 @@ weeks:
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_05.ipynb
 
 
-  - weekNum: 6
+  - weekNum: 7
     weekName: Variance, SD, and Tail Bounds
     weekDuration: 10/3-10/7
     basic:
@@ -137,7 +137,7 @@ weeks:
 #      - name: Homework 6 (Due 2/28 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_06.ipynb
 
-  - weekNum: 7
+  - weekNum: 8
     weekName: Covariance and Central Limit Theorem
     weekDuration: 10/10-10/14
     basic:
@@ -157,7 +157,7 @@ weeks:
 #      - name: Homework 7 (Due 3/7 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_07.ipynb
 
-  - weekNum: 8
+  - weekNum: 9
     weekName: Continuous Random Variables and Transformations
     weekDuration: 10/17-10/21
     basic:
@@ -177,7 +177,7 @@ weeks:
 #      - name: Homework 8 (Due 3/14 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_08.ipynb
 
-  - weekNum: 9
+  - weekNum: 10
     weekName: Joint Densities and the Normal & Gamma Families
     weekDuration: 10/24-10/28
     basic:
@@ -203,7 +203,7 @@ weeks:
   #   basic:
   #   - content: "Spring Break <br>"
   
-  - weekNum: 10
+  - weekNum: 11
     weekName: MGFs, MLE, and MAP
     weekDuration: 10/31-11/4
     basic:
@@ -223,7 +223,7 @@ weeks:
 #      - name: Homework 10 (Due 4/4 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_10.ipynb
 
-  - weekNum: 11
+  - weekNum: 12
     weekName: Beta and Binomial; Prediction and Error
     weekDuration: 11/7-11/11
     basic:
@@ -243,7 +243,7 @@ weeks:
 #      - name: Homework 11 (Due 4/11 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_11.ipynb
 
-  - weekNum: 12
+  - weekNum: 13
     weekName: Random Vectors
     weekDuration: 11/14-11/18
     basic:
@@ -264,7 +264,7 @@ weeks:
 #      - name: Homework 12 (Due 4/18 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_12.ipynb
 
-  - weekNum: 13
+  - weekNum: 14
     weekName: Simple Regression
     weekDuration: 11/21-11/25
     basic:
@@ -279,7 +279,7 @@ weeks:
 #      - name: Homework 13 (Due 4/25 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_13.ipynb
 
-  - weekNum: 14
+  - weekNum: 15
     weekName: Multiple Regression
     weekDuration: 11/28-12/2
     basic:
@@ -295,7 +295,7 @@ weeks:
 #      - name: Homework 14 (Due 5/2 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_14.ipynb
 
-  - weekNum: 15
+  - weekNum: 16
     weekName: RRR Week
     weekDuration: 12/5-12/9
     basic:
@@ -307,7 +307,7 @@ weeks:
 #        - name: Final Exam Scope
 #          url: /final_contents
 
-  - weekNum: 16
+  - weekNum: 17
     weekName: Finals Week
     weekDuration: 12/12-12/16
     basic:
