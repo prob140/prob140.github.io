@@ -52,7 +52,7 @@ weeks:
        url: /guides/Week_03.pdf
      - name: "Lab 2: Total Variation (Part A due 9/12 at 11:59PM)"
        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
-     - name: Homework 3 (Due 9/12 at 11:59PM)
+     - name: Homework 3 (Due 9/12 at 11:59PM) [See Ed for Q4 update!!]
        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_03.ipynb
 
   - weekNum: 4
