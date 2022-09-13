@@ -61,19 +61,19 @@ weeks:
     basic:
     - content: "Expectation <br>
                 Expectation and Additivity <br>"
-              #  <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
+               <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
       assignments:
-#        - name: "Lab 1: Total Variation (Part B due 2/7 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_01.ipynb
-#        - name: Homework 3 (Due 2/7 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_03.ipynb
+       - name: "Lab 2: Total Variation (Part B due 9/19 at 11:59PM)"
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
+       - name: Homework 4 (Due 9/19 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_04.ipynb
     links:
-#      - name: Week 3 Study Guide
-#        url: /guides/Week_03.pdf
-#      - name: "Lab 1: Total Variation (Part B due 2/7 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_01.ipynb
-#      - name: Homework 3 (Due 2/7 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_03.ipynb
+     - name: Week 3 Study Guide
+       url: /guides/Week_04.pdf
+     - name: "Lab 2: Total Variation (Part B due 9/19 at 11:59PM)"
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
+     - name: Homework 4 (Due 9/19 at 11:59PM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_04.ipynb
 
   - weekNum: 5
     weekName: Conditioning and Markov Chains
