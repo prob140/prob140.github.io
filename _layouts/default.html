@@ -5,31 +5,36 @@
 
   <body class="theme-data">
     {% include sidebar.html %}
+    
     <div>
-          <div id="announcements-header" class="theme-data"> 
-          <b> Announcements! </b> (<a onclick="showAnnouncements()"> See All </a>) 
+        <!-- 
+        <div id="announcements-header" class="theme-data"> 
+        <b> Announcements! </b> (<a onclick="showAnnouncements()"> See All </a>) 
           <div class="swiper-container2">
-    <!-- Additional required wrapper -->
+        -->
+        <!-- Additional required wrapper -->
         <!-- If we need pagination -->
     
-    <!-- If we need navigation buttons -->
-    <div class="swiper-button-prev2"></div>
-    <div class="swiper-button-next2"></div>
-    
-    <!-- If we need scrollbar -->
-    <div class="swiper-wrapper">
-      {% for announcement in site.data.announcements %}
-        <div class="swiper-slide">
-        {{announcement}}
-        </div>
-      {% endfor %}
-
-</div>
-</div>
-</div>
-    <div href='main' class="content container">
-      {{ content }}
-    </div>
+          <!-- If we need navigation buttons -->
+          <!--
+          <div class="swiper-button-prev2"></div>
+          <div class="swiper-button-next2"></div>
+          -->
+          <!-- If we need scrollbar -->
+          <!-- 
+            <div class="swiper-wrapper">
+              {% for announcement in site.data.announcements %}
+                <div class="swiper-slide">
+                {{announcement}}
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+      </div>
+      -->
+      <div href='main' class="content container">
+        {{ content }}
+      </div>
     </div>
   </body>
 

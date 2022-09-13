@@ -38,8 +38,8 @@ weeks:
     weekName: Random Counts and Poissonization
     weekDuration: 9/5-9/9
     basic:
-    - content: "<b> Quiz 1 on 9/7 </b> <br>
-                Binomial and related counts; a Poisson limit <br>
+    - content: "Binomial and related counts; a Poisson limit <br>
+                <b> Quiz 1 on 9/7 </b> <br>
                 Independence and Poissonization <br>
                 <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
       assignments:
@@ -68,7 +68,7 @@ weeks:
        - name: Homework 4 (Due 9/19 at 11:59PM)
          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_04.ipynb
     links:
-     - name: Week 3 Study Guide
+     - name: Week 4 Study Guide
        url: /guides/Week_04.pdf
      - name: "Lab 2: Total Variation (Part B due 9/19 at 11:59PM)"
        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
@@ -79,8 +79,8 @@ weeks:
     weekName: Conditioning and Markov Chains
     weekDuration: 9/19-9/23
     basic:
-    - content: "<b> Quiz 2 on 9/21 </b> <br>
-                Expectation by Conditioning <br>
+    - content: "Expectation by Conditioning <br>
+                <b> Quiz 2 on 9/21 </b> <br>
                 Long run behavior of Markov Chains <br>"
 #                <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
       assignments:
@@ -181,8 +181,8 @@ weeks:
     weekName: Joint Densities and the Normal & Gamma Families
     weekDuration: 10/24-10/28
     basic:
-    - content: "<b> Quiz 3 on 10/26 </b> <br>
-                Joint Densities <br>
+    - content: "Joint Densities <br>
+                <b> Quiz 3 on 10/26 </b> <br>
                 Independent normal and gamma variables <br>"
 #                <a href='/guides/Week_09.pdf'> Week 9 Study Guide </a>"
       assignments:
@@ -247,8 +247,8 @@ weeks:
     weekName: Random Vectors
     weekDuration: 11/14-11/18
     basic:
-    - content: "<b> Quiz 4 on 11/16 </b> <br>
-                Variance by Conditioning <br>
+    - content: "Variance by Conditioning <br>
+                <b> Quiz 4 on 11/16 </b> <br>
                 Random vectors; multivariate normal <br>"
 #                <a href='/guides/Week_12.pdf'> Week 12 Study Guide </a>"
       assignments:
