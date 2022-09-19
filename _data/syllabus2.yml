@@ -81,8 +81,8 @@ weeks:
     basic:
     - content: "Expectation by Conditioning <br>
                 <b> Quiz 2 on 9/21 </b> <br>
-                Long run behavior of Markov Chains <br>"
-#                <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
+                Long run behavior of Markov Chains <br>
+                <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
       assignments:
 #        - name: "Lab 2: Total Variation (Part B due 2/14 at 11:59PM)"
 #          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
