@@ -84,17 +84,13 @@ weeks:
                 Long run behavior of Markov Chains <br>
                 <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
       assignments:
-#        - name: "Lab 2: Total Variation (Part B due 2/14 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
-#        - name: Homework 4 (Due 2/14 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_04.ipynb
+       - name: Homework 5 (Due 9/26 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_04.ipynb
     links:
       - name: Week 5 Study Guide
         url: /guides/Week_05.pdf
-#       - name: "Lab 2: Total Variation (Part B due 2/14 at 11:59PM)"
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
-#      - name: Homework 4 (Due 2/14 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_04.ipynb
+      - name: Homework 5 (Due 9/26 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_04.ipynb
 
   - weekNum: 6
     weekName: Markov Chain Monte Carlo
