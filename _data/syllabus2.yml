@@ -100,17 +100,17 @@ weeks:
                 Markov Chain Monte Carlo <br>
                 <a href='/guides/Week_06.pdf'> Week 6 Study Guide </a>"
       assignments:
-#        - name: "Lab 2: Uniform and Size-Biased Permutations (Due 2/22 at 12 noon)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
-#        - name: "Homework 6 (Due 2/22 at 12 noon)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_06.ipynb
+       - name: "Lab 2: Code Breaking by MCMC (Due 10/3 at 12 noon)"
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_03.ipynb
+       - name: "Homework 6 (Due 10/3 at 12 noon)"
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_06.ipynb
     links:
      - name: Week 6 Study Guide
        url: /guides/Week_06.pdf
-#      - name: "Lab 2: Uniform and Size-Biased Permutations (Due 2/22 at 12 noon)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_02.ipynb
-#      - name: "Homework 6 (Due 2/22 at 12 noon)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_06.ipynb
+     - name: "Lab 2: Uniform and Size-Biased Permutations (Due 10/3 at 12 noon)"
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_03.ipynb
+     - name: "Homework 6 (Due 10/3 at 12 noon)"
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_06.ipynb
 
 
   - weekNum: 7
