@@ -17,15 +17,15 @@ The course satisfies requirements for several undergraduate majors and minors.
 
 - **Statistics:** Data 140 is cross-listed as Data/Stat C140. For the Statistics major and minor, and for Statistics courses numbered 135 and above, Data 140 satisfies the same requirements as Stat 134 does. If a Statistics course currently requires Stat 134, then Data 140 will fulfill that requirement too. A letter grade of B- or better in Data 140 will satisfy the corresponding Stat 134 grade requirement for entry into the Statistics major.
 
-- **Other Majors:** Data 140 satisfies the statistics requirement for entry into the Economics and Business majors, and elective requirements for other majors including L&S CS. Students can petition others. Please direct your inquiries to the other major and include the link to the [course website](http://prob140.org/) if needed.
+- **Other Majors:** Data 140 satisfies the statistics requirement for entry into the Economics and Business majors, and elective requirements for other majors including Applied Math and L&S CS. Students can petition others. Please direct your inquiries to the other major and include the link to the [course website](http://prob140.org/) if needed.
 
 ### Prerequisites and Enrollment ###
 Data 140 is restricted to undergraduates who:
 
-- Have not taken Stat 134; only one of Stat 134 and Data 140 can be taken for credit
+- Have not taken Stat 134 or EECS 126. Students cannot get credit for Data 140 after taking Stat 134 or EECS 126.
 - Have taken a year of calculus at the level of Math 1A-1B and preferably higher; Data 140 involves some double integration and partial derivatives
-- Have taken or are concurrently taking linear algebra in Math 54 or EE 16A or Stat 89A or Math 110, or have taken an equivalent linear algebra course at another college
-- Have taken Data 8 or Data 100 or **both** Stat 20 and CS 61A
+- Have taken or are concurrently taking linear algebra in Math 54 or EE 16B or Math 110, or have taken an equivalent linear algebra course at another college (please note the change that EE16A is no longer accepted)
+- Have taken Data 8 or **both** Stat 20 and CS 61A or **both** Stat 20 and Data 88C (formerly CS 88)
 
 The course has been designed for students who have the specific background above in math, programming, and statistical inference. All prerequisites and corequisites are enforced by CalCentral.
 
