@@ -158,20 +158,20 @@ weeks:
     weekDuration: 10/17-10/21
     basic:
     - content: "Probability densities <br>
-                Transformations <br>"
-#                <a href='/guides/Week_09.pdf'> Week 9 Study Guide </a>"
+                Transformations <br>
+                <a href='/guides/Week_09.pdf'> Week 9 Study Guide </a>"
       assignments:
-#        - name: "Lab 4: Densities and Transformations (Part A due 3/14 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_04.ipynb
-#        - name: Homework 9 (Due 3/14 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_09.ipynb
+       - name: "Lab 5: Densities and Transformations (Part A due 10/24 at 11:59PM)"
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_05.ipynb
+       - name: Homework 9 (Due 10/24 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_09.ipynb
     links:
-#      - name: Week 9 Study Guide
-#        url: /guides/Week_09.pdf
-#      - name: "Lab 4: Densities and Transformations (Part A due 3/14 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_04.ipynb
-#      - name: Homework 9 (Due 3/14 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_09.ipynb
+     - name: Week 9 Study Guide
+       url: /guides/Week_09.pdf
+     - name: "Lab 5: Densities and Transformations (Part A due 10/24 at 11:59PM)"
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_05.ipynb
+     - name: Homework 9 (Due 3/14 at 11:59PM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_09.ipynb
 
   - weekNum: 10
     weekName: Joint Densities and the Normal & Gamma Families
