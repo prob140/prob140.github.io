@@ -163,14 +163,14 @@ weeks:
       assignments:
        - name: "Lab 5: Densities and Transformations (Part A due 10/24 at 11:59PM)"
          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_05.ipynb
-       - name: Homework 9 (Due 10/24 at 11:59PM)
+       - name: Homework 9 (Due 10/24 at 12 noon)
          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_09.ipynb
     links:
      - name: Week 9 Study Guide
        url: /guides/Week_09.pdf
      - name: "Lab 5: Densities and Transformations (Part A due 10/24 at 11:59PM)"
        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_05.ipynb
-     - name: Homework 9 (Due 3/14 at 11:59PM)
+     - name: Homework 9 (Due 10/24 at 12 noon)
        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_09.ipynb
 
   - weekNum: 10
