@@ -182,17 +182,17 @@ weeks:
                 Independent normal and gamma variables <br>
                 <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
-#        - name: "Lab 4B: Densities and Transformations (Part B due 3/28 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_04.ipynb
-#        - name: Homework 10 (Due 3/28 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_10.ipynb
+       - name: "Lab 5: Densities and Transformations (Part B due 10/31 at 11:59PM)"
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_05.ipynb
+       - name: Homework 10 (Due 10/31 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_10.ipynb
     links:
      - name: Week 10 Study Guide
        url: /guides/Week_10.pdf
-#      - name: "Lab 4B: Densities and Transformations (Part B due 3/28 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_04.ipynb
-#      - name: Homework 10 (Due 3/28 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_10.ipynb
+     - name: "Lab 5: Densities and Transformations (Part B due 10/31 at 11:59PM)"
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_05.ipynb
+     - name: Homework 10 (Due 10/31 at 11:59PM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_10.ipynb
 
   # - weekName: Spring Break
   #   weekDuration: 3/21-3/25
