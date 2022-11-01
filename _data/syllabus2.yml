@@ -207,17 +207,17 @@ weeks:
                 MLE; Conditioning; MAP Estimates <br>
                 <a href='/guides/Week_11.pdf'> Week 11 Study Guide </a>"
       assignments:
-#        - name: "Lab 5: Poisson Process (Part A Due 4/4 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_05.ipynb
-#        - name: Homework 11 (Due 4/4 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_11.ipynb
+       - name: "Lab 6: Poisson Process (Part A Due 11/7 at 11:59PM)"
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_06.ipynb
+       - name: Homework 11 (Due 11/7 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_11.ipynb
     links:
      - name: Week 11 Study Guide
        url: /guides/Week_11.pdf
-#      - name: "Lab 5: Poisson Process (Part A Due 4/4 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_05.ipynb
-#      - name: Homework 11 (Due 4/4 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_11.ipynb
+     - name: "Lab 6: Poisson Process (Part A Due 11/7 at 11:59PM)"
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=lab/Lab_06.ipynb
+     - name: Homework 11 (Due 11/7 at 11:59PM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_11.ipynb
 
   - weekNum: 12
     weekName: Beta and Binomial; Prediction and Error
