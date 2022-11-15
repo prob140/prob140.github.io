@@ -244,7 +244,7 @@ weeks:
     weekDuration: 11/14-11/18
     basic:
     - content: "Variance by Conditioning <br>
-                Random vectors; multivariate normal <br>"
+                Random vectors; multivariate normal <br>
                 <a href='/guides/Week_13.pdf'> Week 13 Study Guide </a>"
       assignments:
 #        - name: "Lab 6: Introduction to Jointly Normal Vectors (Due 4/18 at 11:59PM)"
