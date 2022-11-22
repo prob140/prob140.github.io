@@ -266,13 +266,13 @@ weeks:
     - content: "Correlation and simple regression"
 #                <a href='/guides/Week_14.pdf'> Week 14 Study Guide </a>"
       assignments:
-#         - name: Homework 14 (Due 4/25 at 11:59PM)
-#           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_14.ipynb
+        - name: Homework 14 (Due 11/28 at 11:59PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_14.ipynb
     links:
 #      - name: Week 14 Study Guide
 #        url: /guides/Week_14.pdf
-#      - name: Homework 14 (Due 4/25 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_14.ipynb
+     - name: Homework 14 (Due 11/28 at 11:59PM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_14.ipynb
 
   - weekNum: 15
     weekName: Multiple Regression
