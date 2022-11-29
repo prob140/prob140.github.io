@@ -282,13 +282,13 @@ weeks:
                 Multiple regression II <br>"
 #                <a href='/guides/Week_15.pdf'> Week 15 Study Guide </a>"
       assignments:
-#        - name: Homework 15 (Due 5/2 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_15.ipynb
+       - name: Homework 15 (Due 12/5 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_15.ipynb
     links:
 #      - name: Week 15 Study Guide
 #        url: /guides/Week_15.pdf
-#      - name: Homework 15 (Due 5/2 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_15.ipynb
+     - name: Homework 15 (Due 12/5 at 11:59PM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa22&branch=main&subPath=hw/Homework_15.ipynb
 
   - weekNum: 16
     weekName: RRR Week
