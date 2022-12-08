@@ -298,9 +298,9 @@ weeks:
       assignments:
        - name: Final Exam Scope
          url: /final_contents
-      links:
-       - name: Final Exam Scope
-         url: /final_contents
+    links:
+     - name: Final Exam Scope
+       url: /final_contents
 
   - weekNum: 17
     weekName: Finals Week
