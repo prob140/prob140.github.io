@@ -5,7 +5,7 @@ weeks:
     basic:
 #    - content: "Probability: axioms, rules, approximation <br>
 #              <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"    
-#      assignments:
+      assignments:
 #       - name: "Lab 1: Birthday Attack (Due 9/6 at 11:59PM)"
 #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
 #       - name: Homework 1 (Due 8/29 at 11:59PM)
@@ -25,7 +25,7 @@ weeks:
 #    - content: "Random variables: distributions, equality, conditioning <br>
 #                Symmetry and collections of events <br>
 #                <a href='/guides/Week_02.pdf'> Week 2 Study Guide </a>"
-#      assignments:
+      assignments:
 #       - name: Homework 2 (Due 9/6 at 12 noon)
 #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_02.ipynb
     links:
