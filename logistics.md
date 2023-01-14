@@ -90,7 +90,7 @@ Please keep in mind that **homework assigned each week is based on the material 
 ### Quizzes and Exams ###
 All of these will be in person and proctored. 
 
-- **Quizzes** four times during the term, **in the discussion section to which you are assigned.** 
+- **Quizzes** three times during the term, **in the discussion section in which you are enrolled.** 
     - Quiz 1: Wednesday 2/1
     - Quiz 2: Wednesday 3/22
     - Quiz 3: Wednesday 4/12
