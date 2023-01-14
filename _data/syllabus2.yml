@@ -178,7 +178,7 @@ weeks:
     weekDuration: 3/20-3/24
     basic:
     - content: "Independent normal and gamma variables <br>
-                <b> Quiz 2 on 3/23 </b> <br>
+                <b> Quiz 2 on 3/22 </b> <br>
                 <oment generating functions; the Chernoff bound"
 #                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
@@ -293,7 +293,7 @@ weeks:
     weekName: Finals Week
     weekDuration: 5/8-5/12
     basic:
-    - content: "Final Exam on 5/11, 3 PM - 6 PM"
+    - content: "<b> Final Exam on 5/11, 3 PM - 6 PM </b>"
 #      assignments:
 #       - name: Final Exam Scope
 #         url: /final_contents
