@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Course Information, Fall 2022
+title: Course Information, Spring 2023
 ---
 
 **Ani Adhikari**
 
-Welcome to Data 140! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](http://prob140.org/about/) the class.
+Welcome to Data 140! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](http://prob140.org/about/) the class. 
 
-Please check your email about **section time preferences** and turn in the form by the deadline. 
-
-Enrolled and waitlisted students have been added to our **Ed** forum. Section assignment information has been posted on Ed along with other start-of-term information.
+Enrolled and waitlisted students have been added to our **Ed** forum. 
 
 ## Community Standards ##
 Data 140 is an academic community; Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).
@@ -58,16 +56,16 @@ As past students have advised in [Study Tips](http://prob140.org/tips/), it is i
 
 Attending all lectures and sections is an excellent way of working regularly. We don't take attendance. Instead, we work hard to make each session effective for learning. 
 
-Please keep in mind that **each session assumes that you have attended the previous sessions.** For example, each discussion section assumes that you attended lecture on the previous day.
+Please keep in mind that **each session assumes that you have attended the previous sessions.** For example, each discussion section assumes that you attended lecture on the previous day. GSIs will not re-teach what was covered in lecture.
 
 A typical week includes the following sessions. All sessions are in person and start at "Berkeley time" following our cherished practice of starting 10 minutes after the listed time.
 
-- Prof. Adhikari's lectures: 2PM to 3:30PM on Tuesdays and Thursdays in [Haas Faculty Wing 295](https://www.berkeley.edu/map?haasbusiness). **You are expected to attend.** 
+- Prof. Adhikari's lectures: 12:30PM to 2PM on Tuesdays and Thursdays in 155 Dwinelle. **You are expected to attend.** 
 - Sections led by GSIs: twice weekly on Wednesdays and Fridays at various times, in person in Evans. These will be conversations about exercises and may sometimes include portions of the weekly lab. They will cover how to select appropriate methods, similarities and differences between exercises, etc. **You are expected to attend your assigned discussion section** on Wednesdays and Fridays. You cannot attend other sections.
-- Assignment "parties" (work sessions with staff support), days and times TBA
+- Assignment "parties" (work sessions with staff support) on Fridays, times TBA
 - Office hours by the instructors and the course staff, days and times TBA. 
 
-A few weeks into the term, we will start the Supplemental Section which will consist of "catch up" content to reinforce material missed in past weeks. Details will be posted on Ed. This section is not required even though CalCentral has placed it on your schedules. 
+A few weeks into the term, we will start the Supplemental Section, which will typically consist of "catch up" content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Enrolling in this section is optional. 
 
 Student participation and informal conversation will be encouraged during all lectures and sections. You are expected to attend and participate. To help make this possible, the class allows no time conflicts.
 
@@ -75,7 +73,7 @@ Student participation and informal conversation will be encouraged during all le
 
 ### Weekly Assignments ###
 
-There will be a homework assignment and a lab each week. Assignments will be released on Monday and will be due by 11:59 p.m. on the following Monday. There might be some changes in release dates or due dates because of exams and holidays. We'll let you know.
+There will be a homework assignment and a lab each week. Assignments will be released on Monday night and will be due by 11:59 p.m. on the following Monday. There might be some changes in release dates or due dates because of exams and holidays. We'll let you know.
 
 **You are allowed one lab partner from among students in the class.** You may have different partners for different labs. Logistical details will be posted on Ed. 
 
@@ -92,13 +90,12 @@ Please keep in mind that **homework assigned each week is based on the material 
 ### Quizzes and Exams ###
 All of these will be in person and proctored. 
 
-- **Quizzes** four times during the term, **in the discussion section to which you are assigned.** 
-    - Quiz 1: Wednesday 9/7
-    - Quiz 2: Wednesday 9/21
-    - Quiz 3: Wednesday 10/26
-    - Quiz 4: Wednesday 11/16
-- **Midterm** on Tuesday October 4 in lecture
-- **Final Exam** on Tuesday, December 13, 8:00 AM to 11 AM, Exam Group 5, room TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
+- **Quizzes** three times during the term, **in the discussion section in which you are enrolled.** 
+    - Quiz 1: Wednesday 2/1
+    - Quiz 2: Wednesday 3/22
+    - Quiz 3: Wednesday 4/12
+- **Midterm** on Tuesday February 28 in lecture
+- **Final Exam** on Thursday May 11, 3:00 PM to 6 PM, Exam Group 15, room TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
 
 There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the midterm and the final.
 
@@ -119,9 +116,9 @@ Course grades will be based on your overall score in the class, calculated using
 - Midterm 20%
 - Final 36%
 
-Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, I will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-".
+Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, I will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-". The thresholds *x*, *y*, and *z* will depend on this term's performance. 
 
-The thresholds *x*, *y*, and *z* will depend on this term's performance. For how things worked out last term, here's an extract from my Spring 2022 end-of-term Ed post: "In the end, just under a third of the class got A-/A/A+ and just under 30% got B-/B/B+. Everyone who regularly turned in their weekly assignments and took the quizzes and exams made the 40% cutoff for C-."
+Last term's grade distribution was unusual because of the P/NP option. In Spring 2022, my end-of-term Ed post included the following: "In the end, just under a third of the class got A-/A/A+ and just under 30% got B-/B/B+.".
 
 ## Collaboration and Integrity ##
 
