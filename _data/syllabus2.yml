@@ -179,7 +179,7 @@ weeks:
     basic:
     - content: "Independent normal and gamma variables <br>
                 <b> Quiz 2 on 3/22 </b> <br>
-                <oment generating functions; the Chernoff bound"
+                Moment generating functions; the Chernoff bound"
 #                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
 #       - name: "Lab 5: Densities and Transformations (Part B due 10/31 at 11:59PM)"
