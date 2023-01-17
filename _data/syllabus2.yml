@@ -5,19 +5,19 @@ weeks:
     basic:
     - content: "Probability: axioms, rules, approximation <br>
                 Random variables: distributions, equality, conditioning"
-#              <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"    
+              <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"    
       assignments:
-#       - name: "Lab 1: Birthday Attack (Due 9/6 at 11:59PM)"
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
-#       - name: Homework 1 (Due 8/29 at 11:59PM)
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_01.ipynb
+       - name: "Lab 1: Birthday Attack (Due 1/23 at 11:59PM)"
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
+       - name: Homework 1 (Due 1/23 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_01.ipynb
     links:
-#     - name: Week 1 Study Guide
-#       url: /guides/Week_01.pdf
-#     - name: "Lab 1: Birthday Attack (Due 9/6 at 11:59PM)"
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
-#     - name: Homework 1 (Due 8/29 at 11:59PM)
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_01.ipynb
+     - name: Week 1 Study Guide
+       url: /guides/Week_01.pdf
+     - name: "Lab 1: Birthday Attack (Due 1/23 at 11:59PM)"
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
+     - name: Homework 1 (Due 1/23 at 11:59PM)
+       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_01.ipynb
 
   - weekNum: 2
     weekName: Symmetry and Random Counts
