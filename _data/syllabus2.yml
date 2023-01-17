@@ -4,7 +4,7 @@ weeks:
     weekDuration: 1/17-1/20
     basic:
     - content: "Probability: axioms, rules, approximation <br>
-                Random variables: distributions, equality, conditioning"
+                Random variables: distributions, equality, conditioning <br>
                 <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"    
       assignments:
       - name: "Lab 1: Birthday Attack (Due 1/23 at 11:59PM)"
