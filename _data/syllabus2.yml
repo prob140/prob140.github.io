@@ -24,15 +24,15 @@ weeks:
     weekDuration: 1/23-1/27
     basic:
     - content: "Symmetry and collections of events <br>
-                Binomial and related counts; a Poisson limit"
-#                <a href='/guides/Week_02.pdf'> Week 2 Study Guide </a>"
+                Binomial and related counts; a Poisson limit <br>
+                <a href='/guides/Week_02.pdf'> Week 2 Study Guide </a>"
       assignments:
-#       - name: Homework 2 (Due 9/6 at 12 noon)
+#       - name: Homework 2 (Due 1/30 at 11:59 PM)
 #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_02.ipynb
     links:
-#     - name: Week 2 Study Guide
-#       url: /guides/Week_02.pdf
-#     - name: Homework 2 (Due 9/6 at 12 noon)
+     - name: Week 2 Study Guide
+       url: /guides/Week_02.pdf
+#     - name: Homework 2 (Due 1/30 at 11:59 PM)
 #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_02.ipynb
 
   - weekNum: 3
