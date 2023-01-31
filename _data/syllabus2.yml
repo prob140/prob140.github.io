@@ -7,17 +7,17 @@ weeks:
                 Random variables: distributions, equality, conditioning <br>
                 <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"    
       assignments:
-      - name: "Lab 1: Birthday Attack (Due 1/23 at 11:59PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
       - name: Homework 1 (Due 1/23 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_01.ipynb
+      - name: "Lab 1: Birthday Attack (Due 1/23 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
     links:
     - name: Week 1 Study Guide
       url: /guides/Week_01.pdf
-    - name: "Lab 1: Birthday Attack (Due 1/23 at 11:59PM)"
-      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
     - name: Homework 1 (Due 1/23 at 11:59PM)
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_01.ipynb
+    - name: "Lab 1: Birthday Attack (Due 1/23 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
 
   - weekNum: 2
     weekName: Symmetry and Random Counts
@@ -29,14 +29,14 @@ weeks:
       assignments:
       - name: Homework 2 (Due 1/30 at 11:59 PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_02.ipynb
-      - name: Lab 2 (Due 1/30 at 11:59 PM)
+      - name: "Lab 2: Total Variation (Part A due 1/30 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
     links:
     - name: Week 2 Study Guide
       url: /guides/Week_02.pdf
     - name: Homework 2 (Due 1/30 at 11:59 PM)
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_02.ipynb
-    - name: Lab 2 (Due 1/30 at 11:59 PM)
+    - name: "Lab 2: Total Variation (Part A due 1/30 at 11:59 PM)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
 
   - weekNum: 3
@@ -45,20 +45,21 @@ weeks:
     basic:
     - content: "Independence and Poissonization <br>
                 <b> Quiz 1 on 2/1 </b> <br>
-                Expectation"
-#                <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
+                Expectation <br>
+                <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
       assignments:
-#       - name: "Lab 2: Total Variation (Part A due 9/12 at 11:59PM)"
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
-#       - name: Homework 3 (Due 9/12 at 11:59PM)
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_03.ipynb
+      - name: Homework 3 (Due 2/6 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_03.ipynb
+      - name: "Lab 2: Total Variation (Part B due 2/6 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
+
     links:
-#     - name: Week 3 Study Guide
-#       url: /guides/Week_03.pdf
-#     - name: "Lab 2: Total Variation (Part A due 9/12 at 11:59PM)"
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
-#     - name: Homework 3 (Due 9/12 at 11:59PM) [See Ed for Q4 update!!]
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_03.ipynb
+    - name: Week 3 Study Guide
+      url: /guides/Week_03.pdf
+    - name: Homework 3 (Due 2/6 at 11:59PM)
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_03.ipynb
+    - name: "Lab 2: Total Variation (Part B due 2/6 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
 
   - weekNum: 4
     weekName: Expectation
