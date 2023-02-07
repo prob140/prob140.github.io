@@ -5,7 +5,7 @@ weeks:
     basic:
     - content: "Probability: axioms, rules, approximation <br>
                 Random variables: distributions, equality, conditioning <br>
-                <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"    
+                <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"
       assignments:
       - name: Homework 1 (Due 1/23 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_01.ipynb
@@ -67,15 +67,15 @@ weeks:
     basic:
     - content: "Expectation and additivity <br>
                 Expectation by conditioning"
-#                <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
+                <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
       assignments:
 #       - name: "Lab 2: Total Variation (Part B due 9/19 at 11:59PM)"
 #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
 #       - name: Homework 4 (Due 9/19 at 11:59PM)
 #         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_04.ipynb
     links:
-#     - name: Week 4 Study Guide
-#       url: /guides/Week_04.pdf
+     - name: Week 4 Study Guide
+       url: /guides/Week_04.pdf
 #     - name: "Lab 2: Total Variation (Part B due 9/19 at 11:59PM)"
 #       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
 #     - name: Homework 4 (Due 9/19 at 11:59PM)
@@ -203,7 +203,7 @@ weeks:
     weekDuration: 3/27-3/31
     basic:
       - content: "Spring Break <br>"
-  
+
   - weekNum: 11
     weekName: MLE, MAP and the Beta and the Binomial
     weekDuration: 4/3-4/7
