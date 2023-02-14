@@ -89,17 +89,17 @@ weeks:
                 Balance <br>
                 <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
       assignments:
-#      - name: Homework 5 (Due 2/21 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_05.ipynb
-#      - name: "Lab 3: Chinese Restaurant Process (Part B due 2/21 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_03.ipynb
+      - name: Homework 5 (Due 2/21 at noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_05.ipynb
+      - name: "Lab 3: Chinese Restaurant Process (Part B due 2/21 at noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_03.ipynb
     links:
       - name: Week 5 Study Guide
         url: /guides/Week_05.pdf
-#      - name: Homework 5 (Due 2/21 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_05.ipynb
-#      - name: "Lab 3: Chinese Restaurant Process (Part B due 2/21 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_03.ipynb
+      - name: Homework 5 (Due 2/21 at noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_05.ipynb
+      - name: "Lab 3: Chinese Restaurant Process (Part B due 2/21 at noon)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_03.ipynb
 
   - weekNum: 6
     weekName: Markov Chain Monte Carlo and Standard Deviation
@@ -118,7 +118,7 @@ weeks:
 #      url: /guides/Week_06.pdf
 #    - name: "Homework 6 (Due 10/3 at 12 noon)"
 #      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_06.ipynb
-#    - name: "Lab 3: Code Breaking by MCMC (Due 10/3 at 12 noon)"
+#    - name: "Lab 4: Code Breaking by MCMC (Due 10/3 at 12 noon)"
 #      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_04.ipynb
 
   - weekNum: 7
