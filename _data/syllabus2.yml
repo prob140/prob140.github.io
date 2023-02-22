@@ -109,9 +109,9 @@ weeks:
                 Standard deviation and tail bounds <br>
                 <a href='/guides/Week_06.pdf'> Week 6 Study Guide </a>"
       assignments:
-      - name: "Homework 6 (Due 2/27 at 11:59PM)"
+      - name: "Homework 6 (Due 2/27 at 5:00 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_06.ipynb
-      - name: "Lab 4: Code Breaking by MCMC (Due 2/27 at 11:59PM)"
+      - name: "Lab 4: Code Breaking by MCMC (Due 2/27 at 5:00 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_04.ipynb
     links:
     - name: Week 6 Study Guide
