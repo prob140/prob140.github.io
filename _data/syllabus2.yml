@@ -126,19 +126,19 @@ weeks:
     weekDuration: 2/27-3/3
     basic:
     - content: "<b> Midterm on 2/28 </b> <br>
-                Covariance and its uses"
-#                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
+                Covariance and its uses <br>
+                <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
       assignments:
-#      - name: Midterm Scope
-#        url: /midterm_contents
-#      - name: Homework 7 (Due 10/10 at 11:59PM)
+      - name: Midterm Scope
+        url: /midterm_contents
+#      - name: Homework 7 (Due 3/6 at 11:59PM)
 #        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_07.ipynb
     links:
-#    - name: Midterm Scope
-#      url: /midterm_contents
-#    - name: Week 7 Study Guide
-#      url: /guides/Week_07.pdf
-#    - name: Homework 7 (Due 10/10 at 11:59PM)
+    - name: Midterm Scope
+      url: /midterm_contents
+    - name: Week 7 Study Guide
+      url: /guides/Week_07.pdf
+#    - name: Homework 7 (Due 3/6 at 11:59PM)
 #      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_07.ipynb
 
   - weekNum: 8
