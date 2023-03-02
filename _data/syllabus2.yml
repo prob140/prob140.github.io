@@ -131,15 +131,15 @@ weeks:
       assignments:
       - name: Midterm Scope
         url: /midterm_contents
-#      - name: Homework 7 (Due 3/6 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_07.ipynb
+      - name: Homework 7 (Due 3/6 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_07.ipynb
     links:
     - name: Midterm Scope
       url: /midterm_contents
     - name: Week 7 Study Guide
       url: /guides/Week_07.pdf
-#    - name: Homework 7 (Due 3/6 at 11:59PM)
-#      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_07.ipynb
+    - name: Homework 7 (Due 3/6 at 11:59PM)
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_07.ipynb
 
   - weekNum: 8
     weekName: The Central Limit Theorem and Continuous Random Variables
