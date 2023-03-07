@@ -146,20 +146,21 @@ weeks:
     weekDuration: 3/6-3/10
     basic:
     - content: "Central Limit Theorem <br>
-                Probability densities"
-#                <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
+                Probability densities <br>
+                <a href='/guides/Week_08.pdf'> Week 8 Study Guide </a>"
       assignments:
-#       - name: "Lab 4: Multinomial Correlations (Due 10/17 at 11:59PM)"
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_04.ipynb
-#       - name: Homework 8 (Due 10/17 at 11:59PM)
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_08.ipynb
+      - name: Homework 8 (Due 3/13 at 11:59PM)
+         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_08.ipynb
+      - name: "Lab 5A: Densities and Sympy (Due 3/13 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
     links:
-#     - name: Week 8 Study Guide
-#       url: /guides/Week_08.pdf
-#     - name: "Lab 4: Multinomial Correlations (Due 10/17 at 11:59PM)"
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_04.ipynb
-#     - name: Homework 8 (Due 10/17 at 11:59PM)
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_08.ipynb
+    - name: Week 8 Study Guide
+      url: /guides/Week_08.pdf
+    - name: Homework 8 (Due 3/13 at 11:59PM)
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_08.ipynb
+    - name: "Lab 5A: Densities and Sympy (Due 3/13 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
+
 
   - weekNum: 9
     weekName: Transformations and Joint Densities
