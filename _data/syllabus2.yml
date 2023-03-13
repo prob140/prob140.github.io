@@ -170,17 +170,17 @@ weeks:
                 Joint densities <br>
                 <a href='/guides/Week_09.pdf'> Week 9 Study Guide </a>"
       assignments:
-#       - name: Homework 9 (Due 3/20 at 11:59PM)
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_09.ipynb
-#       - name: "Lab 5: Densities and Transformations (Part B due 3/20 at 11:59PM)"
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
+      - name: Homework 9 (Due 3/20 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_09.ipynb
+      - name: "Lab 5: Densities and Transformations (Part B due 3/20 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
     links:
     - name: Week 9 Study Guide
       url: /guides/Week_09.pdf
-#     - name: Homework 9 (Due 3/20 at 11:59PM)
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_09.ipynb
-#     - name: "Lab 5: Densities and Transformations (Part B due 3/20 at 11:59PM)"
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
+    - name: Homework 9 (Due 3/20 at 11:59PM)
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_09.ipynb
+    - name: "Lab 5: Densities and Transformations (Part B due 3/20 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
 
   - weekNum: 10
     weekName: The Normal & Gamma Families and MGFs
