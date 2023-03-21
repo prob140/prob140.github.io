@@ -151,14 +151,14 @@ weeks:
       assignments:
       - name: Homework 8 (Due 3/13 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_08.ipynb
-      - name: "Lab 5: Densities and Sympy (Part A Due 3/13 at 11:59PM)"
+      - name: "Lab 5: Densities and Transformations (Part A Due 3/13 at 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
     links:
     - name: Week 8 Study Guide
       url: /guides/Week_08.pdf
     - name: Homework 8 (Due 3/13 at 11:59PM)
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_08.ipynb
-    - name: "Lab 5: Densities and Sympy (Part A Due 3/13 at 11:59PM)"
+    - name: "Lab 5: Densities and Transformations (Part A Due 3/13 at 11:59PM)"
       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
 
 
@@ -188,20 +188,20 @@ weeks:
     basic:
     - content: "Independent normal and gamma variables <br>
                 <b> Quiz 2 on 3/22 </b> <br>
-                Moment generating functions; the Chernoff bound"
-#                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
+                Moment generating functions; the Chernoff bound <br>
+                <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
       assignments:
-#       - name: "Lab 5: Densities and Transformations (Part B due 10/31 at 11:59PM)"
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
-#       - name: Homework 10 (Due 10/31 at 11:59PM)
-#         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_10.ipynb
+      - name: Homework 10 (Due 4/3 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_10.ipynb
+      - name: "Lab 6: Poisson Process (Part A due 4/3 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
     links:
-#     - name: Week 10 Study Guide
-#       url: /guides/Week_10.pdf
-#     - name: "Lab 5: Densities and Transformations (Part B due 10/31 at 11:59PM)"
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
-#     - name: Homework 10 (Due 10/31 at 11:59PM)
-#       url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_10.ipynb
+    - name: Week 10 Study Guide
+      url: /guides/Week_10.pdf
+    - name: Homework 10 (Due 4/3 at 11:59PM)
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_10.ipynb
+    - name: "Lab 6: Poisson Process (Part A due 4/3 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
 
   - weekName: Spring Break
     weekDuration: 3/27-3/31
