@@ -1,4 +1,4 @@
-weeks:
+6weeks:
   - weekNum: 1
     weekName: Introduction
     weekDuration: 1/17-1/20
@@ -194,7 +194,7 @@ weeks:
       - name: Homework 10 (Due 4/3 at 11:59PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_10.ipynb
       - name: "Lab 6: Poisson Process (Part A due 4/3 at 11:59PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_06.ipynb
     links:
     - name: Week 10 Study Guide
       url: /guides/Week_10.pdf
