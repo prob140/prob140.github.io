@@ -206,7 +206,7 @@
   - weekName: Spring Break
     weekDuration: 3/27-3/31
     basic:
-      - content: "Spring Break <br>"
+    - content: "Spring Break <br>"
 
   - weekNum: 11
     weekName: MLE, MAP and the Beta and the Binomial
