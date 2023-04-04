@@ -212,8 +212,8 @@ weeks:
     weekName: MLE, MAP and the Beta and the Binomial
     weekDuration: 4/3-4/7
     basic:
-    - content: "MLE; conditioning; MAP Estimates<br>
-                The beta and the binomial"
+    - content: "MLE; conditioning; MAP Estimates <br>
+                The beta and the binomial <br>
                 <a href='/guides/Week_11.pdf'> Week 11 Study Guide </a>"
       assignments:
       - name: Homework 11 (Due 4/10 at 11:59PM)
@@ -233,7 +233,6 @@ weeks:
     weekDuration: 4/10-4/14
     basic:
     - content: "Prediction and Error <br>
-                <b> Quiz 3 on 4/12 </b> <br>
                 Variance by conditioning"
 #                <a href='/guides/Week_12.pdf'> Week 12 Study Guide </a>"
       assignments:
@@ -254,6 +253,7 @@ weeks:
     weekDuration: 4/17-4/21
     basic:
     - content: "Random vectors; multivariate normal <br>
+                <b> Quiz 3 on 4/19 </b> <br>
                 Correlation and simple regression"
 #                <a href='/guides/Week_13.pdf'> Week 13 Study Guide </a>"
       assignments:
