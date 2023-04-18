@@ -250,20 +250,20 @@ weeks:
     basic:
     - content: "Random vectors; multivariate normal <br>
                 <b> Quiz 3 on 4/19 </b> <br>
-                Correlation and simple regression"
-#                <a href='/guides/Week_13.pdf'> Week 13 Study Guide </a>"
+                Correlation and simple regression <br>
+                <a href='/guides/Week_13.pdf'> Week 13 Study Guide </a>"
       assignments:
-#        - name: Homework 13 (Due 4/24 at 11:59PM)
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_13.ipynb
-#        - name: "Lab 7: Introduction to Jointly Normal Vectors (Due 4/24 at 11:59PM)"
-#          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_06.ipynb
+      - name: Homework 13 (Due 4/24 at 11:59PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_13.ipynb
+      - name: "Lab 7: Introduction to Jointly Normal Vectors (Due 4/24 at 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_06.ipynb
     links:
-#      - name: Week 13 Study Guide
-#        url: /guides/Week_13.pdf
-#      - name: Homework 13 (Due 4/24 at 11:59PM)
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_13.ipynb
-#      - name: "Lab 7: Introduction to Jointly Normal Vectors (Due 4/24 at 11:59PM)"
-#        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_06.ipynb
+    - name: Week 13 Study Guide
+      url: /guides/Week_13.pdf
+    - name: Homework 13 (Due 4/24 at 11:59PM)
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_13.ipynb
+    - name: "Lab 7: Introduction to Jointly Normal Vectors (Due 4/24 at 11:59PM)"
+      url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_06.ipynb
 
   - weekNum: 14
     weekName: Multiple Regression
