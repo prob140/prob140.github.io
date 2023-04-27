@@ -1,7 +1,8 @@
-### Data 140 Spring 2023 ###
+---
+layout: page
+title: Material for Final Exam, Spring 2023
+---
 ### A. Adhikari ###
-
-# Material for Final Exam #
 
 ## General Concepts and Methods ##
 
@@ -87,8 +88,3 @@
 - Section 12.4
 - Section 21.3
 - Sections 25.1, 25.2, 25.3
-
-
-```python
-
-```
