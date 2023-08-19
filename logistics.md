@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Course Information, Spring 2023
+title: Course Information, Fall 2023
 ---
 
-**Ani Adhikari**
+**Ani Adhikari and Alex Strang**
 
 Welcome to Data 140! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](http://prob140.org/about/) the class. 
 
-Enrolled and waitlisted students have been added to our **Ed** forum. 
+Enrolled and waitlisted students will be added to our **Ed** forum. 
 
 ## Community Standards ##
-Data 140 is an academic community; Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).
+Data 140 is an academic community; Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://ethics.berkeley.edu/code-conduct)).
 
 
 ## Videos, Textbook, and Lectures ##
@@ -21,7 +21,7 @@ The textbook is [*Probability for Data Science*](http://prob140.org/textbook) by
 
 There's more in the written text that you are expected to work through. In fact, you can learn the material by studying only the written text, as many students have done in the past.
 
-Prof. Adhikari's lectures are versions of the textbook content and videos. They will follow the textbook sections in sequence according to the calendar on the [homepage](http://prob140.org/). Students are expected to attend. Lectures are partly driven by conversation that arises from students' questions and responses, and the examples used in lecture might be different from those in the textbook. 
+The lectures are versions of the textbook content and videos. They will follow the textbook sections in sequence according to the calendar on the [homepage](http://prob140.org/). Students are expected to attend. Lectures are partly driven by conversation that arises from students' questions and responses, and the examples used in lecture might be different from those in the textbook. 
 
 Lectures will not assume that you have already worked through the content of the lecture. However, many students have found it useful to at least skim the relevant sections before coming to lecture. The most common approaches among students who did well in past semesters:
 
@@ -60,12 +60,18 @@ Please keep in mind that **each session assumes that you have attended the previ
 
 A typical week includes the following sessions. All sessions are in person and start at "Berkeley time" following our cherished practice of starting 10 minutes after the listed time.
 
-- Prof. Adhikari's lectures: 12:30PM to 2PM on Tuesdays and Thursdays in 155 Dwinelle. **You are expected to attend.** 
-- Sections led by GSIs: twice weekly on Wednesdays and Fridays at various times, in person in Evans. These will be conversations about exercises and may sometimes include portions of the weekly lab. They will cover how to select appropriate methods, similarities and differences between exercises, etc. **You are expected to attend your assigned discussion section** on Wednesdays and Fridays. You cannot attend other sections.
-- Assignment "parties" (work sessions with staff support) on Fridays, times TBA
-- Office hours by the instructors and the course staff, days and times TBA. 
+- Lectures: 3:30PM to 5PM on Tuesdays and Thursdays in Valley Life Sciences (VLSB) 2050. **You are expected to attend.** 
+- Sections led by GSIs: twice weekly on Wednesdays and Fridays at various times, in person in Evans on Wednesdays and in various locations on Fridays. A section enrollment form will be sent out before classes start.
 
-A few weeks into the term, we will start the Supplemental Section, which will typically consist of "catch up" content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Enrolling in this section is optional. 
+**Each student must be enrolled in one Wednesday section.** Wednesday sections will meet in the 11AM to 5PM range for 50 minutes and will have approximately 35 students each.
+
+**Each student must also be enrolled in one Friday section, which can be at a different time from their Wednesday section.** Friday sections will be at 11AM, noon, and 1PM for 50 minutes and will have approximately 100 students each. We are calling these “mega-sections”.
+
+Sections and mega-sections will be conversations about exercises and may sometimes include portions of the weekly lab. They will cover how to select appropriate methods, similarities and differences between exercises, etc. **You are expected to attend both your assigned discussion section and your assigned mega-section** on Wednesdays and Fridays. You cannot attend other sections.
+- Assignment "parties" (work sessions with staff support) on Fridays 2PM to 4PM; other times TBA
+- Office hours by the instructors and the course staff, days and times reflected on the [Weekly Schedule] (http://prob140.org/weekly/).
+ 
+A few weeks into the term, we will start the Supplemental Sections. The typical Supplemental Section consists of "catch up" content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Enrolling in these sections is optional. 
 
 Student participation and informal conversation will be encouraged during all lectures and sections. You are expected to attend and participate. To help make this possible, the class allows no time conflicts.
 
@@ -73,7 +79,7 @@ Student participation and informal conversation will be encouraged during all le
 
 ### Weekly Assignments ###
 
-There will be a homework assignment and a lab each week. Assignments will be released on Monday night and will be due by 11:59 p.m. on the following Monday. There might be some changes in release dates or due dates because of exams and holidays. We'll let you know.
+There will be a homework assignment and a lab each week. Assignments will be released on Monday night and will be **due by 5PM on the following Monday**. Sometimes there will be changes in release dates or due dates because of exams and holidays. We'll let you know.
 
 **You are allowed one lab partner from among students in the class.** You may have different partners for different labs. Logistical details will be posted on Ed. 
 
@@ -87,17 +93,14 @@ Assignments will be graded for correctness. There is plenty of support available
 
 Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The first two exercises (and possibly more) of each week's homework will be based on material covered in Tuesday's lecture. So you will be able to start homework as early as Tuesday night.
 
-### Quizzes and Exams ###
+### Exams ###
 All of these will be in person and proctored. 
 
-- **Quizzes** three times during the term, **in the discussion section in which you are enrolled.** 
-    - Quiz 1: Wednesday 2/1
-    - Quiz 2: Wednesday 3/22
-    - Quiz 3: Wednesday 4/12
-- **Midterm** on Tuesday February 28 in lecture
-- **Final Exam** on Thursday May 11, 3:00 PM to 6 PM, Exam Group 15, room TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
+- **Midterm 1** on Monday September 25, starting at 7PM and ending by 9PM, rooms TBA
+- **Midterm 2** on Monday October 30, starting at 7PM and ending by 9PM, rooms TBA
+- **Final Exam** on Friday December 15, 7PM to 10PM, Exam Group 20, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
 
-There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the midterm and the final.
+There will be **no alternate exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the midterm and the final.
 
  
 ## Grades ##
@@ -105,20 +108,21 @@ There will be **no alternate quizzes or exams** except as required by campus rul
 We strongly recommended that you turn in all assignments even if you can only complete some of them partially. However, to give you some leeway in case of illness and emergencies, we will drop the following in the calculation of your overall score:
 
 - your two lowest homework scores
-- your lowest lab score
-- your lowest quiz score 
+- your lowest lab score 
 
-Course grades will be based on your overall score in the class, calculated using the following weights:
+Letter grades for the course will be based on your overall score in the class, calculated using the following weights:
 
 - Homework 20%
 - Labs 12%
-- Quizzes 12%
-- Midterm 20%
+- Midterm 1 16%
+- Midterm 2 16%
 - Final 36%
 
-Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, I will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-". The thresholds *x*, *y*, and *z* will depend on this term's performance. 
+**Clobber policy:** If your final exam percentage score is greater than either of your midterm percentage scores then it will replace the lower of your two midterm percentage scores (only your Midterm 1 score will be replaced if both your midterm scores are equal). Here “percentage score” on an exam means your score on the exam as a percent of the total points on the exam.
 
-Last term's grade distribution was unusual because of the P/NP option. In Spring 2022, my end-of-term Ed post included the following: "In the end, just under a third of the class got A-/A/A+ and just under 30% got B-/B/B+.".
+Letter grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-". The thresholds *x*, *y*, and *z* will depend on this term's performance. 
+
+In Spring 2023, our end-of-term Ed post included the following: "In the end, half the class got A’s and B’s and very few students failed". We should mention that the low failure rate doesn’t include the students that withdrew before the final exam.
 
 ## Collaboration and Integrity ##
 
