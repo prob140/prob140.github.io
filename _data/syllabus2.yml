@@ -1,10 +1,9 @@
 weeks:
   - weekNum: 1
     weekName: Introduction
-    weekDuration: 1/17-1/20
+    weekDuration: 8/21-8/25
     basic:
-    - content: "Probability: axioms, rules, approximation <br>
-                Random variables: distributions, equality, conditioning"
+    - content: "Probability: axioms, rules, approximation"
     #             <a href='/guides/Week_01.pdf'> Week 1 Study Guide </a>"
     #   assignments:
     #   - name: Homework 1 (Due 1/23 at 11:59PM)
@@ -20,11 +19,11 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_01.ipynb
 
   - weekNum: 2
-    weekName: Symmetry and Random Counts
-    weekDuration: 1/23-1/27
+    weekName: Random Variables and Symmetry
+    weekDuration: 8/28-9/1
     basic:
-    - content: "Symmetry and collections of events <br>
-                Binomial and related counts; a Poisson limit"
+    - content: "Random variables: distributions, equality, conditioning <br>
+                Symmetry and collections of events"
     #             <a href='/guides/Week_02.pdf'> Week 2 Study Guide </a>"
     #   assignments:
     #   - name: Homework 2 (Due 1/30 at 11:59 PM)
@@ -40,12 +39,11 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_02.ipynb
 
   - weekNum: 3
-    weekName: Poissonization and Expectation
-    weekDuration: 1/30-2/3
+    weekName: Random Counts
+    weekDuration: 9/4-9/8
     basic:
-    - content: "Independence and Poissonization <br>
-                <b> Quiz 1 on 2/1 </b> <br>
-                Expectation"
+    - content: "Binomial and related counts; a Poisson limit <br>
+                Independence and Poissonization"
       #           <a href='/guides/Week_03.pdf'> Week 3 Study Guide </a>"
       # assignments:
       # - name: Homework 3 (Due 2/6 at 11:59PM)
@@ -63,10 +61,10 @@ weeks:
 
   - weekNum: 4
     weekName: Expectation
-    weekDuration: 2/6-2/10
+    weekDuration: 9/11-9/15
     basic:
-    - content: "Expectation and additivity <br>
-                Expectation by conditioning"
+    - content: "Expectation <br> 
+                Expectation and additivity"
     #             <a href='/guides/Week_04.pdf'> Week 4 Study Guide </a>"
     #   assignments:
     #   - name: Homework 4 (Due 2/13 at 11:59PM)
@@ -82,11 +80,11 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_03.ipynb
 
   - weekNum: 5
-    weekName: Markov Chains
-    weekDuration: 2/13-2/17
+    weekName: Conditioning and Markov Chains
+    weekDuration: 9/18-9/22
     basic:
-    - content: "Long run behavior of Markov chains <br>
-                Balance"
+    - content: "Expectation by conditioning <br>
+                Long run behavior of Markov chains"
     #             <a href='/guides/Week_05.pdf'> Week 5 Study Guide </a>"
     #   assignments:
     #   - name: Homework 5 (Due 2/21 at noon)
@@ -102,11 +100,12 @@ weeks:
     #     url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_03.ipynb
 
   - weekNum: 6
-    weekName: Markov Chain Monte Carlo and Standard Deviation
-    weekDuration: 2/21-2/24
+    weekName: Markov Chain Monte Carlo
+    weekDuration: 9/25-9/29
     basic:
-    - content: "Markov Chain Monte Carlo <br>
-                Standard deviation and tail bounds"
+    - content: "<b> Midterm 1 on 9/25 from 7PM - 9PM </b> <br>
+                Balance <br>
+                Markov Chain Monte Carlo"
     #             <a href='/guides/Week_06.pdf'> Week 6 Study Guide </a>"
     #   assignments:
     #   - name: "Homework 6 (Due 2/27 at 5:00 PM)"
@@ -122,10 +121,10 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_04.ipynb
 
   - weekNum: 7
-    weekName: Variance and Covariance
-    weekDuration: 2/27-3/3
+    weekName: Standard Deviation and Variance
+    weekDuration: 10/2-10/6
     basic:
-    - content: "<b> Midterm on 2/28 </b> <br>
+    - content: "Standard deviation and tail bounds <br>
                 Covariance and its uses"
     #             <a href='/guides/Week_07.pdf'> Week 7 Study Guide </a>"
     #   assignments:
@@ -143,7 +142,7 @@ weeks:
 
   - weekNum: 8
     weekName: The Central Limit Theorem and Continuous Random Variables
-    weekDuration: 3/6-3/10
+    weekDuration: 10/9-10/13
     basic:
     - content: "Central Limit Theorem <br>
                 Probability densities"
@@ -164,7 +163,7 @@ weeks:
 
   - weekNum: 9
     weekName: Transformations and Joint Densities
-    weekDuration: 3/13-3/17
+    weekDuration: 10/16-10/20
     basic:
     - content: "Transformations <br>
                 Joint densities"
@@ -183,12 +182,11 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_05.ipynb
 
   - weekNum: 10
-    weekName: The Normal & Gamma Families and MGFs
-    weekDuration: 3/20-3/24
+    weekName: The Normal & Gamma Families
+    weekDuration: 10/23-10/27
     basic:
-    - content: "Independent normal and gamma variables <br>
-                <b> Quiz 2 on 3/22 </b> <br>
-                Moment generating functions; the Chernoff bound"
+    - content: "Joint densities <br>
+                Independent normal and gamma variables"
     #             <a href='/guides/Week_10.pdf'> Week 10 Study Guide </a>"
     #   assignments:
     #   - name: Homework 10 (Due 4/3 at 11:59PM)
@@ -203,17 +201,13 @@ weeks:
     # - name: "Lab 6: Poisson Process (Part A due 4/3 at 11:59PM)"
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_06.ipynb
 
-  - weekName: Spring Break
-    weekDuration: 3/27-3/31
-    basic:
-    - content: "Spring Break <br>"
-
   - weekNum: 11
-    weekName: MLE, MAP and the Beta and the Binomial
-    weekDuration: 4/3-4/7
+    weekName: MGFs, MLE, and MAP
+    weekDuration: 10/30-11/3
     basic:
-    - content: "MLE; conditioning; MAP Estimates <br>
-                The beta and the binomial"
+    - content: "<b> Midterm 2 on 10/30 from 7PM - 9PM </b> <br>
+                Moment generating functions; the Chernoff bound <br>
+                MLE; conditioning; MAP Estimates"
     #             <a href='/guides/Week_11.pdf'> Week 11 Study Guide </a>"
     #   assignments:
     #   - name: Homework 11 (Due 4/10 at 11:59PM)
@@ -229,11 +223,11 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_06.ipynb
 
   - weekNum: 12
-    weekName: Prediction and Error
-    weekDuration: 4/10-4/14
+    weekName: The Beta and the Binomial; Prediction
+    weekDuration: 11/6-11/10
     basic:
-    - content: "Prediction and Error <br>
-                Variance by conditioning"
+    - content: "The beta and the binomial <br>
+                Prediction and Error"
     #             <a href='/guides/Week_12.pdf'> Week 12 Study Guide </a>"
     #   assignments:
     #   - name: Homework 12 (Due 4/17 at 11:59PM)
@@ -245,12 +239,11 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_12.ipynb
 
   - weekNum: 13
-    weekName: Random Vectors and Simple Regression
-    weekDuration: 4/17-4/21
+    weekName: Variance by Conditioning; Random Vectors
+    weekDuration: 11/13-11/16
     basic:
-    - content: "Random vectors; multivariate normal <br>
-                <b> Quiz 3 on 4/19 </b> <br>
-                Correlation and simple regression"
+    - content: "Variance by conditioning <br>
+                Random vectors; multivariate normal"
     #             <a href='/guides/Week_13.pdf'> Week 13 Study Guide </a>"
     #   assignments:
     #   - name: Homework 13 (Due 4/24 at 11:59PM)
@@ -266,10 +259,10 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=lab/Lab_07.ipynb
 
   - weekNum: 14
-    weekName: Multiple Regression
-    weekDuration: 4/24-4/28
+    weekName: Simple Regression
+    weekDuration: 11/20-11/24
     basic:
-    - content: "Multiple regression"
+    - content: "Correlation and simple regression"
     #             <a href='/guides/Week_14.pdf'> Week 14 Study Guide </a>"
     #   assignments:
     #   - name: Homework 14 (Due 5/1 at 11:59PM)
@@ -281,18 +274,33 @@ weeks:
     #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_14.ipynb
 
   - weekNum: 15
+    weekName: Multiple Regression
+    weekDuration: 11/27-12/1
+    basic:
+    - content: "Multiple regression"
+    #             <a href='/guides/Week_15.pdf'> Week 14 Study Guide </a>"
+    #   assignments:
+    #   - name: Homework 15 (Due 5/1 at 11:59PM)
+    #     url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_15.ipynb
+    links:
+    # - name: Week 15 Study Guide
+    #   url: /guides/Week_15.pdf
+    # - name: Homework 15 (Due 5/1 at 11:59PM)
+    #   url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp23&branch=main&subPath=hw/Homework_15.ipynb
+
+  - weekNum: 16
     weekName: RRR Week
-    weekDuration: 5/1-5/5
+    weekDuration: 12/4-12/8
     basic:
     - content: "RRR Week"
       assignments:
     links:
 
-  - weekNum: 16
+  - weekNum: 17
     weekName: Finals Week
-    weekDuration: 5/8-5/12
+    weekDuration: 12/11-12/15
     basic:
-    - content: "<b> Final Exam on 5/11, 3 PM - 6 PM </b>"
+    - content: "<b> Final Exam on 12/15, 7 PM - 10 PM </b>"
 #      assignments:
 #       - name: Final Exam Scope
 #         url: /final_contents
