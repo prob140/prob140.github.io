@@ -1,23 +1,94 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Permalinks
-permalink:        pretty
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Data 140
+tagline: Probability for Data Science
+description: The course website for UC Berkeley's Data 140 course.
+author: Shahzar
+#baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+url: 'http://prob140.org' # the base hostname & protocol for your site, e.g. http://example.com
+logo: 'assets/brand/logo.png'
+favicon_ico: 'assets/brand/favicon.ico'
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules
+#  - vendor/bundle/
+#  - vendor/cache/
+#  - vendor/gems/
+#  - vendor/ruby/
+#  - any_additional_item # any user-specific listing goes at the end
 
-# Setup
-title:            'Data 140'
-tagline:          'Probability for Data Science'
-description:      'Probability for Data Science <br /> Ani Adhikari <br />'
-url:              http://prob140.org
-baseurl:          /
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.5.2
+color_scheme: wider
+search_enabled: true
+permalink: pretty
+heading_anchors: false
 
-author:
-  name:           'Dibya Ghosh, Jason Zhang'
-  url:            http://prob140.org
+aux_links:
+  Textbook:
+    - 'http://prob140.org/textbook/'
+  Ed:
+    - 'https://edstem.org/us/courses/43303/'
+#  Gradescope:
+#    - 'https://www.gradescope.com/courses/552084'
 
-paginate:         5
+#nav_external_links:
+#  - title: Textbook
+#    url: textbook
+#    hide_icon: true # set to true to hide the external link icon - defaults to false
 
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
 
-github:
-  repo:           https://github.com/poole/hyde
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  
+math: mathjax

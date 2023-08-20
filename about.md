@@ -1,9 +1,19 @@
 ---
 layout: page
-title: About Data 140
+title: About
+nav_order: 2
+description: Course policies and information.
 ---
 
-#### A. Adhikari ####
+# About Data 140
+#### Ani Adhikari ####
+{:.no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Data 140 (previously Stat 140, a.k.a. Prob 140) is a probability course for undergraduates who have taken Data 8, have a math background, and wish to go deeper into the theory of data science.
 
@@ -11,6 +21,7 @@ It is a course in probability theory, not data analysis. Python labs are used to
 
 Data 140 aims to give students a good theoretical background for modern data analysis. Contents have been selected after consultation with faculty who teach Stat and CS courses in advanced statistical topics including machine learning. The main topics are univariate and multivariate distributions, conditioning, and some stochastic processes. Primary examples include Bayesian estimation, Markov Chain Monte Carlo, multiple regression and the geometry of the multivariate normal.
 
+## Requirement for Majors and Minors ##
 The course satisfies requirements for several undergraduate majors and minors. 
 
 - **Data Science:** Data 140 satisfies the probability requirement for the [Data Science major](https://data.berkeley.edu/degrees/data-science-ba/upper-division). It is one of the two probability classes that are preferred as preparation for Data 102 (*Data, Inference, and Decisions*) which satisfies the Modeling, Learning, and Decision Making requirement for the major. Data 140 can also be used to satisfy the probability requirement for the [Data Science minor](https://data.berkeley.edu/academics/undergraduate-programs/data-science-minor) although the requirement can also be satisfied by taking lower division probability. 
@@ -19,7 +30,7 @@ The course satisfies requirements for several undergraduate majors and minors.
 
 - **Other Majors:** Data 140 satisfies the statistics requirement for entry into the Economics and Business majors, and elective requirements for other majors including Applied Math and L&S CS. Students can petition others. Please direct your inquiries to the other major and include the link to the [course website](http://prob140.org/) if needed.
 
-### Prerequisites and Enrollment ###
+## Prerequisites and Enrollment ##
 Data 140 is restricted to undergraduates who satisfy all the following requirements:
 
 - Have not taken Stat 134 or EECS 126; students cannot get credit for Data 140 after taking Stat 134 or EECS 126
@@ -29,7 +40,7 @@ Data 140 is restricted to undergraduates who satisfy all the following requireme
 
 The course has been designed for students who have the specific background above in math, programming, and statistical inference. All prerequisites and corequisites are enforced by CalCentral.
 
-### Other Upper Division Probability Courses ###
+## Other Upper Division Probability Courses ##
 The campus offers four upper division probability courses including Data 140. Here is Prof. Adhikari's take on the other three.
 
 - If you are interested in data science and have taken CS 61A, CS 70, multivariable calculus, and linear algebra, but not Data 8/100, I recommend [EECS 126](http://guide.berkeley.edu/courses/eecs/). It builds on the probability content of CS 70 to cover properties of discrete and continuous distributions, both univariate and multivariate; the theory underlying fundamental methods of statistical inference; and stochastic (that is, random) processes. Python labs cover a variety of applications to data science. It will prepare you well for classes in machine learning and other ways of making decisions based on data.
