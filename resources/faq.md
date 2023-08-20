@@ -45,7 +45,7 @@ Ways to specify a distribution:
 2. Joint distributions of discrete random variables can be specified in a table or by a formula for the joint probability function $$P(X=x, Y=y)$$ for all possible pairs $$(x,y)$$. You may be able to find the joint probability function directly from first principles or by conditioning and using the multiplication rule.
 3. There are two cases which you should simply recognize:
   - Is the joint distribution uniform over a region? In that case the joint density or joint probability function is constant over the space of possible values.
-  - Is the joint distribution bivariate normal? In that case you can simply fill in the blanks in, "bivariate normal, $$E(X) = \phantom{ }$$, $$E(Y) = \phantom{ }$$, $$Var(X) = \phantom{ }$$, $$Var(Y) = \phantom{ }$$, $$Corr(X,Y) = \phantom{ }$$,". Yes, you can specify SD instead of variance if you prefer; just say clearly which one you're listing.
+  - Is the joint distribution bivariate normal? In that case you can simply fill in the blanks in, "bivariate normal, $$E(X) = \vspace*{1cm}$$, $$E(Y) = \vspace*{1cm}$$, $$Var(X) = \vspace*{1cm}$$, $$Var(Y) = \vspace*{1cm}$$, $$Corr(X,Y) = \vspace*{1cm}$$,". Yes, you can specify SD instead of variance if you prefer; just say clearly which one you're listing.
 4. If none of the above has worked, you can find a joint density from first principles. Specify the possible pairs $$(x,y)$$. Find $$P(X \in dx, Y \in dy)$$. The joint density is everything in that answer except the $$dxdy$$.
 5. If even 4.4 hasn't worked, then find the density of one of the variables, say $$X$$, and multiply by the conditional density of $$Y$$ given $$X$$.
 
