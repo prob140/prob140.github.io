@@ -45,7 +45,7 @@ Ways to specify a distribution:
 2. Joint distributions of discrete random variables can be specified in a table or by a formula for the joint probability function $$P(X=x, Y=y)$$ for all possible pairs $$(x,y)$$. You may be able to find the joint probability function directly from first principles or by conditioning and using the multiplication rule.
 3. There are two cases which you should simply recognize:
   - Is the joint distribution uniform over a region? In that case the joint density or joint probability function is constant over the space of possible values.
-  - Is the joint distribution bivariate normal? In that case you can simply fill in the blanks in, "bivariate normal, $$E(X) = \text{  }$$, $$E(Y) = \text{  }$$, $$Var(X) = \text{  }$$, $$Var(Y) = \text{  }$$, $$Corr(X,Y) = \text{  }$$,". Yes, you can specify SD instead of variance if you prefer; just say clearly which one you're listing.
+  - Is the joint distribution bivariate normal? In that case you can simply fill in the blanks in, "bivariate normal, $$E(X) = ~~~~~~$$, $$E(Y) = \text{    }$$, $$Var(X) = \text{    }$$, $$Var(Y) = \text{    }$$, $$Corr(X,Y) = \text{    }$$,". Yes, you can specify SD instead of variance if you prefer; just say clearly which one you're listing.
 4. If none of the above has worked, you can find a joint density from first principles. Specify the possible pairs $$(x,y)$$. Find $$P(X \in dx, Y \in dy)$$. The joint density is everything in that answer except the $$dxdy$$.
 5. If even 4.4 hasn't worked, then find the density of one of the variables, say $$X$$, and multiply by the conditional density of $$Y$$ given $$X$$.
 
@@ -67,7 +67,7 @@ Ways to specify a distribution:
 3. If neither 7.1 nor 7.2 apply, then you almost invariably have to find the variance somehow and then take its square root. Which leads to the next question.
 
 ## 8. So then what are the different ways of finding variances? ##
-Answer: As far as this course is concerned, the answers are essentially the same as those in parts 5.1, 5.2, 5.4, and 5.6.
+Answer: As far as this course is concerned, the answers are essentially the same as those in parts 5.1, 5.2, 5.4, and 5.6 from [Question 5](http://prob140.org/resources/faq/#5-what-are-the-different-ways-of-finding-expectations)
 1. (Same as 5.1) Do you recognize the distribution? If so, you can read off the variance. (Of course if you can recognize the distribution then you'll already have read off its SD directly, but I'm keeping the method here for completeness.)
 2. (Same as 5.2) Can you write the variable as the sum of simpler variables? If so, the variance can be found as "the sum of all the variances as well as all the covariances" (see [Question 9](http://prob140.org/resources/faq/#9-so-then-what-are-the-different-ways-of-finding-covariances) below). An important special case is writing a count as a sum of indicators; see [Question 6](http://prob140.org/resources/faq/#6-how-do-i-know-to-use-indicators) above. Finally, if the variables in your sum are independent, then all the covariance terms are 0 and so the variance of the sum is just the sum of the variances.
 3. (Same as 5.4) Can you condition on something useful? In that case, use $$Var(X) = E(Var(X \mid Y)) + Var(E(X \mid Y))$$. Or first find $$E(X)$$ by conditioning, then find $$E(X^2)$$ by conditioning, using the same method as for $$E(X)$$. Now use the computational formula $$Var(X) = E(X^2) - (E(X))^2$$.
