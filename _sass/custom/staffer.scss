@@ -7,7 +7,9 @@
 
 .staffer {
   display: flex;
-  margin: $sp-4 0;
+  flex-basis: 90%;
+  //margin: $sp-4 0;
+  padding: $sp-4;
   padding-right: $sp-10;
 
   .staffer-image {
