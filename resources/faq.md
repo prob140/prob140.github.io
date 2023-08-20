@@ -11,7 +11,7 @@ description: Frequently asked questions about important general issues.
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 ## 1. What are they looking for when a question asks for the distribution of something?
