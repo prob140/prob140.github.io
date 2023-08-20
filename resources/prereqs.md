@@ -207,7 +207,7 @@ You know that $$\log(1) = 0$$. What we're going to need, quite often, is an appr
 
 **Exercise EL2:** Suppose $$0 < p_n < 1$$ for all $$n$$, $$\lim_{n \to \infty} p_n = 0$$, and $$\lim_{n \to \infty} np_n = \mu$$ for some number $$\mu > 0$$. Find  $$\lim_{n \to \infty} (1 - p_n)^n$$. 
 
-[Hint: Start by considering the $$\log$$ of $$(1 - p_n)^n$$. Approximate it for large $$n$$, and then invert.
+[Hint: Start by considering the $$\log$$ of $$(1 - p_n)^n$$. Approximate it for large $$n$$, and then invert.]
 
 <details>
     <summary>Answer EL2</summary>
