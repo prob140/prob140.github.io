@@ -7,7 +7,7 @@ description: The prerequisites for the class.
 # Math Prerequisities #
 #### A. Adhikari ####
 
-**The [course](http://prob140.org/textbook/content/README.html) assumes [fluency](../fluency) with all of the math below.** These concepts, results, and methods will be used without explanation. If you've forgotten some of it, please review the relevant materials. The more confident you are with this math content, the faster you will be able to grasp the material of the course.
+**The [course](/textbook) assumes [fluency](/resources/fluency) with all of the math below.** These concepts, results, and methods will be used without explanation. If you've forgotten some of it, please review the relevant materials. The more confident you are with this math content, the faster you will be able to grasp the material of the course.
 
 **Please do the exercises.** They are based on calculations that come up frequently. 
 
@@ -214,7 +214,7 @@ You know that $$\log(1) = 0$$. What we're going to need, quite often, is an appr
     \(e^{-\mu}\)
 </details>  
 
-**Exercise EL3:** In EL2, \(1 - p_n \to 1\) as \(n \to \infty\), and \(1^n = 1\) for all \(n\). So why isn't it true that \((1 - p_n)^n \to 1\) as \(n \to \infty\)?
+**Exercise EL3:** In EL2, $$1 - p_n \to 1$$ as $$n \to \infty$$, and $$1^n = 1$$ for all $$n$$. So why isn't it true that $$(1 - p_n)^n \to 1$$ as $$n \to \infty$$?
 
 <details>
     <summary>Answer EL3</summary>

@@ -20,8 +20,8 @@ description: Resources and references for the class.
 - Data 8 [Textbook](https://www.inferentialthinking.com/chapters/intro)
 
 ### Main Probability References
-- [Prob 140 Textbook](http://prob140.org/textbook/content/README.html)
-- [Problem Solving FAQ](https://www.stat.berkeley.edu/~ani/s134s17/faq.html)  (from Prof. Adhikari's Stat 134 class)
+- [Prob 140 Textbook](/textbook)
+- [Problem Solving FAQ](faq) 
 - [Final Exam Reference](/assets/references/final_reference_fa18.pdf)
 
 ### Python References
