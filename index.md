@@ -15,7 +15,7 @@ UC Berkeley, Fall 2023
         {% for staffer in professors %}
         {{ staffer }}
         {% endfor %}
-  </div>
+    </div>
 </div>
 
 {% assign announcement = site.announcements | last %}
