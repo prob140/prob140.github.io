@@ -1,6 +1,5 @@
 ---
 name: Richard Wang
-pronouns: he/him
 team: Staff
 role: uGSI
 email: richardrwang

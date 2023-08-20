@@ -9,6 +9,15 @@ description: A week-to-week description of the content covered in the course.
 UC Berkeley, Fall 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
+<div>
+{% assign professors = site.staffers | where: 'role', 'Professor' | reverse %}
+    <div class="role">
+        {% for staffer in professors %}
+        {{ staffer }}
+        {% endfor %}
+  </div>
+</div>
+
 {% assign announcement = site.announcements | last %}
 {{ announcement }}
 
