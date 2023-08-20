@@ -11,7 +11,7 @@ description: Tips on doing well in Data 140.
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 In Data 140 you will be learning probability based on your knowledge of math. Your work will consist mostly of math, with some computing to enhance your understanding of the math and also to point to interesting mathematical avenues to explore.

@@ -6,6 +6,13 @@ description: The prerequisites for the class.
 ---
 # Math Prerequisities #
 #### A. Adhikari ####
+{:.no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 **The [course](/textbook) assumes [fluency](/resources/fluency) with all of the math below.** These concepts, results, and methods will be used without explanation. If you've forgotten some of it, please review the relevant materials. The more confident you are with this math content, the faster you will be able to grasp the material of the course.
 

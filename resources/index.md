@@ -10,7 +10,7 @@ description: Resources and references for the class.
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 ### Mathematics Prerequisites

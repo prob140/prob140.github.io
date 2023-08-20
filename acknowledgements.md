@@ -7,6 +7,13 @@ description: The acknowledgements.
 
 # Acknowledgements
 #### Ani Adhikari, Spring 2022 ####
+{:.no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 The development of Prob 140 has been a team effort by faculty and students.
 

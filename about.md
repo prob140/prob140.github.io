@@ -12,7 +12,7 @@ description: Course policies and information.
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 Data 140 (previously Stat 140, a.k.a. Prob 140) is a probability course for undergraduates who have taken Data 8, have a math background, and wish to go deeper into the theory of data science.

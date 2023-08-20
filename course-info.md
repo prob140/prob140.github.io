@@ -12,7 +12,7 @@ description: Information about how the course is run.
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 Welcome to Data 140! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](about) the class. 
