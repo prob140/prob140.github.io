@@ -18,6 +18,7 @@ description: Frequently asked questions about important general issues.
 **Answer:** "They" = me, and "something" = a random variable. I am asking you to specify, in any reasonable way, all the possible values of the variable as well as a rule for how the total probability of 100% is distributed over those values. Important steps, to be taken *always*:
 - **Figure out the list of possible values before you calculate any probabilities.** This has a wonderful way of focusing the mind when you do start finding chances. It stops you making gross errors like saying continuous variables are discrete, or exponential variables are normal.
 - After you've got the probabilities, try to make sure that they sum (or integrate) to $$1$$.
+
 Ways to specify a distribution:
 1. If you recognize the random variable as having one of the well-known distributions then you can simply specify by its name and parameters. E.g. "uniform on the integers $$1$$ through $$100$$", or "gamma with shape parameter $$r=5$$ and rate $$\lambda=1.9$$", etc. But your answer is incomplete if you just give the name of the distribution without values for the parameters. Be aware that in order to do this you have to thoroughly understand how all the different well-known distributions arise and interact with each other.
 2. If the variable has finitely many values, make a distribution table showing all the possible values and their probabilities. Equivalently you can specify the probabilities in a formula which includes a clear statement about when (i.e. for which possible values) the formula is valid.
@@ -72,6 +73,7 @@ Answer: As far as this course is concerned, the answers are essentially the same
 2. (Same as 5.2) Can you write the variable as the sum of simpler variables? If so, the variance can be found as "the sum of all the variances as well as all the covariances" (see [Question 9](http://prob140.org/resources/faq/#9-so-then-what-are-the-different-ways-of-finding-covariances) below). An important special case is writing a count as a sum of indicators; see [Question 6](http://prob140.org/resources/faq/#6-how-do-i-know-to-use-indicators) above. Finally, if the variables in your sum are independent, then all the covariance terms are 0 and so the variance of the sum is just the sum of the variances.
 3. (Same as 5.4) Can you condition on something useful? In that case, use $$Var(X) = E(Var(X \mid Y)) + Var(E(X \mid Y))$$. Or first find $$E(X)$$ by conditioning, then find $$E(X^2)$$ by conditioning, using the same method as for $$E(X)$$. Now use the computational formula $$Var(X) = E(X^2) - (E(X))^2$$.
 4. (Same as 5.6) If 8.1, 8.2 and 8.3 fail, you have to use the computational formula and the distribution of $$X$$. Pray that the distribution is simple enough so that you can carry out the calculations.
+
 The most common method is writing the variable as a sum of simpler variables. These may be dependent, in which case the variance of their sum will also involve their covariances.
 
 ## 9. So then what are the different ways of finding covariances? ##
@@ -81,4 +83,5 @@ The most common method is writing the variable as a sum of simpler variables. Th
 4. Check to see if you already know $$Var(X)$$, $$Var(Y)$$, and $$Var(X+Y)$$. Then you can find the covariance by solving
 $$Var(X+Y) = Var(X) + Var(Y) + 2Cov(X,Y)$$.
 5. If all else fails use the computational formula for covariance: $$Cov(X, Y) = E(XY) - E(X)E(Y)$$. A crucial special case is the covariance between two indicators: $$Cov(I_A, I_B) = P(AB) - P(A)P(B)$$.
+
 A general warning: If you find yourself trying to compute $$E(XY)$$ and $$X$$ or $$Y$$ is not an indicator or something very simple with just a few possible values, Prof. Adhikari is willing to bet that you've failed to notice that you can use one of 9.1-9.4 above.
