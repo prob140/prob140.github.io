@@ -1,6 +1,5 @@
 ---
 name: Lisha Zhai
-pronouns: she/her
 team: Staff
 role: uGSI
 email: zhail24

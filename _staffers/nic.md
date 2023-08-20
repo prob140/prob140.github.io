@@ -1,6 +1,5 @@
 ---
 name: Nic Ross
-pronouns: he/him
 team: Staff
 role: Reader
 email: n.ross

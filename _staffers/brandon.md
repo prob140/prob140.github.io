@@ -1,6 +1,5 @@
 ---
 name: Brandon Marks
-pronouns: he/him
 team: Staff
 role: Reader
 email: brandonm

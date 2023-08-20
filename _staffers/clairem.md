@@ -1,6 +1,5 @@
 ---
 name: Claire Mai
-pronouns: she/her
 team: Staff
 role: Lead uGSI
 email: clairemai

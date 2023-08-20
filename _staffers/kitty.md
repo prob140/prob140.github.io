@@ -1,6 +1,5 @@
 ---
 name: Kitty Wang
-pronouns: she/her
 team: Staff
 role: uGSI
 email: ziyiw28

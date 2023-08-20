@@ -1,6 +1,5 @@
 ---
 name: Bryan Eun
-pronouns: he/him
 team: Staff
 role: Reader
 email: bryan8035

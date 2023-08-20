@@ -1,6 +1,5 @@
 ---
 name: Claire Ding
-pronouns: she/her
 team: Staff
 role: Reader
 email: jding25

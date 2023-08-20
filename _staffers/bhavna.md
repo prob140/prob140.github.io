@@ -1,6 +1,5 @@
 ---
 name: Bhavna Bhat
-pronouns: she/her
 team: Staff
 role: Reader
 email: bhavna7

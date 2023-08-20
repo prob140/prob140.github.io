@@ -1,6 +1,5 @@
 ---
 name: Michaeo Xiao
-pronouns: he/him
 team: Staff
 role: Lead GSI
 email: michaelxiao1999

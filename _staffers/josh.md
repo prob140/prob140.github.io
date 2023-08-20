@@ -1,6 +1,5 @@
 ---
 name: Josh Richland
-pronouns: he/him
 team: Staff
 role: uGSI
 email: jlrichland
