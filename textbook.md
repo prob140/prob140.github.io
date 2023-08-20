@@ -7,4 +7,4 @@ description: The textbook.
 
 # Textbook
 
-[Textbook](../textbook)
+This page is a placeholder reference to the [course textbook](../textbook).
