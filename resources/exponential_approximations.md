@@ -46,8 +46,8 @@ $$
 - $$e^x \ge 1+x$$ for all $$x$$. You can see this in the graphs above. 
 
 - For $$x \in (0, 1)$$:
-    - $$\log(1+x) < x$$
-    - $$\log(1+x) > x - \frac{x^2}{2}$$
+    - $$\log(1+x) < x$$,
+    - $$\log(1+x) > x - \frac{x^2}{2}$$,
     - and so on. You get alternating upper and lower bounds as you go further into the series.
     
 In probability theory you will often come across $$\log$$s of values that are near $$1$$. Here is another useful lower bound on $$\log(1+x)$$. It is true for all positive $$x$$ but it is only close to $$\log(1+x)$$ when $$x$$ is close to $$0$$.
