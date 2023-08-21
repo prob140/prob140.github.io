@@ -47,12 +47,12 @@ $$
 
 - For $$x \in (0, 1)$$:
     - $$\log(1+x) < x$$,
-    - $$\log(1+x) > x - \frac{x^2}{2}$$,
+    - $$\log(1+x) > x - \dfrac{x^2}{2}$$,
     - and so on. You get alternating upper and lower bounds as you go further into the series.
     
 In probability theory you will often come across $$\log$$s of values that are near $$1$$. Here is another useful lower bound on $$\log(1+x)$$. It is true for all positive $$x$$ but it is only close to $$\log(1+x)$$ when $$x$$ is close to $$0$$.
     
-- For $$x > 0$$, $$\log(1+x) \ge \frac{x}{1+x/2} = \frac{2x}{2+x}$$
+- For $$x > 0$$, $$\displaystyle \log(1+x) \ge \frac{x}{1+x/2} = \frac{2x}{2+x}$$
 
 There are many ways of proving inequalities like this one. One way is to show that the difference between the two sides has the right sign, by noticing that it is $$0$$ at $$x=0$$ and monotone (in the right direction) on the specified domain.
 
