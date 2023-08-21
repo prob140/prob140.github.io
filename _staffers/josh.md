@@ -1,7 +1,7 @@
 ---
 name: Josh Richland
 team: Staff
-role: uGSI
+role: TA
 email: jlrichland
 photo: josh.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 name: Bryan Eun
 team: Staff
-role: Reader
+role: Tutor
 email: bryan8035
 photo: bryan.jpg
 ---

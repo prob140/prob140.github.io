@@ -1,7 +1,7 @@
 ---
 name: Cynthia Gao
 team: Staff
-role: Reader
+role: Tutor
 email: cynthiagao
 photo: cynthia.jpg
 ---

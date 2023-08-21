@@ -1,7 +1,7 @@
 ---
 name: Kitty Wang
 team: Staff
-role: uGSI
+role: TA
 email: ziyiw28
 photo: kitty.jpg
 ---

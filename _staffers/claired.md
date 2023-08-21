@@ -1,7 +1,7 @@
 ---
 name: Claire Ding
 team: Staff
-role: Reader
+role: Tutor
 email: jding25
 photo: claireding.jpg
 ---

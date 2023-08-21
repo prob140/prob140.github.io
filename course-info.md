@@ -66,12 +66,12 @@ As past students have advised in [Study Tips](http://prob140.org/tips/), it is i
 
 Attending all lectures and sections is an excellent way of working regularly. We don't take attendance. Instead, we work hard to make each session effective for learning. 
 
-Please keep in mind that **each session assumes that you have attended the previous sessions.** For example, each discussion section assumes that you attended lecture on the previous day. GSIs will not re-teach what was covered in lecture.
+Please keep in mind that **each session assumes that you have attended the previous sessions.** For example, each discussion section assumes that you attended lecture on the previous day. TAs will not re-teach what was covered in lecture.
 
 A typical week includes the following sessions. All sessions are in person and start at "Berkeley time" following our cherished practice of starting 10 minutes after the listed time.
 
 - Lectures: 3:30PM to 5PM on Tuesdays and Thursdays in Valley Life Sciences (VLSB) 2050. **You are expected to attend.** 
-- Sections led by GSIs: twice weekly on Wednesdays and Fridays at various times, in person in Evans on Wednesdays and in various locations on Fridays. A section enrollment form will be sent out before classes start.
+- Sections led by TAs: twice weekly on Wednesdays and Fridays at various times, in person in Evans on Wednesdays and in various locations on Fridays. A section enrollment form will be sent out before classes start.
 
 **Each student must be enrolled in one Wednesday section.** Wednesday sections will meet in the 11AM to 5PM range for 50 minutes and will have approximately 35 students each.
 

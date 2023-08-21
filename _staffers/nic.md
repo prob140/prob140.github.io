@@ -1,7 +1,7 @@
 ---
 name: Nic Ross
 team: Staff
-role: Reader
+role: Tutor
 email: n.ross
 photo: nic.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 name: Yiyan Hao
 team: Staff
-role: uGSI
+role: TA
 email: yiyan.hao
 photo: yiyan.jpg
 ---

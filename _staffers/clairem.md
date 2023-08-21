@@ -1,7 +1,7 @@
 ---
 name: Claire Mai
 team: Staff
-role: Lead uGSI
+role: Lead TA
 email: clairemai
 photo: clairemai.jpg
 ---

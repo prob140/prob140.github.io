@@ -1,7 +1,7 @@
 ---
 name: Brandon Marks
 team: Staff
-role: Reader
+role: Tutor
 email: brandonm
 photo: brandon.jpg
 ---

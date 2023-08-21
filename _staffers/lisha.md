@@ -1,7 +1,7 @@
 ---
 name: Lisha Zhai
 team: Staff
-role: uGSI
+role: TA
 email: zhail24
 photo: lisha.jpg
 ---

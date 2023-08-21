@@ -1,7 +1,7 @@
 ---
 name: Richard Wang
 team: Staff
-role: uGSI
+role: TA
 email: richardrwang
 photo: richard.jpg
 ---

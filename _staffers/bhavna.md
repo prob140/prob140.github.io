@@ -1,7 +1,7 @@
 ---
 name: Bhavna Bhat
 team: Staff
-role: Reader
+role: Tutor
 email: bhavna7
 photo: bhavna.jpg
 ---
