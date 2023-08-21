@@ -1,7 +1,7 @@
 ---
 name: Michaeo Xiao
 team: Staff
-role: Lead GSI
+role: Lead TA
 email: michaelxiao1999
 photo: michael.jpg
 ---

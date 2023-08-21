@@ -1,7 +1,7 @@
 ---
 name: Shahzar
 team: Staff
-role: Lead GSI
+role: Lead TA
 email: shahzar
 photo: shahzar.jpg
 ---
