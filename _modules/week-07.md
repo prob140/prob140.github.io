@@ -10,7 +10,7 @@ Oct 3
 {% comment %}
 : **Lab**{: .label .label-lab } Lab 5: Multinomial Correlations
     : Due Oct 9 at 5PM
-{% comment %}
+{% endcomment %}
 
 Oct 4
 : **Section**{: .label .label-disc}
