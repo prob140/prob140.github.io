@@ -10,7 +10,7 @@ Nov 14
 {% comment %}
 : **Lab**{: .label .label-lab } Lab 8: Multivariate Normal
     : Due Nov 20 at 5PM
-{% comment %}
+{% endcomment %}
 
 Nov 15
 : **Section**{: .label .label-disc}
