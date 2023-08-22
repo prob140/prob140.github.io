@@ -7,7 +7,7 @@ Nov 14
     : Ch [22.3 - 22.4](http://prob140.org/textbook/content/Chapter_22/03_Variance_by_Conditioning.html)
 : **Homework**{: .label .label-hw } Homework 13
     : Due Nov 20 at 5PM
-: **Lab**{: .label .label-lab } Lab 8: Multivariate Normal
+: **Lab**{: .label .label-lab } Lab
     : Due Nov 20 at 5PM
 
 Nov 15

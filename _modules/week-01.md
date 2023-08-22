@@ -7,7 +7,7 @@ Aug 24
     : [Course Information](course-info), Ch [1](http://prob140.org/textbook/content/Chapter_01/00_Fundamentals.html), [2](http://prob140.org/textbook/content/Chapter_02/00_Calculating_Chances.html)
 : **Homework**{: .label .label-hw } Homework 1
     : Due Aug 28 at 5PM
-: **Lab**{: .label .label-lab } Lab 1: Birthday Attack
+: **Lab**{: .label .label-lab } Lab
     : Due Aug 28 at 5PM
 
 Aug 25

@@ -7,7 +7,7 @@ Sep 12
     : Ch [8.1 - 8.3](http://prob140.org/textbook/content/Chapter_08/00_Expectation.html)
 : **Homework**{: .label .label-hw } Homework 4
     : Due Sep 18 at 5PM
-: **Lab**{: .label .label-lab } Lab 3A: Chinese Restaurant Process
+: **Lab**{: .label .label-lab } Lab 
     : Due Sep 18 at 5PM
 
 Sep 13

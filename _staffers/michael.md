@@ -1,5 +1,5 @@
 ---
-name: Michaeo Xiao
+name: Michael Xiao
 team: Staff
 role: Lead TA
 email: michaelxiao1999

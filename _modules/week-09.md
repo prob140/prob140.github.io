@@ -7,7 +7,7 @@ Oct 17
     : Ch [16](http://prob140.org/textbook/content/Chapter_16/00_Transformations.html)
 : **Homework**{: .label .label-hw } Homework 9
     : Due Oct 23 at 5PM
-: **Lab**{: .label .label-lab } Lab 6B: Densities and SymPy
+: **Lab**{: .label .label-lab } Lab
     : Due Oct 23 at 5PM
 
 Oct 18

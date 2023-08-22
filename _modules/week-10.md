@@ -7,6 +7,8 @@ Oct 24
     : Ch [17](http://prob140.org/textbook/content/Chapter_17/00_Joint_Densities.html)
 : **Homework**{: .label .label-hw } Homework 10
     : Due Oct 30 at 5PM
+: **Lab**{: .label .label-lab} Lab
+    : Due Oct 30 at 5PM
 
 Oct 25
 : **Section**{: .label .label-disc}

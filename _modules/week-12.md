@@ -7,7 +7,7 @@ Nov 7
     : Ch [21](http://prob140.org/textbook/content/Chapter_21/00_The_Beta_and_the_Binomial.html)
 : **Homework**{: .label .label-hw } Homework 12
     : Due Nov 13 at 5PM
-: **Lab**{: .label .label-lab } Lab 7B: Poisson Process
+: **Lab**{: .label .label-lab } Lab
     : Due Nov 13 at 5PM
 
 Nov 8

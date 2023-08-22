@@ -11,7 +11,7 @@ Sep 26
     : Ch [10](http://prob140.org/textbook/content/Chapter_10/00_Markov_Chains.html), [11.1](http://prob140.org/textbook/content/Chapter_11/00_Markov_Chain_Monte_Carlo.html)
 : **Homework**{: .label .label-hw } Homework 6
     : Due Oct 2 at 5PM
-: **Lab**{: .label .label-lab } Lab 4: Code Breaking by MCMC
+: **Lab**{: .label .label-lab } Lab
     : Due Oct 2 at 5PM
 
 Sep 27

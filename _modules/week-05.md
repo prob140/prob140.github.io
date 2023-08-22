@@ -7,7 +7,7 @@ Sep 19
     : Ch [9](http://prob140.org/textbook/content/Chapter_09/00_Conditioning_Revisited.html)
 : **Homework**{: .label .label-hw } Homework 5
     : Due Sep 25 at 5PM
-: **Lab**{: .label .label-lab } Lab 3B: Chinese Restaurant Process
+: **Lab**{: .label .label-lab } Lab
     : Due Sep 25 at 5PM
 
 Sep 20
