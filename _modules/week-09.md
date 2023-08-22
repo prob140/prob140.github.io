@@ -10,7 +10,7 @@ Oct 17
 {% comment %}
 : **Lab**{: .label .label-lab } Lab 6B: Densities and SymPy
     : Due Oct 23 at 5PM
-{% comment %}
+{% endcomment %}
 
 Oct 18
 : **Section**{: .label .label-disc}
