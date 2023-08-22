@@ -11,8 +11,10 @@ Oct 31
     : Ch [19](http://prob140.org/textbook/content/Chapter_19/00_Distributions_of_Sums.html)
 : **Homework**{: .label .label-hw } Homework 11
     : Due Nov 6 at 5PM
-: **Lab**{: .label .label-lab } Lab
+{% comment %}
+: **Lab**{: .label .label-lab } Lab 7A: Poisson Process
     : Due Nov 6 at 5PM
+{% endcomment %}
 
 Nov 1
 : **Section**{: .label .label-disc}

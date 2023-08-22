@@ -7,8 +7,10 @@ Oct 10
     : Ch [14](http://prob140.org/textbook/content/Chapter_14/00_The_Central_Limit_Theorem.html)
 : **Homework**{: .label .label-hw } Homework 8
     : Due Oct 16 at 5PM
-: **Lab**{: .label .label-lab } Lab
+{% comment %}
+: **Lab**{: .label .label-lab } Lab 6A: Densities and SymPy
     : Due Oct 16 at 5PM
+{% endcomment %}
 
 Oct 11
 : **Section**{: .label .label-disc}

@@ -7,8 +7,10 @@ Oct 3
     : Ch [12](http://prob140.org/textbook/content/Chapter_12/00_Standard_Deviation.html)
 : **Homework**{: .label .label-hw } Homework 7
     : Due Oct 9 at 5PM
-: **Lab**{: .label .label-lab } Lab
+{% comment %}
+: **Lab**{: .label .label-lab } Lab 5: Multinomial Correlations
     : Due Oct 9 at 5PM
+{% comment %}
 
 Oct 4
 : **Section**{: .label .label-disc}
