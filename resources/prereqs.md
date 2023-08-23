@@ -50,8 +50,8 @@ Notice the distinction between *sequences* (orderings, or "arrangements in a lin
     <summary>
         Answer BC1
     </summary>
-    <b>a)</b> 720
-    <b>b)</b> 120
+    <b>a)</b> 720 <br>
+    <b>b)</b> 120 <br>
 </details>  
 
 
