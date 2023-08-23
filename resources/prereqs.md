@@ -65,8 +65,8 @@ Notice the distinction between *sequences* (orderings, or "arrangements in a lin
 
 <details>
     <summary>Answer BC2</summary>
-    <b>a)</b> 90
-    <b>b)</b> 45
+    <b>a)</b> 90 <br>
+    <b>b)</b> 45 <br>
     <b>c)</b> 80
 </details> 
 
@@ -106,39 +106,39 @@ $$
 
 $$
 \sum_{i=1}^{100} c_i ~=~ 10 ~~~~\mbox{and} ~~~~~
-\sum_{j=1}^{100} d_j ~=~ 20 
+\sum_{j=1}^{100} d_j ~=~ 20.
 $$
 
-**a)** Find the value of $$\sum_{i=1}^{100} (4c_i + 5)$$.
+**a)** Find the value of $$\displaystyle \sum_{i=1}^{100} (4c_i + 5)$$.
 
-**b)** Find the value of $$\sum_{i=1}^{100} 4c_i ~+~ 5$$.
+**b)** Find the value of $$\displaystyle \sum_{i=1}^{100} 4c_i ~+~ 5$$.
 
-**c)** Find the value of $$\sum_{i=1}^{100} (4c_i - d_i + 5)$$.
+**c)** Find the value of $$\displaystyle \sum_{i=1}^{100} (4c_i - d_i + 5)$$.
 
 **d)** True or false:
 
 $$
 \sum_{i=1}^{100} \sum_{j=1}^{100} (c_i + d_j) ~~=~~
-\sum_{i=1}^{100} (c_i + d_i)
+\sum_{i=1}^{100} (c_i + d_i).
 $$
 
 If the identity is true, find the common value of the two sides. If it is false, find the values of the two sides.
 
 <details>
     <summary>Answer S3</summary>
-    <b>a)</b> 540
-    <b>b)</b> 45
-    <b>c)</b> 520
-    <b>d)</b> False: \(\sum_{i=1}^{100} \sum_{j=1}^{100} (c_i + d_j)= 3000 \neq 30 = \sum_{i=1}^{100} (c_i + d_i)\)
+    <b>a)</b> 540 <br>
+    <b>b)</b> 45 <br>
+    <b>c)</b> 520 <br>
+    <b>d)</b> False: \(\displaystyle \sum_{i=1}^{100} \sum_{j=1}^{100} (c_i + d_j)= 3000 \neq 30 = \sum_{i=1}^{100} (c_i + d_i)\)
 </details> 
 
 **Exercise S4:** Fill in the blanks:
 
 $$
-\sum_{i=1}^n \sum_{j=i}^n a_{ij}  ~ = ~ \sum_{j = \underline{~~~}}^{\underline{~~~}} \sum_{i = \underline{~~~}}^{\underline{~~~}} a_{ij}
+\sum_{i=1}^n \sum_{j=i}^n a_{ij}  ~ = ~ \sum_{j = \underline{~~~}}^{\underline{~~~}} \sum_{i = \underline{~~~}}^{\underline{~~~}} a_{ij}.
 $$
 
-[It might help to draw a grid of all $$(i,j)$$ pairs for some small value of $$n$$.]
+[Hint: It might help to draw a grid of all $$(i,j)$$ pairs for some small value of $$n$$.]
 
 <details>
     <summary>Answer S4</summary>
@@ -171,13 +171,15 @@ $$
 
 <details>
     <summary>Answer I1</summary>
-    The key step is \(\displaystyle \sum_{i=1}^{n+1} i ~ = ~ \sum_{i=1}^n i ~+~ (n+1)\).
+    The key step is \(\displaystyle \sum_{i=1}^{n+1} i = \sum_{i=1}^n i + (n+1)\).
 </details> 
 
 **Exercise I2:** Apply I1 (no induction necessary) to find 
+
 $$
 \sum_{i=0}^{n-1} i.
 $$ 
+
 This is the form in which the result first appears in the course, in [Chapter 1](http://prob140.org/textbook/content/Chapter_01/05_An_Exponential_Approximation.html) of the textbook.
 
 **Exercise I3:** Use I1 and properties of sums (no induction necessary) to find a simple expression for the sum of the first $$n$$ ***odd*** integers:
@@ -207,7 +209,7 @@ You know that $$\log(1) = 0$$. What we're going to need, quite often, is an appr
 
 <details>
     <summary>Answer EL1</summary>
-    <b>a)</b> \(0.01\)
+    <b>a)</b> \(0.01\) <br>
     <b>b)</b> \(-0.01\)
 </details>  
 
@@ -230,19 +232,19 @@ You know that $$\log(1) = 0$$. What we're going to need, quite often, is an appr
 
 **Exercise EL4:** Computers can't do infinite sums (though they can get close numerically, and some symbolic math systems can handle many infinite sums). Find simple expressions for the following sums.
 
-**a)** $$\sum_{n=0}^{\infty} \frac{1}{n!}$$
+**a)** $$\displaystyle \sum_{n=0}^{\infty} \frac{1}{n!}$$
 
-**b)** $$\sum_{i=0}^{\infty} \frac{2^{3i}}{i!}$$
+**b)** $$\displaystyle \sum_{i=0}^{\infty} \frac{2^{3i}}{i!}$$
 
-**c)** $$\sum_{k=2}^{\infty} \frac{3^k}{k!}$$
+**c)** $$\displaystyle \sum_{k=2}^{\infty} \frac{3^k}{k!}$$
 
-**d)** $$\sum_{i=0}^\infty \frac{2^i}{(i+1)!}$$
+**d)** $$\displaystyle \sum_{i=0}^\infty \frac{2^i}{(i+1)!}$$
 
 <details>
     <summary>Answer EL4</summary>
-    <b>a)</b> \(e\)
-    <b>b)</b> \(e^8\)
-    <b>c)</b> \(e^3 - 4\)
+    <b>a)</b> \(e\) <br>
+    <b>b)</b> \(e^8\) <br> 
+    <b>c)</b> \(e^3 - 4\) <br>
     <b>d)</b> \(\frac{1}{2}(e^2 - 1)\)
 </details>  
 
@@ -252,19 +254,19 @@ We'll use the infinite series more frequently than the finite one, starting in [
 
 **Review:** The main results on Page 6 (Section 2.1) of [Prof. Aspnes notes](http://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf). Understand the derivation of the infinite sum. That way you'll never have to memorize the results.
 
-**Exercise GS1:** Let $$0 < p < 1$$. Let $$S = \sum_{i=0}^{\infty} p^i$$.
+**Exercise GS1:** Let $$0 < p < 1$$. Let $$\displaystyle S = \sum_{i=0}^{\infty} p^i$$.
 
 **a)** Find $$S$$.
 
-**b)** Replace the $$?$$ with the appropriate factor: $$\sum_{i=3}^{\infty} p^i ~ = ~ ? \cdot S$$. Hence find $$\sum_{i=3}^{\infty} p^i$$.
+**b)** Replace the $$?$$ with the appropriate factor: $$\displaystyle \sum_{i=3}^{\infty} p^i  = ? \cdot S$$. Hence find $$\displaystyle \sum_{i=3}^{\infty} p^i$$.
 
-**c)** Find $$\sum_{i=0}^{\infty} p^{3i}$$.
+**c)** Find $$\displaystyle \sum_{i=0}^{\infty} p^{3i}$$.
 
 <details>
     <summary>Answer GS1</summary>
-    a) \(\frac{1}{1-p}\)
-    b) The factor is \(p^3\) so the sum is \(\frac{p^3}{1-p}\)
-    c) \(\frac{1}{1-p^3}\)
+    <b>a)</b> \(\dfrac{1}{1-p}\)
+    <b>b)</b> The factor is \(p^3\) so the sum is \(\dfrac{p^3}{1-p}\)
+    <b>c)</b> \(\dfrac{1}{1-p^3}\)
 </details>  
 
 ## Chapters 10-11 ##
