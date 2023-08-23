@@ -264,8 +264,8 @@ We'll use the infinite series more frequently than the finite one, starting in [
 
 <details>
     <summary>Answer GS1</summary>
-    <b>a)</b> \(\dfrac{1}{1-p}\)
-    <b>b)</b> The factor is \(p^3\) so the sum is \(\dfrac{p^3}{1-p}\)
+    <b>a)</b> \(\dfrac{1}{1-p}\) <br>
+    <b>b)</b> The factor is \(p^3\) so the sum is \(\dfrac{p^3}{1-p}\) <br>
     <b>c)</b> \(\dfrac{1}{1-p^3}\)
 </details>  
 
