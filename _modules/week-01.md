@@ -8,10 +8,8 @@ Aug 24
 : **Guide**{: .label .label-guide } [Week 1](/assets/guides/week01.pdf)
 : **Homework**{: .label .label-hw } Homework 1
     : Due Aug 28 at 5PM
-{% comment %}
 : **Lab**{: .label .label-lab } Lab 1: Birthday Attack
     : Due Aug 28 at 5PM
-{% endcomment %}
 
 Aug 25
 : **Mega-Section**{: .label .label-disc}
