@@ -6,7 +6,7 @@ description: Information about how the course is run.
 ---
 
 # Course Information
-#### Ani Adhikari and Alex Strang ####
+#### Ani Adhikari and Alexander Strang ####
 {:.no_toc}
 
 ## Table of Contents
