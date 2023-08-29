@@ -22,7 +22,7 @@ UC Berkeley, Fall 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-1-introduction){: .btn } 
+[**Jump to current week**](#week-2-random-variables-and-symmetry){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
