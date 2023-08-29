@@ -2,14 +2,16 @@
 title: 'Week 2: Random Variables and Symmetry'
 ---
 
-Aug 29
-: **Lecture**{: .label .label-lecture } Random variables: distributions, equality, conditioning
-    : Ch [3](http://prob140.org/textbook/content/Chapter_03/00_Random_Variables.html), [4](http://prob140.org/textbook/content/Chapter_04/00_Relations_Between_Variables.html)
-: **Guide**{: .label .label-guide } [Week 2](/assets/guides/week02.pdf)
+Aug 28
 : **Homework**{: .label .label-hw } Homework 2
     : Due Sep 5 at 12 noon
 : **Lab**{: .label .label-lab } Lab 2A: Total Variation Distance
     : Due Sep 5 at 12 noon
+
+Aug 29
+: **Lecture**{: .label .label-lecture } Random variables: distributions, equality, conditioning
+    : Ch [3](http://prob140.org/textbook/content/Chapter_03/00_Random_Variables.html), [4](http://prob140.org/textbook/content/Chapter_04/00_Relations_Between_Variables.html)
+: **Guide**{: .label .label-guide } [Week 2](/assets/guides/week02.pdf)
 
 Aug 30
 : **Section**{: .label .label-disc}
