@@ -13,6 +13,5 @@ Aug 24
 
 Aug 25
 : **Mega-Section**{: .label .label-disc}
-    : Ch [1 Ex 7, 4](http://prob140.org/textbook/content/Chapter_01/06_Exercises.html); Ch [2 Ex 8](http://prob140.org/textbook/content/Chapter_02/06_Exercises.html)
 
 
