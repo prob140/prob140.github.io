@@ -3,6 +3,7 @@ title: 'Week 3: Random Counts'
 ---
 
 Sep 5
+: **Guide**{: .label .label-guide } [Week 3](/assets/guides/week03.pdf)
 : **Lecture**{: .label .label-lecture } Binomial and related counts; a Poisson limit
     : Ch [6](http://prob140.org/textbook/content/Chapter_06/00_Random_Counts.html)
 : **Homework**{: .label .label-hw } Homework 3
