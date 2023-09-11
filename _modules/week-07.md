@@ -2,15 +2,17 @@
 title: 'Week 7: Variance and Tail Bounds'
 ---
 
-Oct 3
-: **Lecture**{: .label .label-lecture } Standard deviation and tail bounds
-    : Ch [12](http://prob140.org/textbook/content/Chapter_12/00_Standard_Deviation.html)
+Oct 2
 : **Homework**{: .label .label-hw } Homework 7
     : Due Oct 9 at 5PM
 {% comment %}
 : **Lab**{: .label .label-lab } Lab 5: Multinomial Correlations
     : Due Oct 9 at 5PM
 {% endcomment %}
+
+Oct 3
+: **Lecture**{: .label .label-lecture } Standard deviation and tail bounds
+    : Ch [12](http://prob140.org/textbook/content/Chapter_12/00_Standard_Deviation.html)
 
 Oct 4
 : **Section**{: .label .label-disc}

@@ -2,15 +2,16 @@
 title: 'Week 4: Expectation'
 ---
 
+Sep 11
+: **Guide**{: .label .label-guide } [Week 4](/assets/guides/week04.pdf)
+: **Homework**{: .label .label-hw } Homework 4
+    : Due Sep 18 at 5PM
+: **Lab**{: .label .label-lab } Lab 3A: Chinese Restaurant Process
+    : Due Sep 18 at 5PM
+
 Sep 12
 : **Lecture**{: .label .label-lecture } Expectation
     : Ch [8.1 - 8.3](http://prob140.org/textbook/content/Chapter_08/00_Expectation.html)
-: **Homework**{: .label .label-hw } Homework 4
-    : Due Sep 18 at 5PM
-{% comment %}
-: **Lab**{: .label .label-lab } Lab 3A: Chinese Restaurant Process
-    : Due Sep 18 at 5PM
-{% endcomment %}
 
 Sep 13
 : **Section**{: .label .label-disc}

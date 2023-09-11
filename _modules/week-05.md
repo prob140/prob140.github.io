@@ -2,15 +2,17 @@
 title: 'Week 5: Conditioning and Markov Chains'
 ---
 
-Sep 19
-: **Lecture**{: .label .label-lecture } Expectation by conditioning
-    : Ch [9](http://prob140.org/textbook/content/Chapter_09/00_Conditioning_Revisited.html)
+Sep 18
 : **Homework**{: .label .label-hw } Homework 5
     : Due Sep 25 at 5PM
 {% comment %}
 : **Lab**{: .label .label-lab } Lab 3B: Chinese Restaurant Process
     : Due Sep 25 at 5PM
 {% endcomment %}
+
+Sep 19
+: **Lecture**{: .label .label-lecture } Expectation by conditioning
+    : Ch [9](http://prob140.org/textbook/content/Chapter_09/00_Conditioning_Revisited.html)
 
 Sep 20
 : **Section**{: .label .label-disc}
