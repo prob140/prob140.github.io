@@ -8,7 +8,7 @@ Sep 5
     : Ch [6](http://prob140.org/textbook/content/Chapter_06/00_Random_Counts.html)
 : **Homework**{: .label .label-hw } [Homework 3](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=hw/Homework_03.ipynb)
     : Due Sep 11 at 5PM
-: **Lab**{: .label .label-lab } [Lab 2A: Total Variation](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=lab/Lab_02.ipynb)
+: **Lab**{: .label .label-lab } [Lab 2B: Total Variation](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=lab/Lab_02.ipynb)
     : Due Sep 11 at 5PM
 
 Sep 6
