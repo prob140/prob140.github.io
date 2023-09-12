@@ -4,7 +4,7 @@ title: 'Week 10: The Beta, Normal, and Gamma Families'
 
 Oct 23
 : **Homework**{: .label .label-hw } Homework 10
-    : Due Oct 30 at 5PM
+    : Due Oct 30 at 12 **noon**
 
 Oct 24
 : **Lecture**{: .label .label-lecture } Joint densities

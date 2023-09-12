@@ -4,11 +4,9 @@ title: 'Week 5: Conditioning and Markov Chains'
 
 Sep 18
 : **Homework**{: .label .label-hw } Homework 5
-    : Due Sep 25 at 5PM
-{% comment %}
+    : Due Sep 25 at 12 **noon**
 : **Lab**{: .label .label-lab } Lab 3B: Chinese Restaurant Process
-    : Due Sep 25 at 5PM
-{% endcomment %}
+    : Due Sep 25 at 12 **noon**
 
 Sep 19
 : **Lecture**{: .label .label-lecture } Expectation by conditioning
