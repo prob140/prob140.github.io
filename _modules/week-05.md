@@ -3,6 +3,7 @@ title: 'Week 5: Conditioning and Markov Chains'
 ---
 
 Sep 18
+: **Guide**{: .label .label-guide } [Week 5](/assets/guides/week05.pdf)
 : **Homework**{: .label .label-hw } Homework 5
     : Due Sep 25 at 12 **noon**
 : **Lab**{: .label .label-lab } Lab 3B: Chinese Restaurant Process
