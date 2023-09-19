@@ -7,7 +7,6 @@ description: Scope for Midterm 1.
 # Material for Midterm 1 #
 #### A. Adhikari, A. Strang ####
 
-# Material for Midterm 1 #
 Midterm 1 is on Monday 9/25 from 7:10 PM to 8:40 PM. This is a summary of the material for the exam, grouped by main topic. **Boldface** has been reserved for topics that we consider to be **core material** for understanding the rest of the course.
 
 The general techniques are in the sections Probability, Distribution, and Expectation. The Random Counts section consists of applications. 
