@@ -22,7 +22,7 @@ UC Berkeley, Fall 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-7-variance-and-tail-bound){: .btn } 
+[**Jump to current week**](#week-7-variance-and-tail-bounds){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
