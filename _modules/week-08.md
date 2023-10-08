@@ -3,6 +3,7 @@ title: 'Week 8: Central Limit Theorem and Densities'
 ---
 
 Oct 9
+: **Guide**{: .label .label-guide } [Week 8](/assets/guides/week08.pdf)
 : **Homework**{: .label .label-hw } Homework 8
     : Due Oct 16 at 5PM
 {% comment %}
