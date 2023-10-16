@@ -3,6 +3,7 @@ title: 'Week 9: Transformations and Joint Densities'
 ---
 
 Oct 16
+: **Guide**{: .label .label-guide } [Week 9](/assets/guides/week09.pdf)
 : **Homework**{: .label .label-hw } Homework 9
     : Due Oct 23 at 5PM
 {% comment %}
