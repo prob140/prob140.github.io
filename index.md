@@ -22,7 +22,7 @@ UC Berkeley, Fall 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-6-markov-chain-monte-carlo){: .btn } 
+[**Jump to current week**](#week-9-transformations-and-joint-densities){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}

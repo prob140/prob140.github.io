@@ -3,12 +3,11 @@ title: 'Week 8: Central Limit Theorem and Densities'
 ---
 
 Oct 9
-: **Homework**{: .label .label-hw } Homework 8
+: **Guide**{: .label .label-guide } [Week 8](/assets/guides/week08.pdf)
+: **Homework**{: .label .label-hw } [Homework 8](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=hw/Homework_08.ipynb)
     : Due Oct 16 at 5PM
-{% comment %}
-: **Lab**{: .label .label-lab } Lab 6A: Densities and SymPy
+: **Lab**{: .label .label-lab } [Lab 6A: Densities and SymPy](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=lab/Lab_06.ipynb)
     : Due Oct 16 at 5PM
-{% endcomment %}
 
 Oct 10
 : **Lecture**{: .label .label-lecture } Central Limit Theorem
