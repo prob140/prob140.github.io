@@ -7,7 +7,7 @@ Oct 23
     : Due Oct 30 at 12 **noon**
 
 Oct 24
-: **Lecture**{: .label .label-lecture } Independent normal and gamma variables
+: **Lecture**{: .label .label-lecture } Joint distributions; sums of normal and gamma variables
     : Ch [17](http://prob140.org/textbook/content/Chapter_17/00_Joint_Densities.html)
 
 Oct 25
