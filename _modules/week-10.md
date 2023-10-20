@@ -14,7 +14,7 @@ Oct 25
 : **Section**{: .label .label-disc}
 
 Oct 26
-: **Lecture**{: .label .label-lecture} Introduction to moment generating functions
+: **Lecture**{: .label .label-lecture} Moment generating functions
     : Ch [18](http://prob140.org/textbook/content/Chapter_18/00_The_Normal_and_Gamma_Families.html)
 
 Oct 27
