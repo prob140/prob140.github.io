@@ -22,7 +22,7 @@ description: Resources and references for the class.
 ### Main Probability References
 - [Prob 140 Textbook](/textbook)
 - [Problem Solving FAQ](faq) 
-- [Final Exam Reference](/assets/references/final_reference_fa18.pdf)
+- [Final Exam Reference](/assets/references/final_reference_fa23.pdf)
 
 ### Python References
 - [prob140 library reference](http://prob140.org/prob140/)
