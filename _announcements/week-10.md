@@ -1,7 +1,7 @@
 ---
-title: Week 9
-week: 9
-date: 2023-10-16
+title: Week 10
+week: 10
+date: 2023-10-23
 ---
 
 - The [Week 10 Study Guide](/assets/guides/week10.pdf) has been released.
