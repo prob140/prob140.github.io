@@ -3,6 +3,7 @@ title: 'Week 12: The Beta and the Binomial; Prediction'
 ---
 
 Nov 6
+: **Guide**{: .label .label-guide } [Week 12](/assets/guides/week12.pdf)
 : **Homework**{: .label .label-hw } Homework 12
     : Due Nov 13 at 5PM
 {% comment %}
