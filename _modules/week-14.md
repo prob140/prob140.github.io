@@ -3,6 +3,7 @@ title: 'Week 14: Simple Regression'
 ---
 
 Nov 20
+: **Guide**{: .label .label-guide } [Week 14](/assets/guides/week14.pdf)
 : **Homework**{: .label .label-hw } Homework 14
     : Due Nov 27 at 5PM
 
