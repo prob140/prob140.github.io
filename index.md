@@ -22,7 +22,7 @@ UC Berkeley, Fall 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-13-variance-by-conditioning-and-random-vectors){: .btn } 
+[**Jump to current week**](#week-14-simple-regression){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
