@@ -3,6 +3,7 @@ title: 'Week 15: Multiple Regression'
 ---
 
 Nov 27
+: **Guide**{: .label .label-guide } [Week 15](/assets/guides/week15.pdf)
 : **Homework**{: .label .label-hw } Homework 15
     : Due Dec 4 at 5PM
 
