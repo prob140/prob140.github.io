@@ -3,12 +3,11 @@ title: 'Week 13: Variance by Conditioning and Random Vectors'
 ---
 
 Nov 13
-: **Homework**{: .label .label-hw } Homework 13
+: **Guide**{: .label .label-guide } [Week 13](/assets/guides/week13.pdf)
+: **Homework**{: .label .label-hw } [Homework 13](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=hw/Homework_13.ipynb)
     : Due Nov 20 at 5PM
-{% comment %}
-: **Lab**{: .label .label-lab } Lab 8: Multivariate Normal
+: **Lab**{: .label .label-lab } [Lab 8: Multivariate Normal](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=lab/Lab_08.ipynb)
     : Due Nov 20 at 5PM
-{% endcomment %}
 
 Nov 14
 : **Lecture**{: .label .label-lecture } Variance by conditioning

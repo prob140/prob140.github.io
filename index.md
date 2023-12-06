@@ -22,7 +22,7 @@ UC Berkeley, Fall 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-12-the-beta-and-the-binomial-prediction){: .btn } 
+[**Jump to current week**](#week-15-multiple-regression){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
