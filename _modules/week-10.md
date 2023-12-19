@@ -4,7 +4,7 @@ title: 'Week 10: The Beta, Normal, and Gamma Families'
 
 Oct 23
 : **Guide**{: .label .label-guide } [Week 10](/assets/guides/week10.pdf)
-: **Homework**{: .label .label-hw } [Homework 10](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=hw/Homework_10.ipynb)
+: **Homework**{: .label .label-hw } Homework 10
     : Due Oct 30 at 12 **noon**
 
 Oct 24

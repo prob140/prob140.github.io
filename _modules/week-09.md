@@ -4,9 +4,9 @@ title: 'Week 9: Transformations and Joint Densities'
 
 Oct 16
 : **Guide**{: .label .label-guide } [Week 9](/assets/guides/week09.pdf)
-: **Homework**{: .label .label-hw } [Homework 9](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=hw/Homework_09.ipynb)
+: **Homework**{: .label .label-hw } Homework 9
     : Due Oct 23 at 5PM
-: **Lab**{: .label .label-lab } [Lab 6B: Densities and SymPy](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=lab/Lab_06.ipynb)
+: **Lab**{: .label .label-lab } Lab 6B: Densities and SymPy
     : Due Oct 23 at 5PM
 
 Oct 17

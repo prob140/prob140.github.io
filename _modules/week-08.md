@@ -4,9 +4,9 @@ title: 'Week 8: Central Limit Theorem and Densities'
 
 Oct 9
 : **Guide**{: .label .label-guide } [Week 8](/assets/guides/week08.pdf)
-: **Homework**{: .label .label-hw } [Homework 8](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=hw/Homework_08.ipynb)
+: **Homework**{: .label .label-hw } Homework 8
     : Due Oct 16 at 5PM
-: **Lab**{: .label .label-lab } [Lab 6A: Densities and SymPy](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa23&branch=main&subPath=lab/Lab_06.ipynb)
+: **Lab**{: .label .label-lab } Lab 6A: Densities and SymPy
     : Due Oct 16 at 5PM
 
 Oct 10
