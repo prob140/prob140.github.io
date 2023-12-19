@@ -108,7 +108,7 @@ All of these will be in person and proctored.
 
 - **Midterm 1** on Monday September 25, starting at 7PM and ending by 9PM, rooms TBA
 - **Midterm 2** on Monday October 30, starting at 7PM and ending by 9PM, rooms TBA
-- **Final Exam** on Friday December 15, 7PM to 10PM, Exam Group 20, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
+- **Final Exam** on Friday December 15, 7PM to 9PM, Exam Group 20, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
 
 There will be **no alternate exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the midterm and the final.
 
