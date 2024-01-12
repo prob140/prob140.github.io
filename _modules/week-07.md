@@ -1,24 +1,21 @@
 ---
-title: 'Week 7: Variance and Tail Bounds'
+title: 'Week 7: Covariance and CLT'
 ---
 
-Oct 2
-: **Guide**{: .label .label-guide } [Week 7](/assets/guides/week07.pdf)
+Feb 26
 : **Homework**{: .label .label-hw } Homework 7
-    : Due Oct 9 at 5PM
-: **Lab**{: .label .label-lab } Lab 5: Multinomial Correlations
-    : Due Oct 9 at 5PM
+    : Due Mar 4 at 5PM
 
-Oct 3
-: **Lecture**{: .label .label-lecture } Standard deviation and tail bounds
-    : Ch [12](http://prob140.org/textbook/content/Chapter_12/00_Standard_Deviation.html)
-
-Oct 4
-: **Section**{: .label .label-disc}
-
-Oct 5
+Feb 27
 : **Lecture**{: .label .label-lecture} Covariance and its uses
     : Ch [13](http://prob140.org/textbook/content/Chapter_13/00_Variance_Via_Covariance.html)
 
-Oct 6
+Feb 28
+: **Section**{: .label .label-disc}
+
+Feb 29
+: **Lecture**{: .label .label-lecture } Central Limit Theorem
+    : Ch [14](http://prob140.org/textbook/content/Chapter_14/00_The_Central_Limit_Theorem.html)
+
+Mar 1
 : **Mega-Section**{: .label .label-disc}

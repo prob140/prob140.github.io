@@ -1,27 +1,19 @@
 ---
-title: 'Week 6: Markov Chain Monte Carlo'
+title: 'Week 6: MCMC and Variance'
 ---
 
-Sep 25
-: **Exam**{: .label .label-exam } Midterm 1
-    : **7PM - 9PM**
-
-Sep 26
-: **Guide**{: .label .label-guide } [Week 6](/assets/guides/week06.pdf)
+Feb 20
 : **Homework**{: .label .label-hw } Homework 6
-    : Due Oct 2 at 5PM
-: **Lab**{: .label .label-lab } Lab 4: Code Breaking by MCMC
-    : Due Oct 2 at 5PM
-: **Lecture**{: .label .label-lecture } Balance
-    : Ch [10](http://prob140.org/textbook/content/Chapter_10/00_Markov_Chains.html), [11.1](http://prob140.org/textbook/content/Chapter_11/00_Markov_Chain_Monte_Carlo.html)
-
-
-Sep 27
-: **Section**{: .label .label-disc}
-
-Sep 28
+    : Due Feb 26 at 5PM
 : **Lecture**{: .label .label-lecture} Markov Chain Monte Carlo
     : Ch [11.2 - 11.3](http://prob140.org/textbook/content/Chapter_11/02_Code_Breaking.html)
 
-Sep 29
+Feb 21
+: **Section**{: .label .label-disc}
+
+Feb 22
+: **Lecture**{: .label .label-lecture } Standard deviation and tail bounds
+    : Ch [12](http://prob140.org/textbook/content/Chapter_12/00_Standard_Deviation.html)
+
+Feb 23
 : **Mega-Section**{: .label .label-disc}

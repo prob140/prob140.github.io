@@ -2,17 +2,14 @@
 title: 'Week 16: Reading, Review, Recitation'
 ---
 
-Apr 29
+Dec 5
 : *RRR Week*
 
-Apr 30
+Dec 6
 : *RRR Week*
 
-May 1
+Dec 7
 : *RRR Week*
 
-May 2
-: *RRR Week*
-
-May 3
+Dec 8
 : *RRR Week*

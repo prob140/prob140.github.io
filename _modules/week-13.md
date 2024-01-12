@@ -1,24 +1,21 @@
 ---
-title: 'Week 13: Variance by Conditioning and Random Vectors'
+title: 'Week 13: Prediction and Error'
 ---
 
-Nov 13
-: **Guide**{: .label .label-guide } [Week 13](/assets/guides/week13.pdf)
-: **Homework**{: .label .label-hw } Homework 13
-    : Due Nov 20 at 5PM
-: **Lab**{: .label .label-lab } Lab 8: Multivariate Normal
-    : Due Nov 20 at 5PM
+Apr 8
+: **Homework**{: .label .label-hw } Homework 12
+    : Due Apr 15 at 5PM
 
-Nov 14
+Apr 9
+: **Lecture**{: .label .label-lecture} Prediction and error
+    : Ch [22.1 - 22.2](http://prob140.org/textbook/content/Chapter_22/00_Prediction.html)
+
+Apr 10
+: **Section**{: .label .label-disc}
+
+Apr 11
 : **Lecture**{: .label .label-lecture } Variance by conditioning
     : Ch [22.3 - 22.4](http://prob140.org/textbook/content/Chapter_22/03_Variance_by_Conditioning.html)
 
-Nov 15
-: **Section**{: .label .label-disc}
-
-Nov 16
-: **Lecture**{: .label .label-lecture} Random vectors; the multivariate normal
-    : Ch [23](http://prob140.org/textbook/content/Chapter_23/00_Multivariate_Normal_RVs.html)
-
-Nov 17
+Apr 12
 : **Mega-Section**{: .label .label-disc}

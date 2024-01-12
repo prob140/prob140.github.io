@@ -1,24 +1,21 @@
 ---
-title: 'Week 12: The Beta and the Binomial; Prediction'
+title: 'Week 12: MLE, MAP, the Beta and the Binomial'
 ---
 
-Nov 6
-: **Guide**{: .label .label-guide } [Week 12](/assets/guides/week12.pdf)
-: **Homework**{: .label .label-hw } Homework 12
-    : Due Nov 13 at 5PM
-: **Lab**{: .label .label-lab } Lab 7B: Poisson Process
-    : Due Nov 13 at 5PM
+Apr 1
+: **Homework**{: .label .label-hw } Homework 11
+    : Due Apr 8 at 5PM
 
-Nov 7
+Apr 2
+: **Lecture**{: .label .label-lecture} MLE; conditioning; MAP estimates
+    : Ch [20](http://prob140.org/textbook/content/Chapter_20/00_Approaches_to_Estimation.html)
+
+Apr 3
+: **Section**{: .label .label-disc}
+
+Apr 4
 : **Lecture**{: .label .label-lecture } The beta and the binomial
     : Ch [21](http://prob140.org/textbook/content/Chapter_21/00_The_Beta_and_the_Binomial.html)
 
-Nov 8
-: **Section**{: .label .label-disc}
-
-Nov 9
-: **Lecture**{: .label .label-lecture} Prediction and error
-    : Ch [22.1 - 22.2](http://prob140.org/textbook/content/Chapter_22/00_Prediction.html)
-
-Nov 10
-: *Veterans Day Holiday*
+Apr 5
+: **Mega-Section**{: .label .label-disc}

@@ -1,24 +1,21 @@
 ---
-title: 'Week 8: Central Limit Theorem and Densities'
+title: 'Week 8: Densities and Transformations'
 ---
 
-Oct 9
-: **Guide**{: .label .label-guide } [Week 8](/assets/guides/week08.pdf)
+Mar 4
 : **Homework**{: .label .label-hw } Homework 8
-    : Due Oct 16 at 5PM
-: **Lab**{: .label .label-lab } Lab 6A: Densities and SymPy
-    : Due Oct 16 at 5PM
+    : Due Mar 11 at 5PM
 
-Oct 10
-: **Lecture**{: .label .label-lecture } Central Limit Theorem
-    : Ch [14](http://prob140.org/textbook/content/Chapter_14/00_The_Central_Limit_Theorem.html)
-
-Oct 11
-: **Section**{: .label .label-disc}
-
-Oct 12
+Mar 5
 : **Lecture**{: .label .label-lecture} Probability densities
     : Ch [15](http://prob140.org/textbook/content/Chapter_15/00_Continuous_Distributions.html)
 
-Oct 13
+Mar 6
+: **Section**{: .label .label-disc}
+
+Mar 7
+: **Lecture**{: .label .label-lecture } Transformations
+    : Ch [16](http://prob140.org/textbook/content/Chapter_16/00_Transformations.html)
+
+Mar 8
 : **Mega-Section**{: .label .label-disc}

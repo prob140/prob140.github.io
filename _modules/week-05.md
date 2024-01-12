@@ -1,24 +1,23 @@
 ---
-title: 'Week 5: Conditioning and Markov Chains'
+title: 'Week 5: Markov Chains'
 ---
 
-Sep 18
-: **Guide**{: .label .label-guide } [Week 5](/assets/guides/week05.pdf)
+Feb 12
+: **Exam**{: .label .label-exam } Midterm 1
+    : **7PM - 9PM**
+
+Feb 13
 : **Homework**{: .label .label-hw } Homework 5
-    : Due Sep 25 at 12 **noon**
-: **Lab**{: .label .label-lab } Lab 3B: Chinese Restaurant Process
-    : Due Sep 25 at 12 **noon**
-
-Sep 19
-: **Lecture**{: .label .label-lecture } Expectation by conditioning
-    : Ch [9](http://prob140.org/textbook/content/Chapter_09/00_Conditioning_Revisited.html)
-
-Sep 20
-: **Section**{: .label .label-disc}
-
-Sep 21
+    : Due Feb 20 at 12 **noon**
 : **Lecture**{: .label .label-lecture} Long run behavior of Markov chains
     : Ch [10](http://prob140.org/textbook/content/Chapter_10/00_Markov_Chains.html)
 
-Sep 22
+Feb 14
+: **Section**{: .label .label-disc}
+
+Feb 15
+: **Lecture**{: .label .label-lecture } Balance
+    : Ch [10](http://prob140.org/textbook/content/Chapter_10/00_Markov_Chains.html), [11.1](http://prob140.org/textbook/content/Chapter_11/00_Markov_Chain_Monte_Carlo.html)
+
+Feb 16
 : **Mega-Section**{: .label .label-disc}
