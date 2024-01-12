@@ -1,9 +1,0 @@
----
-name: Claire Ding
-team: Staff
-role: Tutor
-email: jding25
-photo: claireding.jpg
----
-
-Hiiiii! I'm a junior studying CS and DS. In my free time, I like to drink coffee and sleep :D.  Can't wait to meet you all!
