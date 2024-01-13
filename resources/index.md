@@ -14,6 +14,7 @@ description: Resources and references for the class.
 {:toc}
 
 ### Mathematics Prerequisites
+- This [page](fluency) explains what is meant by "math fluency" in Data 140.
 - Math prereqs by chapter, summaries, and some exercises are [here](prereqs). 
 
 ### Inference and Python Prerequisites
