@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Information, Spring 2024
+title: Course Information
 nav_order: 4
 description: Information about how the course is run.
 ---
@@ -15,7 +15,7 @@ description: Information about how the course is run.
 - TOC
 {:toc}
 
-Welcome to Data 140! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](about) the class. 
+Welcome to Data 140, Spring 2024! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](about) the class. 
 
 Enrolled and waitlisted students will be added to our **Ed** forum. 
 
