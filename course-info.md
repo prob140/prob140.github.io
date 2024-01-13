@@ -25,13 +25,13 @@ Data 140 is an academic community; Ed is a formal, academic space. We must demon
 
 ## Videos, Textbook, and Lectures ##
 
-The textbook is [*Probability for Data Science*](http://prob140.org/textbook) by Ani Adhikari and Jim Pitman.
+The textbook is [*Probability for Data Science*](textbook) by Ani Adhikari and Jim Pitman.
 
 **Videos are embedded in the textbook**. For access, use your CalNet credentials to open YouTube. The videos consist of explanations of selected portions of the written text, typically those that require detailed calculation or discussion. 
 
 There's more in the written text that you are expected to work through. In fact, you can learn the material by studying only the written text, as many students have done in the past.
 
-The lectures are versions of the textbook content and videos. They will follow the textbook sections in sequence according to the calendar on the [homepage](http://prob140.org/). Students are expected to attend. Lectures are partly driven by conversation that arises from students' questions and responses, and the examples used in lecture might be different from those in the textbook. 
+The lectures are versions of the textbook content and videos. They will follow the textbook sections in sequence according to the calendar on the [homepage](index). Students are expected to attend. Lectures are partly driven by conversation that arises from students' questions and responses, and the examples used in lecture might be different from those in the textbook. 
 
 Lectures will not assume that you have already worked through the content of the lecture. However, many students have found it useful to at least skim the relevant sections before coming to lecture. The most common approaches among students who did well in past semesters:
 
@@ -40,7 +40,7 @@ Lectures will not assume that you have already worked through the content of the
 - Attend lectures and work through the textbook carefully and regularly, skipping the embedded videos. This is an efficient method for students who can follow written math pretty fluently.
 - Attend lectures sporadically or hardly at all, but work through the textbook carefully and regularly, using the embedded videos when necessary. This requires significant personal discipline and abstract math skills, and is the least common approach among students who did well.
 
-Over the semester, almost all students become more [fluent](http://prob140.org/fluency/) at math. You will learn best by working out the calculations yourself as you watch or read, and by trying the Quick Check questions and some of the chapter exercises. Though it might seem as though this will take too long, you will find that a good grasp of the weekly content will speed up your work on assignments. 
+Over the semester, almost all students become more [fluent](resources/fluency) at math. You will learn best by working out the calculations yourself as you watch or read, and by trying the Quick Check questions and some of the chapter exercises. Though it might seem as though this will take too long, you will find that a good grasp of the weekly content will speed up your work on assignments. 
 
 
 ## Helpful References ##
@@ -62,7 +62,7 @@ The Study Guide is designed to help you distribute your work effectively over th
 
 
 ## Attendance ##
-As past students have advised in [Study Tips](http://prob140.org/tips/), it is important to work regularly. This is not a bingeable class. 
+As past students have advised in [Study Tips](tips), it is important to work regularly. This is not a bingeable class. 
 
 Attending all lectures and sections is an excellent way of working regularly. We don't take attendance. Instead, we work hard to make each session effective for learning. 
 
@@ -79,7 +79,7 @@ A typical week includes the following sessions. All sessions are in person and s
 
 Sections and mega-sections will be conversations about exercises and may sometimes include portions of the weekly lab. They will cover how to select appropriate methods, similarities and differences between exercises, etc. **You are expected to attend both the discussion section the mega-section in which you are enrolled**. You cannot attend other sections.
 - Assignment "parties" (work sessions with staff support) on Fridays 2PM to 4PM; other times TBA
-- Office hours by the instructors and the course staff, days and times reflected on the [Weekly Schedule] (http://prob140.org/weekly/).
+- Office hours by the instructors and the course staff, days and times reflected on the [Weekly Schedule] (weekly).
  
 A few weeks into the term, we will start the Optional Supplemental Sections. These typically cover "catch up" content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Enrolling in these sections is optional and will be by application. 
 
