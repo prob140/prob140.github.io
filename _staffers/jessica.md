@@ -1,7 +1,7 @@
 ---
 name: Jessica Golden
 team: Staff
-role: Logistics Lead
+role: Logistics Lead TA
 email: jessicagolden
 photo: jessica.jpg
 ---
