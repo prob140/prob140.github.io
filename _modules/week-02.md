@@ -9,6 +9,7 @@ Jan 22
 Jan 23
 : **Lecture**{: .label .label-lecture} Symmetry and collections of events
     : Ch [5](http://prob140.org/textbook/content/Chapter_05/00_Collections_of_Events.html)
+: **Guide**{: .label .label-guide } [Week 2](/assets/guides/spring24/week02.pdf)
 
 Jan 24
 : **Section**{: .label .label-disc}
