@@ -3,6 +3,7 @@ title: 'Week 3: Poissonization and Expectation'
 ---
 
 Jan 29
+: **Guide**{: .label .label-guide } [Week 3](/assets/guides/spring24/week03.pdf)
 : **Homework**{: .label .label-hw } Homework 3
     : Due Feb 5 at 5PM
     
