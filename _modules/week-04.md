@@ -3,6 +3,7 @@ title: 'Week 4: Expectation and Conditioning'
 ---
 
 Feb 5
+: **Guide**{: .label .label-guide } [Week 4](/assets/guides/spring24/week04.pdf)
 : **Homework**{: .label .label-hw } Homework 4
     : Due Feb 12 at 12 **noon**
 
