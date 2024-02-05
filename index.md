@@ -22,7 +22,7 @@ UC Berkeley, Spring 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-3-poissonization-and-expectation){: .btn } 
+[**Jump to current week**](#week-4-expectation-and-conditioning){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
