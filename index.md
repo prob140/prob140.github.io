@@ -22,7 +22,7 @@ UC Berkeley, Spring 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-4-expectation-and-conditioning){: .btn } 
+[**Jump to current week**](#week-5-markov-chains){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
