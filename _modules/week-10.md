@@ -17,6 +17,3 @@ Mar 20
 Mar 21
 : **Lecture**{: .label .label-lecture } Moment generating functions; Chernoff bound
     : Ch [19](http://prob140.org/textbook/content/Chapter_19/00_Distributions_of_Sums.html)    
-
-Mar 22
-: **Mega-Section**{: .label .label-disc}
