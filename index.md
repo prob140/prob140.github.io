@@ -22,7 +22,7 @@ UC Berkeley, Spring 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-6-mcmc-and-variance){: .btn } 
+[**Jump to current week**](#week-7-covariance-and-clt){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
