@@ -3,6 +3,7 @@ title: 'Week 7: Covariance and CLT'
 ---
 
 Feb 26
+: **Guide**{: .label .label-guide } [Week 7](/assets/guides/spring24/week07.pdf)
 : **Homework**{: .label .label-hw } Homework 7
     : Due Mar 4 at 5PM
 
