@@ -3,6 +3,7 @@ title: 'Week 8: Densities and Transformations'
 ---
 
 Mar 4
+: **Guide**{: .label .label-guide } [Week 8](/assets/guides/spring24/week08.pdf)
 : **Homework**{: .label .label-hw } Homework 8
     : Due Mar 11 at 5PM
 
