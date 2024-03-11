@@ -22,7 +22,7 @@ UC Berkeley, Spring 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-8-densities-and-transformations){: .btn } 
+[**Jump to current week**](#week-9-joint-densities-beta-normal-and-gamma-families){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
