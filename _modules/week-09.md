@@ -3,6 +3,7 @@ title: 'Week 9: Joint Densities, Beta, Normal, and Gamma Families'
 ---
 
 Mar 11
+: **Guide**{: .label .label-guide } [Week 9](/assets/guides/spring24/week09.pdf)
 : **Homework**{: .label .label-hw } Homework 9
     : Due Mar 18 at 12 **noon**
 
