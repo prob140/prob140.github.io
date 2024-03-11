@@ -5,17 +5,11 @@ nav_exclude: true
 description: Scope for Midterm 2.
 ---
 # Material for Midterm 2 #
-#### A. Adhikari, A. Strang ####
+#### A. Adhikari ####
 
-Midterm 2 is on Monday 10/30 from 7:10 PM to 8:40 PM. This is a summary of the material for the exam, grouped by main topic. **Boldface** has been reserved for topics that we consider to be **core material** for understanding the rest of the course.
+Contents go through Chapter 17 of the textbook, that is, through the lecture on Tuesday 3/12.
 
-Contents go through Chapter 18 of the textbook, that is, through the lecture on Tuesday 10/24.
-
-Note that the new content since Midterm 1 is in Chapters 10 through 18. However, it is not possible to understand that material without first understanding Chapters 1 through 9.
-
-In several chapters, the book has sections called Examples. Please review those. Please also review all your homework, labs (the mathematical parts), and exercises done in section.
-
-There will be no code on the midterm.
+Note that the new content since Midterm 1 is in Chapters 9 through 17. However, it is not possible to understand that material without first understanding Chapters 1 through 8.
 
 ## General Concepts and Methods ##
 
@@ -51,7 +45,7 @@ There will be no code on the midterm.
 ### Estimation and Prediction ###
 - Section [8.4](http://prob140.org/textbook/content/Chapter_08/04_Additivity.html#unbiased-estimator): Unbiased estimators
 - Section [14.5](http://prob140.org/textbook/content/Chapter_14/05_The_Sample_Mean.html), [14.6](http://prob140.org/textbook/content/Chapter_14/06_Confidence_Intervals.html): IID sample mean; confidence interval for population mean
-- Homework 8: Unbiased estimator of a population variance
+- Homework 7: Unbiased estimator of a population variance
 - Section [12.2](http://prob140.org/textbook/content/Chapter_12/02_Prediction_and_Estimation.html): Expectation as a least squares predictor
 
 ## Models and Special Distributions ##
@@ -63,14 +57,14 @@ There will be no code on the midterm.
 - Sections [11.2](http://prob140.org/textbook/content/Chapter_11/02_Code_Breaking.html), [11.3](http://prob140.org/textbook/content/Chapter_11/03_Metropolis_Algorithm.html), Lab 4: Code Breaking and MCMC
 
 ### Random Counts ###
-- Section [8.1](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#uniform-on-an-interval-of-integers), [12.1](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#uniform): Uniform on $$a$$, $$a + 1$$, ..., $$b$$
+- Section [8.1](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#uniform-on-an-interval-of-integers), [12.1](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#uniform): Uniform on $1, 2, ..., n$
 - Section [8.2](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#bernoulli-and-indicators), [12.1](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#indicator), [13.4](http://prob140.org/textbook/content/Chapter_13/04_Symmetry_and_Indicators.html#indicators): Bernoulli (indicator)
 - Section [6.1](http://prob140.org/textbook/content/Chapter_06/01_Binomial_Distribution.html), [6.2](http://prob140.org/textbook/content/Chapter_06/02_Examples.html), [6.3](http://prob140.org/textbook/content/Chapter_06/03_Multinomial_Distribution.html), [6.5](http://prob140.org/textbook/content/Chapter_06/05_Odds_Ratios.html), Lab 2, Lab 5, [Chapter 7](http://prob140.org/textbook/content/Chapter_07/00_Poissonization.html), [8.5](http://prob140.org/textbook/content/Chapter_08/05_Method_of_Indicators.html#expectation-of-the-binomial), [13.3](http://prob140.org/textbook/content/Chapter_13/03_Sums_of_Independent_Variables.html#variance-of-the-binomial), [14.3](http://prob140.org/textbook/content/Chapter_14/03_Central_Limit_Theorem.html#approximating-the-binomial-n-p-distribution): Binomial and multinomial
 - Section [5.4](http://prob140.org/textbook/content/Chapter_05/04_Sampling_Without_Replacement.html#counting-good-elements-in-a-simple-random-sample), [6.4](http://prob140.org/textbook/content/Chapter_06/04_The_Hypergeometric_Revisited.html), [8.5](http://prob140.org/textbook/content/Chapter_08/05_Method_of_Indicators.html#expectation-of-the-hypergeometric), [13.4](http://prob140.org/textbook/content/Chapter_13/04_Symmetry_and_Indicators.html#example-variance-of-the-hypergeometric): Hypergeometric
 - Section [5.3](http://prob140.org/textbook/content/Chapter_05/03_The_Matching_Problem.html#k-matches), [6.6](http://prob140.org/textbook/content/Chapter_06/06_Law_of_Small_Numbers.html), Lab 2, [Chapter 7](http://prob140.org/textbook/content/Chapter_07/00_Poissonization.html), Section [8.2](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#poisson), [8.3](http://prob140.org/textbook/content/Chapter_08/03_Expectations_of_Functions.html#e-x-x-1-for-a-poisson-variable-x), [12.1](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#poisson): Poisson
 - Section [8.2](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#geometric), [9.3](http://prob140.org/textbook/content/Chapter_09/03_Expected_Waiting_Times.html): Geometric
 
-### Uniform (a, b) ###
+### Uniform $$(a, b)$$ ###
 - Section [15.3](http://prob140.org/textbook/content/Chapter_15/03_Expectation.html#uniform-0-1): Density, expectation, variance, CDF
 - Section [16.3](http://prob140.org/textbook/content/Chapter_16/03_Simulation_via_the_CDF.html), Lab 6: Use in simulation
 
@@ -81,9 +75,7 @@ There will be no code on the midterm.
 - Section [14.3](http://prob140.org/textbook/content/Chapter_14/03_Central_Limit_Theorem.html), [14.4](http://prob140.org/textbook/content/Chapter_14/04_SciPy_and_Normal_Curves.html): CLT; Normal cdf and inverse cdf
 - Sections [14.6](http://prob140.org/textbook/content/Chapter_14/06_Confidence_Intervals.html): Normal confidence intervals
 - Section [16.1](http://prob140.org/textbook/content/Chapter_16/01_Linear_Transformations.html#the-normal-densities): Normal densities
-- Section [18.1](http://prob140.org/textbook/content/Chapter_18/01_Standard_Normal_Basics.html), [18.2](http://prob140.org/textbook/content/Chapter_18/02_Sums_of_Independent_Normal_Variables.html), [18.4](http://prob140.org/textbook/content/Chapter_18/04_Chi_Squared_Distributions.html): Independent normal variables, linear combinations, squares, Rayleigh, chi-squared
 
 ### Gamma ###
 - Section [15.4](http://prob140.org/textbook/content/Chapter_15/04_Exponential_Distribution.html), [16.1](http://prob140.org/textbook/content/Chapter_16/01_Linear_Transformations.html#linear-transformation-exponential-density): Exponential and scaling
-- Homework 9: Gamma function, gamma density, mean, variance
-- Section [18.3](http://prob140.org/textbook/content/Chapter_18/03_The_Gamma_Family.html), [18.4](http://prob140.org/textbook/content/Chapter_18/04_Chi_Squared_Distributions.html): Gamma and chi-squared
+- Homework 8: Gamma function, gamma density, mean, variance
