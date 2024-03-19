@@ -7,6 +7,7 @@ Mar 18
     : **7PM - 9PM**
 
 Mar 19
+: **Guide**{: .label .label-guide } [Week 10](/assets/guides/spring24/week10.pdf)
 : **Homework**{: .label .label-hw } Homework 10
 : **Lecture**{: .label .label-lecture} Moment generating functions
     : Ch [19](http://prob140.org/textbook/content/Chapter_19/00_Distributions_of_Sums.html)
