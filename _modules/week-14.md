@@ -1,5 +1,5 @@
 ---
-title: 'Week 14: Random Vectors and Simple Regression'
+title: 'Week 13: Random Vectors and Simple Regression'
 ---
 
 Apr 15

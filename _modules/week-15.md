@@ -1,5 +1,5 @@
 ---
-title: 'Week 15: Multiple Regression'
+title: 'Week 14: Multiple Regression'
 ---
 
 Apr 22

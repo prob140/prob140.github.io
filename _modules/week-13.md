@@ -1,5 +1,5 @@
 ---
-title: 'Week 13: Prediction and Error'
+title: 'Week 12: Prediction and Error'
 ---
 
 Apr 8

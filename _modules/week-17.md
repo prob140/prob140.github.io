@@ -1,5 +1,5 @@
 ---
-title: 'Week 17: Final Exams'
+title: 'Week 16: Final Exams'
 ---
 
 May 6

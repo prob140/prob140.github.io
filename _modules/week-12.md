@@ -1,5 +1,5 @@
 ---
-title: 'Week 12: MLE, MAP, the Beta and the Binomial'
+title: 'Week 11: MLE, MAP, the Beta and the Binomial'
 ---
 
 Apr 1
