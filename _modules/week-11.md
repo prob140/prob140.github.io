@@ -1,5 +1,5 @@
 ---
-title: 'Week 11: Spring Break'
+title: 'Spring Break'
 ---
 
 Mar 25
