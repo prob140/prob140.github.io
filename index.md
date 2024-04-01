@@ -22,7 +22,7 @@ UC Berkeley, Spring 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-10-mgfs){: .btn } 
+[**Jump to current week**](#week-11-mle-map-the-beta-and-the-binomial){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
