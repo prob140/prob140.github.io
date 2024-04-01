@@ -3,6 +3,7 @@ title: 'Week 11: MLE, MAP, the Beta and the Binomial'
 ---
 
 Apr 1
+: **Guide**{: .label .label-guide } [Week 11](/assets/guides/spring24/week11.pdf)
 : **Homework**{: .label .label-hw } Homework 11
     : Due Apr 8 at 5PM
 
