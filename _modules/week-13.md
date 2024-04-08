@@ -3,6 +3,7 @@ title: 'Week 12: Prediction and Error'
 ---
 
 Apr 8
+: **Guide**{: .label .label-guide } [Week 12](/assets/guides/spring24/week12.pdf)
 : **Homework**{: .label .label-hw } Homework 12
     : Due Apr 15 at 5PM
 
