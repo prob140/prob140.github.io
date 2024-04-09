@@ -4,7 +4,7 @@ title: 'Week 12: Prediction and Error'
 
 Apr 8
 : **Guide**{: .label .label-guide } [Week 12](/assets/guides/spring24/week12.pdf)
-: **Homework**{: .label .label-hw } Homework 12
+: **Homework**{: .label .label-hw } [Homework 12](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp24&branch=main&subPath=hw/Homework_12.ipynb)
     : Due Apr 15 at 5PM
 
 Apr 9
