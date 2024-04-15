@@ -3,6 +3,7 @@ title: 'Week 13: Random Vectors and Simple Regression'
 ---
 
 Apr 15
+: **Guide**{: .label .label-guide } [Week 13](/assets/guides/spring24/week13.pdf)
 : **Homework**{: .label .label-hw } Homework 13
     : Due Apr 22 at 5PM
 
