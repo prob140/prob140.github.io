@@ -3,6 +3,7 @@ title: 'Week 14: Multiple Regression'
 ---
 
 Apr 22
+: **Guide**{: .label .label-guide } [Week 14](/assets/guides/spring24/week14.pdf)
 : **Homework**{: .label .label-hw } Homework 14
     : Due Apr 29 at 5PM
 
