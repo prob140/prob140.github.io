@@ -84,7 +84,7 @@
         }
 
         dt {
-          flex: 0 0 70%;
+          flex: 0 0 62.5%;
           margin: 0;
         }
 
@@ -93,13 +93,5 @@
         }
       }
     }
-
-    .label-lecture { background-color: $grey-dk-100; border-radius: 9px; }
-    .label-disc { background-color: $green-100; border-radius: 9px; }
-    .label-guide { background-color: $teal-200; border-radius: 9px; }
-    .label-hw { background-color: $purple-100; border-radius: 9px; }
-    .label-lab { background-color: $blue-100; border-radius: 9px; }
-    .label-quiz { background-color: $pink-200; border-radius: 9px; }
-    .label-exam { background-color: $red-300; border-radius: 9px; }
   }
 }

@@ -32,11 +32,11 @@ favicon_ico: 'assets/brand/favicon.ico'
 #  - any_additional_item # any user-specific listing goes at the end
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.5.2
-color_scheme: wider
-search_enabled: true
-permalink: pretty
-heading_anchors: false
+# remote_theme: just-the-docs/just-the-docs@v0.5.2
+# color_scheme: wider
+# search_enabled: true
+# permalink: pretty
+# heading_anchors: false
 
 aux_links:
   Textbook:
@@ -83,6 +83,43 @@ defaults:
     values:
       layout: announcement
 
+######################################################################
+# Just the Docs / Berkeley Class Site Common Config
+# Options below here will likely not need to be configured..
+######################################################################
+# TODO(template): CSS compilations. Handle warnings...
+sass:
+  style: expanded
+  sass_dir: _sass
+  sourcemap: always
+  quiet_deps: true
+  verbose: false
+
+# The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
+# Theme settings
+theme: just-the-docs
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+## Footer Content.
+# You should probably not change these, but may add to footer_content if necessary.
+# Replace `true` with any additional HTML that you would like to add.
+# Footer *must* included the accessibility text defined in footer_custom.html
+footer_content: true
+back_to_top: true
+back_to_top_text: "Back to Top"
+last_edit_timestamp: true
+last_edit_time_format: '%m %d, %Y at %H:%M'
+
+# Compilation settings used by compress-html plugin:
+# https://github.com/penibelst/jekyll-compress-html/tree/v3.2.0?tab=readme-ov-file
 compress_html:
   clippings: all
   comments: all
@@ -90,5 +127,34 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-  
-math: mathjax
+
+# Native Jeykll build options
+# You likely shouldn't need to touch these, but they are documented here just in case.
+# https://jekyllrb.com/docs/configuration/options/
+
+# This makes it easier when pushing to a static directory.
+# The default false removes files in that directory, which is useful for when you unpublish pages.
+# keep_files: false
+
+# Likely not necessary, but a google default for Berkeley
+timezone: America/Los_Angeles
+
+# Note: dotfiles are excluded by default. .htaccess is included as a common case.
+include:
+  - LICENSE
+  - .htaccess
+  - robots.txt
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - CONTRIBUTING.md
+  - tmp/
+  - spec/
+  - docs/
+  - node_modules/
