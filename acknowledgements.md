@@ -36,10 +36,10 @@ The current logo was designed by Spring 2022 student Consuelo Ugarte, who accomp
 
 The original course logo by Biyonka Liang was the winning entry in a competition among students and staff in the pilot offering. Though formally Stat 140, the course was called Prob 140 as in Biyonka's logo.
 
-[<img src="/assets/brand/logo_sp17.png" width="200"/>](assets/brand/logo_sp17.png)
+[<img src="/assets/brand/logo_sp17.png" alt="Spring 2017 logo" width="200"/>](assets/brand/logo_sp17.png)
 
 In Spring 2021 the course officially became Data 140 and took its rightful place in the sequence Data [8](http://data8.org/), [100](http://www.ds100.org/), [140](http://prob140.org/), and [102](https://data102.org/). The logo was modified accordingly by the inimitable Ryan Roggenkemper, designer of some memorable staff swag. 
 
-[<img src="/assets/brand/logo_sp21.png" width="200"/>](assets/brand/logo_sp22.png)
+[<img src="/assets/brand/logo_sp21.png" alt="Spring 2017 logo with the words Prob140 overwritten with the words Data140" width="200"/>](assets/brand/logo_sp22.png)
 
 This one is destined to remain a classic. But Data 140 now has its own identity and hence also a new logo.
