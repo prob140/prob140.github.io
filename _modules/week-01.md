@@ -8,9 +8,9 @@ Aug 28
 Aug 29
 : **Lecture**{: .label .label-lecture } Probability: axioms, rules, approximation
     : [Course Information](course-info), Ch [1](http://prob140.org/textbook/content/Chapter_01/00_Fundamentals.html), [2](http://prob140.org/textbook/content/Chapter_02/00_Calculating_Chances.html)
-: **Homework**{: .label .label-hw } [Homework 1]
+: **Homework**{: .label .label-hw } [Homework 1](https://prob140.org/)
     : Due 
-:**Lab**{: .label .label-lab } [Lab 1]
+:**Lab**{: .label .label-lab } [Lab 1](https://prob140.org/)
     : Due
     
 Aug 30
