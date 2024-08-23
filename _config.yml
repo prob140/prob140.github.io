@@ -128,6 +128,8 @@ compress_html:
   blanklines: false
   profile: false
 
+math: mathjax
+
 # Native Jeykll build options
 # You likely shouldn't need to touch these, but they are documented here just in case.
 # https://jekyllrb.com/docs/configuration/options/
