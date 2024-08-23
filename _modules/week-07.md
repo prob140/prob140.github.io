@@ -3,6 +3,7 @@ title: 'Week 7: Variance and Tail Bounds'
 ---
 
 Oct 7
+: 
 
 Oct 8
 : **Lecture**{: .label .label-lecture } Standard deviation and tail bounds

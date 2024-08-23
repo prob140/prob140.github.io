@@ -3,6 +3,7 @@ title: 'Week 15: Multiple Regression'
 ---
 
 Dec 2
+: 
 
 Dec 3
 : **Lecture**{: .label .label-lecture } Multiple regression I

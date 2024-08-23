@@ -3,6 +3,7 @@ title: 'Week 4: Expectation'
 ---
 
 Sep 16
+: 
 
 Sep 17
 : **Lecture**{: .label .label-lecture } Expectation

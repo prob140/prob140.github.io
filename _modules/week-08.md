@@ -3,6 +3,7 @@ title: 'Week 8: Central Limit Theorem and Densities'
 ---
 
 Oct 14
+: 
 
 Oct 15
 : **Lecture**{: .label .label-lecture } Central Limit Theorem

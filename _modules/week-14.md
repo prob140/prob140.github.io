@@ -3,6 +3,7 @@ title: 'Week 14: Simple Regression'
 ---
 
 Nov 25
+: 
 
 Nov 26
 : **Lecture**{: .label .label-lecture } Correlation and simple regression

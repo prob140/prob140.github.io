@@ -3,6 +3,7 @@ title: 'Week 1: Introduction'
 ---
 
 Aug 28
+: 
 
 Aug 29
 : **Lecture**{: .label .label-lecture } Probability: axioms, rules, approximation

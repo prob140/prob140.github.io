@@ -2,7 +2,7 @@
 title: 'Week 12: The Beta and the Binomial; Prediction'
 ---
 Nov 11
-:**Veterans Day**
+: **Veterans Day**
 
 Nov 12
 : **Lecture**{: .label .label-lecture } The beta and the binomial
