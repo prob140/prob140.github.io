@@ -2,7 +2,7 @@
 name: Tara Kulshrestha
 team: Staff
 role: TA
-email: taralul
+email: tarakul
 photo: tara.png
 ---
 
