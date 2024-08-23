@@ -1,7 +1,7 @@
 ---
 name: Fatima Gonzalez Perez
 team: Staff
-role: Tutor
+role: TA
 email: fatimagonzalezperez
 photo: fatima.jpg
 ---
