@@ -1,7 +1,7 @@
 ---
 name: Nic Ross
 team: Staff
-role: TA
+role: Lead TA
 email: n.ross
 photo: nic.jpg
 ---

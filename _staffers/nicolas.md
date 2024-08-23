@@ -3,7 +3,7 @@ name: Nicolas Rault-Wang
 team: Staff
 role: Tutor
 email: nraultwang
-photo: nicolas.jpg
+photo: nicolas.png
 ---
 
-Hi! I'm a junior studying Applied Math and CS. I enjoy cooking Mediterranean food, reading sci-fi/fantasy books, and listening to movie soundtracks (sometimes all at once). I'm excited to meet you all!
+Hello! I’m a 4th year studying Applied Math and CS. Outside school, I enjoy cooking Mediterranean food, reading sci-fi/fantasy books, and listening to podcasts. I’m excited to meet you all!
