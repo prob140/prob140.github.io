@@ -18,8 +18,8 @@ UC Berkeley, Fall 2024
     </div>
 </div>
 
-<!-- {% assign announcement = site.announcements | last %}
-{{ announcement }} -->
+{% assign announcement = site.announcements | last %}
+{{ announcement }}
 
 # Calendar
 [**Jump to current week**](#week-1-introduction){: .btn } 
