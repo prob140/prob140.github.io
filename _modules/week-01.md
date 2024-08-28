@@ -3,7 +3,7 @@ title: 'Week 1: Introduction'
 ---
 
 Aug 28
-: 
+: **Guide**{: .label .label-guide } [Week 1](/assets/guides/fall24/week01.pdf)
 
 Aug 29
 : **Lecture**{: .label .label-lecture } Probability: axioms, rules, approximation
