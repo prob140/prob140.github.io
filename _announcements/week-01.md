@@ -1,7 +1,7 @@
 ---
 title: Week 1
 week: 1
-date: 2024-01-15
+date: 2024-08-28
 ---
 
 - Welcome to Data 140! The first lecture will be on Thursday, August 29th, from 9:30 AM - 11 AM in Dwinelle 155. The first mega-sections will happen on Friday, August 30th.
