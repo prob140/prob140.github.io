@@ -4,6 +4,7 @@ title: 'Week 2: Random Variables and Symmetry'
 
 Sep 2
 : **Labor Day**
+: **Guide**{: .label .label-guide } [Week 2](/assets/guides/fall24/week02.pdf)
 
 Sep 3
 : **Lecture**{: .label .label-lecture } Random variables: distributions, equality, conditioning
