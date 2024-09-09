@@ -2,7 +2,7 @@
 title: 'Week 3: Random Counts'
 ---
 Sep 9
-: 
+: **Guide**{: .label .label-guide } [Week 3](/assets/guides/fall24/week03.pdf)
 
 Sep 10
 : **Lecture**{: .label .label-lecture } Binomial and related counts; a Poisson limit
