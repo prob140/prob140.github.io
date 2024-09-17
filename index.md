@@ -22,7 +22,7 @@ UC Berkeley, Fall 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-3-random-counts){: .btn } 
+[**Jump to current week**](#week-4-expectation){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
