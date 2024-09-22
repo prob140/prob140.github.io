@@ -31,7 +31,7 @@ There will be no code on the midterm. There will also be no reference sheets.
 
 ### Expectation ###
 - **[Chapter 8](http://prob140.org/textbook/content/Chapter_08/00_Expectation.html), Lab 3B: The main properties, including additivity, the method of indicators, and expectations of functions (linear and non-linear), as well as the tail sum formula for the expectation of a non-negative integer valued variable**
-- **[Section 9.2](http://prob140.org/textbook/content/Chapter_09/02_Expectation_by_Conditioning.html)**, Section 9.3: Expectation by conditioning, applications to waiting times in i.i.d. Bernoulli trials
+- **[Section 9.2](http://prob140.org/textbook/content/Chapter_09/02_Expectation_by_Conditioning.html)**, [Section 9.3](http://prob140.org/textbook/content/Chapter_09/03_Expected_Waiting_Times.html): Expectation by conditioning, applications to waiting times in i.i.d. Bernoulli trials
 
 ### Random Counts ###
 These distributions are fundamental elements of discrete probabilitistic modeling. **ALL of this section should be in bold.**
