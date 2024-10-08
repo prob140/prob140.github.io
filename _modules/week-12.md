@@ -17,4 +17,4 @@ Nov 14
     : Ch [22.1 - 22.2](http://prob140.org/textbook/content/Chapter_22/00_Prediction.html)
 
 Nov 15
-: *Veterans Day Holiday*
+: **Mega-Section**{: .label .label-disc}
