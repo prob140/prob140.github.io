@@ -4,6 +4,10 @@ title: 'Week 8: Central Limit Theorem and Densities'
 
 Oct 14
 : **Guide**{: .label .label-guide } [Week 8](/assets/guides/fall24/week08.pdf)
+: **Homework**{: .label .label-hw } [Homework 8](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa24&branch=main&subPath=hw/Homework_08.ipynb)
+    : Due Oct 21 at 5 PM
+: **Lab**{: .label .label-lab } [Lab 6A](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa24&branch=main&subPath=lab/Lab_06.ipynb)
+    : Due Oct 21 at 5 PM
 
 Oct 15
 : **Lecture**{: .label .label-lecture } Central Limit Theorem
