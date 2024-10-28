@@ -3,7 +3,7 @@ title: 'Week 10: The Beta, Normal, and Gamma Families'
 ---
 
 Oct 28
-: 
+: **Guide**{: .label .label-guide } [Week 10](/assets/guides/fall24/week10.pdf)
 
 Oct 29
 : **Lecture**{: .label .label-lecture } Joint distributions; sums of normal and gamma variables
