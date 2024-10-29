@@ -4,6 +4,8 @@ title: 'Week 10: The Beta, Normal, and Gamma Families'
 
 Oct 28
 : **Guide**{: .label .label-guide } [Week 10](/assets/guides/fall24/week10.pdf)
+: **Homework**{: .label .label-hw } [Homework 10](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa24&branch=main&subPath=hw/Homework_10.ipynb)
+    : Due Nov 4 at 12 PM NOON
 
 Oct 29
 : **Lecture**{: .label .label-lecture } Joint distributions; sums of normal and gamma variables
