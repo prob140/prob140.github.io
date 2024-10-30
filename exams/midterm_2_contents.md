@@ -84,6 +84,6 @@ Note that the new content since Midterm 1 is in Chapters 10 through 18. However,
 - Section [15.4](http://prob140.org/textbook/content/Chapter_15/04_Exponential_Distribution.html), [16.1](http://prob140.org/textbook/content/Chapter_16/01_Linear_Transformations.html#linear-transformation-exponential-density): Exponential and scaling
 - Sections [18.3.1](http://prob140.org/textbook/content/Chapter_18/03_The_Gamma_Family.html), [18.3.2](http://prob140.org/textbook/content/Chapter_18/03_The_Gamma_Family.html#the-shape-parameter-r), Homework 9: Gamma function, gamma density, mean, variance
 
-### Omitted from Scope
+### Omitted from Scope ###
 - Sections [18.3.3](http://prob140.org/textbook/content/Chapter_18/03_The_Gamma_Family.html#sums-of-independent-gamma-variables-with-the-same-rate), [18.3.4](http://prob140.org/textbook/content/Chapter_18/03_The_Gamma_Family.html#integer-shape-parameter): Sums of independent gamma variables; integer shape parameter
 - Section [18.4](http://prob140.org/textbook/content/Chapter_18/04_Chi_Squared_Distributions.html): Sums of squares of iid standard normals; the chi-squared distribution
