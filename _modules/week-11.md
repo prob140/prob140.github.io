@@ -7,6 +7,7 @@ Nov 4
     : **8PM - 10PM**
 
 Nov 5
+: **Guide**{: .label .label-guide } [Week 11](/assets/guides/fall24/week11.pdf)
 : **Lecture**{: .label .label-lecture } Moment generating functions; Chernoff bound
     : Ch [19](http://prob140.org/textbook/content/Chapter_19/00_Distributions_of_Sums.html)
 
