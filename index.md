@@ -22,7 +22,7 @@ UC Berkeley, Fall 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-11-mgfs-mle-and-map){: .btn } 
+[**Jump to current week**](#week-13-variance-by-conditioning-and-random-vectors){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
