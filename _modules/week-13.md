@@ -3,7 +3,7 @@ title: 'Week 13: Variance by Conditioning and Random Vectors'
 ---
 
 Nov 18
-: 
+: **Guide**{: .label .label-guide } [Week 13](/assets/guides/fall24/week13.pdf)
 
 Nov 19
 : **Lecture**{: .label .label-lecture } Variance by conditioning
