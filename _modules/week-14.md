@@ -3,7 +3,7 @@ title: 'Week 14: Simple Regression'
 ---
 
 Nov 25
-: 
+: **Guide**{: .label .label-guide } [Week 14](/assets/guides/fall24/week14.pdf) 
 
 Nov 26
 : **Lecture**{: .label .label-lecture } Correlation and simple regression
