@@ -3,7 +3,7 @@ title: 'Week 15: Multiple Regression'
 ---
 
 Dec 2
-: 
+: **Guide**{: .label .label-guide } [Week 15](/assets/guides/fall24/week15.pdf)
 
 Dec 3
 : **Lecture**{: .label .label-lecture } Multiple regression I
