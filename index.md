@@ -22,7 +22,7 @@ UC Berkeley, Fall 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-14-simple-regression){: .btn } 
+[**Jump to current week**](#week-15-multiple-regression){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
