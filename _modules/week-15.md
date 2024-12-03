@@ -4,6 +4,8 @@ title: 'Week 15: Multiple Regression'
 
 Dec 2
 : **Guide**{: .label .label-guide } [Week 15](/assets/guides/fall24/week15.pdf)
+: **Homework**{: .label .label-hw } [Homework 15](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa24&branch=main&subPath=hw/Homework_15.ipynb)
+    : Due Dec 9 at 5 PM
 
 Dec 3
 : **Lecture**{: .label .label-lecture } Multiple regression I
