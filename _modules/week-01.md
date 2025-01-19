@@ -3,7 +3,7 @@ title: 'Week 1: Introduction'
 ---
 
 Jan 20
-: *Holiday*
+: **Holiday**
 
 Jan 21
 : **Lecture**{: .label .label-lecture } Probability: axioms, rules, approximation
