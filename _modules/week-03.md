@@ -3,7 +3,7 @@ title: 'Week 3: Poissonization and Expectation'
 ---
 
 Feb 3
-:
+: 
 
 Feb 4
 : **Lecture**{: .label .label-lecture} Independence and Poissonization

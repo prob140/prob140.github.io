@@ -3,7 +3,7 @@ title: 'Week 12: Prediction and Error'
 ---
 
 Apr 14
-:
+: 
 
 Apr 15
 : **Lecture**{: .label .label-lecture} Prediction and error

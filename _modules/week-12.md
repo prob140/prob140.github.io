@@ -3,7 +3,7 @@ title: 'Week 11: MLE, MAP, the Beta and the Binomial'
 ---
 
 Apr 7
-:
+: 
 
 Apr 8
 : **Lecture**{: .label .label-lecture} MLE; conditioning; MAP estimates

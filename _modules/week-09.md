@@ -3,7 +3,7 @@ title: 'Week 9: Joint Densities, Beta, Normal, and Gamma Families'
 ---
 
 Mar 17
-:
+: 
 
 Mar 18
 : **Lecture**{: .label .label-lecture} Joint densities

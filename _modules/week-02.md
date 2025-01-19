@@ -3,7 +3,7 @@ title: 'Week 2: Symmetry and Random Counts'
 ---
 
 Jan 27
-:
+: 
 
 Jan 28
 : **Lecture**{: .label .label-lecture} Symmetry and collections of events
