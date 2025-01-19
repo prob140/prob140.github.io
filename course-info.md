@@ -78,7 +78,7 @@ A typical week includes the following sessions. All sessions are in person and s
 **Each student must also enroll in one Friday section, which can be at a different time from their Wednesday section.** Friday sections will be at 11 AM, 12 noon, and 1 PM for 50 minutes and will have approximately 100 students each. We are calling these “mega-sections”.
 
 Sections and mega-sections will be conversations about exercises and may sometimes include portions of the weekly lab. They will cover how to select appropriate methods, similarities and differences between exercises, etc. **You are expected to attend both the discussion section the mega-section in which you are enrolled**. You cannot attend other sections.
-- Assignment "parties" (work sessions with staff support): Lab Party on Thursdays 9 AM to 11 AM; Homework Party on Fridays 2 PM to 5 PM.
+- Assignment "parties" (work sessions with staff support): Lab Party on Thursdays 9 AM to 12 noon; Homework Party on Fridays 2 PM to 5 PM.
 - Office hours by the instructors and the course staff, days and times reflected on the [Weekly Schedule](http://prob140.org/schedule).
  
 A few weeks into the term, we will start the Optional Supplemental Section. This typically covers "catch up" content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Enrolling in this section is optional and will be by application. 
