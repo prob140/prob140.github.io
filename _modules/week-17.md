@@ -1,7 +1,7 @@
 ---
-title: 'Week 17: Final Exams'
+title: 'Week 16: Final Exams'
 ---
 
-Dec 17
+May 12
 : **Exam**{: .label .label-exam } **Final Exam**
-    : **3PM - 6PM**
+    : **11:30AM - 2:30PM**

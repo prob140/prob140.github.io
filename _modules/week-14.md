@@ -1,21 +1,19 @@
 ---
-title: 'Week 14: Simple Regression'
+title: 'Week 13: Random Vectors and Simple Regression'
 ---
 
-Nov 25
-: **Guide**{: .label .label-guide } [Week 14](/assets/guides/fall24/week14.pdf) 
-: **Homework**{: .label .label-hw } [Homework 14](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa24&branch=main&subPath=hw/Homework_14.ipynb)
-    : Due Dec 2 at 5 PM
+Apr 21
 
-Nov 26
+Apr 22
+: **Lecture**{: .label .label-lecture} Random vectors; the multivariate normal
+    : Ch [23](http://prob140.org/textbook/content/Chapter_23/00_Multivariate_Normal_RVs.html)
+    
+Apr 23
+: **Section**{: .label .label-disc}
+
+Apr 24
 : **Lecture**{: .label .label-lecture } Correlation and simple regression
     : Ch [24](http://prob140.org/textbook/content/Chapter_24/00_Simple_Linear_Regression.html)
-
-Nov 27
-: *Thanksgiving Break*
-
-Nov 28
-: *Thanksgiving Break*
-
-Nov 29
-: *Thanksgiving Break*
+    
+Apr 25
+: **Mega-Section**{: .label .label-disc}

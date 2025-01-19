@@ -1,7 +1,6 @@
 ---
-name: Ani Adhikari
-role: Professor
-email: adhikari
-website: http://aniadhikari.org/
-photo: ani.jpg
+name: Michael Xiao
+role: Instructor
+email: michaelxiao1999
+photo: michael.jpg
 ---

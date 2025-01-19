@@ -6,11 +6,11 @@ description: A week-to-week description of the content covered in the course.
 ---
 
 # Data 140: Probability for Data Science
-UC Berkeley, Fall 2024
+UC Berkeley, Spring 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <div>
-{% assign professors = site.staffers | where: 'role', 'Professor' | reverse %}
+{% assign professors = site.staffers | where: 'role', 'Instructor' | reverse %}
     <div class="role">
         {% for staffer in professors %}
         {{ staffer }}
@@ -22,7 +22,7 @@ UC Berkeley, Fall 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-15-multiple-regression){: .btn } 
+[**Jump to current week**](#week-1-introduction){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
