@@ -6,7 +6,7 @@ description: Information about how the course is run.
 ---
 
 # Course Information
-#### Ani Adhikari ####
+#### Michael Xiao ####
 {:.no_toc}
 
 ## Table of Contents
@@ -15,7 +15,7 @@ description: Information about how the course is run.
 - TOC
 {:toc}
 
-Welcome to Data 140, Fall 2024! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about) the class. 
+Welcome to Data 140, Spring 2025! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about) the class. 
 
 Enrolled and waitlisted students will be added to our **Ed** forum. 
 
@@ -70,15 +70,15 @@ Please keep in mind that **each session assumes that you have attended the previ
 
 A typical week includes the following sessions. All sessions are in person and start at "Berkeley time" following our cherished practice of starting 10 minutes after the listed time.
 
-- Lectures: 9:30 AM to 11:00 AM on Tuesdays and Thursdays in Dwinelle 155.  **You are expected to attend.** 
+- Lectures: 2:00 PM to 3:30 PM on Tuesdays and Thursdays in Dwinelle 155.  **You are expected to attend.** 
 - Sections led by TAs: Twice weekly, on Wednesdays and Fridays at various times, in person. In Evans on Wednesdays and in various locations on Fridays.
 
 **Each student must enroll in one Wednesday section.** Wednesday sections will meet in the 9 AM to 3 PM range for 50 minutes and will have approximately 35 students each.
 
-**Each student must also enroll in one Friday section, which can be at a different time from their Wednesday section.** Friday sections will be at 10 AM, 11 AM, 12 noon, and 1 PM for 50 minutes and will have approximately 100 students each. We are calling these “mega-sections”.
+**Each student must also enroll in one Friday section, which can be at a different time from their Wednesday section.** Friday sections will be at 11 AM, 12 noon, and 1 PM for 50 minutes and will have approximately 100 students each. We are calling these “mega-sections”.
 
 Sections and mega-sections will be conversations about exercises and may sometimes include portions of the weekly lab. They will cover how to select appropriate methods, similarities and differences between exercises, etc. **You are expected to attend both the discussion section the mega-section in which you are enrolled**. You cannot attend other sections.
-- Assignment "parties" (work sessions with staff support): Lab Party on Thursdays 2 PM to 5 PM; Homework Party on Fridays 2 PM to 5 PM.
+- Assignment "parties" (work sessions with staff support): Lab Party on Thursdays 9 AM to 11 AM; Homework Party on Fridays 2 PM to 5 PM.
 - Office hours by the instructors and the course staff, days and times reflected on the [Weekly Schedule](http://prob140.org/schedule).
  
 A few weeks into the term, we will start the Optional Supplemental Section. This typically covers "catch up" content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Enrolling in this section is optional and will be by application. 
@@ -106,9 +106,9 @@ Please keep in mind that **homework assigned each week is based on the material 
 ### Exams ###
 All of these will be in person and proctored. 
 
-- **Midterm 1** on Monday September 30 starting at 8PM and ending by 10PM, rooms TBA
-- **Midterm 2** on Monday November 4 starting at 8PM and ending by 10PM, rooms TBA
-- **Final Exam** on Tuesday December 17, 3 PM to 6 PM, Exam Group 7, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
+- **Midterm 1** on Wednesday February 19 starting at 8PM and ending by 10PM, rooms TBA
+- **Midterm 2** on Wednesday April 2 starting at 8PM and ending by 10PM, rooms TBA
+- **Final Exam** on Monday May 12, 11:30 AM to 2:30 AM, Exam Group 2, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
 
 There will be **no alternate exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled exams.
 

@@ -10,7 +10,7 @@ Feb 18
     : Ch [10](http://prob140.org/textbook/content/Chapter_10/00_Markov_Chains.html)
 
 Feb 19
-: **Exam**{: .label .label-exam } Midterm 1 :
+: **Exam**{: .label .label-exam } Midterm 1
     : **8PM - 10PM**
 
 Feb 20
