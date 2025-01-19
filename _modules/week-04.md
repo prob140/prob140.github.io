@@ -3,6 +3,7 @@ title: 'Week 4: Expectation and Conditioning'
 ---
 
 Feb 10
+:
 
 Feb 11
 : **Lecture**{: .label .label-lecture} Expectation and additivity

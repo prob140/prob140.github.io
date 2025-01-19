@@ -3,6 +3,7 @@ title: 'Week 6: MCMC and Variance'
 ---
 
 Feb 24
+:
 
 Feb 25
 : **Lecture**{: .label .label-lecture} Markov Chain Monte Carlo

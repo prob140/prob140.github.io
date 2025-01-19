@@ -3,6 +3,7 @@ title: 'Week 8: Densities and Transformations'
 ---
 
 Mar 10
+:
 
 Mar 11
 : **Lecture**{: .label .label-lecture} Probability densities
