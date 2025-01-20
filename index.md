@@ -10,7 +10,7 @@ UC Berkeley, Spring 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <div>
-{% assign professors = site.staffers | where: 'role', 'Instructor' | reverse %}
+{% assign professors = site.staffers | where: 'role', 'Professor' | reverse %}
     <div class="role">
         {% for staffer in professors %}
         {{ staffer }}
