@@ -1,9 +1,9 @@
 ---
 name: Vishnu Suresh
 team: Staff
-role: Tutor
+role: TA
 email: vishnusuresh
 photo: vishnu.jpg
 ---
 
-I'm a 4th year CS+Data Science student from Mumbai, India. I love learning and helping others learn. My career interests lie in the Data Science realm within manufactuting and urban development domains. I enjoy running, tennis, and cricket. Please feel free to reach me about anything.
+Hey everyine! I’m a Senior studying CS+Data Science student from Mumbai. My interests are tennis, chess and running. Excited to TA DATA 140 this semester and to meet all of you!

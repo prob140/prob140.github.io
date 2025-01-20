@@ -1,7 +1,7 @@
 ---
 name: Anwen Huang
 team: Staff
-role: Tutor
+role: TA
 email: anwen
 photo: anwen.jpg
 ---
