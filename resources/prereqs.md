@@ -27,7 +27,7 @@ Being able to **assess your own work** is an important mathematical skill and wi
     - Did you draw a diagram?
     - Is your answer too big, or too small? Try to figure out which one, as it can help point out your error. If you can compare the question with another related one, that also can sometimes help explain the difference.
 - After going through the above, try the exercise again a couple of times. 
-- If it still doesn't work out, post on Piazza explaining the reasoning that you used and which of the above steps you took to troubleshoot.
+- If it still doesn't work out, post on Ed explaining the reasoning that you used and which of the above steps you took to troubleshoot.
 
 ## Chapters 1-9, 12-14 ##
 
