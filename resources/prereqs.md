@@ -227,7 +227,7 @@ You know that $$\log(1) = 0$$. What we're going to need, quite often, is an appr
 
 <details>
     <summary>Answer EL3</summary>
-    Answers to be added soon \(ax+b\) Answers to be added \(n\).
+    Answers to be added soon $ax+b$ Answers to be added $n$.
 </details> 
 
 **Exercise EL4:** Computers can't do infinite sums (though they can get close numerically, and some symbolic math systems can handle many infinite sums). Find simple expressions for the following sums.
