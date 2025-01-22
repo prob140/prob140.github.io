@@ -227,7 +227,7 @@ You know that $$\log(1) = 0$$. What we're going to need, quite often, is an appr
 
 <details>
     <summary>Answer EL3</summary>
-    For a <b>fixed</b> power \(m\), it's true that \((1 - p_n)^m \to 1\) as \(n \to \infty\).
+    For a <b>fixed</b> power \(m\) , it's true that \((1 - p_n)^m \to 1\) as \(n \to \infty\) .But in the expression \((1 - p_n)^n\) the power \(n\) isn't fixed. It's going to infinity. So the sequence \((1-p_n)^n\) is pulled in opposite directions: \(1-p_n\) is heading for its upper limit of 1, but it's always less than 1 and so raising it to an increasing power \(n\) keeps pulling it downwards. 
 </details> 
 
 **Exercise EL4:** Computers can't do infinite sums (though they can get close numerically, and some symbolic math systems can handle many infinite sums). Find simple expressions for the following sums.
