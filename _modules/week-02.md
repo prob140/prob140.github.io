@@ -4,6 +4,10 @@ title: 'Week 2: Symmetry and Random Counts'
 
 Jan 27
 : **Guide**{: .label .label-guide } [Week 2](/assets/guides/spring25/week02.pdf)
+: **Homework**{: .label .label-hw } [Homework 2](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp25&branch=main&subPath=hw/Homework_02.ipynb)
+    : Due Feb 3 at 5 PM
+: **Lab**{: .label .label-lab } [Lab 2](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp25&branch=main&subPath=lab/Lab_02.ipynb)
+    : Due Feb 3 at 5 PM
 
 Jan 28
 : **Lecture**{: .label .label-lecture} Symmetry and collections of events
