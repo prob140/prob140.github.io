@@ -3,7 +3,7 @@ title: 'Week 3: Poissonization and Expectation'
 ---
 
 Feb 3
-: 
+: **Guide**{: .label .label-guide } [Week 3](/assets/guides/spring25/week03.pdf)
 
 Feb 4
 : **Lecture**{: .label .label-lecture} Independence and Poissonization
