@@ -18,7 +18,7 @@ tagline: Probability for Data Science
 description: The course website for UC Berkeley's Data 140 course.
 author: Shahzar
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'http://prob140.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://data140.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/brand/logo.png'
 favicon_ico: 'assets/brand/favicon.ico'
 #exclude:
@@ -40,9 +40,9 @@ favicon_ico: 'assets/brand/favicon.ico'
 
 aux_links:
   Textbook:
-    - 'http://prob140.org/textbook/'
+    - 'https://data140.org/textbook/'
   Ed:
-    - 'https://edstem.org/us/courses/62266'
+    - 'https://edstem.org/us/courses/74394'
 #  Gradescope:
 #    - 'https://www.gradescope.com/courses/552084'
 
