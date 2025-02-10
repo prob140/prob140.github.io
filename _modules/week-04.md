@@ -3,7 +3,7 @@ title: 'Week 4: Expectation and Conditioning'
 ---
 
 Feb 10
-: 
+: **Guide**{: .label .label-guide } [Week 4](/assets/guides/spring25/week04.pdf)
 
 Feb 11
 : **Lecture**{: .label .label-lecture} Expectation and additivity
