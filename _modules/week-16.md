@@ -15,4 +15,4 @@ May 8
 : *RRR Week*
 
 May 9
-: *RRR Week*.
+: *RRR Week*
