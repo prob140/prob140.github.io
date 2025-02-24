@@ -42,7 +42,6 @@ module Jekyll
     # and definite VALID_KEY_NAME above
     KEY_VALIDATIONS = {
       url: :validate_clean_url,
-      baseurl: :validate_semester_format,
       course_department: :inclusion_validator,
       color_scheme: :inclusion_validator
     }.freeze
@@ -78,17 +77,6 @@ module Jekyll
     def validate_clean_url(_key, url)
       errors << '`url` should not end with a `/`' if url.end_with?('/')
       errors << '`url` should contain a protocol' unless url.match?(%r{https?://})
-    end
-
-    def validate_semester_format(_key, baseurl)
-      # This is just for consistency of URL presentation.
-      errors << '`baseurl` must start with a `/`.' unless baseurl.match?(%r{^/})
-      # skip, just for the template.
-      return if baseurl == '/berkeley-class-site'
-
-      return if baseurl.match?(SEMESTER_REGEXP)
-
-      errors << "`baseurl` must be a valid semester (faXX, spXX, suXX or wiXX), not #{baseurl}"
     end
 
     def inclusion_validator(key, value)
