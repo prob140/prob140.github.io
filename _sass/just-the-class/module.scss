@@ -94,13 +94,45 @@
       }
     }
   
-    .label-lecture { background-color: #779ECC; border-radius: 9px; }
-    .label-disc { background-color: #7A77B9; border-radius: 9px; }
-    .label-guide { background-color: #0E0F64; border-radius: 9px; }
-    .label-hw { background-color: #C82EC6; border-radius: 9px; }
-    .label-lab { background-color: #F2C76E; border-radius: 9px; }
-    .label-quiz { background-color: #63c082; border-radius: 9px; }
-    .label-exam { background-color: #E94C4B; border-radius: 9px; }
+    .label-lecture {
+      color: black;
+      background-color: #779ECC;
+      border-radius: 9px;
+    }
+
+    .label-disc {
+      color: black;
+      background-color: #7A77B9;
+      border-radius: 9px;
+    }
+
+    .label-guide {
+      background-color: #0E0F64;
+      border-radius: 9px;
+    }
+
+    .label-hw {
+      color: black;
+      background-color: #C82EC6;
+      border-radius: 9px;
+    }
+
+    .label-lab {
+      color: black;
+      background-color: #F2C76E;
+      border-radius: 9px;
+    }
+
+    .label-quiz {
+      background-color: #63c082;
+      border-radius: 9px;
+    }
+
+    .label-exam {
+      color: black;
+      background-color: #E94C4B;
+      border-radius: 9px;
+    }
 
   }
 }

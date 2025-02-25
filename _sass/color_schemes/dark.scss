@@ -56,3 +56,27 @@ $base-button-color: $grey-dk-200;
 .btn:not(.btn-outline) {
   color: $btn-primary-color !important;
 }
+
+.module {
+  @extend %card;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    &:first-child {
+      margin-top: $sp-4;
+    }
+  }
+
+  >dl {
+
+    .label-guide {
+      color: #0F0F0F;
+      background-color: #DBDBDB !important;
+      border-radius: 9px;
+    }
+  }
+}
