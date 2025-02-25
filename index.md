@@ -22,7 +22,7 @@ UC Berkeley, Spring 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-5-markov-chains){: .btn } 
+[**Jump to current week**](#week-6-mcmc-and-variance){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
