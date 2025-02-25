@@ -31,3 +31,29 @@ node_modules
 *.gem
 .bundle
 .ruby-version
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+*.tmp
+
+# Misc Front-End
+node_modules/
+!assets/vendor/
+tmp/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

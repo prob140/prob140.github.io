@@ -47,6 +47,22 @@ RSpec.shared_examples 'a11y tests' do
 end
 
 ALL_PAGES.each do |path|
+  if path.match(%r{/assets/references/mvn_plane.html})
+    describe 'Jupyter Notebook Exports' do
+      skip "skipping plotly @ #{path}"
+    end
+
+    next
+  end
+
+  if path.match(%r{/assets/references/mvn.html})
+    describe 'Jupyter Notebook Exports' do
+      skip "skipping plotly @ #{path}"
+    end
+
+    next
+  end
+
   describe "#{path} is accessible", :js, type: :feature do
     context 'when light mode' do
       before do
