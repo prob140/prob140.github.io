@@ -5,8 +5,8 @@ nav_order: 7
 description: Tips on doing well in Data 140.
 ---
 # Study Tips from Staff and Students #
-#### Ani Adhikari ####
-{:.no_toc}
+## Ani Adhikari ## 
+{:.no_toc .text-delta}
 
 ## Table of Contents
 {: .no_toc .text-delta }

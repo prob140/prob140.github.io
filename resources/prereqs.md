@@ -5,8 +5,8 @@ nav_exclude: true
 description: The prerequisites for the class.
 ---
 # Math Prerequisities #
-#### A. Adhikari ####
-{:.no_toc}
+## A. Adhikari ##
+{:.no_toc .text-delta}
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -31,7 +31,7 @@ Being able to **assess your own work** is an important mathematical skill and wi
 
 ## Chapters 1-9, 12-14 ##
 
-### <span style="color: darkblue">Basic Counting</span> ###
+### Basic Counting ###
 
 The number of finite sequences and subsets that can be created out of a finite set of objects:
 
@@ -70,7 +70,7 @@ Notice the distinction between *sequences* (orderings, or "arrangements in a lin
     <b>c)</b> 80
 </details> 
 
-###  <span style="color: darkblue">Sums</span> ### 
+###  Sums ### 
 Summation notation will be used throughout the term. For Chapters 1-7 you just need the following.
 
 **Review:** [Terrific notes](http://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf) by Prof. [James Aspnes](http://www.cs.yale.edu/homes/aspnes/) of Yale's CS department
@@ -145,7 +145,7 @@ $$
     \(\displaystyle \sum_{j = 1}^n \sum_{i = 1}^j a_{ij}\)
 </details>
 
-### <span style="color: darkblue">Induction</span> ###
+### Induction ###
 
 Mathematical induction is a method that is sometimes helpful for proving math statements if:
 
@@ -190,7 +190,7 @@ $$
 
 **Exercise I4:** As a check, use induction to prove the formula you got in I3.
 
-### <span style="color: darkblue">The Exponential and Log Functions</span> ###
+### The Exponential and Log Functions ###
 
 **NOTE: All $$\log$$s in this class, and in almost all of math, are natural logarithms taken to the base $$e$$.**
 
@@ -251,7 +251,7 @@ You know that $$\log(1) = 0$$. What we're going to need, quite often, is an appr
     <b>d)</b> \(\frac{1}{2}(e^2 - 1)\)
 </details>  
 
-### <span style="color: darkblue">Geometric Series</span> ###
+### Geometric Series ###
 
 We'll use the infinite series more frequently than the finite one, starting in [Chapter 8](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#geometric) of the textbook. In fact the infinite series is easier to sum (provided you assume it's finite, which it's fine for you to do), and then you can derive the finite series sum from the infinite one, as in the notes linked below.
 
@@ -274,7 +274,7 @@ We'll use the infinite series more frequently than the finite one, starting in [
 
 ## Chapters 10-11 ##
 
-### <span style="color: darkblue">Basic Matrix Operations</span> ###
+### Basic Matrix Operations ###
 
 That's all we'll need for these two chapters. Linear algebra will be used more significantly towards the end of the course.
 
@@ -331,7 +331,7 @@ $$\sum_{k = 1}^n \mathbf{A}(2, k)\mathbf{A}(k, 5)$$ is the ______ element of the
 
 ## Chapter 15 onwards ##
 
-### <span style="color: darkblue">Calculus</span> ###
+### Calculus ###
 
 Here are two excellent resources for refreshing your memory.
 - Prof. Paulin's [Math 1A](https://math.berkeley.edu/~apaulin/Teaching.html) lectures; click on Complete Course Video Lectures
@@ -345,7 +345,7 @@ Topics worth remembering:
 
 ## Chapter 23 onwards ##
 
-### <span style="color: darkblue">More Linear Algebra</span> ###
+### More Linear Algebra ###
 
 Recall the Basic Matrix Operations, above. You will also need the following summaries of properties.
 

@@ -17,10 +17,11 @@ title: Data 140
 tagline: Probability for Data Science
 description: The course website for UC Berkeley's Data 140 course.
 author: Shahzar
-#baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+baseurl: '/' 
 url: 'https://data140.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/brand/logo.png'
 favicon_ico: 'assets/brand/favicon.ico'
+course_department: 'dsus'
 #exclude:
 #  - Gemfile
 #  - Gemfile.lock

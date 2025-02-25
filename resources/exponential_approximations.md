@@ -5,9 +5,11 @@ nav_exclude: True
 description: The basic properties of exponential and logarithms used for exponential approximations.
 ---
 
+# The basic properties of exponential and logarithms used for exponential approximations
+
 ![png](/assets/images/prereqs/exponential.png)
 
-### Limits and Approximations ###
+## Limits and Approximations ##
 
 For all $$x$$,
 
@@ -41,7 +43,7 @@ $$
 = \sum_{k=1}^\infty (-1)^{k+1} \frac{x^k}{k}
 $$
 
-### Bounds ###
+## Bounds ##
 
 - $$e^x \ge 1+x$$ for all $$x$$. You can see this in the graphs above. 
 

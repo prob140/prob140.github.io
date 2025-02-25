@@ -5,8 +5,10 @@ nav_exclude: true
 description: Scope for the Final.
 ---
 # Material for the Final #
-### Data 140 Fall 2024 ###
-#### A. Adhikari ####
+## Data 140 Fall 2024 ##
+{: .text-delta }
+## A. Adhikari ##
+{: .text-delta }
 
 ## General Concepts and Methods ##
 
