@@ -5,8 +5,8 @@ nav_exclude: true
 description: The prerequisites for the class.
 ---
 # Math Prerequisities #
-#### A. Adhikari ####
-{:.no_toc}
+## A. Adhikari ##
+{:.no_toc .text-delta}
 
 ## Table of Contents
 {: .no_toc .text-delta }

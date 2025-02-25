@@ -6,8 +6,8 @@ description: Information about how the course is run.
 ---
 
 # Course Information
-#### Michael Xiao ####
-{:.no_toc}
+## Michael Xiao ##
+{: .no_toc .text-delta }
 
 ## Table of Contents
 {: .no_toc .text-delta }

@@ -5,6 +5,8 @@ nav_exclude: True
 description: The basic properties of exponential and logarithms used for exponential approximations.
 ---
 
+# The basic properties of exponential and logarithms used for exponential approximations
+
 ![png](/assets/images/prereqs/exponential.png)
 
 ### Limits and Approximations ###

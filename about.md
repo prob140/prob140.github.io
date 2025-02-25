@@ -6,8 +6,8 @@ description: Course policies and information.
 ---
 
 # About Data 140
-#### Ani Adhikari ####
-{:.no_toc}
+## Ani Adhikari 
+{: .no_toc .text-delta }
 
 ## Table of Contents
 {: .no_toc .text-delta }
