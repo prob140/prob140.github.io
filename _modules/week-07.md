@@ -3,7 +3,7 @@ title: 'Week 7: Covariance and CLT'
 ---
 
 Mar 3
-: 
+: **Guide**{: .label .label-guide } [Week 7](/assets/guides/spring25/week07.pdf)
 
 Mar 4
 : **Lecture**{: .label .label-lecture} Covariance and its uses
