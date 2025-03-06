@@ -5,8 +5,8 @@ nav_exclude: true
 description: Frequently asked questions about important general issues.
 ---
 # Frequently Asked Questions #
-#### Ani Adhikari, Spring 2017 ####
-{:.no_toc}
+## Ani Adhikari, Spring 2017 ##
+{:.no_toc .text-delta}
 
 ## Table of Contents
 {: .no_toc .text-delta }
