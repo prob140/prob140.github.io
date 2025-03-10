@@ -22,7 +22,7 @@ UC Berkeley, Spring 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-7-covariance-and-clt){: .btn } 
+[**Jump to current week**](#week-8-densities-and-transformations){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
