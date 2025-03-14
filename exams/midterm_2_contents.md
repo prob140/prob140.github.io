@@ -66,7 +66,7 @@ Note that the new content since Midterm 1 is in Chapters 10 through 18. However,
 - Section [5.3](http://prob140.org/textbook/content/Chapter_05/03_The_Matching_Problem.html#k-matches), [6.6](http://prob140.org/textbook/content/Chapter_06/06_Law_of_Small_Numbers.html), Lab 2, [Chapter 7](http://prob140.org/textbook/content/Chapter_07/00_Poissonization.html), Section [8.2](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#poisson), [8.3](http://prob140.org/textbook/content/Chapter_08/03_Expectations_of_Functions.html#e-x-x-1-for-a-poisson-variable-x), [12.1](http://prob140.org/textbook/content/Chapter_12/01_Definition.html#poisson): Poisson
 - Section [8.2](http://prob140.org/textbook/content/Chapter_08/02_Applying_the_Definition.html#geometric), [9.3](http://prob140.org/textbook/content/Chapter_09/03_Expected_Waiting_Times.html): Geometric
 
-### Uniform $(a, b)$ ###
+### Uniform (a, b) ###
 - Section [15.3](http://prob140.org/textbook/content/Chapter_15/03_Expectation.html#uniform-0-1): Density, expectation, variance, CDF
 - Section [16.3](http://prob140.org/textbook/content/Chapter_16/03_Simulation_via_the_CDF.html), Lab 6: Use in simulation
 
