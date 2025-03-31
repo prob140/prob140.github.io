@@ -3,7 +3,7 @@ title: 'Week 10: MGFs'
 ---
 
 Mar 31
-: 
+: **Guide**{: .label .label-guide } [Week 10](/assets/guides/spring25/week10.pdf)
 
 Apr 1
 : **Lecture**{: .label .label-lecture} Moment generating functions
