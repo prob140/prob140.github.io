@@ -22,7 +22,7 @@ UC Berkeley, Spring 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-9-joint-densities-beta-normal-and-gamma-families){: .btn } 
+[**Jump to current week**](#week-10-mgfs){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
