@@ -3,7 +3,11 @@ title: 'Week 11: MLE, MAP, the Beta and the Binomial'
 ---
 
 Apr 7
-: 
+: **Guide**{: .label .label-guide } [Week 11](/assets/guides/spring25/week11.pdf)
+: **Homework**{: .label .label-hw } [Homework 11](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp25&branch=main&subPath=hw/Homework_11.ipynb)
+    : Due Apr 14 at 5 PM
+: **Lab**{: .label .label-lab } [Lab 7B](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp25&branch=main&subPath=lab/Lab_07.ipynb)
+    : Due Apr 14 at 5 PM
 
 Apr 8
 : **Lecture**{: .label .label-lecture} MLE; conditioning; MAP estimates
