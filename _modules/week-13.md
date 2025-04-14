@@ -3,7 +3,7 @@ title: 'Week 12: Prediction and Error'
 ---
 
 Apr 14
-: 
+: **Guide**{: .label .label-guide } [Week 12](/assets/guides/spring25/week12.pdf)
 
 Apr 15
 : **Lecture**{: .label .label-lecture} Prediction and error
