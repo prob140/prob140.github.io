@@ -22,7 +22,7 @@ UC Berkeley, Spring 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-11-mle-map-the-beta-and-the-binomial){: .btn } 
+[**Jump to current week**](#week-12-prediction-and-error){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
