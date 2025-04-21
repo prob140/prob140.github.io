@@ -3,7 +3,7 @@ title: 'Week 13: Random Vectors and Simple Regression'
 ---
 
 Apr 21
-:  
+: **Guide**{: .label .label-guide } [Week 13](/assets/guides/spring25/week13.pdf)
 
 Apr 22
 : **Lecture**{: .label .label-lecture} Random vectors; the multivariate normal
