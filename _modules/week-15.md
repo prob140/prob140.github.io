@@ -3,7 +3,7 @@ title: 'Week 14: Multiple Regression'
 ---
 
 Apr 28
-: 
+: **Guide**{: .label .label-guide } [Week 14](/assets/guides/spring25/week14.pdf)
 
 Apr 29
 : **Lecture**{: .label .label-lecture } Multiple regression I
