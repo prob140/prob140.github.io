@@ -22,7 +22,7 @@ UC Berkeley, Spring 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-13-random-vectors-and-simple-regression){: .btn } 
+[**Jump to current week**](#week-14-multiple-regression){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
