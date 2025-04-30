@@ -5,15 +5,15 @@ nav_exclude: true
 description: Scope for the Final.
 ---
 # Material for the Final #
-## Data 140 Fall 2024 ##
+## Data 140 Spring 2025 ##
 {: .text-delta }
-## A. Adhikari ##
+## M. Xiao ##
 {: .text-delta }
 
 ## General Concepts and Methods ##
 
 ### Probability ###
-- [Chapter 1](http://prob140.org/textbook/content/Chapter_01/00_Fundamentals.html), Lab 1, Lab 2: Spaces, events, basic counting, exponential approximation
+- [Chapter 1](http://prob140.org/textbook/content/Chapter_01/00_Fundamentals.html), Lab 1: Spaces, events, basic counting, exponential approximation
 - [Chapter 2](http://prob140.org/textbook/content/Chapter_02/00_Calculating_Chances.html): Addition and multiplication rules; conditioning and updating
 - [Chapter 5](http://prob140.org/textbook/content/Chapter_05/00_Collections_of_Events.html): Unions and intersections of several events; exact probabilities and bounds
 - Section [9.1](http://prob140.org/textbook/content/Chapter_09/01_Probability_by_Conditioning.html): Probabilities by conditioning and recursion (discrete)
@@ -48,7 +48,7 @@ description: Scope for the Final.
 ### Estimation and Prediction ###
 - Section [8.4](http://prob140.org/textbook/content/Chapter_08/04_Additivity.html#unbiased-estimator): Unbiased estimators
 - Section [14.5](http://prob140.org/textbook/content/Chapter_14/05_The_Sample_Mean.html), [14.6](http://prob140.org/textbook/content/Chapter_14/06_Confidence_Intervals.html): IID sample mean; confidence interval for population mean
-- Homework 7, Homework 15: Unbiased estimator of a population variance; independence of normal sample mean and sample variance
+- Homework 7, Homework 14: Unbiased estimator of a population variance; independence of normal sample mean and sample variance
 - Section [20.1](http://prob140.org/textbook/content/Chapter_20/01_Maximum_Likelihood.html): Maximum likelihood estimate
 - Section [20.3](http://prob140.org/textbook/content/Chapter_20/03_Prior_and_Posterior.html#): Posterior density, MAP estimate
 - Section [12.2](http://prob140.org/textbook/content/Chapter_12/02_Prediction_and_Estimation.html), [22.1](http://prob140.org/textbook/content/Chapter_22/01_Conditional_Expectation_Projection.html), [22.2](http://prob140.org/textbook/content/Chapter_22/02_Least_Squares_Predictor.html): Expectation and conditional expectation as least squares predictors
@@ -86,11 +86,11 @@ description: Scope for the Final.
 - Section [15.4](http://prob140.org/textbook/content/Chapter_15/04_Exponential_Distribution.html), [16.1](http://prob140.org/textbook/content/Chapter_16/01_Linear_Transformations.html#linear-transformation-exponential-density), 
 [16.2.3](http://prob140.org/textbook/content/Chapter_16/02_Monotone_Functions.html#applying-the-formula),
 [18.1](http://prob140.org/textbook/content/Chapter_18/01_Standard_Normal_Basics.html): Exponential and scaling; square root and the Rayleigh
-- Homework 9: Gamma function, gamma density, mean, variance
+- Homework 8: Gamma function, gamma density, mean, variance
 - Section [18.3](http://prob140.org/textbook/content/Chapter_18/03_The_Gamma_Family.html), [18.4](http://prob140.org/textbook/content/Chapter_18/04_Chi_Squared_Distributions.html): Gamma and scaling; chi-squared
 - Section [19.2](http://prob140.org/textbook/content/Chapter_19/02_Moment_Generating_Functions.html#mgf-of-a-gamma-r-lambda-random-variable): Sums of independent gammas with the same rate
 - Lab 7: Waiting times of arrivals in a Poisson process
-- Homework 15: The chi-squared and the normal sample variance
+- Homework 14: The chi-squared and the normal sample variance
 
 ## Omitted from the Final ##
 - Section 5.2 (general inclusion-exclusion formula)
