@@ -6,7 +6,7 @@ description: Information about how the course is run.
 ---
 
 # Course Information
-## Michael Xiao ##
+## Alexander Strang ##
 {: .no_toc .text-delta }
 
 ## Table of Contents
@@ -15,7 +15,7 @@ description: Information about how the course is run.
 - TOC
 {:toc}
 
-Welcome to Data 140, Spring 2025! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about) the class. 
+Welcome to Data 140, Fall 2025! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about) the class. 
 
 Enrolled and waitlisted students will be added to our **Ed** forum. 
 
