@@ -134,10 +134,10 @@ Letter grades for the course will be based on your overall score in the class, c
 
 - Homework 10%
 - Labs 10%
-- Quizzes 15%
+- Quizzes 20%
 - Midterm 1 15%
 - Midterm 2 15%
-- Final 35%
+- Final 30%
 
 **Clobber policy:** If your final exam percentage score is greater than either of your midterm percentage scores then it will replace the lower of your two midterm percentage scores (only your Midterm 1 score will be replaced if both your midterm scores are equal). Here “percentage score” on an exam means your score on the exam as a percent of the total points on the exam.
 
