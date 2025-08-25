@@ -99,15 +99,25 @@ Assignments must be submitted on Gradescope. Please follow all submission instru
 
 **Late assignments will not be accepted**. But if you have DSP accommodations for extended time on assignments, please make sure we have received your DSP accommodation letter. We will contact you about arrangements.
 
-Assignments will be graded for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. That is by far the most efficient way to succeed in the class.
+Assignments will be primarily be graded for completion. We will spot check randomly selected problems for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. Your quizzes will test comprehension of your homework. That is by far the most efficient way to succeed in the class.
 
 Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The first two exercises (and possibly more) of each week's homework will be based on material covered in Tuesday's lecture. So you will be able to start homework as early as Tuesday night.
+
+### Quizzes ###
+
+We will hold 5 quizzes, each based on 2 to 3 weeks of material. Quiz questions will be adapted from homework problems and from chapter exercises. Your homework will serve as practice for your quizzes. The quizzes will be proctored through the [Computer-Based Testing Facility](https://rtl.berkeley.edu/services-programs/computer-based-testing-facility-cbtf) (CBTF). You will sign up for your quizzes with the (CBTF). Students with testing accomodations should also sign up through the CBTF. 
+
+- **Quiz 1** on Tuesday September 9
+- **Quiz 2** on Tuesday September 23
+- **Quiz 3** on Tuesday October 14
+- **Quiz 4** on Tuesday October 28
+- **Quiz 5** on Tuesday November 18
 
 ### Exams ###
 All of these will be in person and proctored. 
 
-- **Midterm 1** on Wednesday February 19 starting at 8PM and ending by 10PM, rooms TBA
-- **Midterm 2** on Wednesday April 2 starting at 8PM and ending by 10PM, rooms TBA
+- **Midterm 1** on Wednesday February 19 starting at 8PM and ending by 10PM, Wheeler 150.
+- **Midterm 2** on Wednesday April 2 starting at 8PM and ending by 10PM, Wheeler 150.
 - **Final Exam** on Monday May 12, 11:30 AM to 2:30 AM, Exam Group 2, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
 
 There will be **no alternate exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled exams.
@@ -122,11 +132,12 @@ We strongly recommended that you turn in all assignments even if you can only co
 
 Letter grades for the course will be based on your overall score in the class, calculated using the following weights:
 
-- Homework 18%
-- Labs 12%
+- Homework 10%
+- Labs 10%
+- Quizzes 15%
 - Midterm 1 15%
 - Midterm 2 15%
-- Final 40%
+- Final 35%
 
 **Clobber policy:** If your final exam percentage score is greater than either of your midterm percentage scores then it will replace the lower of your two midterm percentage scores (only your Midterm 1 score will be replaced if both your midterm scores are equal). Here “percentage score” on an exam means your score on the exam as a percent of the total points on the exam.
 
