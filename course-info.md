@@ -107,11 +107,11 @@ Please keep in mind that **homework assigned each week is based on the material 
 
 We will hold 5 quizzes, each based on 2 to 3 weeks of material. Quiz questions will be adapted from homework problems and from chapter exercises. Your homework will serve as practice for your quizzes. The quizzes will be proctored through the [Computer-Based Testing Facility](https://rtl.berkeley.edu/services-programs/computer-based-testing-facility-cbtf) (CBTF). You will sign up for your quizzes with the (CBTF). Students with testing accomodations should also sign up through the CBTF. 
 
-- **Quiz 1** on Tuesday September 9
-- **Quiz 2** on Tuesday September 23
-- **Quiz 3** on Tuesday October 14
-- **Quiz 4** on Tuesday October 28
-- **Quiz 5** on Tuesday November 18
+- **Quiz 1** on Tuesday September 9 and Wednesday September 10
+- **Quiz 2** on Tuesday September 23 and Wednesday September 24
+- **Quiz 3** on Tuesday October 14 and Wednesday October 15
+- **Quiz 4** on Tuesday October 28 and Wednesday October 29 - *provisional*
+- **Quiz 5** on Tuesday November 18 and Wednesday November 19
 
 ### Exams ###
 All of these will be in person and proctored. 
