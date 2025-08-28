@@ -70,10 +70,10 @@ Please keep in mind that **each session assumes that you have attended the previ
 
 A typical week includes the following sessions. All sessions are in person and start at "Berkeley time" following our cherished practice of starting 10 minutes after the listed time.
 
-- Lectures: 2:00 PM to 3:30 PM on Tuesdays and Thursdays in Dwinelle 155.  **You are expected to attend.** 
+- Lectures: 3:30 PM to 5:00 PM on Tuesdays and Thursdays in Dwinelle 155.  **You are expected to attend.** 
 - Sections led by TAs: Twice weekly, on Wednesdays and Fridays at various times, in person. In Evans on Wednesdays and in various locations on Fridays.
 
-**Each student must enroll in one Wednesday section.** Wednesday sections will meet in the 9 AM to 3 PM range for 50 minutes and will have approximately 35 students each.
+**Each student must enroll in one Wednesday section.** Wednesday sections will meet in the 9 AM to 4 PM range for 50 minutes and will have approximately 35 students each.
 
 **Each student must also enroll in one Friday section, which can be at a different time from their Wednesday section.** Friday sections will be at 11 AM, 12 noon, and 1 PM for 50 minutes and will have approximately 100 students each. We are calling these “mega-sections”.
 
@@ -116,9 +116,9 @@ We will hold 5 quizzes, each based on 2 to 3 weeks of material. Quiz questions w
 ### Exams ###
 All of these will be in person and proctored. 
 
-- **Midterm 1** on Wednesday February 19 starting at 8PM and ending by 10PM, Wheeler 150.
-- **Midterm 2** on Wednesday April 2 starting at 8PM and ending by 10PM, Wheeler 150.
-- **Final Exam** on Monday May 12, 11:30 AM to 2:30 AM, Exam Group 2, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
+- **Midterm 1** on Monday September 29, starting at 8PM and ending by 10PM, Wheeler 150.
+- **Midterm 2** on Monday November 3, starting at 8PM and ending by 10PM, Wheeler 150.
+- **Final Exam** on Friday December 19, 7:00 PM to 10:00 PM, Exam Group 20, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
 
 There will be **no alternate exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled exams.
 
