@@ -110,7 +110,7 @@ We will hold 5 quizzes, each based on 2 to 3 weeks of material. Quiz questions w
 - **Quiz 1** on Tuesday September 9 and Wednesday September 10
 - **Quiz 2** on Tuesday September 23 and Wednesday September 24
 - **Quiz 3** on Tuesday October 14 and Wednesday October 15
-- **Quiz 4** on Tuesday October 28 and Wednesday October 29 - *provisional*
+- **Quiz 4** on Tuesday October 28 and Wednesday October 29
 - **Quiz 5** on Tuesday November 18 and Wednesday November 19
 
 ### Exams ###
