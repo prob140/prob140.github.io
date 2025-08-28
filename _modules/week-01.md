@@ -8,6 +8,10 @@ Aug 27
 Aug 28
 : **Lecture**{: .label .label-lecture } Probability: axioms, rules, approximation
     : [Course Information](course-info), Ch [1](http://prob140.org/textbook/content/Chapter_01/00_Fundamentals.html), [2](http://prob140.org/textbook/content/Chapter_02/00_Calculating_Chances.html)
+: **Homework**{: .label .label-hw } [Homework 1](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa25&branch=main&subPath=hw/Homework_01.ipynb)
+    : Due Sep 2 at 9 AM
+: **Lab**{: .label .label-lab } [Lab 1](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa25&branch=main&subPath=lab/Lab_01.ipynb)
+    : Due Sep 2 at 9 AM
     
 Aug 29
 : **Mega-Section**{: .label .label-disc}
