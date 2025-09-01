@@ -8,9 +8,11 @@ Sep 22
 Sep 23
 : **Lecture**{: .label .label-lecture } Expectation by conditioning
     : Ch [9](http://prob140.org/textbook/content/Chapter_09/00_Conditioning_Revisited.html)
+: **Quiz**{: .label .label-quiz} Quiz 2, Day 1
 
 Sep 24
 : **Section**{: .label .label-disc}
+: **Quiz**{: .label .label-quiz} Quiz 2, Day 2
 
 Sep 25
 : **Lecture**{: .label .label-lecture} Long run behavior of Markov chains
