@@ -18,7 +18,7 @@ Sep 3
 : **Section**{: .label .label-disc}
 
 Sep 4
-: **Lecture**{: .label .label-lecture} Symmetry and collections of events
+: **Lecture**{: .label .label-lecture} [Symmetry and collections of events](https://drive.google.com/file/d/1uMqjIPwq2DZAMys0i7ySm22ZQEahKUKm/view?usp=sharing)
     : Ch [5](http://prob140.org/textbook/content/Chapter_05/00_Collections_of_Events.html)
 
 Sep 5
