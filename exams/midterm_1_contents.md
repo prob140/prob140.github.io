@@ -5,14 +5,14 @@ nav_exclude: true
 description: Scope for Midterm 1.
 ---
 # Material for Midterm 1 #
-## Data 140 Spring 2025 ##
+## Data 140 Fall 2025 ##
 
-### M. Xiao ##
+### A. Strang ##
 {: .text-delta }
 
 
 ## Material for Midterm 1 #
-Midterm 1 is on Wednesday 2/19 from 8:10 PM to 9:40 PM. This is a summary of the material for the exam, grouped by main topic. **Boldface** has been reserved for topics that we consider to be **core material** for understanding the rest of the course.
+Midterm 1 is on Monday 9/29 from 8:10 PM to 9:40 PM. This is a summary of the material for the exam, grouped by main topic. **Boldface** has been reserved for topics that we consider to be **core material** for understanding the rest of the course.
 
 The general techniques are in the sections Probability, Distribution, and Expectation. The Random Counts section consists of applications. 
 
