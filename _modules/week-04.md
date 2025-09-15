@@ -3,7 +3,7 @@ title: 'Week 4: Expectation'
 ---
 
 Sep 15
-: 
+: **Guide**{: .label .label-guide } [Week 4](/assets/guides/fall25/week04.pdf)
 
 Sep 16
 : **Lecture**{: .label .label-lecture } Expectation
