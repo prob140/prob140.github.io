@@ -3,7 +3,7 @@ title: 'Week 5: Conditioning and Markov Chains'
 ---
 
 Sep 22
-: 
+: **Guide**{: .label .label-guide } [Week 5](/assets/guides/fall25/week05.pdf)
 
 Sep 23
 : **Lecture**{: .label .label-lecture } Expectation by conditioning
