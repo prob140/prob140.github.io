@@ -113,6 +113,8 @@ We will hold 5 quizzes, each based on 2 to 3 weeks of material. Quiz questions w
 - **Quiz 4** on Monday October 27 and Tuesday October 28
 - **Quiz 5** on Monday November 17 and Tuesday November 18
 
+Your lowest quiz score will be automatically dropped. Unless explicitly granted, unexplained absences, or absences given late notice, will not be dropped.
+
 ### Exams ###
 All of these will be in person and proctored. 
 
