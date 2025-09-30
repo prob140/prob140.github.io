@@ -7,6 +7,7 @@ Sep 29
     : **8PM - 10PM**
 
 Sep 30
+: **Guide**{: .label .label-guide } [Week 6](/assets/guides/fall25/week06.pdf)
 : **Lecture**{: .label .label-lecture } Balance
     : Ch [10](http://prob140.org/textbook/content/Chapter_10/00_Markov_Chains.html), [11.1](http://prob140.org/textbook/content/Chapter_11/00_Markov_Chain_Monte_Carlo.html)
 
