@@ -3,6 +3,7 @@ title: 'Week 8: Central Limit Theorem and Densities'
 ---
 
 Oct 13
+: **Guide**{: .label .label-guide } [Week 8](/assets/guides/fall25/week08.pdf)
 : **Quiz**{: .label .label-quiz} Quiz 3, Day 1
 
 Oct 14
