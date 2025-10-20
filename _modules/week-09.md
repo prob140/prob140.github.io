@@ -3,7 +3,7 @@ title: 'Week 9: Transformations and Joint Densities'
 ---
 
 Oct 20
-: 
+: **Guide**{: .label .label-guide } [Week 9](/assets/guides/fall25/week09.pdf)
 
 Oct 21
 : **Lecture**{: .label .label-lecture } Transformations

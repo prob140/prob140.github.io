@@ -22,7 +22,7 @@ UC Berkeley, Fall 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-8-central-limit-theorem-and-densities){: .btn }
+[**Jump to current week**](#week-9-transformations-and-joint-densities){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
