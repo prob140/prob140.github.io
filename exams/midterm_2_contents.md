@@ -4,12 +4,12 @@ title: Midterm 2 Contents
 nav_exclude: true
 description: Scope for Midterm 2.
 ---
-### Data 140 Spring 2025 ###
-### M. Xiao ###
+### Data 140 Fall 2025 ###
+### A. Strang ###
 
 # Material for Midterm 2 #
 
-Contents go through Chapter 18 of the textbook, that is, through the lecture on Thursday 3/20.
+Contents go through Chapter 18 of the textbook, that is, through the lecture on Tuesday 10/28.
 
 Note that the new content since Midterm 1 is in Chapters 10 through 18. However, it is not possible to understand that material without first understanding Chapters 1 through 9.
 
