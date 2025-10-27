@@ -3,6 +3,7 @@ title: 'Week 10: The Beta, Normal, and Gamma Families'
 ---
 
 Oct 27
+: **Guide**{: .label .label-guide } [Week 10](/assets/guides/fall25/week10.pdf)
 : **Quiz**{: .label .label-quiz} Quiz 4, Day 1
 
 Oct 28
