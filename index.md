@@ -22,7 +22,7 @@ UC Berkeley, Fall 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-10-the-beta-normal-and-gamma-families){: .btn }
+[**Jump to current week**](#week-11-mgfs-mle-and-map){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
