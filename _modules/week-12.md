@@ -2,7 +2,10 @@
 title: 'Week 12: The Beta and the Binomial; Prediction'
 ---
 Nov 10
-: 
+: : **Homework**{: .label .label-hw } [Homework 12](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa25&branch=main&subPath=hw/Homework_12.ipynb)
+    : Due Nov 17 at 5 PM
+: **Lab**{: .label .label-lab } [Lab 7B](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-fa25&branch=main&subPath=lab/Lab_07.ipynb)
+    : Due Nov 17 at 5 PM
 
 Nov 11
 : **Veterans Day**

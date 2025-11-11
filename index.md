@@ -22,7 +22,7 @@ UC Berkeley, Fall 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-11-mgfs-mle-and-map){: .btn }
+[**Jump to current week**](#week-12-the-beta-and-the-binomial-prediction){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
