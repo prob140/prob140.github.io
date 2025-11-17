@@ -3,6 +3,7 @@ title: 'Week 13: Variance by Conditioning and Random Vectors'
 ---
 
 Nov 17
+: **Guide**{: .label .label-guide } [Week 13](/assets/guides/fall25/week13.pdf)
 : **Quiz**{: .label .label-quiz} Quiz 5, Day 1
 
 Nov 18
