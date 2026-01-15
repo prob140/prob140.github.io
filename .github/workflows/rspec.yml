@@ -5,8 +5,6 @@ name: Run all page tests
 on:
   - push
   - workflow_dispatch
-  - deployment
-  - release
 
 jobs:
   build:
