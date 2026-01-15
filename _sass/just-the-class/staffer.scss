@@ -1,15 +1,6 @@
-.role {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: $sp-5;
-}
-
 .staffer {
   display: flex;
-  flex-basis: auto;
-  //margin: $sp-4 0;
-  padding: $sp-4;
-  padding-right: $sp-10;
+  margin: $sp-4 0;
 
   .staffer-image {
     border-radius: 50%;
@@ -21,15 +12,22 @@
   p,
   .staffer-name {
     margin: $sp-1 !important;
+
+  .anchor-heading {
+      width: 1.8rem;
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
   }
 
-  .staffer-pronouns {
-    @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
+  .staffer-badge {
+    @extend .label, .text-grey-dk-300, .bg-grey-lt-200;
 
+    -webkit-user-select: none;
     user-select: none;
   }
 
   .staffer-meta {
-    @extend .text-grey-dk-000;
+    color: $grey-dk-300;
   }
 }

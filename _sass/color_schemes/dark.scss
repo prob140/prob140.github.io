@@ -5,14 +5,12 @@
 
 /////////// Do not modify this section.
 $color-scheme: dark;
-$body-background-color: #181A1B;
+$body-background-color: $grey-dk-300;
 $body-heading-color: $grey-lt-000;
 $body-text-color: $grey-lt-300;
-// $link-color: $blue-000;
 $nav-child-link-color: $grey-dk-000;
 $sidebar-color: $grey-dk-300;
 $base-button-color: $grey-dk-250;
-// $btn-primary-color: $blue-200;
 $code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
 $code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 3%);
@@ -22,18 +20,18 @@ $search-result-preview-color: $grey-dk-000;
 $border-color: $grey-dk-200;
 /////////////////// Add modifications below
 
-// @import '../snytax_highliters/a11y-dark';
+@import '../syntax-highlighters/a11y-dark';
 
 // Override dark-mode variables here
 $berkeley-blue: #002676; // rgb(0, 38, 118);
-$grey-dk-400: #0F0F10 !default;
+$grey-dk-400: #141414 !default;
 $body-background-color: $grey-dk-400;
 $sidebar-color: $grey-dk-400;
 $search-background-color: $grey-dk-400;
 $body-text-color: $white;
 $body-lighter-color: darken($body-text-color, 20%);
 
-$link-color: #7698FE;
+$link-color: #6ea3ff;
 $hover-focus-link-color: darken($link-color, 10%);
 
 // TODO(template): We need to figure out a much better solution!
@@ -54,29 +52,20 @@ $base-button-color: $grey-dk-200;
 
 // This is not great, but JTD forces $link-color
 .btn:not(.btn-outline) {
-  color: $btn-primary-color !important;
+  color: $white;
 }
 
-.module {
-  @extend %card;
+.btn-outline-primary {
+  // Option A: Keep white text but darken the button background
+  background-color: #333232 !important; 
+  color: #ffffff !important;
+  border-color: #5dade2 !important; // A lighter blue for visibility
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    &:first-child {
-      margin-top: $sp-4;
-    }
-  }
-
-  >dl {
-
-    .label-guide {
-      color: #0F0F0F;
-      background-color: #DBDBDB !important;
-      border-radius: 9px;
-    }
+  &:hover {
+    background-color: #5dade2 !important;
+    color: #000000 !important;
   }
 }
+
+// Custom colors
+$hw-rel: #009d9a;

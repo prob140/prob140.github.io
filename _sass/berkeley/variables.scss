@@ -5,32 +5,17 @@
 $content-width: 1200px;
 
 // Typography
-$mono-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-$body-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-$serif-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$mono-font-family: "Source Code Pro", "SFMono-Regular", menlo, consolas, monospace !default;
+$body-font-family: 'Inter', system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji" !default;
+$serif-font-family: 'Source Serif 4', 'Georiga', 'Baskerville', serif;
 
 $berkeley-blue-old: #003262;
-$berkeley-blue: #2869e6; // rgb(0, 38, 118);
+$berkeley-blue: #002676; // rgb(0, 38, 118);
 
 // Colors
 $link-color: $berkeley-blue;
 $hover-focus-link-color: lighten($link-color, 20%);
-
-// Custom Colors
-$orange-000: #f7ac7e !default;
-$orange-100: #f99e65 !default;
-$orange-200: #e9884c !default;
-$orange-300: #dd712e !default;
-
-$pink-000: #f77ef5 !default;
-$pink-100: #f965f7 !default;
-$pink-200: #e9884c !default;
-$pink-300: #e94ce6 !default;
-
-$teal-000: #c9ffe5 !default;
-$teal-100: #88d8c0 !default;
-$teal-200: #20b2aa !default;
-$teal-300: #00827f !default;
 
 // Layout
 $gutter-spacing: $sp-6;

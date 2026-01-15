@@ -2,7 +2,7 @@
 // It is loaded *after* all Just-the-class customizations
 
 // UC Berkeley fonts 'Inter' (sans serif) 'Source Serif' (serif), and 'Source Code Pro' (monospace)
-// @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
 
 // Override default JTD CSS for larger/more accessibile fonts.
 html {
@@ -31,6 +31,14 @@ a,
 
 a:not([class]):hover {
   text-decoration-color: lighten($link-color, 20%);
+}
+
+/* For lectures that haven't been released yet */
+a.unreleased {
+  color: inherit;
+  text-decoration: none;
+  cursor: default;
+  pointer-events: none; /* optional, if you want to block clicks */
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -100,9 +108,20 @@ summary {
   color: $body-lighter-color;
 }
 
-a[target="_blank"]::after {
+a[target="_blank"]:not(.btn)::after {
   font-family: 'Font Awesome 6 Free';
   font-weight: 900;
   content: "\f08e";
   padding: 0 0.25rem;
+}
+
+.lecture .subhead {
+  @extend h3;
+}
+
+// Full Calendar Overrides...
+// Kind of small font until we fix the calendar....
+.fc-v-event .fc-event-title,
+.fc-v-event .fc-event-time {
+  font-size: 0.8em;
 }
