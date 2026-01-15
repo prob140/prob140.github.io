@@ -18,7 +18,7 @@ tagline: Probability for Data Science
 description: The course website for UC Berkeley's Data 140 course.
 author: Data 140 Staff
 baseurl: '/' 
-url: 'https://data140.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://data140.org' 
 logo: 'assets/brand/logo.png'
 favicon_ico: 'assets/brand/favicon.ico'
 course_department: 'dsus'
