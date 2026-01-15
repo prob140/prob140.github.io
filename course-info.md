@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Course Information
+title: Course Information (Fall 2025)
 nav_order: 4
 description: Information about how the course is run.
 ---
 
-# Course Information
+# Course Information (Fall 2025)
 <!-- ## Alexander Strang ## -->
 {: .no_toc .text-delta }
 
