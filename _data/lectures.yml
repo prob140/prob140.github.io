@@ -19,31 +19,42 @@
 # providing the readings field.
 
 lectures:
-  - slug: intro
-    readings:
-      - title: Introduction
-        link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
-  - slug: 2
-    readings: 
-      - title: Causality and Experiments
-        link: https://inferentialthinking.com/chapters/02/causality-and-experiments/index.html
-  - slug: "03"
-    readings:
-      - links: 
-          - text: "Programming in Python"
-            url: "https://inferentialthinking.com/chapters/03/programming-in-python/"
-          - text: "Data Types"
-            url: "https://inferentialthinking.com/chapters/04/data-types/"
-  - slug: "04"
-  - slug: "05"
-  - slug: "06"
-  - slug: "07"
-  # - skip: true
-  - slug: "08"
-  - title: "No Lecture"
+  - title: "Probability: axioms, rules, approximation"
+  - title: "Random variables: distributions, equality, conditioning"
+  - title: "Symmetry and collections of events"
+  - title: "Binomial and related counts; a Poisson limit"
+  - title: "Independence and Poissonization"
+  - title: "Expectation"
+  - title: "Expectation and additivity"
+  - title: "Expectation by conditioning"
+  - title: "Long run behavior of Markov Chains"
+  - title: "Balance"
+  - title: "Markov Chain Monte Carlo"
+  - title: "SD, tail bounds"
+  - title: "Covariance and its uses"
+  - title: "Central Limit Theorem"
+  - title: "Probability densities"
+  - title: "Transformations"
+  - title: "Joint densities"
+  - title: "Independent normal and gamma variables"
+  - title: "Spring Break"
     nonumber: true
-    # link: "https://registrar.berkeley.edu/wp-content/uploads/UCB_AcademicCalendar_2025-26.pdf"
-  - slug: "09"
-  - slug: "10"
-  - slug: "11"
+  - title: "Spring Break"
+    nonumber: true
+  - title: "Introduction to moment generating functions"
+  - title: "Moment generating functions; Chernoff bound"
+  - title: "MLE; Conditioning; MAP estimates"
+  - title: "The beta and the binomial"
+  - title: "Prediction and Error"
+  - title: "Variance by Conditioning"
+  - title: "Random vectors; multivariate normal"
+  - title: "Correlation and simple regression"
+  - title: "Multiple regression 1"
+  - title: "Multiple regression 2"
+  - title: "RRR Week: Gamma family review (Prof. A.)"
+    nonumber: true
+  - title: "RRR Week: TA review"
+    nonumber: true
+  - title: Finals Week
+    nonumber: true
 

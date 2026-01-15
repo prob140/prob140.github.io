@@ -10,7 +10,7 @@ UC Berkeley, Fall 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <div>
-{% assign professors = site.staffers | where: 'role', 'Instructor' | reverse %}
+{% assign professors = site.staffers | where: 'role', 'Professor' | reverse %}
     <div class="role">
         {% for staffer in professors %}
         {{ staffer }}
@@ -18,12 +18,14 @@ UC Berkeley, Fall 2025
     </div>
 </div>
 
-{% assign announcement = site.announcements | last %}
-{{ announcement }}
+{%- if site.enable_announcements -%}
+
+    {% assign announcement = site.announcements | last %}
+    {{ announcement }}
+{%- endif -%}
 
 # Calendar
-<!-- [**Jump to current week**](#week-15-multiple-regression){: .btn } -->
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+<div>
+{%- include schedule.html -%}
+</div>

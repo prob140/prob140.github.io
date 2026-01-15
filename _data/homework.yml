@@ -13,11 +13,23 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - slug: hw01
-  - title: Homework 2
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - title: Homework 3
+  - title: due 1/26
+  - title: due 2/2
+  - title: due 2/9
+  - title: due 2/17
+  - title: due 2/23
+  - title: due 3/2
+  - title: due 3/9
+  - title: due 3/26
+  - title: due 3/30
+  - title: Spring Break
+    nonumber: true
   - skip: true
-  - title: Homework 4
-  - title: Homework 5
-  - title: Homework 6
+  - title: due 4/13
+  - title: due 4/20
+  - title: due 4/27
+  - title: due 5/4
+  - title: RRR Week
+    nonumber: true
+  - title: Finals Week
+    nonumber: true

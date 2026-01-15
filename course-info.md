@@ -6,7 +6,7 @@ description: Information about how the course is run.
 ---
 
 # Course Information
-## Alexander Strang ##
+<!-- ## Alexander Strang ## -->
 {: .no_toc .text-delta }
 
 ## Table of Contents

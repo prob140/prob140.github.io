@@ -27,6 +27,8 @@ gradescope_course_id:
 bcourses_course_id:
 ed_course_id:
 
+enable_announcements: true
+
 aux_links:
   Textbook:
     - 'https://data140.org/textbook/'
@@ -91,7 +93,7 @@ defaults:
     values:
       layout: staffer
       height: 300
-      subpath: '/assets/images/'
+      subpath: 'assets/images/staff/'
       width: 300
   - scope:
       path: ''
