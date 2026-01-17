@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Course Information (Fall 2025)
+title: Course Information
 nav_order: 4
-description: Information about how the course is run.
+description: Course Policies
 ---
 
-# Course Information (Fall 2025)
-<!-- ## Alexander Strang ## -->
+# Course Information
+## Ani Adhikari ##
 {: .no_toc .text-delta }
 
 ## Table of Contents
@@ -15,12 +15,12 @@ description: Information about how the course is run.
 - TOC
 {:toc}
 
-Welcome to Data 140, Fall 2025! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about) the class. 
+Welcome to Data 140, Spring 2026! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about) the class. 
 
 Enrolled and waitlisted students will be added to our **Ed** forum. 
 
 ## Community Standards ##
-Data 140 is an academic community; Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://ethics.berkeley.edu/code-conduct)).
+Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with [Berkeley’s Principles of Community](https://chancellor.berkeley.edu/about/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/). We expect all posts to demonstrate appropriate respect and consideration for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.
 
 
 ## Videos, Textbook, and Lectures ##
@@ -70,18 +70,18 @@ Please keep in mind that **each session assumes that you have attended the previ
 
 A typical week includes the following sessions. All sessions are in person and start at "Berkeley time" following our cherished practice of starting 10 minutes after the listed time.
 
-- Lectures: 3:30 PM to 5:00 PM on Tuesdays and Thursdays in Dwinelle 155.  **You are expected to attend.** 
+- Lectures: 12:30 PM to 2:00 PM on Tuesdays and Thursdays in Stanley 105.  **You are expected to attend.** 
 - Sections led by TAs: Twice weekly, on Wednesdays and Fridays at various times, in person. In Evans on Wednesdays and in various locations on Fridays.
 
-**Each student must enroll in one Wednesday section.** Wednesday sections will meet in the 9 AM to 4 PM range for 50 minutes and will have approximately 35 students each.
+**Each student must enroll in one Wednesday section.** Wednesday sections will meet for 50 minutes and will have 35-40 students each.
 
-**Each student must also enroll in one Friday section, which can be at a different time from their Wednesday section.** Friday sections will be at 11 AM, 12 noon, and 1 PM for 50 minutes and will have approximately 100 students each. We are calling these “mega-sections”.
+**Each student must also enroll in one Friday section, which can be at a different time from their Wednesday section.** Friday sections will be for 50 minutes and will have 90-100 students each. We are calling these “mega-sections”.
 
 Sections and mega-sections will be conversations about exercises and may sometimes include portions of the weekly lab. They will cover how to select appropriate methods, similarities and differences between exercises, etc. **You are expected to attend both the discussion section the mega-section in which you are enrolled**. You cannot attend other sections.
-- Assignment "parties" (work sessions with staff support): Lab Party on Thursdays 9 AM to 12 noon; Homework Party on Fridays 2 PM to 5 PM.
-- Office hours by the instructors and the course staff, days and times reflected on the [Weekly Schedule](http://prob140.org/schedule).
+- Assignment "parties" (work sessions with staff support): Lab Party and Homework Party: Days and times TBA.
+- Office hours by the instructor and course staff, days and times to be reflected on the [Weekly Schedule](http://prob140.org/schedule).
  
-A few weeks into the term, we will start the Optional Supplemental Section. This typically covers "catch up" content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Enrolling in this section is optional and will be by application. 
+A few weeks into the term, we will start an Optional Supplemental Section of about 40 students. This typically covers "catch up" content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Enrolling in this section is optional and will be by application. 
 
 Student participation and informal conversation will be encouraged during all lectures and sections. You are expected to attend and participate. To help make this possible, the class does not allow time conflicts.
 
@@ -99,28 +99,17 @@ Assignments must be submitted on Gradescope. Please follow all submission instru
 
 **Late assignments will not be accepted**. But if you have DSP accommodations for extended time on assignments, please make sure we have received your DSP accommodation letter. We will contact you about arrangements.
 
-Assignments will be primarily be graded for completion. We will spot check randomly selected problems for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. Your quizzes will test comprehension of your homework. That is by far the most efficient way to succeed in the class.
+Assignments will be primarily be graded for completion. We will spot check randomly selected problems for correctness. There is plenty of support available while you work on them, so if you get started early and use the support then you should be able to turn in work that you understand well and know to be correct. That is by far the most efficient way to succeed in the class.
 
 Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The first two exercises (and possibly more) of each week's homework will be based on material covered in Tuesday's lecture. So you will be able to start homework as early as Tuesday night.
 
-### Quizzes ###
-
-We will hold 5 quizzes, each based on 2 to 3 weeks of material. Quiz questions will be adapted from homework problems and from chapter exercises. Your homework will serve as practice for your quizzes. The quizzes will be proctored through the [Computer-Based Testing Facility](https://rtl.berkeley.edu/services-programs/computer-based-testing-facility-cbtf) (CBTF). You will sign up for your quizzes with the (CBTF). Students with testing accomodations should also sign up through the CBTF. 
-
-- **Quiz 1** on Tuesday September 9 and Wednesday September 10
-- **Quiz 2** on Monday September 22 and Tuesday September 23
-- **Quiz 3** on Monday October 13 and Tuesday October 14
-- **Quiz 4** on Monday October 27 and Tuesday October 28
-- **Quiz 5** on Monday November 17 and Tuesday November 18
-
-Your lowest quiz score will be automatically dropped. 
 
 ### Exams ###
 All of these will be in person and proctored. 
 
-- **Midterm 1** on Monday September 29, starting at 8PM and ending by 10PM, Wheeler 150.
-- **Midterm 2** on Monday November 3, starting at 8PM and ending by 10PM, Wheeler 150.
-- **Final Exam** on Friday December 19, 7:00 PM to 10:00 PM, Exam Group 20, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
+- **Midterm 1** on Wednesday February 18, starting at 7PM and ending by 9PM, Wheeler 150.
+- **Midterm 2** on Thursday April 2, starting at 8PM and ending by 10PM, Wheeler 150.
+- **Final Exam** on Thursday May 14, 3:00 PM to 6:00 PM, Exam Group 14, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
 
 There will be **no alternate exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled exams.
 
@@ -130,22 +119,24 @@ There will be **no alternate exams** except as required by campus rules. If you 
 We strongly recommended that you turn in all assignments even if you can only complete some of them partially. However, to give you some leeway in case of illness and emergencies, we will drop the following in the calculation of your overall score:
 
 - your two lowest homework scores
-- your lowest lab score 
+- your lowest lab score
 
-Letter grades for the course will be based on your overall score in the class, calculated using the following weights:
+**Minimum Average Score Required on Exams:**
+In order to pass the class, the **first condition you must satisfy** is to have an unweighted average percentage score of at least 25% on the two midterms and the final, after the clobber (see below) has been applied. Students who average exam score falls below this threshold will not pass the class.
 
-- Homework 10%
+**If you satisfy the condition above**, your course grade (whether passing or non-passing) will be based on your overall score in the class, calculated using the following weights:
+
+- Homework 16%
 - Labs 10%
-- Quizzes 20%
-- Midterm 1 15%
-- Midterm 2 15%
-- Final 30%
+- Midterm 1 18%
+- Midterm 2 18%
+- Final 38%
 
 **Clobber policy:** If your final exam percentage score is greater than either of your midterm percentage scores then it will replace the lower of your two midterm percentage scores (only your Midterm 1 score will be replaced if both your midterm scores are equal). Here “percentage score” on an exam means your score on the exam as a percent of the total points on the exam.
 
 Letter grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-". The thresholds *x*, *y*, and *z* will depend on this term's performance. 
 
-In Spring 2024, our end-of-term Ed post included the following: "Each of the A and C ranges contains just over 30% of the class. The B range contains just under one-third of the class." Note that the failure rate in Data 140 doesn’t include students who withdraw before the final exam.
+In Fall 2024, the last time I taught the class, our end-of-term Ed post included the following: "More than one-third of the class got grades in the A range (A-/A/A+). Well over a quarter were in the B range, and just under one-third in the C's." Note that the failure rate in Data 140 doesn’t include students who withdraw before the final exam.
 
 ## Collaboration and Integrity ##
 
@@ -156,3 +147,4 @@ Copying assignments from other sources is not only dishonest, it also doesn’t 
 Data/Stat/Prob 140 materials including solutions and exams are the intellectual property of the course developers. From the campus statement on [Academic Integrity](https://teaching.berkeley.edu/statements-course-policies): "... students may not circulate or post materials (handouts, exams, syllabi,–any class materials) from their classes without the written permission of the instructor."
 
 We are tough with dishonest students and we hope that we will not be put in that situation in this class. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
+u will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
