@@ -11,13 +11,13 @@ end_date: 2026-05-15
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
   - date: 2026-02-18
-    title: Midterm 1 (8-9:30 PM, Wheeler 150)
+    title: Midterm 1 (7-9 PM, Wheeler 150)
     label: exam
-  - date: 2026-04-01
-    title: Midterm 2 (8-9:30 PM, Wheeler 150)
+  - date: 2026-04-02
+    title: Midterm 2 (8-10 PM, Wheeler 150)
     label: exam
   - date: 2026-05-14
-    title: Final Exam, 3-6 PM
+    title: Final Exam (3-6 PM)
     label: exam
 
 # The dates used in extra_links_col3 below must already be included on the calendar 

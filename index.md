@@ -9,7 +9,7 @@ seo:
 ---
 
 # Data 140: Probability for Data Science
-UC Berkeley, Fall 2025
+UC Berkeley, Spring 2026
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {%- if site.enable_announcements -%}
