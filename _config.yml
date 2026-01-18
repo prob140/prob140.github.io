@@ -116,9 +116,9 @@ defaults:
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
-  google_calendar_id: 6f49705e0b133b4d09a39e37c80600808e6ff1f5af5c60e2029010a2737f4242@group.calendar.google.com
+  google_calendar_id: c_2au9lremj42s85t23a7jpccqs0@group.calendar.google.com
   # You need to make this, once per course, ideally via a SPA
-  # TODO: Recommend adding link to Google cloud project here
+  # Google cloud project: data-140
   google_api_key: AIzaSyCsAjiyqyZDFguvW1UrBmyeSVS3xsMOi0E
   # These are processed in order, top-to-bottom, first match applies
   # The prefix/suffix matches the Google Calendar event *title*
@@ -129,6 +129,11 @@ google_calendar:
       text_color: '000'
       class: cal-lecture
       icon: fa-school
+    - suffix: Office Hours
+      background_color: 'D9CEFF' # purple light
+      text_color: '000000'
+      class: cal-oh
+      icon: fa-person-circle-question
     - suffix: Tea Hours
       background_color: 'FFE88D' # gold light
       text_color: '000'
@@ -138,12 +143,7 @@ google_calendar:
       background_color: 'FFC31B' # gold medium
       text_color: '000'
       class: cal-tea-oh
-      icon: fa-person-circle-question
-    - suffix: Office Hours
-      background_color: 'D9CEFF' # purple light
-      text_color: '000000'
-      class: cal-oh
-      icon: fa-person-circle-question
+      icon: fa-person-circle-questioN
     - suffix: Tutoring Section
       background_color: 'FFCFE5' # rose light
       text_color: '000000'
