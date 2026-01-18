@@ -143,7 +143,7 @@ google_calendar:
       background_color: 'FFC31B' # gold medium
       text_color: '000'
       class: cal-tea-oh
-      icon: fa-person-circle-questioN
+      icon: fa-person-circle-question
     - suffix: Tutoring Section
       background_color: 'FFCFE5' # rose light
       text_color: '000000'
