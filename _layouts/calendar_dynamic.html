@@ -9,4 +9,5 @@ layout: default
 <div id="full-calendar"></div>
 
 <!-- In the Case of 140 which has a baseurl = '/' we need to remove the slash after site.baseurl to avoid a double slash -->
-<script type="text/javascript" src="{{ site.baseurl }}assets/scripts/fullcalendar.js"></script>
+<!-- Testing different baseurl, since baseurl did not resolve to correct url -->
+<script src="{{ '/assets/scripts/fullcalendar.js' | relative_url }}"></script>
