@@ -368,6 +368,7 @@
                 {%- assign extra_date = extra.date | date: "%Y-%m-%d" -%}
                 {%- if extra_date == current_date -%}
                     <div class="syllabus-item" style="margin-bottom: 8px;">
+                        <strong class="label">Guide</strong>
                         {%- if extra.link -%}
                             <a href="{{ extra.link }}">{{ extra.title }}</a>
                         {%- else -%}

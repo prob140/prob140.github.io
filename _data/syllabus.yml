@@ -20,12 +20,14 @@ extra_days_col2:
     title: Final Exam (3-6 PM)
     label: exam
 
+
 # The dates used in extra_links_col3 below must already be included on the calendar 
 # Use this to provide extra links in the third (reading) column
 extra_links_col3:
-  # - date: 2026-01-23
-  #   title: Solutions
-  #   link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
+  - date: 2026-01-19
+    title: Week 1 Guide
+    link: https://data140.org/assets/guides/spring26/week1.pdf
+    label: guide
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].
