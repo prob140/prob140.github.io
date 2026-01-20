@@ -16,16 +16,18 @@
 # NOTE: Labs do not have numbering in the schedule labels due to the number-letter 
 # (e.g. 3A, 3B) ordering of some labs
 labs:
-  - title: Lab 1 due 1/26
-  - title: Lab 2 due 2/2
-  - title: Lab 3A due 2/9
-  - title: Lab 3B due 2/17
+  - title: Lab 1
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_01.ipynb
+    due: Jan 26 at 5PM
+  - title: Lab 2 (due 2/2)
+  - title: Lab 3A (due 2/9)
+  - title: Lab 3B (due 2/17)
   - skip: true
   - title: Lab 4
   - title: Lab 5
-  - title: Lab 6A due 3/16
-  - title: Lab 6B due 3/30
+  - title: Lab 6A (due 3/16)
+  - title: Lab 6B (due 3/30)
   - skip: true
-  - title: Lab 7A due 4/6
-  - title: Lab 7B due 4/13
-  - title: Lab 8 due 4/20
+  - title: Lab 7A (due 4/6)
+  - title: Lab 7B (due 4/13)
+  - title: Lab 8 (due 4/20)

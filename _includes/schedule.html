@@ -254,6 +254,7 @@
                             {%- else -%}
                                 <span>{{ display_title }}</span>
                             {%- endif -%}
+                            {% if lab_entry.due %} (due {{ lab_entry.due }}){% endif %}
                         </div>
                     {%- endunless -%}
 
@@ -295,7 +296,7 @@
 
                             {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
                             {%- unless hw_entry.nonumber -%}
-                                <strong class="label label-homework">Homework {{ homework_number }}</strong>
+                                <strong class="label label-homework">Homework</strong>
                                 {%- assign homework_number = homework_number | plus: 1 -%}
                             {%- endunless -%}
 
@@ -305,6 +306,7 @@
                             {%- else -%}
                                 <span>{{ display_title }}</span>
                             {%- endif -%}
+                            {% if hw_entry.due %} (due {{ hw_entry.due }}){% endif %}
                         </div>
                     {%- endunless -%}
 
