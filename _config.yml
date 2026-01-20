@@ -258,4 +258,3 @@ exclude:
   - spec/
   - docs/
   - node_modules/
-  - "assets/vendor/**"
