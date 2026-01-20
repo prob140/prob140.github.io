@@ -20,7 +20,17 @@
 
 lectures:
   - title: "Probability: axioms, rules, approximation"
+    readings:
+      - title: Ch 1
+        link: https://data140.org/textbook/content/chapter-01/fundamentals/
+      - title: Ch 2
+        link: https://data140.org/textbook/content/chapter-02/calculating-chances/
   - title: "Random variables: distributions, equality, conditioning"
+    readings:
+      - title: Ch 3
+        link: https://data140.org/textbook/content/chapter-03/random-variables/
+      - title: Ch 4
+        link: https://data140.org/textbook/content/chapter-04/relations-between-variables/
   - title: "Symmetry and collections of events"
   - title: "Binomial and related counts; a Poisson limit"
   - title: "Independence and Poissonization"
