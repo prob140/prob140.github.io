@@ -26,7 +26,7 @@ extra_days_col2:
 extra_links_col3:
   - date: 2026-01-19
     title: Week 1 Guide
-    link: https://data140.org/assets/guides/spring26/week1.pdf
+    link: /assets/guides/fall25/week01.pdf
     label: guide
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
