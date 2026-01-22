@@ -1,4 +1,20 @@
-<!-- Inspired heavily by the CS 161 template -->
+{% capture anchor_id %}{{ page.title | slugify }}{% endcapture %}
+
+<div class="announcement">
+  <h2 id="{{ anchor_id }}">{{ page.title }}</h2>
+  
+  <span class="announcement-meta">
+    {% if page.date %}
+    {{ page.date | date: '%b %e' }}
+    &middot;
+    {% endif %}
+    {% assign minutes = content | strip_html | number_of_words | divided_by: 180.0 | round %}
+    {{ minutes | at_least: 1 }} min read
+  </span>
+  <div>
+    {{ content }}
+  </div>
+</div><!-- Inspired heavily by the CS 161 template -->
 
 {%- comment -%}
   - This file auto-generates the schedule with all the days of the semester.
@@ -69,7 +85,7 @@
     {%- assign week_number = forloop.index0 -%}
   {%- endif -%}
 
-  <h2 id="week-{{ week.name }}" class="week-label">Week {{ week_number }}</h2>
+  <h2 id="week-{{ week_number }}" class="week-label">Week {{ week_number }}</h2>
   
   <table class="spanned-table" style="margin-bottom: 1.5rem; table-layout: fixed; width: 100%;">
     <tbody>
