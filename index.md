@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
