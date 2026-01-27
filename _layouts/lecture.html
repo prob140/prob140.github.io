@@ -19,20 +19,29 @@ nav_exclude: true
   </div>
   {% endif %}
 
-  {% if page.recording %}
-  <span class="fs-5 m-1">
-    <a href="{{ page.recording }}" target="_blank" class="btn btn-blue">
-      <i class="fa-solid fa-video" aria-hidden="true"></i>
-      View Recording
-    </a>
-  </span>
-  {% endif %}
-
   {% if page.askademia %}
   <span class="fs-5 m-1">
     <a href="{{ page.askademia }}" target="_blank" class="btn btn-purple">
       <i class="fa-solid fa-video" aria-hidden="true"></i>
-      View Askademia
+      Askademia Recording
+    </a>
+  </span>
+  {% endif %}
+
+  {% if page.recording %}
+  <span class="fs-5 m-1">
+    <a href="{{ page.recording }}" target="_blank" class="btn btn-blue">
+      <i class="fa-solid fa-video" aria-hidden="true"></i>
+      YouTube Recording
+    </a>
+  </span>
+  {% endif %}
+
+  {% if page.slido %}
+  <span class="fs-5 m-1">
+    <a href="{{ page.slido }}" target="_blank" class="btn btn-green">
+      <i class="fa-solid " aria-hidden="true"></i>
+      Slido Lecture Participation
     </a>
   </span>
   {% endif %}
@@ -46,14 +55,6 @@ nav_exclude: true
       {% if page.files.pdf_slides %}
       <li><a href="{{ page.files.pdf_slides }}" target="_blank">Slides (PDF)</a></li>
       {% endif %}
-      {% if page.slido %}
-        <span class="fs-5 m-1">
-          <a href="{{ page.slido }}" target="_blank" class="btn btn-green">
-            <i class="fa-solid fa-question" aria-hidden="true"></i>
-            Slido Q&A
-          </a>
-        </span>
-        {% endif %}
       {% if page.files.notes %}
       <li><a href="{{ page.files.notes }}" target="_blank">Notes</a></li>
       {% endif %}
