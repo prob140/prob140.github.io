@@ -32,7 +32,13 @@ lectures:
       - title: Ch 4
         link: https://data140.org/textbook/content/chapter-04/relations-between-variables/
   - title: "Symmetry and collections of events"
+    readings:
+      - title: Ch 5
+        link: https://data140.org/textbook/content/chapter-05/collections-of-events/
   - title: "Binomial and related counts; a Poisson limit"
+    readings:
+      - title: Ch 6
+        link: https://data140.org/textbook/content/chapter-06/random-counts/
   - title: "Independence and Poissonization"
   - title: "Expectation"
   - title: "Expectation and additivity"
