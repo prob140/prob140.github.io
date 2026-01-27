@@ -40,5 +40,3 @@ group :development, :rubocop do
   gem 'rubocop-capybara', require: false
   gem 'rubocop-rspec', require: false
 end
-
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
