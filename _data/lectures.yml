@@ -40,7 +40,13 @@ lectures:
       - title: Ch 6
         link: https://data140.org/textbook/content/chapter-06/random-counts/
   - title: "Independence and Poissonization"
+    readings:
+      - title: Ch 7
+        link: https://data140.org/textbook/content/chapter-07/poissonization/
   - title: "Expectation"
+    readings:
+      - title: Ch 8
+        link: https://data140.org/textbook/content/chapter-08/expectation/
   - title: "Expectation and additivity"
   - title: "Expectation by conditioning"
   - title: "Long run behavior of Markov Chains"
