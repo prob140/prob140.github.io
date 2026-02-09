@@ -48,7 +48,13 @@ lectures:
       - title: Ch 8
         link: https://data140.org/textbook/content/chapter-08/expectation/
   - title: "Expectation and additivity"
+    readings:
+      - title: Ch 8
+        link: https://data140.org/textbook/content/chapter-08/expectation/
   - title: "Expectation by conditioning"
+    readings:
+      - title: Ch 9
+        link: https://data140.org/textbook/content/chapter-09/conditioning-revisited/
   - title: "Long run behavior of Markov Chains"
   - title: "Balance"
   - title: "Markov Chain Monte Carlo"
