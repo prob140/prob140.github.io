@@ -56,7 +56,13 @@ lectures:
       - title: Ch 9
         link: https://data140.org/textbook/content/chapter-09/conditioning-revisited/
   - title: "Long run behavior of Markov Chains"
+    readings:
+      - title: Ch 10
+        link: https://data140.org/textbook/content/chapter-10/markov-chains/
   - title: "Balance"
+    readings:
+      - title: Ch 11
+        link: https://data140.org/textbook/content/chapter-11/markov-chain-monte-carlo/
   - title: "Markov Chain Monte Carlo"
   - title: "SD, tail bounds"
   - title: "Covariance and its uses"
