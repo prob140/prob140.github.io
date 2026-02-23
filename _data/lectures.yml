@@ -64,8 +64,13 @@ lectures:
       - title: Ch 11
         link: https://data140.org/textbook/content/chapter-11/markov-chain-monte-carlo/
   - title: "Markov Chain Monte Carlo"
+    readings:
+      - title: Ch 11
+        link: https://data140.org/textbook/content/chapter-11/markov-chain-monte-carlo/
   - title: "SD, tail bounds"
-  - title: "Covariance and its uses"
+    readings:
+      - title: Ch 12
+        link: https://data140.org/textbook/content/chapter-12/standard-deviation/
   - title: "Central Limit Theorem"
   - title: "Probability densities"
   - title: "Transformations"
