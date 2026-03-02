@@ -71,7 +71,14 @@ lectures:
     readings:
       - title: Ch 12
         link: https://data140.org/textbook/content/chapter-12/standard-deviation/
+  - title: "Covariance and its uses"
+    readings:
+      - title: Ch 13
+        link: https://data140.org/textbook/content/chapter-13/variance-via-covariance/
   - title: "Central Limit Theorem"
+    readings:
+      - title: Ch 14
+        link: https://data140.org/textbook/content/chapter-14/the-central-limit-theorem/
   - title: "Probability densities"
   - title: "Transformations"
   - title: "Joint densities"
