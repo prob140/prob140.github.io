@@ -26,13 +26,14 @@ homework:
     link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_04.ipynb
     due: Feb 17 at 12PM
   - title: Homework 5 
-    due: Feb 23 at 5PM
     link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_05.ipynb
+    due: Feb 23 at 5PM
   - title: Homework 6 
     link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_06.ipynb
     due: March 2 at 5PM
-  - title: Homework 7 
-    due: 3/9
+  - title: Homework 7
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_07.ipynb 
+    due: March 9 at 5PM
   - title: Homework 8 
     due: 3/26
   - title: Homework 9 
