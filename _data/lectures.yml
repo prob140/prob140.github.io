@@ -80,7 +80,13 @@ lectures:
       - title: Ch 14
         link: https://data140.org/textbook/content/chapter-14/the-central-limit-theorem/
   - title: "Probability densities"
+    readings:
+      - title: Ch 15
+        link: https://data140.org/textbook/content/chapter-15/continuous-distributions/
   - title: "Transformations"
+    readings:
+      - title: Ch 16
+        link: https://data140.org/textbook/content/chapter-16/transformations/
   - title: "Joint densities"
   - title: "Independent normal and gamma variables"
   - title: "Spring Break"
