@@ -88,7 +88,13 @@ lectures:
       - title: Ch 16
         link: https://data140.org/textbook/content/chapter-16/transformations/
   - title: "Joint densities"
+    readings:
+      - title: Ch 17
+        link: https://data140.org/textbook/content/chapter-17/joint-densities/
   - title: "Independent normal and gamma variables"
+    readings:
+      - title: Ch 18
+        link: https://data140.org/textbook/content/chapter-18/the-normal-and-gamma-families/
   - title: "Spring Break"
     nonumber: true
   - title: "Spring Break"
