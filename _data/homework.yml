@@ -38,18 +38,18 @@ homework:
     link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_08.ipynb
     due: March 16 at 5PM
   - title: Homework 9 
-    due: 3/30
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_09.ipynb
+    due: March 30 at 5PM
   - title: Spring Break
     nonumber: true
+  - skip: true
   - title: Homework 10 
-    due: 4/6
-  - title: Homework 11 
     due: 4/13
-  - title: Homework 12 
+  - title: Homework 11 
     due: 4/20
-  - title: Homework 13 
+  - title: Homework 12 
     due: 4/27
-  - title: Homework 14 
+  - title: Homework 13 
     due: 5/4
   - title: RRR Week
     nonumber: true
