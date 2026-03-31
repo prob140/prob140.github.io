@@ -100,7 +100,13 @@ lectures:
   - title: "Spring Break"
     nonumber: true
   - title: "Introduction to moment generating functions"
+    readings:
+      - title: Ch 19
+        link: https://data140.org/textbook/content/chapter-19/distributions-of-sums/
   - title: "Moment generating functions; Chernoff bound"
+    readings:
+      - title: Ch 19
+        link: https://data140.org/textbook/content/chapter-19/distributions-of-sums/
   - title: "MLE; Conditioning; MAP estimates"
   - title: "The beta and the binomial"
   - title: "Prediction and Error"
