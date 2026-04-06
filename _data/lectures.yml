@@ -108,7 +108,13 @@ lectures:
       - title: Ch 19
         link: https://data140.org/textbook/content/chapter-19/distributions-of-sums/
   - title: "MLE; Conditioning; MAP estimates"
+    readings:
+      - title: Ch 20
+        link: https://data140.org/textbook/content/chapter-20/approaches-to-estimation/
   - title: "The beta and the binomial"
+    readings:
+      - title: Ch 21
+        link: https://data140.org/textbook/content/chapter-21/the-beta-and-the-binomial/
   - title: "Prediction and Error"
   - title: "Variance by Conditioning"
   - title: "Random vectors; multivariate normal"
