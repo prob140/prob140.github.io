@@ -44,7 +44,8 @@ homework:
     nonumber: true
   - skip: true
   - title: Homework 10 
-    due: 4/13
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_10.ipynb
+    due: April 13 at 5PM
   - title: Homework 11 
     due: 4/20
   - title: Homework 12 
