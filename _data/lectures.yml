@@ -116,6 +116,9 @@ lectures:
       - title: Ch 21
         link: https://data140.org/textbook/content/chapter-21/the-beta-and-the-binomial/
   - title: "Prediction and Error"
+    readings:
+      - title: Ch 22
+        link: https://data140.org/textbook/content/chapter-22/prediction/
   - title: "Variance by Conditioning"
   - title: "Random vectors; multivariate normal"
   - title: "Correlation and simple regression"
