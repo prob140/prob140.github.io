@@ -120,6 +120,9 @@ lectures:
       - title: Ch 22
         link: https://data140.org/textbook/content/chapter-22/prediction/
   - title: "Variance by Conditioning"
+    readings:
+      - title: Ch 22
+        link: https://data140.org/textbook/content/chapter-22/variance-by-conditioning/
   - title: "Random vectors; multivariate normal"
   - title: "Correlation and simple regression"
   - title: "Multiple regression 1"
