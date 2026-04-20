@@ -124,7 +124,13 @@ lectures:
       - title: Ch 22
         link: https://data140.org/textbook/content/chapter-22/variance-by-conditioning/
   - title: "Random vectors; multivariate normal"
+    readings:
+      - title: Ch 23
+        link: https://data140.org/textbook/content/chapter-23/multivariate-normal-rvs/
   - title: "Correlation and simple regression"
+    readings:
+      - title: Ch 24
+        link: https://data140.org/textbook/content/chapter-24/simple-linear-regression/
   - title: "Multiple regression 1"
   - title: "Multiple regression 2"
   - title: "RRR Week: Gamma family review (Prof. A.)"
