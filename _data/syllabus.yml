@@ -76,6 +76,10 @@ extra_links_col3:
     title: Week 14 Guide
     link: /assets/guides/spring26/week14.pdf
     label: guide
+  - date: 2026-04-27
+    title: Week 15 Guide
+    link: /assets/guides/spring26/week15.pdf
+    label: guide
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].

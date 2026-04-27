@@ -132,7 +132,15 @@ lectures:
       - title: Ch 24
         link: https://data140.org/textbook/content/chapter-24/simple-linear-regression/
   - title: "Multiple regression 1"
+    readings:
+      - title: Ch 24
+        link: https://data140.org/textbook/content/chapter-24/simple-linear-regression/
+      - title: Ch 25
+        link: https://data140.org/textbook/content/chapter-25/multiple-regression/
   - title: "Multiple regression 2"
+    readings:
+      - title: Ch 25
+        link: https://data140.org/textbook/content/chapter-25/multiple-regression/
   - title: "RRR Week: Gamma family review (Prof. A.)"
     nonumber: true
   - title: "RRR Week: TA review"
