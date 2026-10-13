@@ -63,30 +63,58 @@ extra_links_col3:
     title: Week 2 Guide
     link: /assets/guides/fall26/week02.pdf
     label: guide
+  - date: 2026-09-02
+    title: Week 2 Extra Practice
+    link: https://www.youtube.com/playlist?list=PLAmUioYBAoxM
+    label: video
   - date: 2026-09-07
     title: Week 3 Guide
     link: /assets/guides/fall26/week03.pdf
     label: guide
+  - date: 2026-09-09
+    title: Week 3 Extra Practice
+    link: https://www.youtube.com/playlist?list=PLFeRCvLOOIN4
+    label: video
   - date: 2026-09-14
     title: Week 4 Guide
     link: /assets/guides/fall26/week04.pdf
     label: guide
+  - date: 2026-09-16
+    title: Week 4 Extra Practice
+    link: https://www.youtube.com/playlist?list=PLIdcfJzPB2Mo
+    label: video
   - date: 2026-09-21
     title: Week 5 Guide
     link: /assets/guides/fall26/week05.pdf
     label: guide
+  - date: 2026-09-23
+    title: Week 5 Extra Practice
+    link: https://www.youtube.com/playlist?list=PLDrTeF1f9WXI
+    label: video
   - date: 2026-09-28
     title: Week 6 Guide
     link: /assets/guides/fall26/week06.pdf
     label: guide
+  - date: 2026-09-30
+    title: Week 6 Extra Practice
+    link: https://www.youtube.com/playlist?list=PLMaeguPhakXU
+    label: video
   - date: 2026-10-05
     title: Week 7 Guide
     link: /assets/guides/fall26/week07.pdf
     label: guide
+  - date: 2026-10-07
+    title: Week 7 Extra Practice
+    link: https://www.youtube.com/playlist?list=PLPXwBb0gWqgQ
+    label: video
   - date: 2026-10-12
     title: Week 8 Guide
     link: /assets/guides/fall26/week08.pdf
     label: guide
+  - date: 2026-10-14
+    title: Week 8 Extra Practice
+    link: https://www.youtube.com/playlist?list=PLBj8ZM7A8BRI
+    label: video
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].
